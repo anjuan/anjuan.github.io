@@ -1,4 +1,4 @@
-svmiller.com
+anjuan.github.io
 ============
 
 This is my personal/professional website as hosted on Github at [anjuan.github.io](http://anjuan.github.io) and powered by Jekyll.

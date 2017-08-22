@@ -1,7 +1,7 @@
 svmiller.com
 ============
 
-This is my personal/academic website as hosted on Github at [svmiller.com](http://svmiller.com) and powered by Jekyll.
+This is my personal/professional website as hosted on Github at [anjuan.github.io](http://anjuan.github.io) and powered by Jekyll.
 
 I discuss the reasons for the move [here](http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/).
 

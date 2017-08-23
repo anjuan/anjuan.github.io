@@ -18,9 +18,9 @@ A RIF is something that most people experience from the wrong side, but, if you 
 
 ## Behavior
 
+You may think that no one cares if you come to work late, take long breaks, and leave early. But, you're wrong. People notice, and your behavior is discussed when deciding if you should be part of a RIF.
 
-* If you come to work late, take long breaks, and leave early, it will be noticed.
-* If you're looking at your phone at your desk more than you use your work computer, it will be noticed. 
+You're not safe even if you're at your desk before everyone else and are the last person to leave. If you're looking at your phone at your desk more than you use your work computer, it will be noticed. Many of the people who will read this work in the technology field, and I understand the concept of "think time". I know that technical work often requires deep thought and taking mental breaks can actually lead to better solutions. But, you have to understand office theater. People look around the office for cues about who seems to making the most contributions. 
 
 ## Performance
 

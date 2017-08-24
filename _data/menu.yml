@@ -1,9 +1,6 @@
 - title: "About"
   href: "/about/"
 
-- title: "Blog"
-  href: "/blog/"
-
 - title: "My Talks"
   href: "/teaching/"
   subcategories:
@@ -23,11 +20,14 @@
       subhref: "/for-students/letters-of-recommendation/"
     - subtitle: "Pi Sigma Alpha"
       subhref: "/for-students/pi-sigma-alpha/"
+     
+- title: "Blog"
+  href: "/blog/"
 
 - title: "Resume"
   href: "/cv/"
 
-- title: "Research"
+- title: "Quotes"
   href: "/research/"
 
 

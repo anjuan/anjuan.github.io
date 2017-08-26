@@ -1,5 +1,5 @@
 ---
-title: 'Increasing your Changes of Getting Your SXSW Proposal Accepted'
+title: 'Increasing your Chances of Getting Your SXSW Proposal Accepted'
 author: anjuan
 layout: post
 date: "2017-08-26"

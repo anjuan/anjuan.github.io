@@ -24,7 +24,7 @@ You're not safe even if you're at your desk before everyone else and are the las
 
 ## Performance
 
-* If your deliverables are regularly late, but your Twitter is lit (especially during work hours), it will be noticed. 
+* This one should be obvious, but your performance is srutinized when consideirng who to cut during a RIF. If your deliverables are routinely late or lack quality, then that will not redound to your benefits. This is especially damaing if co-workers and managers can follow your social media activity. It is not a good optic if your work suffers, but you are extremely active on social media. 
 
 ## Revenue
 

@@ -38,5 +38,5 @@ You're not safe even if you're at your desk before everyone else and are the las
 
 ## Conclusion
 
-I'm glad to still have a job, and I wanted to share what organizations discuss when they have to decide who to no longer employ. In these turbulent times, protect your paper. (
+I'm glad to still have a job, and I wanted to share what organizations discuss when they have to decide who to no longer employ. In these turbulent times, protect your paper.
 

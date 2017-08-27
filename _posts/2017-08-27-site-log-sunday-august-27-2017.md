@@ -17,6 +17,8 @@ Here is what I've done to bring the site it's current version.
 
 I had an idea of what I wanted based on the layout I personally like when viewing websites. Generally, I like a top navigation scheme with a lightweight design. I did a google search for `jekyll themes` and found the descriptively named [Jekyll Themes](http://jekyllthemes.org/) site.
 
+I browsed several pages of this site until I settled on two options: [Moon](http://jekyllthemes.org/themes/moon/) by Taylan Tati and [Steve's NGVB (No-Good-Very-Bad) Theme](http://jekyllthemes.org/themes/svm-ngvb/) by Steven V. Miller. Moon was a very 
+
 ## Fork
 
 TBD

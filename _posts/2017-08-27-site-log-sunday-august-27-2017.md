@@ -2,7 +2,7 @@
 title: 'Site Log - Sunday, August 27, 2017'
 author: anjuan
 layout: post
-date: "2017-08-18"
+date: "2017-08-27"
 permalink:
 categories:
   - Site Log

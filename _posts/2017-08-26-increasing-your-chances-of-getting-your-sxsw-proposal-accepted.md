@@ -1,5 +1,5 @@
 ---
-title: 'Increasing your Chances of Getting Your SXSW Proposal Accepted'
+title: 'How to Get Your SXSW Proposal Accepted'
 author: anjuan
 layout: post
 date: "2017-08-26"

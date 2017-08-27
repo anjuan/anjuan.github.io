@@ -17,12 +17,22 @@ Here is what I've done to bring the site it's current version.
 
 I had an idea of what I wanted based on the layout I personally like when viewing websites. Generally, I like a top navigation scheme with a lightweight design. I did a google search for `jekyll themes` and found the descriptively named [Jekyll Themes](http://jekyllthemes.org/) site.
 
-
-
-## The Results
+## Fork
 
 TBD
 
-## Conclusion
+## Rename
 
 TBD
+
+## Detach
+
+TBD
+
+## Edit
+
+TBD
+
+## Next Steps
+
+Create local Jekyll site and push up to server.

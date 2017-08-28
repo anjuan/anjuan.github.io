@@ -18,4 +18,4 @@ This page serves as a directory of the talks I give at tech events.
 
 ## Diversity and Inclusion
 
-* 
+* [Lending Privilege](/teaching/posc-1020-introduction-to-international-relations/) (Introduction to International Relations)

@@ -17,19 +17,19 @@ Here is what I've done to bring the site it's current version.
 
 I had an idea of what I wanted based on the layout I personally like when viewing websites. Generally, I like a top navigation scheme with a lightweight design. I did a google search for `jekyll themes` and found the descriptively named [Jekyll Themes](http://jekyllthemes.org/) site.
 
-I browsed several pages of this site until I settled on two options: [Moon](http://jekyllthemes.org/themes/moon/) by Taylan Tati and [Steve's NGVB (No-Good-Very-Bad) Theme](http://jekyllthemes.org/themes/svm-ngvb/) by Steven V. Miller. Moon was a very 
+I browsed several pages of this site until I settled on two options: [Moon](http://jekyllthemes.org/themes/moon/) by Taylan Tati and [Steve's NGVB (No-Good-Very-Bad) Theme](http://jekyllthemes.org/themes/svm-ngvb/) by Steven V. Miller. The Jekyll Themes site lets you look at the source of the templates in GitHub as well as demo a working version. The Moon theme had a very snazzy design, but I liked the straight-forward design of Steven's theme. Steven's theme was also structured simiarly to the version of my site hosted on Google Sites. 
 
 ## Fork
 
 TBD
 
-## Rename
+## Edit
 
 TBD
 
 ## Detach
 
-TBD
+I realized that my edits on my forked repository weren't showing up as GitHub contributions.
 
 ## Edit
 

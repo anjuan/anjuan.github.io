@@ -9,10 +9,9 @@ permalink: /talks/lending-privilege/
 Privilege is access . .. 
 
 
-<!-- ## Outline
+## Outline
 
 1. Lending Privilege on TV
 2. What is Privilege?
 3. Access Lending
 
--->

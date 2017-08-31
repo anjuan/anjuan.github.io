@@ -13,8 +13,7 @@ This page serves as a directory of the talks I give at tech events. Each link wi
 
 ## Technology Leadership
 
-* [POSC 1020](/teaching/posc-1020-introduction-to-international-relations/) (Introduction to International Relations)
-* [POSC 3410](/teaching/posc-3410-quantitative-methods-in-political-science/) (Quantitative Methods in Political Science)
+* [Leadership Lessons from the Agile Manifesto](/talks/leadership-lessons-from-the-agile-manifesto/)
 
 ## Diversity and Inclusion
 

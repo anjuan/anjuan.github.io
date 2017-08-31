@@ -4,7 +4,7 @@ title: Lending Privilege
 permalink: /talks/lending-privilege/
 ---
 
-{% include image.html url="/images/lending-privilege.jpg" caption="Giving my Lending Privilege talk at GitHub's CodeConf Los Angelos in 2016." width=676 align="center" %}
+{% include image.html url="/images/lending-privilege.jpg" alt="CodeConf" caption="Giving my Lending Privilege talk at GitHub's CodeConf Los Angelos in 2016." width=676 align="center" %}
 
 ## Abstract
 

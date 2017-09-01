@@ -12,5 +12,5 @@ Another key thing to understand about me is my belief in the power of communitie
 
 While you've probably come to my site to learn more about me, I'd love to know more about you. Feel free to reach out to me, and I would enjoy getting to know you. I receive a lot of email so I can't promise an immediate response, but I do read everything sent to me. We'll eventually connect.
 
-One reason I moved my site to GitHub Pages was my belief in the power of open source software (OSS). As an advocate, I felt it was important to run my own online space using OSS. You can view the source for my website on [GitHub](https://www.github.com/anjuan). Feel free to fork and use it to build your own site.
+One reason I moved my site to GitHub Pages was my belief in the power of open source software (OSS). As an advocate, I felt it was important to run my own online space using OSS. You can view the source for this website on [GitHub](https://github.com/anjuan/anjuan.github.io). Feel free to fork and use it to build your own site.
 

@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi, welcome to my personal site on the web. Most of the content on this site is about my career in techology, but, if you really want to know what I care about, look no further than my family. No matter whatever level of success I achieve, nothing will be more meaningful or significant to me than my family.
 
-Another key thing to understand about me is my belief in the power of communities. A community doesn't mean a place where people don't disagree. It's a place where people learn to work through their disagreements in order to achieve fair outcomes for everyone in the community. This idea underlies a lot of the non-technical topics in my writings and my talks.
+Another key thing to understand about me is my belief in the power of communities. A community doesn't mean the absence of disagreement. It's a place where people learn to work through their disagreements in order to achieve fair outcomes for everyone in the community. This idea underlies a lot of the non-technical topics in my writings and my talks.
 
 While you've probably come to my site to learn more about me, I'd love to know more about you. Feel free to reach out to me, and I would enjoy getting to know you. I receive a lot of email so I can't promise an immediate response, but I do read everything sent to me. We'll eventually connect.
 

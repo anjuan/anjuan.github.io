@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 
-{% include image.html url="/images/speaking.jpg" caption="I'm a believer in the power of speech." width="400" align="right" %}
+{% include image.html url="/images/speaking.jpg" caption="I'm a full believer in the power of speech." width="400" align="right" %}
 
 This page serves as a directory of the talks I give at tech events. Each link will take you to an individual page for each talk including the abstract, description, slides, videos, and testimonials from attendees. If you would like to collaborate with me on a talk, send an email to me, and I would be happy to discuss the idea.
 

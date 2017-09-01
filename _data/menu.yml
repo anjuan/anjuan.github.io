@@ -17,18 +17,10 @@
       subhref: "/teaching/posc-3630-united-states-foreign-policy/"
 
 - title: "Booking Me"
-  href: "/for-students/"
-  subcategories:
-    - subtitle: "Letters of Recommendation"
-      subhref: "/for-students/letters-of-recommendation/"
-    - subtitle: "Pi Sigma Alpha"
-      subhref: "/for-students/pi-sigma-alpha/"
+  href: "/booking/"
      
 - title: "Blog"
   href: "/blog/"
-
-- title: "cv"
-  href: "/cv/"
 
 - title: "Resume"
   href: "/resume/"

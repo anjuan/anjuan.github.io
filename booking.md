@@ -6,11 +6,11 @@ permalink: /booking/
 
 I’m an experienced and passionate speaker who would love to speak or run a workshop at your event. I hope this information makes it easier for you to integrate what I offer with the needs of your organization. 
 
-## MY FIRST DUTY
+## My First Duty
 
 The first duty of a speaker is to provide a high quality experience for the audience. I take this duty very seriously. My job is operate at a high level of excellence while I'm on stage and in all interactions. I will be fully present whether I'm on stage, sitting on a panel, or mingling with attendees. This is the trust into which I enter when I agree to take part in your event.
 
-## WHAT I OFFER
+## What I Offer
 
 I provide professionalism, preparedness, promptness, and a pleasant attitude. When I arrive at your event, my goal is to serve your attendees, help anywhere I can, and provide a hassle-free experience for organizers and volunteers. Just let me know what you need me to do. 
 
@@ -22,13 +22,15 @@ I'll promptly respond to any questions or requests for information and do my bes
 
 I'm happy to let you share recordings, photographs, and the slides from my talks or workshops.
 
-## SCHEDULING ME
+## Scheduling Me
 
 There is no official list of my speaking schedule so the best way to see if I'm available for your event is to contact me.
 
-## MY EXPECTATIONS FROM EVENT ORGANIZERS
+
+## My Expectations from Event Organizers
 
 I will deliver an experience that your attendees will remember long after your conference has ended, and, in exchange, I ask for the following:
+
 
 ### Travel and Expenses
 
@@ -47,8 +49,7 @@ Please reimburse me promptly. I try to make my travel arrangements well in advan
 Of course, I enjoy being paid my speaking fee, but I often waive it for non-profits or small local events. Contact me, and we can discuss pricing. However, if you cannot pay me, please be transparent because that makes the discussion easier for both of us.
 
 
-
-## THINGS THAT HELP ME
+## Things That Help Me
 
 I'll bring a Macbook Pro and adapter to connect it to most modern projectors. All you need to provide is the projector, screen, and microphone. I have a slight preference for lapel (lavalier) microphones, but I am adept at using handheld microphones.
 

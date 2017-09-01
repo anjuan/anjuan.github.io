@@ -27,10 +27,8 @@
 - title: "Blog"
   href: "/blog/"
 
-- title: "Resume"
+- title: "cv"
   href: "/cv/"
 
-- title: "Quotes"
-  href: "/research/"
-
-
+- title: "Resume"
+  href: "/resume/"

@@ -4,6 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-I embed a current version of my resume below. You can also [download the PDF here](https://www.dropbox.com/s/30ah9tgxevj1vl9/svm-cv.pdf).
+I embed a current version of my resume below. You can also [view it here](https://docs.google.com/document/d/e/2PACX-1vS3Ax-sgXYFq1j35vde8uYPV55m8OXAmgxcpB78MYehIUWObR85usHmiovfCf-3vWdsiUKN5J2lIqtZ/pub).
 
-{% include embedpdf.html code="30ah9tgxevj1vl9/svm-cv.pdf" width=100 height=800 %}
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vS3Ax-sgXYFq1j35vde8uYPV55m8OXAmgxcpB78MYehIUWObR85usHmiovfCf-3vWdsiUKN5J2lIqtZ/pub?embedded=true"></iframe>

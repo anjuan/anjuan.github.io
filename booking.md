@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Booking
+title: Book Me
 permalink: /booking/
 ---
 
@@ -24,7 +24,7 @@ I'm happy to let you share recordings, photographs, and the slides from my talks
 
 ## Scheduling Me
 
-There is no official list of my speaking schedule so the best way to see if I'm available for your event is to contact me.
+There is no official list of my speaking schedule so the best way to see if I'm available for your event is to [contact me](/contact/).
 
 
 ## My Expectations from Event Organizers

@@ -6,4 +6,4 @@ permalink: /resume/
 
 You can find an embedded version of my current resume below. You can also [view it here](https://docs.google.com/document/d/e/2PACX-1vS3Ax-sgXYFq1j35vde8uYPV55m8OXAmgxcpB78MYehIUWObR85usHmiovfCf-3vWdsiUKN5J2lIqtZ/pub).
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vS3Ax-sgXYFq1j35vde8uYPV55m8OXAmgxcpB78MYehIUWObR85usHmiovfCf-3vWdsiUKN5J2lIqtZ/pub?embedded=true" width="800" height="1000" frameborder="200" marginheight="200" marginwidth="200">Loading...</iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vS3Ax-sgXYFq1j35vde8uYPV55m8OXAmgxcpB78MYehIUWObR85usHmiovfCf-3vWdsiUKN5J2lIqtZ/pub?embedded=true" width="800" height="1000" frameborder="0" marginheight="200" marginwidth="200">Loading...</iframe>

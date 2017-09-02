@@ -11,10 +11,8 @@
       subhref: "/talks/leadership-lessons-from-the-agile-manifesto/"
     - subtitle: "Lending Privilege"
       subhref: "/talks/lending-privilege/"
-    - subtitle: "Debugging Diversity"
-      subhref: "/teaching/posc-3610-international-politics-in-crisis/"
     - subtitle: "Hands on Agile Workshop"
-      subhref: "/teaching/posc-3630-united-states-foreign-policy/"
+      subhref: "/teaching/hands-on-agile-workshop/"
 
 - title: "Book Me"
   href: "/booking/"

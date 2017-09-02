@@ -4,7 +4,7 @@ title: Hands On Agile Workshop
 permalink: /talks/hands-on-agile-workshop/
 ---
 
-{% include image.html url="/images/lending-privilege.JPG" alt="CodeConf" caption="Giving my Lending Privilege talk at GitHub's CodeConf Los Angelos in 2016." width=676 align="center" %}
+{% include image.html url="/images/hands-on-agile-workshop.jpg" alt="Agile Workshop" caption="Attendees of my Hands On Agile Workshop at the PMI Houston Conference" width=676 align="center" %}
 
 ## Abstract
 

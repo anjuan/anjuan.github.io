@@ -18,3 +18,7 @@ I have always cherished the power of speech. History is filled with movements th
 ## Diversity and Inclusion
 
 * [Lending Privilege](/talks/lending-privilege/)
+
+## Workshops
+
+* [Hands On Agile](/talks/hands-on-agile-workshop/)

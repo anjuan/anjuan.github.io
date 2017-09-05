@@ -9,7 +9,7 @@ categories:
 excerpt: "A reduction in force (RIF) is an act to remove headcount in order to satisfy budgetary concerns. Knowing what companies notice when planning a RIF can help you avoid being included in one."
 ---
 
-One concept that was drilled into my head when I was earning my MBA from the [Mays Business School](http://mays.tamu.edu/) was that corporations exist to maximize shareholder value. I have observed the truth of this concept throughout my professional career, and it is most powerfully expressed in how corporations treat their employees; especially when they decide to get rid of them.
+One key concept I learned while earning my MBA from the [Mays Business School](http://mays.tamu.edu/) was that corporations exist to maximize shareholder value. I have observed the truth of this concept throughout my professional career, and it is most powerfully expressed in how corporations treat their employees; especially when they decide to get rid of them.
 
 Paying employees is one of the largest expenses in the budget of any corporation. Therefore, when other aspects of the business are underperforming (sales, revenue, investments, etc.), cutting the payroll can be a quick way to improve the financial health of a business. A reduction in force (RIF) is one way to do that.
 

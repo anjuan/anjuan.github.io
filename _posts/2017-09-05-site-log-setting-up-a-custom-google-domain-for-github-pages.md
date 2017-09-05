@@ -1,5 +1,5 @@
 ---
-title: 'Site Log - Setting Up a Custom Google Domain for GitHub Pages '
+title: 'Setting Up a Custom Google Domain for GitHub Pages '
 author: anjuan
 layout: post
 date: "2017-09-05"

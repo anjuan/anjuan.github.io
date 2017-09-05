@@ -15,7 +15,7 @@ Agile software development methods continue to be popular ways to build software
 * [Slides](https://speakerdeck.com/anjuan/hands-on-agile-project-management)
 * [Agenda](https://docs.google.com/document/d/18XfisOBkqMYlIK17GamBqljc_1wJKtMMHfoKwLfzza4/edit?usp=sharing)
 
-## Testimonials
+## What Attendees Have Said
 
 *I attended the Houston PMI conference and your Wednesday Agile Workshop. Would love to have the slides you presented. The information will really help us successfully transition into the Agile world.* - Workshop Participant, Project Manager at Phillips 66
 

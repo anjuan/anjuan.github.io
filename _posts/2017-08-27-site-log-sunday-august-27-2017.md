@@ -21,15 +21,26 @@ I browsed several pages of this site until I settled on two options: [Moon](http
 
 ## Fork
 
-Steven's theme also had the benefit of being laid out from a directory perspective in a way that I could understand. Unlike a lot of Jekyll based sites hosted on GitHub, I was able to easily understand his folder names and the conventions he used for his Markdown files. I forked Steven's theme into my own GitHub repository.
+Steven's theme also had the benefit of being laid out from a directory perspective in a way that I could understand. Unlike a lot of Jekyll based sites hosted on GitHub, I was able to easily understand his folder names and the conventions he used for his Markdown files. I forked Steven's [template](https://github.com/svmiller/steve-ngvb-jekyll-template) into my own GitHub repository.
 
 ## Edit
 
-TBD
+I then went into "edit mode" and modified the fork to suit my need. I modifed the `menu.yml` file in the `_data` folder to match my preferred names for the menu items. I then modified the referenced folders and files and began changing the template to represent the pages that I wanted. 
 
 ## Detach
 
-I realized that my edits on my forked repository weren't showing up as GitHub contributions.
+I eventually realized that the commits I made on my repository weren't showing up as GitHub contributions. I looked at how [GitHub counts contributions](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/) and saw the following conditons must **all** be true for my commits to count:
+
+> The email address used for the commits is associated with your GitHub account.
+> The commits were made in a standalone repository, not a fork.
+> The commits were made:
+  > In the repository's default branch (usually master)
+  > In the gh-pages branch (for repositories with Project Pages sites)
+
+Since I was making my commits in a forked repository, they weren't being counted. A quick Google search revealed that I could have the forked repository detached by sending an email to GitHub Support. So, I sent this message:
+
+
+  
 
 ## Edit
 

@@ -1,5 +1,5 @@
 ---
-title: 'Site Log - Sunday, August 27, 2017'
+title: 'Setting up My Site on GitHub Pages'
 author: anjuan
 layout: post
 date: "2017-08-27"

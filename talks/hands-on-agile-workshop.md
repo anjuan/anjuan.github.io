@@ -26,3 +26,5 @@ Agile software development methods continue to be popular ways to build software
 *Thanks again for a great workshop yesterday. It was very engaging and helpful.* - Workshop Participant, PMP
 
 *Great Class!* - Workshop Participant, Vice President, Barclays
+
+[Back to My Talks](/talks/)

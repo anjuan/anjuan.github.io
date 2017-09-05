@@ -11,7 +11,9 @@ excerpt: "Setting up a custom Google domain to use with GitHub Pages is straight
 
 https://help.github.com/articles/setting-up-an-apex-domain-and-www-subdomain/
 
-Here is what I've done to bring the site it's current version.
+I have understood the importance of owning your own space on the internet for a long time, and I registered *AnjuanSimmons.com* many years ago. This domain has changed domain registrars a few times from Yahoo Small Business in the early days to several years with GoDaddy and now with Google Domains. I use several Google products and services, and the company also has an image that I'm comfortable using as the provider of URL that holds my name.
+
+
 
 ## Register with Google Domains
 

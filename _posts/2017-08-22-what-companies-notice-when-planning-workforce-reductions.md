@@ -3,7 +3,7 @@ title: 'What Companies Notice When Planning Workforce Reductions'
 author: anjuan
 layout: post
 date: "2017-08-22"
-permalink:
+permalink: /blog/what-companies-notice-when-planning-workforce-reductions/
 categories:
   - Business
 excerpt: "A reduction in force (RIF) is an act to remove headcount in order to satisfy budgetary concerns. Knowing what companies notice when planning a RIF can help you avoid being included in one."

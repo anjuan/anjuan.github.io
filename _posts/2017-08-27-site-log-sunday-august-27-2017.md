@@ -31,16 +31,19 @@ I then went into "edit mode" and modified the fork to suit my need. I modifed th
 
 I eventually realized that the commits I made on my repository weren't showing up as GitHub contributions. I looked at how [GitHub counts contributions](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/) and saw the following conditons must **all** be true for my commits to count:
 
-> The email address used for the commits is associated with your GitHub account.
-> The commits were made in a standalone repository, not a fork.
-> The commits were made:
-  > In the repository's default branch (usually master)
-  > In the gh-pages branch (for repositories with Project Pages sites)
+> * The email address used for the commits is associated with your GitHub account.
+> * The commits were made in a standalone repository, not a fork.
+> * The commits were made:
+>   * In the repository's default branch (usually master)
+>   * In the gh-pages branch (for repositories with Project Pages sites)
 
 Since I was making my commits in a forked repository, they weren't being counted. A quick Google search revealed that I could have the forked repository detached by sending an email to GitHub Support. So, I sent this message:
 
-
-  
+> Hello, I forked from svmiller/svmiller.github.io to use it as a template for my Jekyll powered site in my anjuan.github.io repository. I have started making changes to this fork to align it with the design and content I want for my site, and I will never push any changes to svmiller.github.io. Please turn my fork into a standalone repository.
+> 
+> Thank you,
+> 
+> Anjuan  
 
 ## Edit
 

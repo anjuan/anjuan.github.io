@@ -63,3 +63,5 @@ Truly extraordinary & eye-opening talk by @anjuan at #CodeConf about lending pri
 *@anjuan just game a stellar Ignite on lending privilege* - [Duane O'Brien](https://twitter.com/DuaneOBrien)
 
 *Lending Privilege by @anjuan at Ignite #OSCON is <3 Using your birth + selected privilege to support others. Can't wait to share this video.* - [Josh Simmons](https://twitter.com/joshsimmons)
+
+[Back to My Talks](/talks/)

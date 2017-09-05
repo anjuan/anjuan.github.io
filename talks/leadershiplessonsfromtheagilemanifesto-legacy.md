@@ -38,3 +38,5 @@ Here is a link to a video of me giving this talk at a conference:
 *"as tech leads, you’re going to build more than just software" well said @anjuan #leaddev* - [Malcolm Young](https://twitter.com/malcomio)
 
 *Leadership lessons from the Agile Manifesto talk by @anjuan was full of wise and useful tips! #LeadDev* - [Tamara Forza](https://twitter.com/tforza)
+
+[Back to My Talks](/talks/)

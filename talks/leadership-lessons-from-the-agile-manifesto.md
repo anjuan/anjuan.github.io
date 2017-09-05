@@ -30,3 +30,11 @@ This session will help attendees understand the principles behind the Manifesto 
 Here are direct links to videos of me giving this talk at various conferences:
 
 * [The Lead Developer UK](https://www.youtube.com/watch?v=bvGLTNrJ5io)
+
+## What Attendees Have Said
+
+*"Dignity always outranks the chain of commands". Brilliant, @anjuan. #leaddev@ - Sergey (@bolshchikov)
+
+*"as tech leads, you’re going to build more than just software" well said @anjuan #leaddev* - Malcolm Young (@malcomio)
+
+*Leadership lessons from the Agile Manifesto talk by @anjuan was full of wise and useful tips! #LeadDev* - Tamara Forza (@tforza)

@@ -157,9 +157,10 @@ z-index:999;
         display: none;
     }
 
+    // The font color and the background color of the top navigation list
     .page-link {
         color: #ffffff;
-    background: #0000ff;
+    background: $aggie-maroon;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one

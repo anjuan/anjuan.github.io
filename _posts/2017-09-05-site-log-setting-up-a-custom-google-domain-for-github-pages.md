@@ -22,10 +22,18 @@ However, I wanted to keep my URL registred with Google Domains. Years can go by 
 
 Since this guide assumes you're using Google Domains as your registrar, you need to be registered with that provider. 
 
-## Apex Domain
+## Configure GitHub Pages - CNAME
 
 TBD
 
-## Subdomain (www)
+## Configure Google Domains - Create Apex Domain
+
+TBD
+
+## Configure Google Domains - Create Subdomain
 
 I then went into "edit mode" and modified the fork to suit my need. I modifed the `menu.yml` file in the `_data` folder to match my preferred names for the menu items. I then modified the referenced folders and files and began changing the template to represent the pages that I wanted. 
+
+## Confirm Custom Domain Configuration in GitHub Pages
+
+TBD

@@ -21,7 +21,7 @@ I browsed several pages of this site until I settled on two options: [Moon](http
 
 ## Fork
 
-TBD
+Steven's theme also had the benefit of being laid out from a directory perspective in a way that I could understand. Unlike a lot of Jekyll based sites hosted on GitHub, I was able to easily understand his folder names and the conventions he used for his Markdown files. I forked Steven's theme into my own GitHub repository.
 
 ## Edit
 

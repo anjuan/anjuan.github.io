@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-I blog semi-regularly about a variety of topics. Most of my blog entries are about what I'm learning in my tech career, my thoughts on engineering culture, my travels, and other things that interest me. 
+I blog semi-regularly about a variety of topics. Most of my blog posts are about what I'm learning in my tech career, my thoughts on engineering culture, my travels, and other things that interest me. 
 
 Below is a list of my blog posts in chronological order. [Click here to see them grouped by category.](http://anjuansimmons.com/categories/)
 

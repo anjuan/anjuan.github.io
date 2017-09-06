@@ -12,8 +12,8 @@ excerpt: "This is the organization chart for Fictional, LLC, the company I use f
 * Board of Directors
   * Frederick - Chairman
 * Fictional LLC
-  * Khadijah - CEO
-    * TBD - Director of Engineering
+  * Ida - CEO
+    * Bea - Director of Engineering
       * TBD - Engineering Manager
         * TBD - Sr Engineer
         * TBD - Jr Developer
@@ -28,11 +28,12 @@ excerpt: "This is the organization chart for Fictional, LLC, the company I use f
         * TBD - QA Tester
         * TBD - UI Designer
       * TBD - UX Lead
-    * TBD - Director of Marketing
+    * Elle - Director of Marketing
       * TBD - Marketing Analyst
-    * TBD - Director of Sales
+    * Emma - Director of Sales
       * TBD - Sales
       * TBD - Sales
-  * TBD - COO
+  * Harriet - COO
+  * C.J. - CFO
  
  These characters will be used to humanize my blog posts.

@@ -39,4 +39,4 @@ Workplace culture can become a cliche, but a positive work environment is a real
 
 ## Conclusion
 
-While I hope these observations are helpful if your organization goes through a RIF, they are good guidelines for anyone who cares about their career. No one will care more about your career more than you do so make sure you safeguard your work by performing it at the highest possible leve. 
+While I hope these observations are helpful if your organization goes through a RIF, they are good guidelines for anyone who cares about their career. No one will care more about your career more than you do so make sure you safeguard your work by performing it at the highest possible level. 

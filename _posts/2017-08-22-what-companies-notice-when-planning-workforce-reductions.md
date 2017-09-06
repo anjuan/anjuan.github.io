@@ -1,19 +1,21 @@
 ---
-title: 'What Companies Notice When Planning Workforce Reductions'
+title: 'What Companies Consider When Planning Workforce Reductions'
 author: anjuan
 layout: post
 date: "2017-08-22"
-permalink: /blog/what-companies-notice-when-planning-workforce-reductions/
+permalink: /blog/what-companies-consider-when-planning-workforce-reductions/
 categories:
   - Business
 excerpt: "A reduction in force (RIF) is an act to remove headcount in order to satisfy budgetary concerns. Knowing what companies notice when planning a RIF can help you avoid being included in one."
 ---
 
+{% include image.html url="/images/post-workforce-reduction.jpeg" alt="Scissors" caption="Know what companies consider when making cuts to the workforce. (Pexels)" width=400 align="right" %}
+
 One key concept I learned while earning my MBA from the [Mays Business School](http://mays.tamu.edu/) was that corporations exist to maximize shareholder value. I have observed the truth of this concept throughout my professional career, and it is most powerfully expressed in how corporations treat their employees; especially when they decide to get rid of them.
 
 Paying employees is one of the largest expenses in the budget of any corporation. Therefore, when other aspects of the business are underperforming (sales, revenue, investments, etc.), cutting the payroll can be a quick way to improve the financial health of a business. A reduction in force (RIF) is one way to do that.
 
-A RIF is something that most people experience from the wrong side, but, if you think like someone who would have to plan a RIF, you can reduce your chance of being terminated. I have been involved in planning RIFs across multiple companies, and here are the things that are noticed during these meetings.
+A RIF is something that most people experience from the wrong side, but, if you think like someone who would have to plan a RIF, you can reduce your chance of being terminated. I have been involved in planning RIFs across multiple companies, and here are the things that are considered during these meetings.
 
 
 ## Behavior

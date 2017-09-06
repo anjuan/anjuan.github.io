@@ -10,29 +10,29 @@ excerpt: "This is the organization chart for Fictional, LLC, the company I use f
 ---
 
 * Board of Directors
- * Frederick - Chairman
+  * Frederick - Chairman
 * Fictional LLC
- * Khadijah - CEO
-  * TBD - VP Engineering
-   * TBD - Engineering Manager
-    * TBD - Sr Engineer
-    * TBD - Jr Developer
-    * TBD - Jr Developer
-    * TBD - Designer
-    * TBD - QA Tester
-    * TBD - UI Designer
-   * TBD - Engineering Manager
-    * TBD - Sr Engineer
-    * TBD - Jr Developer
-    * TBD - Jr Developer
-    * TBD - QA Tester
-    * TBD - UI Designer
-   * TBD - UX Lead
-  * TBD - VP Marketing
-   * TBD - Marketing Analyst
-  * TBD - VP Sales
-   * TBD - Sales
-   * TBD - Sales
- * TBD - COO
+  * Khadijah - CEO
+    * TBD - Director of Engineering
+      * TBD - Engineering Manager
+        * TBD - Sr Engineer
+        * TBD - Jr Developer
+        * TBD - Jr Developer
+        * TBD - Designer
+        * TBD - QA Tester
+        * TBD - UI Designer
+      * TBD - Engineering Manager
+        * TBD - Sr Engineer
+        * TBD - Jr Developer
+        * TBD - Jr Developer
+        * TBD - QA Tester
+        * TBD - UI Designer
+      * TBD - UX Lead
+    * TBD - Director of Marketing
+      * TBD - Marketing Analyst
+    * TBD - Director of Sales
+      * TBD - Sales
+      * TBD - Sales
+  * TBD - COO
  
  These characters will be used to humanize my blog posts.

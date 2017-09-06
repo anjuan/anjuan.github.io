@@ -18,7 +18,7 @@ Below is a list of my blog posts in chronological order. [Click here to see them
   <li class="listing-item">
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-    <p>{{ post.excerpt }}</p>
+    <p><blockquote>{{ post.excerpt }}</blockquote></p>
   </li>
 {% endfor %}
 </ul>

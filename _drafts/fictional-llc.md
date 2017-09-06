@@ -18,10 +18,10 @@ excerpt: "This is the organization chart for Fictional, LLC, the company I use f
         * TBD - Sr Engineer
         * TBD - Jr Developer
         * TBD - Jr Developer
-        * TBD - Designer
+        * TBD - Jr Developer
         * TBD - QA Tester
-        * TBD - UI Designer
-      * TBD - Engineering Manager
+        * Becky - UI Designer
+      * Tyrone - Engineering Manager
         * TBD - Sr Engineer
         * TBD - Jr Developer
         * TBD - Jr Developer

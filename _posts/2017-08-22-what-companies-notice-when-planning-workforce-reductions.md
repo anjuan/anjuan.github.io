@@ -11,11 +11,11 @@ excerpt: "A reduction in force (RIF) is an act to remove headcount in order to s
 
 {% include image.html url="/images/post-workforce-reduction.jpeg" alt="Scissors" caption="Know what companies consider when making cuts to the workforce. (Pexels)" width=400 align="right" %}
 
-> The CEO looks around the table after silence filled the room. You notice that is looks like she hasn't slept in a while. "We have to make a choice," she says. "I know this isn't easy."
+> The CEO looked around the table after silence filled the room. Her swollen eyes suggested that she had not slept in a while. "This is the responsibility that comes with leadership," she said looking around the room. "I know this isn't easy."
 > 
-> The whiteboard has the company's departments listed in columns: sales, marketing, consulting, engineering. Underneath each department is a list of names of people being considered for the reduction in force (RIF). The names in red will definitely be cut while the names in green are  under consideration. The managers and executive team members in the room have to decide who will be included in a round of cuts that will reduce the number of employees by ten percent.
+> The whiteboard behind her had the company's departments listed in columns: sales, marketing, engineering. Underneath each department were a list of names of people being considered for the reduction in force (RIF). The names in red would definitely be cut while the names in green were under consideration. The directors and managers in the room had to decide who would be included in a round of cuts reducing the number of employees at Fictional by ten percent.
 >
-> Kadijah from marketing speaks up. "Can't we wait until the next quarter? We collected a huge number of leads at the conference last month."
+> Elle, the Director of Marketing, said, "Can't we wait until the next quarter, Ida? We collected a huge number of leads at the conference last month."
 
 One key concept I learned while earning my MBA from the [Mays Business School](http://mays.tamu.edu/) was that corporations exist to maximize shareholder value. I have observed the truth of this concept throughout my professional career, and it is most powerfully expressed in how corporations treat their employees; especially when they decide to get rid of them.
 

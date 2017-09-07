@@ -21,7 +21,7 @@ Contrary to what most people would intuitively think, taking a small approach to
 
 I’ve seen Scrum Teams with 20 or more developers, and my first instinct is always to break them up into smaller Scrum Teams. Scrum recommends that the Development Team should be between 3 and 9 people. If a Development Team has less than 3 people, then it may be difficult to have all of the skills needed to complete the potentially shippable product increment by the end of the sprint. If a Development Team has more than 9 people, then coordination costs begin to dramatically rise.
 
-Let’s say you have one Scrum Master, one Product Owner, and five Development Team members. That is a total of seven people on the Scrum Team. The number of communication channels for this seven person team can be calculated using the formula n(n-1)/2 where n is the number of people on the team. Using this formula, we can determine that there are 21 communication channels. However, adding more people to the team dramatically increases the number of communication channels:
+Let’s say you have one Scrum Master, one Product Owner, and five Development Team members. That is a total of seven people on the Scrum Team. The number of communication channels for this seven person team can be calculated using the formula `n(n-1)/2` where n is the number of people on the team. Using this formula, we can determine that there are 21 communication channels. However, adding more people to the team dramatically increases the number of communication channels:
 
 
 | Team Members | Communication Channels |
@@ -39,28 +39,6 @@ Let’s say you have one Scrum Master, one Product Owner, and five Development T
 | 18	         |      153               |
 | 19	         |      171               |
 | 20	         |      190               |
-
-<table align="center" style="padding-bottom: 20px; margin: 0px auto; text-align:center"><caption><strong>How Communication Channels Expand as Team Members Grow</strong></caption>
-<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr>
-<tr><td style="text-align:left"></td>
-<td><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Team Members&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></td>
-<td><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Communication Channels&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></td>
-<tr><td style="text-align:left"></td><td><strong>Team Members</strong></td><td><strong>Communication Channels</strong></td></tr>
-<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr>
-<tr><td>8</td><td>28</td></tr>
-<tr><td>9</td><td>36</td></tr>
-<tr><td>10</td><td>45</td></tr>
-<tr><td>8</td><td>28</td></tr>
-<tr><td>8</td><td>28</td></tr>
-<tr><td>8</td><td>28</td></tr>
-<tr><td>8</td><td>28</td></tr>
-<tr><td>8</td><td>28</td></tr>
-<tr><td>8</td><td>28</td></tr>
-<tr><td>8</td><td>28</td></tr>
-<tr><td>8</td><td>28</td></tr>
-
-<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr>
-</table>
 
 
 For example, if three people are added to the seven person Scrum team (a 30% increase in team size), you more than double the number of communication channels. If you double the seven person Scrum Team to 14 people, you more than quadruple the number of communication channels.

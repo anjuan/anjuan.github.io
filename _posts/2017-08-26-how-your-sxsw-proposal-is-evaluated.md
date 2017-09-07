@@ -9,6 +9,10 @@ categories:
 excerpt: "I've been a member of the SXSW Advisory Board (AB) for several years. As a member of the AB, I've reviewed hundreds of proposals submitted throug hthe PanelPicker interface. Here is my approach to deciding if I should vote for a proposal to be a part of SXSW."
 ---
 
+{% include image.html url="/images/post-sxsw-evalutaor.jpeg" alt="Gavel" caption="Judging SXSW proposals is both art and science. (Pexels)" width=400 align="right" %}
+
+
+
 I've had the honor of serving in the South by Southwest (SXSW) Interactive Advisory Board (AB) for several years. While I can't discuss the details of any proposal, I can share with you what increases the odds of your proposal getting my vote.
 
 Keep in mind, the the AB approaches votes by looking at what each *individual board member* would want to see at SXSW. So, this guide can only help you with what AB members like me like to see. Other AB members probably have different tastes and approaches to the evaluation process.
@@ -58,9 +62,9 @@ Create a catchy Title that is focused and specific. Combine ideas to express the
 
 As of this writing, you can attach two videos (one hosted on YouTube and the other hosted on Vimeo) to your PanelPicker entry. Make sure you attach well produced videos that match the context of your idea. Ideally, the video should feature the speaker (if a solo panel) or several of the panel members (if a dual or panel presentation) listed under the Speakers section. It's even better if the video shows the speaker(s) talking about the topic of the panel.
 
-The evaluator tool used by members of the AB shows the videos as icons that, when clicked, open the vides in Youtube or Vimeo. 
+The evaluator tool used by members of the AB shows the videos as icons that, when clicked, open the vides in Youtube or Vimeo. Please include a video in your proposal. It is very difficult to judge the speaking and presentation skills that will be present in the session without a video. In fact, not including a video is almost an automatic "No" from me when it comes to the question "Do you see this as part of our event?". I can't agree to what I can't see.
 
-One benefit of including a video from Vimeo is that you can replace the video later. This is important because once you submit your PanelPicker proposal it is locked by the system. However, if you include a Vimeo video, you can update the video with new information or if you simply want to include a better produced video.
+One benefit of including a video from Vimeo is that you can replace the video later. This is important because once you submit your PanelPicker proposal it is locked by the system. However, if you include a Vimeo video, you can update the video with new information or just provide a better produced video.
 
 ### Links
 
@@ -68,7 +72,7 @@ You can also attach a link to slides hosted on services like Slideshare or Slide
 
 The recent version of the PanelPicker also lets you provide another resource link. You can use this to link to your personal site or to another site that better explains your idea.
 
-The best links are to pages that feature the idea being proposed as well as the speakers. I don't recommend just putting links to the companies where one or more speakers work. For example, don't just say that a speaker works for Google and include a link to Google.com. Link to a sub-page at Google.com that lists the speaker. You can label the link Google.com but have the actual URL point to their sub-page. If such a page isn't available, then it's better to link to the "About Me" (or similar) page on their personal website. 
+The best links are to pages that feature the idea being proposed as well as the speakers. I don't recommend just putting links to the companies where one or more speakers work. For example, don't just say that a speaker works for Google and include a link to Google.com. Link to a sub-page at Google.com that lists the speaker. If such a page isn't available, then it's better to link to the "About Me" (or similar) page on their personal website. 
 
 ### Description
 

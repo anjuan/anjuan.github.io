@@ -21,20 +21,22 @@ I’ve seen Scrum Teams with 20 or more developers, and my first instinct is alw
 
 Let’s say you have one Scrum Master, one Product Owner, and five Development Team members. That is a total of seven people on the Scrum Team. The number of communication channels for this seven person team can be calculated using the formula n(n-1)/2 where n is the number of people on the team. Using this formula, we can determine that there are 21 communication channels. However, adding more people to the team dramatically increases the number of communication channels:
 
-Team Members      	Communication Channels
-8	28
-9	36
-10	45
-11	55
-12	66
-13	78
-14	91
-15	105
-16	120
-17	136
-18	153
-19	171
-20	190
+
+|Team Members  | Communication Channels|
+|:------------:|:---------------------:|
+| 8	           |       28             |
+| 9	           |       36             |
+| 10	         |       45             | 
+| 11	         |       55             |
+| 12	         |       66             |
+| 13	         |       78             |
+| 14	         |       91             |
+| 15	         |      105             |
+| 16	         |      120             | 
+| 17	         |      136             |
+| 18	         |      153             |
+| 19	         |      171             |
+| 20	         |      190             |
 
 For example, if three people are added to the seven person Scrum team (a 30% increase in team size), you more than double the number of communication channels. If you double the seven person Scrum Team to 14 people, you more than quadruple the number of communication channels.
 

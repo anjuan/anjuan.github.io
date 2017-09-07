@@ -24,8 +24,8 @@ Let’s say you have one Scrum Master, one Product Owner, and five Development T
 
 |Team Members  | Communication Channels|
 |:------------:|:---------------------:|
-| 8	           |       28              |
-| 9	           |       36              |
+|  8           |       28              |
+|  9           |       36              |
 | 10	         |       45              | 
 | 11	         |       55              |
 | 12	         |       66              |

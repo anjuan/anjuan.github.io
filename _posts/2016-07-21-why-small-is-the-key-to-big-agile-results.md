@@ -32,7 +32,7 @@ Let’s say you have one Scrum Master, one Product Owner, and five Development T
 | 11	         |       55              |
 | 12           |       66              |
 | 13           |       78              |
-| 14	         || 91 |
+| 14	         | 91 |
 | 15	         |      105              |
 | 16	         |      120              | 
 | 17	         |      136              |

@@ -24,19 +24,19 @@ Let’s say you have one Scrum Master, one Product Owner, and five Development T
 
 |Team Members  | Communication Channels|
 |:------------:|:---------------------:|
-| 8	           |       28             |
-| 9	           |       36             |
-| 10	         |       45             | 
-| 11	         |       55             |
-| 12	         |       66             |
-| 13	         |       78             |
-| 14	         |       91             |
-| 15	         |      105             |
-| 16	         |      120             | 
-| 17	         |      136             |
-| 18	         |      153             |
-| 19	         |      171             |
-| 20	         |      190             |
+| 8	           |       28              |
+| 9	           |       36              |
+| 10	         |       45              | 
+| 11	         |       55              |
+| 12	         |       66              |
+| 13	         |       78              |
+| 14	         |       91              |
+| 15	         |      105              |
+| 16	         |      120              | 
+| 17	         |      136              |
+| 18	         |      153              |
+| 19	         |      171              |
+| 20	         |      190              |
 
 For example, if three people are added to the seven person Scrum team (a 30% increase in team size), you more than double the number of communication channels. If you double the seven person Scrum Team to 14 people, you more than quadruple the number of communication channels.
 

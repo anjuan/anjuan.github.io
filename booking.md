@@ -4,6 +4,8 @@ title: Book Me
 permalink: /booking/
 ---
 
+{% include image.html url="/images/page-booking.jpg" alt="podium" caption="I would be honored to be a part of your event." width="400" align="right" %}
+
 I’m an experienced and passionate speaker who would love to speak or run a workshop at your event. I hope this information makes it easier for you to integrate what I offer with the needs of your organization. 
 
 ## My First Duty

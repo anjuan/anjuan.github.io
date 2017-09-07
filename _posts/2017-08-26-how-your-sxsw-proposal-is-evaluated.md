@@ -13,7 +13,7 @@ excerpt: "I've been a member of the SXSW Advisory Board (AB) for several years. 
 
 I've had the honor of serving on the [South by Southwest (SXSW)](https://www.sxsw.com/) Interactive Advisory Board (AB) for several years. While I can't discuss the details of any proposal, I can share with you what increases the odds of your proposal getting my vote.
 
-Keep in mind, the the AB approaches votes by looking at what each *individual board member* would want to see at SXSW. So, this guide can only help you with what AB members like me like to see. Other AB members probably have different tastes and approaches to the evaluation process.
+Keep in mind, the the AB approaches votes by looking at what each *individual board member* would want to see at SXSW. So, this guide can only help you with AB members who share my interests. Other AB members probably have different tastes and approaches to the evaluation process.
 
 ## The Selection Process
 

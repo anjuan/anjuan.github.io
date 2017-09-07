@@ -9,6 +9,8 @@ categories:
 excerpt: "Software development efforts often try to quickly scale resources in order to speed the pace of development. Hoewever, taking a small approach can often yield better results."
 ---
 
+{% include image.html url="/images/post-small-key-big-agile.jpeg" alt="Hummingbird" caption="Big results can come from small things. (Pexels)" width=400 align="right" %}
+
 It’s tempting to solve software application performance problems by throwing hardware at the problem. Since machines are relatively cheap, horizontally scaling by adding more servers is a common initial remedy. However, this soon runs into diminishing results since large numbers of machines can’t optimize code.
 
 The same principle applies to Agile software development teams. Since the market can provide nearly unlimited sources of programming talent, hiring more developers is a common remedy for solving the perception that not enough work is getting done. However, a large number of developers can’t optimize the work that flows through the Development Team simply through numeric strength.

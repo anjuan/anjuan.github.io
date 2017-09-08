@@ -9,19 +9,19 @@ categories:
 excerpt: "I learned a great deal about public speaking in 2016. This is what I learned and my goals for the future."
 ---
 
-I started 2016 with a number of ambitious goals, and I met many of them. I grew as a technologist, maintained a healthy regimen of eating and exercise, left a company to start a new chapter in my career, and enjoyed many loving relationships with family and friends. However, I want to focus this post on the goal that far exceeded my expectations: grow as a public speaker. So, inspired by Cate and Martin, I'm reflecting on my experiences as a public speaker in 2016.
+I started 2016 with a number of ambitious goals, and I met many of them. I grew as a technologist, maintained a healthy regimen of eating and exercise, left a company to start a new chapter in my career, and enjoyed many loving relationships with family and friends. However, I want to focus this post on the goal that far exceeded my expectations: grow as a public speaker. So, inspired by [Cate](https://cate.blog/2016/12/15/2016-speaking-and-2017-goals/) and [Martin](http://martinb3.io/public-speaking-2016/), I'm reflecting on my experiences as a public speaker in 2016.
 
 ## Learning from the Audience
 
 {% include image.html url="/images/speaking-retro-1.jpg" alt="CraftConf" caption="Attending the Mob Programming meet up at CraftConf" width=800 align="center" %}
 
-I believe that great speakers are great audience members, and I was fortunate to attend two conferences (Craft in Budapest and Keep Austin Agile) as an attendee-only. As an audience member, I can learn from the presentation while also analyzing the style of the presenter. While I love being on stage, I will always "just be in the audience" for at least one conference a year. This helps me hone my craft while also learning to be a better speaker.
+I believe that great speakers are great audience members, and I was fortunate to attend two conferences ([Craft](https://craft-conf.com/2016/) in Budapest and [Keep Austin Agile](http://2016conf.agileaustin.org/)) as an attendee-only. As an audience member, I can learn from the presentation while also analyzing the style of the presenter. While I love being on stage, I will always "just be in the audience" for at least one conference a year. This helps me hone my craft while also learning to be a better speaker.
 
 ## A Lightning Start
 
-{% include image.html url="/images/speaking-retro-2.jpg" alt="OSCON" caption="Giving my Lightning Talk at OSCON" width=400 align="center" %}
+{% include image.html url="/images/speaking-retro-2.jpg" alt="OSCON" caption="Giving my Lightning Talk at OSCON" width=500 align="center" %}
 
-My first "talk" of 2016 was a Lightning Talk at OSCON in Austin. If you're not familiar with a Lightning Talk, it's a five minute talk where you present 20 slides that automatically advance. I've spoken at a lot of events for private companies as well as at many technology conferences, but I had no idea how hard it would be to do a Lightning Talk. I practiced a lot, but, during my talk, it seemed that time sped up turning five minutes into 30 seconds. Before I knew it, I was walking down the stairs thinking that I bombed. However, I received great feedback from the audience and saw some encouraging reactions on Twitter. That Lightning Talk became my Lending Privilege presentation which has become one of my signature talks.
+My first "talk" of 2016 was a [Lightning Talk](https://en.wikipedia.org/wiki/Lightning_talk) at [OSCON](https://conferences.oreilly.com/oscon/oscon-tx-2016) in Austin. If you're not familiar with a Lightning Talk, it's a five minute talk where you present 20 slides that automatically advance. I've spoken at a lot of events for private companies as well as at many technology conferences, but I had no idea how hard it would be to do a Lightning Talk. I practiced a lot, but, during my talk, it seemed that time sped up turning five minutes into 30 seconds. Before I knew it, I was walking down the stairs thinking that I bombed. However, I received great feedback from the audience and saw some encouraging reactions on Twitter. That Lightning Talk became my Lending Privilege presentation which has become one of my signature talks.
 
 OSCON also provided opportunities to meet other speakers. I shared a flight and an Uber with someone I met at OSCON because we both were booked to speak at the Self.conference in Detroit that same week. I was reminded that public speaking lets you build networks across companies instead of only being exposed to the experiences inside the walls of one company. This provides access to a peer group representing other companies, ideas, and cultures that are hard to explore only as an employee.
 

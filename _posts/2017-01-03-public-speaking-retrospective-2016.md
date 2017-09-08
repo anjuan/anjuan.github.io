@@ -21,21 +21,21 @@ I believe that great speakers are great audience members, and I was fortunate to
 
 {% include image.html url="/images/speaking-retro-2.jpg" alt="OSCON" caption="Giving my Lightning Talk at OSCON" width=500 align="center" %}
 
-My first "talk" of 2016 was a [Lightning Talk](https://en.wikipedia.org/wiki/Lightning_talk) at [OSCON](https://conferences.oreilly.com/oscon/oscon-tx-2016) in Austin. If you're not familiar with a Lightning Talk, it's a five minute talk where you present 20 slides that automatically advance. I've spoken at a lot of events for private companies as well as at many technology conferences, but I had no idea how hard it would be to do a Lightning Talk. I practiced a lot, but, during my talk, it seemed that time sped up turning five minutes into 30 seconds. Before I knew it, I was walking down the stairs thinking that I bombed. However, I received great feedback from the audience and saw some encouraging reactions on Twitter. That Lightning Talk became my Lending Privilege presentation which has become one of my signature talks.
+My first "talk" of 2016 was a [Lightning Talk](https://en.wikipedia.org/wiki/Lightning_talk) at [OSCON](https://conferences.oreilly.com/oscon/oscon-tx-2016) in Austin. If you're not familiar with a Lightning Talk, it's a five minute talk where you present 20 slides that automatically advance. I've spoken at a lot of events for private companies as well as at many technology conferences, but I had no idea how hard it would be to do a Lightning Talk. I practiced a lot, but, during my talk, it seemed that time sped up turning five minutes into 30 seconds. Before I knew it, I was walking down the stairs thinking that I bombed. However, I received great feedback from the audience and saw some encouraging reactions on Twitter. That Lightning Talk became my [Lending Privilege](/talks/lending-privilege/) presentation which has become one of my signature talks.
 
-OSCON also provided opportunities to meet other speakers. I shared a flight and an Uber with someone I met at OSCON because we both were booked to speak at the Self.conference in Detroit that same week. I was reminded that public speaking lets you build networks across companies instead of only being exposed to the experiences inside the walls of one company. This provides access to a peer group representing other companies, ideas, and cultures that are hard to explore only as an employee.
+OSCON also provided opportunities to meet other speakers. I shared a flight and an Uber with [Katrina Owen](http://www.kytrinyx.com/) who I met at OSCON because we both were booked to speak at the [Self.conference](http://selfconference.org/) in Detroit that same week. I was reminded that public speaking lets you build networks across companies instead of only being exposed to the experiences inside the walls of one company. This provides access to a peer group representing other companies, ideas, and cultures that are hard to explore only as an employee.
 
 ## My First Public Workshop
 
 {% include image.html url="/images/speaking-retro-3.jpg" alt="workshop" caption="My workshop attendees" width=800 align="center" %}
 
-I've given many private workshops during my career, but I gave my first workshop at a conference in June. It was my Hands-On Agile Project Management workshop that I gave at the PMI Houston conference. I really enjoyed presenting the content and guiding the participants through the exercises. I don't have a lot of workshops in my portfolio, but I plan to develop at least one in 2017.
+I've given many private workshops during my career, but I gave my first workshop at a conference in June. It was my Hands-On Agile Project Management workshop that I gave at the [PMI Houston](http://pmihouston.org/content.php?page=Annual_Conference) conference. I really enjoyed presenting the content and guiding the participants through the exercises. I don't have a lot of workshops in my portfolio, but I plan to develop at least one in 2017.
 
 ## Big Audiences
 
 {% include image.html url="/images/speaking-retro-4.jpg" alt="big audience" caption="The power of big audiences" width=800 align="center" %}
 
-I love big audiences, and I enjoyed big events in 2016 including Pivotal's SpringOne Platform in Las Vegas, GitHub Universe in San Francisco, and StrangeLoop in St. Louis. These were all great experiences for me, and I was honored to lend my voice to those conferences. There's something powerful about being in a building with hundreds (and, in a few cases, thousands) of technologists who are all focused on advancing their careers and making the industry better. I was also reunited with other speakers who I met in previous years, and I enjoyed the opportunity to grow our friendships.
+I love big audiences, and I enjoyed big events in 2016 including Pivotal's [SpringOne Platform](https://springoneplatform.io/2016) in Las Vegas, [GitHub Universe](https://githubuniverse.com/2016/) in San Francisco, and [StrangeLoop](https://www.thestrangeloop.com/2016/sessions.html) in St. Louis. These were all great experiences for me, and I was honored to lend my voice to those conferences. There's something powerful about being in a building with hundreds (and, in a few cases, thousands) of technologists who are all focused on advancing their careers and making the industry better. I was also reunited with other speakers who I met in previous years, and I enjoyed the opportunity to grow our friendships.
 Small Intimacies
 
 
@@ -48,7 +48,7 @@ While big events are exhilarating, I was also invited to speak at smaller corpor
 
 {% include image.html url="/images/speaking-retro-5.jpg" alt="saron" caption="Meeting Saron for the first time in person at OSCON" width=800 align="center" %}
 
-I was a guest on the fabulous CodeNewbie podcast hosted by Saron Yitbarek. Saron is a skilled interviewer, and I really enjoyed speaking with her. I dip into the CodeNewbie Twitter chat when I can, and I really enjoy the CodeNewbie community.
+I was a guest on the fabulous CodeNewbie podcast hosted by [Saron Yitbarek](https://twitter.com/saronyitbarek). Saron is a skilled interviewer, and I really enjoyed speaking with her. I dip into the [CodeNewbie](https://www.codenewbie.org/) Twitter chat when I can, and I really enjoy the CodeNewbie community.
 
 ## Summary of 2016
 

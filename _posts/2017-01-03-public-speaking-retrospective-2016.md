@@ -19,7 +19,7 @@ I believe that great speakers are great audience members, and I was fortunate to
 
 ## A Lightning Start
 
-{% include image.html url="/images/speaking-retro-2.jpg" alt="OSCON" caption="Giving my Lightning Talk at OSCON" width=800 align="center" %}
+{% include image.html url="/images/speaking-retro-2.jpg" alt="OSCON" caption="Giving my Lightning Talk at OSCON" width=400 align="center" %}
 
 My first "talk" of 2016 was a Lightning Talk at OSCON in Austin. If you're not familiar with a Lightning Talk, it's a five minute talk where you present 20 slides that automatically advance. I've spoken at a lot of events for private companies as well as at many technology conferences, but I had no idea how hard it would be to do a Lightning Talk. I practiced a lot, but, during my talk, it seemed that time sped up turning five minutes into 30 seconds. Before I knew it, I was walking down the stairs thinking that I bombed. However, I received great feedback from the audience and saw some encouraging reactions on Twitter. That Lightning Talk became my Lending Privilege presentation which has become one of my signature talks.
 

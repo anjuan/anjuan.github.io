@@ -13,13 +13,13 @@ I started 2016 with a number of ambitious goals, and I met many of them. I grew 
 
 ## Learning from the Audience
 
-{% include image.html url="/images/speaking-retro-1.jpg" alt="CraftConf" caption="Attending the Mob Programming meet up at CraftConf" width=400 align="right" %}
+{% include image.html url="/images/speaking-retro-1.jpg" alt="CraftConf" caption="Attending the Mob Programming meet up at CraftConf" width=400 align="center" %}
 
 I believe that great speakers are great audience members, and I was fortunate to attend two conferences (Craft in Budapest and Keep Austin Agile) as an attendee-only. As an audience member, I can learn from the presentation while also analyzing the style of the presenter. While I love being on stage, I will always "just be in the audience" for at least one conference a year. This helps me hone my craft while also learning to be a better speaker.
 
 ## A Lightning Start
 
-{% include image.html url="/images/speaking-retro-2.jpg" alt="OSCON" caption="Giving my Lightning Talk at OSCON" width=400 align="right" %}
+{% include image.html url="/images/speaking-retro-2.jpg" alt="OSCON" caption="Giving my Lightning Talk at OSCON" width=400 align="center" %}
 
 My first "talk" of 2016 was a Lightning Talk at OSCON in Austin. If you're not familiar with a Lightning Talk, it's a five minute talk where you present 20 slides that automatically advance. I've spoken at a lot of events for private companies as well as at many technology conferences, but I had no idea how hard it would be to do a Lightning Talk. I practiced a lot, but, during my talk, it seemed that time sped up turning five minutes into 30 seconds. Before I knew it, I was walking down the stairs thinking that I bombed. However, I received great feedback from the audience and saw some encouraging reactions on Twitter. That Lightning Talk became my Lending Privilege presentation which has become one of my signature talks.
 
@@ -27,13 +27,13 @@ OSCON also provided opportunities to meet other speakers. I shared a flight and 
 
 ## My First Public Workshop
 
-{% include image.html url="/images/speaking-retro-3.jpg" alt="workshop" caption="My workshop attendees" width=400 align="right" %}
+{% include image.html url="/images/speaking-retro-3.jpg" alt="workshop" caption="My workshop attendees" width=400 align="center" %}
 
 I've given many private workshops during my career, but I gave my first workshop at a conference in June. It was my Hands-On Agile Project Management workshop that I gave at the PMI Houston conference. I really enjoyed presenting the content and guiding the participants through the exercises. I don't have a lot of workshops in my portfolio, but I plan to develop at least one in 2017.
 
 ## Big Audiences
 
-{% include image.html url="/images/speaking-retro-4.jpg" alt="big audience" caption="The power of big audiences" width=400 align="right" %}
+{% include image.html url="/images/speaking-retro-4.jpg" alt="big audience" caption="The power of big audiences" width=400 align="center" %}
 
 I love big audiences, and I enjoyed big events in 2016 including Pivotal's SpringOne Platform in Las Vegas, GitHub Universe in San Francisco, and StrangeLoop in St. Louis. These were all great experiences for me, and I was honored to lend my voice to those conferences. There's something powerful about being in a building with hundreds (and, in a few cases, thousands) of technologists who are all focused on advancing their careers and making the industry better. I was also reunited with other speakers who I met in previous years, and I enjoyed the opportunity to grow our friendships.
 Small Intimacies
@@ -46,7 +46,7 @@ While big events are exhilarating, I was also invited to speak at smaller corpor
 
 ## The CodeNewbie Podcast
 
-{% include image.html url="/images/speaking-retro-5.jpg" alt="saron" caption="Meeting Saron for the first time in person at OSCON" width=400 align="right" %}
+{% include image.html url="/images/speaking-retro-5.jpg" alt="saron" caption="Meeting Saron for the first time in person at OSCON" width=400 align="center" %}
 
 I was a guest on the fabulous CodeNewbie podcast hosted by Saron Yitbarek. Saron is a skilled interviewer, and I really enjoyed speaking with her. I dip into the CodeNewbie Twitter chat when I can, and I really enjoy the CodeNewbie community.
 

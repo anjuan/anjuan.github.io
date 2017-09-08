@@ -48,7 +48,7 @@ While big events are exhilarating, I was also invited to speak at smaller corpor
 
 {% include image.html url="/images/speaking-retro-5.jpg" alt="saron" caption="Meeting Saron for the first time in person at OSCON" width=800 align="center" %}
 
-I was a guest on the fabulous CodeNewbie podcast hosted by [Saron Yitbarek](https://twitter.com/saronyitbarek). Saron is a skilled interviewer, and I really enjoyed speaking with her. I dip into the [CodeNewbie](https://www.codenewbie.org/) Twitter chat when I can, and I really enjoy the CodeNewbie community.
+I was a guest on the fabulous [CodeNewbie](https://www.codenewbie.org/) podcast hosted by [Saron Yitbarek](https://twitter.com/saronyitbarek). Saron is a skilled interviewer, and I really enjoyed speaking with her. I dip into the CodeNewbie Twitter chat when I can, and I really enjoy the CodeNewbie community.
 
 ## Summary of 2016
 

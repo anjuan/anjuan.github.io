@@ -15,7 +15,7 @@ excerpt: "This is the organization chart for Fictional, LLC, the company I use f
   * Ida - CEO
     * Bea - Director of Engineering
       * Khadija - Engineering Manager
-        * TBD - Sr Engineer
+        * Malcolm - Sr Engineer
         * TBD - Jr Developer
         * TBD - Jr Developer
         * TBD - Jr Developer

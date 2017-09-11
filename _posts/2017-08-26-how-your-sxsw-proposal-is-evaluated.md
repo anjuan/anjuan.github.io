@@ -41,7 +41,7 @@ The first three fields allow evaluators to assign stars to three characteristics
 * 2 Stars - Poor
 * 3 Stars - Regular
 * 4 Stars - Good
-* 5 Stars - Gorgeoous
+* 5 Stars - Gorgeous
 
 The next field is a free text box where we answer the question "Why do you think this should (or shouldn't) be a part of this year's event?"
 

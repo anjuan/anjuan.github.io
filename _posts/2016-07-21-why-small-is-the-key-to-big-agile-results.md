@@ -13,7 +13,7 @@ excerpt: "Software development efforts often try to quickly scale resources in o
 
 It’s tempting to solve software application performance problems by throwing hardware at the problem. Since machines are relatively cheap, horizontally scaling by adding more servers is a common initial remedy. However, this soon runs into diminishing results since large numbers of machines can’t optimize code.
 
-The same principle applies to Agile software development teams. Since the market can provide nearly unlimited sources of programming talent, hiring more developers is a common remedy for solving the perception that not enough work is getting done. However, a large number of developers can’t optimize the work that flows through the Development Team simply through numeric strength.
+The same principle applies to Agile software development teams. Since the market can provide nearly unlimited sources of programming talent, hiring more developers is a common remedy for solving the perception that not enough work is getting done. However, adding a large number of developers doesn't mean that work flows efficiently through the development team. 
 
 Contrary to what most people would intuitively think, taking a small approach to software development can increase the amount of work that can be completed by an Agile software development team, especially those that practice Scrum. This requires understanding the concepts of small teams, small releases, and small vertical slices.
 

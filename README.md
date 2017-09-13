@@ -3,7 +3,7 @@ anjuan.github.io
 
 This is my personal site hosted on Github at [www.AnjuanSimmons.com](http://www.AnjuanSimmons.com) and powered by Jekyll.
 
-This site has changed hosts over the years (e.g., Yahoo, WordPress, Squarespace, and Google Sites), but I think that GitHub Pages will be its home for the foreseeable future. There are many reasons for this, but I think that the ability to write posts in Markdown is near the top of the list.
+This site has changed hosts over the years (e.g., Yahoo, WordPress, Squarespace, and Google Sites), but I think that GitHub Pages will be its home for the foreseeable future. There are many reasons for this, but I think that the ability to simply manage text files instead of a backend database is near the top of the list.
 
 This site is a detached fork of [Steven V. Miller's site](http://svmiller.com/) which is based on his [template](https://github.com/svmiller/steve-ngvb-jekyll-template) on Github. 
 

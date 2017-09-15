@@ -14,7 +14,7 @@ Your Presence - Look the Part
 
 Meetings-Eye contact with the speaker
 
-Take motes, at least the attendees
+Take notes, at least the list of attendees
 
 Remote-Be on camera
 

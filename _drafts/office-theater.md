@@ -12,6 +12,12 @@ excerpt: "Acting is more than repeating lines, and being a successful profession
 
 Your Presence - Look the Part
 
+Meetings-Eye contact with the speaker
+
+Take motes, at least the attendees
+
+Remote-Be on camera
+
 Your Responsiveness - Hit Your Marks
 
 Your Chatter - Know Your Lines

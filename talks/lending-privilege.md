@@ -29,6 +29,7 @@ Here are direct links to videos of me giving this talk at various conferences:
 * [CraftConf](https://www.ustream.tv/recorded/102838989)
 * [QCon London](https://www.infoq.com/presentations/diversity-inclusion-technology)
 * [DevOpsDays Boston](https://www.youtube.com/watch?v=X-Bvl5wkBdg&feature=youtu.be)
+* [DevOps Days Chicago (Ignite Talk)](http://confreaks.tv/videos/devopsdayschicago2017-ignites-lending-privilege)
 * [SpringOne Platform (Ignite Talk)](https://www.youtube.com/watch?v=oUWw6h-mi0o)
 * [GitHub CodeConf](https://www.youtube.com/watch?v=C4hVDBBJ6wI)
 

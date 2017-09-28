@@ -19,3 +19,5 @@ excerpt: "I'm rarely surprised when someone tenders their resignation because I'
 - start taking a lot of vacation, but one or two days at a time (probably interviewing)
 - Start showing up late to the office (when normally punctual)
 - Start showing up late to meetings (when normally punctual)
+- Used to regulalry attend work events but suddenly stops coming
+- Starts leaving digital groups (digitally seperating from the company before physically leaving)

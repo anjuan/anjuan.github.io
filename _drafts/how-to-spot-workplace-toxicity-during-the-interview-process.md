@@ -17,3 +17,4 @@ excerpt: "When you're looking for a job, making progress through the interview p
  * At least one member of the executivie team is probably overworked and doesn't seem to prioritize the hiring process.
  * If you talk to people at your level or below, they seem very interested in your current company.
   * They almost seem to want to ask if you're hiring.
+* During the interview, one or more members of the interview panel work on their laptops or phones. This shows that the team is so overworked that they cannot be fully present when a candidate for employment is before them. 

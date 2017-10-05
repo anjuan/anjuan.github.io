@@ -14,7 +14,7 @@ Whether you’re a Tech Lead, Engineering Manager, or Project Manager for an eng
 
 When I was given my first technical team to lead many years ago, I didn’t know what to do. I copied the style of technical leads I worked with and what I could learn by reading USENET newsgroups about leadership (yes, it was that long ago). The results were mixed, and I felt that I was constantly making it up as I went along. However, after I began leading projects that used Agile software development, I eventually realized that the principles behind Agile provided powerful guidelines for leading my teams! Using these principles made me a more effective leader, increased team morale, and improved my ability to deliver software to customers.
 
-This session will help attendees understand the principles behind the Manifesto for Agile Software Development and how to practically apply them directly to their daily leadership practices.
+This session will help attendees understand the principles behind the Manifesto for Agile Software Development and how to practically apply them directly to their daily leadership decisons.
 
 ## Outline
 

@@ -22,3 +22,4 @@ excerpt: "I'm rarely surprised when someone tenders their resignation because I'
 - Starts taking long lunch breaks
 - Used to regulalry attend work events but suddenly stops coming
 - Starts leaving digital groups (digitally seperating from the company before physically leaving)
+- They start taking their personal items from the office. That person who had a collection of children's toys set up around their desk suddenly has a clean workspace.

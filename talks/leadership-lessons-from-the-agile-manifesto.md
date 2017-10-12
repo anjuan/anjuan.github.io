@@ -29,6 +29,7 @@ This session will help attendees understand the principles behind the Manifesto 
 
 Here is a link to a video of me giving this talk at a conference:
 
+* [Rocky Mountain Ruby](http://confreaks.tv/videos/rockymountainruby2017-leadership-lessons-from-the-agile-manifesto)
 * [The Lead Developer UK](https://www.youtube.com/watch?v=bvGLTNrJ5io)
 
 ## What Attendees Have Said

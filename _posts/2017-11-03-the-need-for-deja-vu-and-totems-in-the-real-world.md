@@ -6,7 +6,7 @@ date: "2017-11-03"
 permalink: /blog/the-need-for-deja-vu-and-totems-in-the-real-world/
 categories:
   - Speaking
-excerpt: "Conference committees have the daunting tasks of evaluating hundreds of proposals to find the ones that deserve to be on the conference schedule. As a member of several conference committees and advisory boards, I've developed a rubric for grading proposals called STARS."
+excerpt: "This is my entry for the SXSW 2018 David Carr Prize. I addressed the need for social media companies to present information about the health of the content shared on their sites."
 ---
 
 {% include image.html url="/images/post-sxsw.david-carr-2018-sandwich.jpg" alt="Measuring Sandwich" caption="Measuring food. (Pexels)" width=400 align="right" %}

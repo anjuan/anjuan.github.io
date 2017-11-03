@@ -5,7 +5,7 @@ layout: post
 date: "2017-11-03"
 permalink: /blog/the-need-for-deja-vu-and-totems-in-the-real-world/
 categories:
-  - Speaking
+  - Software Development
 excerpt: "This is my entry for the SXSW 2018 David Carr Prize. I addressed the need for social media companies to present information about the health of the content shared on their sites."
 ---
 

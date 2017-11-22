@@ -33,6 +33,10 @@ Here are direct links to videos of me giving this talk at various conferences:
 * [SpringOne Platform (Ignite Talk)](https://www.youtube.com/watch?v=oUWw6h-mi0o)
 * [GitHub CodeConf](https://www.youtube.com/watch?v=C4hVDBBJ6wI)
 
+## Slides
+
+TBD
+
 ## What Attendees Have Said
 
 *@anjuan just gave one of the most important talks at #CraftConf, about lending your privilege 👏🏻* - [Leigha Mitchell](https://twitter.com/LeighaNotLeia)

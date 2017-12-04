@@ -36,22 +36,22 @@ Here are direct links to videos of me giving this talk at various conferences:
 
 ## Slides
 
-<table>
+<table style="width:100%">
   <tr>
-    <td>{% include image.html url="/images/lending-privilege2.jpg" alt="Rotman" width=200 align="center" %}</td>
-    <td>Text of slide 1</td>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
   </tr>
   <tr>
-    <td>Slide 2 Image</td>
-    <td>Text of Slide 2</td>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
   </tr>
   <tr>
-    <td>Slide 3 Image</td>
-    <td>Text of Slide 3</td>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
   </tr>
-  <tr>
-    <td>Slide 4 Image</td>
-    <td>Text of Slide 4</td>
 </table>
 
 ## What Attendees Have Said

@@ -51,9 +51,6 @@ td, th {
     padding: 8px;
 }
 
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
 </style>
 </head>
 <body>
@@ -65,7 +62,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td><img src="/images/post-sxsw-evalutaor.jpeg" alt="Slide 1"></td>
-    <td>Slide 1 Description</td>
+    <td>Several years ago an actor on a television show faced a dilemma. He was one of the biggest stars on the show, but it wasn’t doing all that well in the ratings. However, that wasn’t the problem. This actor learned that an actress who also starred on the show wasn’t being paid as much as the male actors. Now, this actor was beloved by fans of the TV show which gave him a lot of influence. So, he went to the studio executives and used his influence to demand equal pay for this actress. And he was successful. The actress received pay equal to her male peers.</td>
   </tr>
   <tr>
     <td>Slide 2 Image</td>

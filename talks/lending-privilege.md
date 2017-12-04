@@ -36,7 +36,6 @@ Here are direct links to videos of me giving this talk at various conferences:
 
 ## Slides
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>

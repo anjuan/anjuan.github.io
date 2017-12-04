@@ -36,7 +36,23 @@ Here are direct links to videos of me giving this talk at various conferences:
 
 ## Slides
 
-TBD
+<table>
+  <tr>
+    <td>{% include image.html url="/images/lending-privilege2.jpg" alt="Rotman" width=200 align="center" %}</td>
+    <td>Text of slide 1</td>
+  </tr>
+  <tr>
+    <td>Slide 2 Image</td>
+    <td>Text of Slide 2</td>
+  </tr>
+  <tr>
+    <td>Slide 3 Image</td>
+    <td>Text of Slide 3</td>
+  </tr>
+  <tr>
+    <td>Slide 4 Image</td>
+    <td>Text of Slide 4</td>
+</table>
 
 ## What Attendees Have Said
 

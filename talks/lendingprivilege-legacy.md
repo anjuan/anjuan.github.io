@@ -25,6 +25,7 @@ While technology companies are trying to improve their diversity, I believe that
 Here are direct links to videos of me giving this talk at various conferences:
 
 * [The Lead Developer New York](https://www.youtube.com/watch?v=1K8Gz7fMevo)
+* [RubyConf](https://confreaks.tv/videos/rubyconf2017-lending-privilege)
 * [GitHub Universe](https://www.youtube.com/watch?v=lOZdAt-hseA&feature=youtu.be)
 * [CraftConf](https://www.ustream.tv/recorded/102838989)
 * [QCon London](https://www.infoq.com/presentations/diversity-inclusion-technology)

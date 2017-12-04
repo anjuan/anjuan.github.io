@@ -64,7 +64,7 @@ tr:nth-child(even) {
     <th>Description</th>
   </tr>
   <tr>
-    <td>Slide 1 Image</td>
+    <td><img src="/images/post-sxsw-evalutaor.jpeg" alt="Slide 1"></td>
     <td>Slide 1 Description</td>
   </tr>
   <tr>

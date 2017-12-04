@@ -36,25 +36,6 @@ Here are direct links to videos of me giving this talk at various conferences:
 
 ## Slides
 
-<html>
-<head>
-<style>
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
-
-</style>
-</head>
-<body>
-
 <table>
   <tr>
     <th>Slide #</th>
@@ -92,9 +73,6 @@ td, th {
     <td>Slide 6 Description</td>
   </tr>
 </table>
-
-</body>
-</html>
 
 <br>
 <br>

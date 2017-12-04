@@ -49,7 +49,7 @@ td, th {
     padding: 8px;
 }
 
-tr:nth-child(even) {
+tr:nth-child(1) {
     background-color: #dddddd;
 }
 </style>

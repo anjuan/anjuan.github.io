@@ -74,7 +74,10 @@ td, th {
 | <b>11</b> | <img src="/images/Lending-Privilege-Images.011.jpeg" alt="Slide 1 - Introduction" style="width:9000px; height:auto;"> | I’ve worked in software development for 20 years, and I sometimes think that diversity will fade as a topic in tech. I mean, are we still talking about this? But, something always happens. Someone writes about the extreme sexism they experienced at a large and well known tech company. Or, someone goes the opposite direction and writes a manifesto about why diversity in tech efforts are misguided. No matter where you are on the spectrum between these two points of view, I think the topic of diversity is here to stay. And there are real problems. |
 | <b>12</b> | <img src="/images/Lending-Privilege-Images.012.jpeg" alt="Slide 1 - Introduction" style="width:9000px; height:auto;"> | I’ve worked in software development for 20 years, and I sometimes think that diversity will fade as a topic in tech. I mean, are we still talking about this? But, something always happens. Someone writes about the extreme sexism they experienced at a large and well known tech company. Or, someone goes the opposite direction and writes a manifesto about why diversity in tech efforts are misguided. No matter where you are on the spectrum between these two points of view, I think the topic of diversity is here to stay. And there are real problems. |
 
-   ## What Attendees Have Said
+
+
+
+## What Attendees Have Said
 
 *@anjuan just gave one of the most important talks at #CraftConf, about lending your privilege 👏🏻* - [Leigha Mitchell](https://twitter.com/LeighaNotLeia)
 

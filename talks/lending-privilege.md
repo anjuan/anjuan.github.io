@@ -8,13 +8,13 @@ permalink: /talks/lending-privilege/
 
 ## Abstract
 
-Diversity and inclusion have become hot topics in technology, but you may not know how you can make a difference. This talk will help you understand that, no matter your background, you have privilege and can lend it to marginalized groups in tech.
+Diversity and inclusion have become hot topics in technology, but you may not know how you can make a difference. This talk will help you understand that, no matter your background, you have privilege and can lend it to underrepresented groups in tech.
 
 ## Description
 
-Privilege is access to societal and economic benefits based on a characteristic you possess. The most well understood forms of privilege are the ones most people don’t choose for themselves like racial, gender, and physical privilege, but there are also selected privileges like religion, sexuality, and education.
+Privilege is access to societal and economic benefits based on characteristics you possess. The most well understood forms of privilege are the ones most people don’t choose for themselves like racial, gender, and physical privilege, but there are also selected privileges like religion, career, and education.
 
-This session will teach you how to lend your privilege. You’ll learn the various types of privilege lending including credibility lending (where you attach your name to a project being undertaken by someone without privilege) and access lending (where you provide access to a location or event for someone without privilege). These different types of privilege lending will be illustrated through well known examples and an explanation of how they can be applied to software development.
+This session will teach attendees how to lend their privilege. They will learn the various types of privilege lending including credibility lending (where you provide visibility to someone without privilege), access lending (where you provide access to someone without privilege), and expertise lending (where you provide a voice to someone without privilege). These different types of privilege lending will be illustrated through well known examples and an explanation of how they can be applied to software development teams.
 
 ## Pitch
 

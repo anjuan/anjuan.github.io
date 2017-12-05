@@ -59,7 +59,7 @@ td, th {
 
 ## Slides
 
-| # | Slide  | Description  |
+| # | Slide  | Speaker Notes  |
 |:-:|:-------|:-------------|
 | <b>1</b> | <img src="/images/Lending-Privilege-Images.001.jpeg" alt="Slide 1 - Introduction" style="width:9000px; height:auto;"> | I’ve worked in software development for 20 years, and I sometimes think that diversity will fade as a topic in tech. I mean, are we still talking about this? But, something always happens. <br><br>Someone writes about the extreme sexism they experienced at a large and well known tech company. Or, someone else goes the opposite direction and writes a manifesto about why diversity in tech efforts are misguided. No matter where you are on the spectrum between these two points of view, I think the topic of diversity is here to stay. And there are real problems. <br><br>|
 | <b>2</b> | <img src="/images/Lending-Privilege-Images.002.jpeg" alt="Slide 2 - Balance" style="width:9000px; height:auto;"> | Technology companies are overwhelmingly homogenous and lack the balance you would expect based on the overall population. <br><br> Also, benefits like pay and promotions are unequally distributed and, in fact, trend towards the dominant demographic.<br><br>|

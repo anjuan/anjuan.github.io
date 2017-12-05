@@ -62,13 +62,14 @@ tr:nth-child(1) {
   </tr>
   <tr>
     <td>1</td>
-    <td><img src="/images/Lending-Privilege-Images.001.jpeg" alt="Slide 1 - Title" style="width:9000px; height:auto;"></td>   
-    <td>Several years ago an actor on a television show faced a dilemma. He was one of the biggest stars on the show, but it wasn’t doing all that well in the ratings. However, that wasn’t the problem. This actor learned that an actress who also starred on the show wasn’t being paid as much as the male actors. Now, this actor was beloved by fans of the TV show which gave him a lot of influence. So, he went to the studio executives and used his influence to demand equal pay for this actress. And he was successful. The actress received pay equal to her male peers.</td>
+    <td><img src="/images/Lending-Privilege-Images.001.jpeg" alt="Slide 1 - Introduction" style="width:9000px; height:auto;"></td>   
+    <td>I’ve worked in software development for 20 years, and I sometimes think that diversity will fade as a topic in tech. I mean, are we still talking about this? <br><br>But, something always happens. Someone writes about the extreme sexism they experienced at a large and well known tech company. Or, someone goes the opposite direction and writes a manifesto about why diversity in tech efforts are misguided. No matter where you are on the spectrum between these two points of view, I think the topic of diversity is here to stay. And there are real problems. 
+[NEXT SLIDE].</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Slide 2 Image</td>
-    <td>Slide 2 Description</td>
+    <td><img src="/images/Lending-Privilege-Images.002.jpeg" alt="Slide 2 - Imbalance" style="width:9000px; height:auto;"></td>
+    <td>Technology companies are overwhelmingly homogenous and lack the balance you would expect based on the overall population. Also, benefits like pay and promotions are unequally distributed and, in fact, trend towards the dominant demographic.</td>
   </tr>
   <tr>
     <td>3</td>

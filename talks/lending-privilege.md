@@ -36,6 +36,13 @@ Here are direct links to videos of me giving this talk at various conferences:
 
 ## Slides
 
+| PROJECT                          | STATUS | DEV  |  QA | OPS |LINK |
+|:---------------------------------|:------:|:----:|:---:|:---:|:----:|
+| Geometry Instancing             | <font color="green">**Green**</font>  | Scott | Charles | Mark I  | [Jump to Project](#gi) |
+| Redundant Central Services (RCS) | <font color="green">**Green**</font>  | None | None | Mark I  | [Jump to Project](#rcs) |
+| 2D Sheets GA                       | <font color="green">**Green**</font>  | Quentin | Johnny | Mark I  | [Jump to Project](#sheets) |
+| HOOPS 3D Viewer GA                  | <font color="#EBD518">**Yellow**</font>  | Steve | Eduardo | David  | [Jump to Project](#hoops) |
+
 <style>
 table {
     font-family: arial, sans-serif;

@@ -34,7 +34,72 @@ Here are direct links to videos of me giving this talk at various conferences:
 * [SpringOne Platform (Ignite Talk)](https://www.youtube.com/watch?v=oUWw6h-mi0o)
 * [GitHub CodeConf](https://www.youtube.com/watch?v=C4hVDBBJ6wI)
 
+## Slides 1 (HTML Table)
+
 ## Slides
+
+<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Slide #</th>
+    <th>Slide</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>1</td>
+      <img src="H.gif" alt="" border=3 height=100 width=100></img>
+    <td><img src="/images/post-sxsw-evalutaor.jpeg" alt="Slide 1" width=8000 align="center"></img></td>    
+    <td>Several years ago an actor on a television show faced a dilemma. He was one of the biggest stars on the show, but it wasn’t doing all that well in the ratings. However, that wasn’t the problem. This actor learned that an actress who also starred on the show wasn’t being paid as much as the male actors. Now, this actor was beloved by fans of the TV show which gave him a lot of influence. So, he went to the studio executives and used his influence to demand equal pay for this actress. And he was successful. The actress received pay equal to her male peers.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Slide 2 Image</td>
+    <td>Slide 2 Description</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Slide 3 Image</td>
+    <td>Slide 3 Description</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Slide 4 Image</td>
+    <td>Slide 4 Description</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Slide 5 Image</td>
+    <td>Slide 5 Description</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Slide 6 Image</td>
+    <td>Slide 6 Description</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+## Slides 2 (Markdown Table)
 
 | # | Slide  | Description  |
 |:-:|:------:|:-------------|

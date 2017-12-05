@@ -62,24 +62,25 @@ tr:nth-child(1) {
   </tr>
   <tr>
     <td><b>1</b></td>
-    <td><img src="/images/Lending-Privilege-Images.001.jpeg" alt="Slide 1 - Introduction" style="width:9000px; height:auto;"></td>   
+    <td><img src="/images/Lending-Privilege-Images.001.jpeg" alt="Slide 1 - Introduction" style="width:9000px; height:auto;">     </td>   
     <td><p>I’ve worked in software development for 20 years, and I sometimes think that diversity will fade as a topic in tech. I mean, are we still talking about this?<p>
 
-<p>But, something always happens. Someone writes about the extreme sexism they experienced at a large and well known tech company. Or, someone goes the opposite direction and writes a manifesto about why diversity in tech efforts are misguided. No matter where you are on the spectrum between these two points of view, I think the topic of diversity is here to stay. And there are real problems. </p></td>
+<p>But, something always happens. Someone writes about the extreme sexism they experienced at a large and well known tech company. Or, someone goes the opposite direction and writes a manifesto about why diversity in tech efforts are misguided. No matter where you are on the spectrum between these two points of view, I think the topic of diversity is here to stay. And there are real problems. </p>
+    </td>
   </tr>
   <tr>
     <td><b>2</b></td>
-    <td><img src="/images/Lending-Privilege-Images.002.jpeg" alt="Slide 2 - Imbalance" style="width:9000px; height:auto;"></td>
+    <td><img src="/images/Lending-Privilege-Images.002.jpeg" alt="Slide 2 - Imbalance" style="width:9000px; height:auto;">         </td>
     <td><p>Technology companies are overwhelmingly homogenous and lack the balance you would expect based on the overall population. </p>
     
- <p>Also, benefits like pay and promotions are unequally distributed and, in fact, trend towards the dominant demographic.</p></td>
+ <p>Also, benefits like pay and promotions are unequally distributed and, in fact, trend towards the dominant demographic.</p>     </td>
   </tr>
   <tr>
     <td><b>3</b></td>
     <td><img src="/images/Lending-Privilege-Images.003.jpeg" alt="Slide 3 - TBD" style="width:9000px; height:auto;"></td>
     <td><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. </p>
 
-<p>Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. <b>Mauris massa</b>. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. <i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i>. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p></td>
+<p>Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. <b>Mauris massa</b>. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. <i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i>. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>        </td>
   </tr>
   <tr>
     <td><b>4</b></td>
@@ -99,9 +100,6 @@ tr:nth-child(1) {
     <td>Slide 6 Description</td>
   </tr>
 </table>
-
-<br>
-<br>
 
 ## What Attendees Have Said
 

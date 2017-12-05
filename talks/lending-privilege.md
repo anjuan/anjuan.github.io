@@ -36,12 +36,11 @@ Here are direct links to videos of me giving this talk at various conferences:
 
 ## Slides
 
-| PROJECT                          | STATUS | DEV  |  QA | OPS |LINK |
-|:---------------------------------|:------:|:----:|:---:|:---:|:----:|
-| Geometry Instancing             | <font color="green">**Green**</font>  | Scott | Charles | Mark I  | [Jump to Project](#gi) |
-| Redundant Central Services (RCS) | <font color="green">**Green**</font>  | None | None | Mark I  | [Jump to Project](#rcs) |
-| 2D Sheets GA                       | <font color="green">**Green**</font>  | Quentin | Johnny | Mark I  | [Jump to Project](#sheets) |
-| HOOPS 3D Viewer GA                  | <font color="#EBD518">**Yellow**</font>  | Steve | Eduardo | David  | [Jump to Project](#hoops) |
+| #                          | Slide | Description  |
+|:-:|:------:|:----|
+| 1 | <img src="/images/Lending-Privilege-Images.001.jpeg" alt="Slide 1 - Introduction" style="width:9000px; height:auto;"> | I’ve worked in software development for 20 years, and I sometimes think that diversity will fade as a topic in tech. I mean, are we still talking about this? But, something always happens. <br><br>Someone writes about the extreme sexism they experienced at a large and well known tech company. Or, someone goes the opposite direction and writes a manifesto about why diversity in tech efforts are misguided. No matter where you are on the spectrum between these two points of view, I think the topic of diversity is here to stay. And there are real problems. |
+| 2 | <img src="/images/Lending-Privilege-Images.002.jpeg" alt="Slide 1 - Introduction" style="width:9000px; height:auto;"> | I’ve worked in software development for 20 years, and I sometimes think that diversity will fade as a topic in tech. I mean, are we still talking about this? But, something always happens. Someone writes about the extreme sexism they experienced at a large and well known tech company. Or, someone goes the opposite direction and writes a manifesto about why diversity in tech efforts are misguided. No matter where you are on the spectrum between these two points of view, I think the topic of diversity is here to stay. And there are real problems. |
+| 3 | <img src="/images/Lending-Privilege-Images.003.jpeg" alt="Slide 1 - Introduction" style="width:9000px; height:auto;"> | I’ve worked in software development for 20 years, and I sometimes think that diversity will fade as a topic in tech. I mean, are we still talking about this? But, something always happens. Someone writes about the extreme sexism they experienced at a large and well known tech company. Or, someone goes the opposite direction and writes a manifesto about why diversity in tech efforts are misguided. No matter where you are on the spectrum between these two points of view, I think the topic of diversity is here to stay. And there are real problems. |
 
 <style>
 table {

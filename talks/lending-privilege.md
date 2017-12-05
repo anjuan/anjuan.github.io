@@ -36,8 +36,6 @@ Here are direct links to videos of me giving this talk at various conferences:
 
 ## Slides 1 (HTML Table)
 
-## Slides
-
 <html>
 <head>
 <style>
@@ -59,14 +57,14 @@ td, th {
 
 <table>
   <tr>
-    <th>Slide #</th>
+    <th>#</th>
     <th>Slide</th>
     <th>Description</th>
   </tr>
   <tr>
     <td>1</td>
       <img src="H.gif" alt="" border=3 height=100 width=100></img>
-    <td><img src="/images/post-sxsw-evalutaor.jpeg" alt="Slide 1" width=8000 align="center"></img></td>    
+    <td><img src="/images/Lending-Privilege-Images.001.jpeg" alt="Slide 1 - Introduction" style="width:9000px; height:auto;"></img></td>    
     <td>Several years ago an actor on a television show faced a dilemma. He was one of the biggest stars on the show, but it wasn’t doing all that well in the ratings. However, that wasn’t the problem. This actor learned that an actress who also starred on the show wasn’t being paid as much as the male actors. Now, this actor was beloved by fans of the TV show which gave him a lot of influence. So, he went to the studio executives and used his influence to demand equal pay for this actress. And he was successful. The actress received pay equal to her male peers.</td>
   </tr>
   <tr>

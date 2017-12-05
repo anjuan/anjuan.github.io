@@ -69,7 +69,7 @@ tr:nth-child(1) {
   <tr>
     <td>2</td>
     <td><img src="/images/Lending-Privilege-Images.002.jpeg" alt="Slide 2 - Imbalance" style="width:9000px; height:auto;"></td>
-    <td>Technology companies are overwhelmingly homogenous and lack the balance you would expect based on the overall population. Also, benefits like pay and promotions are unequally distributed and, in fact, trend towards the dominant demographic.</td>
+    <td>Technology companies are overwhelmingly homogenous and lack the balance you would expect based on the overall population. <br><br>Also, benefits like pay and promotions are unequally distributed and, in fact, trend towards the dominant demographic.</td>
   </tr>
   <tr>
     <td>3</td>

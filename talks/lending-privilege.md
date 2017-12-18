@@ -18,7 +18,7 @@ This session will teach attendees how to lend their privilege to their fellow te
 
 ## Pitch
 
-While technology companies are trying to improve their diversity, I believe that change will only occur when individuals take action to make technology a more inclusive industry. I think that the concept of lending privilege can be a powerful tool that technology practitioners can use to expand the diversity of the industry.
+Although technology companies are trying to improve their diversity, I believe that change will only occur when individuals take action to make technology a more inclusive industry. I think that the concept of lending privilege can be a powerful tool that technology practitioners can use to expand the diversity of the industry.
 
 ## Videos
 
@@ -37,7 +37,7 @@ Here are direct links to videos of me giving this talk at various conferences:
 
 ## Slides
 
-I've given my "Lending Privilege" talk in multiple countries, and I have been very pleased to see it so well received by many in the tech community. A few people have recommended that I open source the talk so that other people can contribute to it so I have presented my slides and speaker notes in the table below. The speaker notes don't include the content I tailor to specific events or the extemperaeous comments I often make on stage, but they are the baseline for anytime I give this talk.
+I've given my "Lending Privilege" talk in multiple countries, and I have been very pleased to see it so well received by many in the tech community. A few people have recommended that I open source the talk so that other people can contribute to it so I have presented my slides and speaker notes in the table below. The speaker notes don't include the content I tailor to specific events or the extemperaeous comments I often make on stage, but they are the baseline for every time I deliver this talk.
 
 You can find the source for this page [here](https://github.com/anjuan/anjuan.github.io/edit/master/talks/lending-privilege.md). Pull requests are welcome.
 

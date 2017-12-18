@@ -12,9 +12,9 @@ Diversity and inclusion have become hot topics in technology, but you may not kn
 
 ## Description
 
-Privilege is access to societal and economic benefits based on characteristics you possess. The most well understood forms of privilege are the ones most people don’t choose for themselves like racial, gender, and physical privilege, but there are also selected privileges like religion, career, and education.
+Privilege is access to societal and economic benefits based on characteristics you possess. The most well understood forms of privilege are birth privileges like racial, gender, and physical privilege, but there are also selected privileges like religion, education, and career.
 
-This session will teach attendees how to lend their privilege. They will learn the various types of privilege lending including credibility lending (where you provide visibility to someone without privilege), access lending (where you provide access to someone without privilege), and expertise lending (where you provide a voice to someone without privilege). These different types of privilege lending will be illustrated through well known examples and an explanation of how they can be applied to software development teams.
+This session will teach attendees how to lend their privilege to their fellow technologists. They will learn the various types of privilege lending including credibility lending (where you provide visibility to someone without privilege), access lending (where you provide access to someone without privilege), and expertise lending (where you provide a voice to someone without privilege). These different types of privilege lending will be illustrated through well known examples and an explanation of how they can be applied to the technology industry.
 
 ## Pitch
 

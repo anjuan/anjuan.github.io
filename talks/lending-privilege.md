@@ -8,7 +8,7 @@ permalink: /talks/lending-privilege/
 
 ## Abstract
 
-Diversity and inclusion have become hot topics in technology, but you may not know how you can make a difference. This talk will help you understand that, no matter your background, you have privilege and can lend it to underrepresented groups in tech. Test
+Diversity and inclusion have become hot topics in technology, but you may not know how you can make a difference. This talk will help you understand that, no matter your background, you have privilege and can lend it to underrepresented groups in tech.
 
 ## Description
 

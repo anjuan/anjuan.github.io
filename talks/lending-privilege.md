@@ -1,4 +1,6 @@
 ---
+tile: 'Lending Privilege'
+author: anjuan
 layout: page
 title: Lending Privilege
 permalink: /talks/lending-privilege/

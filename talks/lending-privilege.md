@@ -8,7 +8,7 @@ permalink: /talks/lending-privilege/
 
 {% include image.html url="/images/lending-privilege2.jpg" alt="Rotman" caption="Right before I gave my Lending Privilege talk at the Rotman School of Management on the campus of The University of Toronto." width=676 align="center" %}
 
-## Abstracts
+## Abstract
 
 Diversity and inclusion have become hot topics in technology, but you may not know how you can make a difference. This talk will help you understand that, no matter your background, you have privilege and can lend it to underrepresented groups in tech.
 

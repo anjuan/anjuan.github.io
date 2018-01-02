@@ -2,7 +2,7 @@
 title: 'Public Speaking Retrospective 2017'
 author: anjuan
 layout: post
-date: "2018-01-02"
+date: "2018-01-03"
 permalink: /blog/public-speaking-retrospective-2017/
 categories:
   - Speaking

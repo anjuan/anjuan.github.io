@@ -9,7 +9,7 @@ categories:
 excerpt: "My public speaking career went fully international in 2017, and I am more thankful than ever for the privilege to take the stage at tech events. Once again, this is what I learned and my goals for the future."
 ---
 
-As I did this time last year, here are my reflections on my public speaking experiences for 2017. 
+As I did this [time last year](http://anjuansimmons.com/blog/public-speaking-retrospective-2016/), here are my reflections on my public speaking experiences for 2017. 
 
 speaker. So, inspired by [Cate](https://cate.blog/2016/12/15/2016-speaking-and-2017-goals/) and [Martin](http://martinb3.io/public-speaking-2016/), I'm reflecting on my experiences as a public speaker in 2016.
 

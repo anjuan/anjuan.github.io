@@ -20,6 +20,8 @@ Conferences
 * "Leadership Lessons from the Agile Manifesto", The Lead Developer UK, London
 * "Lending Privilege", QCon
 * "Lending Privilege", DevOpsDays Chicago
+* "Lending Privilege", RubyConf, New Orleans
+* "Leadership Lessons from the Agile Manifesto", QConSF
 
 
 ## Signature Talks
@@ -27,6 +29,12 @@ Conferences
 {% include image.html url="/images/speaking-retro-1.jpg" alt="CraftConf" caption="Attending the Mob Programming meet up at CraftConf" width=800 align="center" %}
 
 "Lending Privilege"
+
+Nothing like a battle-tested talk
+
+Leadership lessons went international from birth
+
+Exception to the signature talk
 
 ## Crossing International Boundaries
 

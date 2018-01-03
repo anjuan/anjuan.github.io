@@ -36,8 +36,6 @@ I've given many private workshops during my career, but I gave my first workshop
 {% include image.html url="/images/speaking-retro-4.jpg" alt="big audience" caption="The power of big audiences" width=800 align="center" %}
 
 I love big audiences, and I enjoyed big events in 2016 including Pivotal's [SpringOne Platform](https://springoneplatform.io/2016) in Las Vegas, [GitHub Universe](https://githubuniverse.com/2016/) in San Francisco, and [StrangeLoop](https://www.thestrangeloop.com/2016/sessions.html) in St. Louis. These were all great experiences for me, and I was honored to lend my voice to those conferences. There's something powerful about being in a building with hundreds (and, in a few cases, thousands) of technologists who are all focused on advancing their careers and making the industry better. I was also reunited with other speakers who I met in previous years, and I enjoyed the opportunity to grow our friendships.
-Small Intimacies
-
 
 ## Speaking at a corporate event
 

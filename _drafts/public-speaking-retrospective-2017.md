@@ -5,7 +5,7 @@ layout: post
 date: "2018-01-03"
 permalink: /blog/public-speaking-retrospective-2017/
 categories:
-  - Speaking
+  - Drafts
 excerpt: "My public speaking career went fully international in 2017, and I am more thankful than ever for the privilege to take the stage at tech events. Once again, this is what I learned and my goals for the future."
 ---
 

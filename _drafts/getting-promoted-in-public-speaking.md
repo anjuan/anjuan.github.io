@@ -5,7 +5,7 @@ layout: post
 date: "2016-07-15"
 permalink: /blog/getting-promoted-in-public-speaking/
 categories:
-  - Site Log
+  - Speaking
 excerpt: "Every speaker has a different journey, but there are levels to public speaking that almost everyone has to navigate."
 ---
 

@@ -9,7 +9,7 @@ categories:
 excerpt: "Every speaker has a different journey, but there are levels to public speaking that almost everyone has to navigate."
 ---
 
-I’ve publicly spoken at tech events since 2009, and 2016 was a banner year for me. I’ve had opportunities to speak from Los Angeles to Boston, from Detroit to Austin, and as far away as South Africa and Colombia. It has been immensely gratifying to have so many opportunities to share my ideas and passions with large audiences.
+I’ve spoken at public tech events since 2009, and 2016 was a banner year for me. I’ve had opportunities to speak from Los Angeles to Boston, from Detroit to Austin, and as far away as South Africa and Colombia. It has been immensely gratifying to have so many opportunities to share my ideas and passions with large audiences.
 
 As I have continued on my public speaking journey, I have realized that there people have different ranks the speaker circuit. Each one experiences different audiences, outcomes, and opportunities for advancement.
 

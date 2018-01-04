@@ -19,5 +19,5 @@ excerpt_separator: "<!--more-->"
 # SEO stuff
 google_author: "https://plus.google.com/u/0/+AnjuanSimmons"
 
-gems:
+plugins:
   - jekyll-sitemap

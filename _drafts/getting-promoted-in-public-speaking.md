@@ -57,7 +57,9 @@ As Captain Keynotes advance, they start getting invited to give more opening key
 
 ## Colonel Chair
 
-{% include image.html url="/images/post-small-key-big-agile.jpeg" alt="Hummingbird" caption="Big results can come from small things. (Pexels)" width=800 align="center" %}
+{% include image.html url="/images/getting-promoted-in-public-speaking-colonel-chair.jpg" alt="Hummingbird" caption="Colonel Chair (Army.mil)" width=400 align="center" %}
+
+*Yes, I realize my alliteration breaks down in this section.*
 
 At the top of the public speaking stand the Colonel Chairs. These are the people who have been to dozens of tech conferences and have often helped organize and run them. The role of the Colonel Chair is to select speakers for the conference, plan the agenda, enforce the code of conduct (or, good behavior if a formal code of conduct isn’t in place), and make sure the conference is a success.
 

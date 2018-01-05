@@ -1,6 +1,4 @@
 ---
-tile: 'Lending Privilege'
-author: anjuan
 layout: page
 title: Lending Privilege
 permalink: /talks/lending-privilege/
@@ -39,7 +37,7 @@ Here are direct links to videos of me giving this talk at various conferences:
 
 ## Slides
 
-I've given my "Lending Privilege" talk in multiple countries, and I have been very pleased to see it so well received by many in the tech community. A few people have recommended that I open source the talk so that other people can contribute to it so I have presented my slides and speaker notes in the table below. The speaker notes don't include the content I tailor to specific events or the extemperaeous comments I often make on stage, but they are the baseline for nearly every time I deliver this talk.
+I've given my "Lending Privilege" talk in multiple countries, and I have been very pleased to see it so well received by many in the tech community. A few people have recommended that I open source the talk so that other people can contribute to it so I have presented my slides and speaker notes in the table below. The speaker notes don't include the content I tailor to specific events or the extemperaeous comments I often make on stage, but they are the baseline for every time I deliver this talk.
 
 The photos I used for Bea, Elle, and Em came from the [Women of Color in Tech Chat stock image repository](https://www.flickr.com/photos/wocintechchat/albums). It's a great source of inclusive stock photography for your presentations!
 
@@ -63,6 +61,10 @@ td, th {
 </style>
 </head>
 <body>
+
+</body>
+</html>
+
 
 | # | Slide  | Speaker Notes  |
 |:-:|:-------|:-------------|
@@ -97,9 +99,6 @@ td, th {
 | <b>29</b> | <img src="/images/Lending-Privilege-Images.029.jpeg" alt="Slide 29 - The Constitution" style="width:9000px; height:auto;"> | “One day, when the glory comes, it will be ours. It will be ours.” <br><br>And, I like that verse because it captures the essence of why diversity and inclusion work is so important. <br><br>We had an election in 2016 where the father of a fallen solider offered to lend one of the candidates his copy of the Constitution. The ACLU offered anyone who completed the form to get their own copy. I did so and received my copy. Now, I haven't read the Constitution since high school, but it holds up. <br><br>Article 1 (Congress) has been problematic for a while. Article 2 (Executive Branch) is really, different right now. Article 3 (Supreme Court) is one most people forget exists. <br><br>But, I really liked the Amendments. I realized that the Founding Fathers implemented a pull request system in the Constitution. You can propose changes, have them reviewed, and then merged into production. It's a messy process which may explain why it's only been done 27 times in more than 200 years, but it works.<br><br>Let's take the 13th Amendment. Many people think that this amendment outlawed the enslavement of Black people, but it doesn't say that. The 13th Amendment states that no one can be a slave in America. So, as the descendent of Black slaves, I'm sure that my ancestors celebrated the passage of the 13th Amendment, but every American should have celebrated because they lived in a country that was truly the land of the free. <br><br> When the 17th Amendment which gave women the right to vote was passed, I'm sure women rejoiced at being let into the franchise. But, every American should have celebrated living in a country where gender was no longer a barriar to the ballot box. <br><br> And leaving the Amendements, when the Supreme Court a few years ago ruled that same-sex marriage simply marriage, then I'm sure the LGBTQ community welcomed that ruling. But, we should all have applauded the court for creating a country that didn't put limits on love. <br><br>This country has tried to address the long injustices done to Blacks, women, and LGBTQ people throughout our history. I think that Lending privilege can help the tech industry solve our own peculiar problems. Divesity and inclusion in tech doesn't mean that women win, or LGBTQ people win, or Black people win. It means we all win because we work in an industry where we don't put any limits on talent. |
 | <b>30</b> | <img src="/images/Lending-Privilege-Images.030.jpeg" alt="Slide 30 - Concluson" style="width:9000px; height:auto;"> | Now, I know that some of you may be unconvinced that diversity and inclusion are things that you should care about. You may think, “Hey, I’m just here to ship code”. And, I get that sentiment.  <br><br>However, while I don't have any proof, I'm sure that when Leonard Nimoy when into the offices of the studio executives that some of them wondered what does paying a black woman have to do making a Sci-Fi TV show? And I think that if Leonard Nimoy was posed that question he would respond that it has everything to do with making a Sci-Fi TV show. Because the man who played a character that truly symbolized the power of infinite diversity in infinite combinations had to believe that there is power in creating an environment where everyone is welcome to bring their ideas, their talents, their perspectives, and their passions to making art. <br><br>So, I hope that as you build the art of your tech, you, too, will understand that if we want women, people of color, LGBT people, and other marginalized groups to not only enter the technology sector but stay and get promoted, if we want that boisterous bazaar where no bug is deep, if we want to increase the business value of our companies by making them diverse and inclusive, then we all have a role to play by lending our privilege. Thank you.|
    
-</body>
-</html>
-
 
 ## What Attendees Have Said
 

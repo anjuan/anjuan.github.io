@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Lending Privilege
-permalink: /talks/lending-privilege/
+permalink: /my-talks/lending-privilege/
 ---
+
+*Note: This is the legacy version of the description of "Lending Privilege" for legacy references to the URL on my previous site. The version that is probably more up to date is [here](http://anjuansimmons.com/talks/lending-privilege/).*
 
 {% include image.html url="/images/lending-privilege2.jpg" alt="Rotman" caption="Right before I gave my Lending Privilege talk at the Rotman School of Management on the campus of The University of Toronto." width=676 align="center" %}
 
@@ -38,6 +40,8 @@ Here are direct links to videos of me giving this talk at various conferences:
 ## Slides
 
 I've given my "Lending Privilege" talk in multiple countries, and I have been very pleased to see it so well received by many in the tech community. A few people have recommended that I open source the talk so that other people can contribute to it so I have presented my slides and speaker notes in the table below. The speaker notes don't include the content I tailor to specific events or the extemperaeous comments I often make on stage, but they are the baseline for every time I deliver this talk.
+
+The photos I used for Bea, Elle, and Em came from the [Women of Color in Tech Chat stock image repository](https://www.flickr.com/photos/wocintechchat/albums). It's a great source of inclusive stock photography for your presentations!
 
 You can find the source for this page [here](https://github.com/anjuan/anjuan.github.io/edit/master/talks/lending-privilege.md). Pull requests are welcome.
 

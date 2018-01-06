@@ -51,6 +51,6 @@ Of course, I enjoy being paid my speaking fee, but I often waive it for non-prof
 
 ## Things That Help Me
 
-I'll bring a Macbook Pro and adapter to connect it to most modern projectors. All you need to provide is the projector, screen, and microphone. I have a slight preference for lapel (lavalier) microphones, but I am adept at using handheld microphones.
+I'll bring a Macbook Pro and adapter to connect it to most modern projectors. All you need to provide is the projector, screen, and microphone. I have a slight preference for lapel (lavallière) microphones, but I am adept at using handheld microphones.
 
 I appreciate events that have a Code of Conduct because that sets a tone of safety and inclusiveness.

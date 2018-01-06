@@ -6,7 +6,7 @@ permalink: /about/
 
 {% include image.html url="/images/about.simmons.family.jpg" alt="family" caption="My Family" width=400 align="right" %}
 
-Hi, welcome to my personal site on the web. Most of the content on this site is about my career in techology, but, if you really want to know what I care about, look no further than my family. No matter whatever level of success I achieve, nothing will be more meaningful or significant to me than my family.
+Hi, welcome to my personal site on the web. Most of the content on this site is about my career in technology, but, if you really want to know what I care about, look no further than my family. No matter whatever level of success I achieve, nothing will be more meaningful or significant to me than my family.
 
 Another key thing to know about me is my belief in the power of communities. A community doesn't mean the absence of disagreement. On the contrary, a community is a place where people learn to work through their disagreements in order to achieve fair outcomes for everyone. This idea underlies a lot of the non-technical topics in my writings and in my talks.
 

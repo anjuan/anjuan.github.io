@@ -11,9 +11,9 @@ excerpt: "Every speaker has a different journey, but there are levels to public 
 
 I’ve spoken at public tech events since 2009, and 2016 was a banner year for me. I’ve had opportunities to speak from Los Angeles to Boston, from Detroit to Austin, and as far away as South Africa and Colombia. It has been immensely gratifying to have so many opportunities to share my ideas and passions with large audiences.
 
-As I have continued on my public speaking journey, I have realized that there people have different ranks the speaker circuit. Each one experiences different audiences, outcomes, and opportunities for advancement.
+As I have continued on my public speaking journey, I have realized that there are different ranks on the speaker circuit. Each rank experiences different audiences, outcomes, and opportunities for advancement.
 
-Of course, the higher ranks often do the work of the lower ranks, but there is a clear.line of progression from level to level.
+Of course, the higher ranks often do the work of the lower ranks, but there is a clear line of progression from level to level.
 
 Here are the ranks as I currently understand them: Private Panelist, Sergeant Session, Captain Keynote, and Colonel Chair.
 

@@ -7,7 +7,6 @@ permalink: /blog/getting-promoted-in-public-speaking/
 categories:
   - Speaking
 excerpt: "Every speaker has a different journey, but there are levels to public speaking that almost everyone has to navigate."
-comments: true
 ---
 
 I’ve spoken at public tech events since 2009, and 2016 was a banner year for me. I’ve had opportunities to speak from Los Angeles to Boston, from Detroit to Austin, and as far away as South Africa and Colombia. It's been immensely gratifying to have so many opportunities to share my ideas and passions with technical audiences.
@@ -70,26 +69,3 @@ There is an immense amount of stress being a Colonel Chair because the responsib
 ## Conclusion
 
 There are the four ranks of public speaking. No matter your rank, you can find people less experienced than you to help and mentors who have been more successful than you to teach you their ways. In any case, enjoy the journey of being a speaker!
-
-{% if page.comments %} 
-<div id="disqus_thread"></div>
-<script>
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://anjuansimmons.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %}

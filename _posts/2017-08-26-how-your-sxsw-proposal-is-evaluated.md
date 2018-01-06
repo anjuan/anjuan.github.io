@@ -17,9 +17,9 @@ Keep in mind, the the AB approaches votes by looking at what each *individual bo
 
 ## The Selection Process
 
-SXSW provides a big stage for presenting your ideas, and there is a lot of competition for a spot in the schedule. There were 4,400 proposals received for the 2017 event, and only a small percentage can be accepted. 
+SXSW provides a big stage for presenting your ideas, and there is a lot of competition for a spot in the schedule. There were 4,400 proposals received for the 2017 event, and only a small percentage can be accepted.
 
-There are three parties in the selection process, and eash one has a percentage influence in what gets accepted:
+There are three parties in the selection process, and each one has a percentage influence in what gets accepted:
 
 * 30% - Public Votes (every idea can receive votes from the public
 * 30% - Staff (seasoned experts who know what makes a great SXSW experience)
@@ -29,13 +29,13 @@ There are three parties in the selection process, and eash one has a percentage 
 
 Every year, SXSW announces that the [Panel Picker](panelpicker.sxsw.com) is open for proposals. The Panel Picker is an online tool that anyone can use to describe their idea for what should be a session at SXSW. It allows you to describe the session organizer (who may or may not be one of the speakers), the title of your idea and intended audience, track, format (solo presentation, dual presentation, panel, etc.) a description of your session, the three questions it will answer, resources to support your idea (videos, slides, etc.), and the people will participate in your session.
 
-The Panel picker is also the voting interface. Voters can see the title, description, questions, speakes, organizer, and resources provided to support the idea. Voters can also leave comments.
+The Panel picker is also the voting interface. Voters can see the title, description, questions, proposed speakers, organizer, and resources provided to support the idea. Voters can also leave comments.
 
 ## The Evaluator Tool
 
-Members of the AB do not use the Panel Picker to cast our votes. We use a seperate online tool, but we see many of the same fields along with a link to the actual Panel Picker entry. However, there are fields that only AB members see.
+Members of the AB do not use the Panel Picker to cast our votes. We use a separate online tool, but we see many of the same fields along with a link to the actual Panel Picker entry. However, there are fields that only AB members see.
 
-The first three fields allow evaluators to assign stars to three characteristics of the proposal: Creativity, Relevance, and Quality and Divesity of Speakers. Each characteristic can be given between one and five stars which have the following meaning:
+The first three fields allow evaluators to assign stars to three characteristics of the proposal: Creativity, Relevance, and Quality and Diversity of Speakers. Each characteristic can be given between one and five stars which have the following meaning:
 
 * 1 Star - Bad
 * 2 Stars - Poor
@@ -49,7 +49,7 @@ The next field is a final "Yes or No" answer to the question "Do you see this as
 
 ## Getting My Yes
 
-It takes a lot for me to vote *Yes* for a proposal in the evaluator interface. As a member of the AB, we are charged to find the best of the best of the best. I have to find nuggest of plantinum (not just gold) in the hundred of proposals in my set. Here are a few things that can help you idea shine.
+It takes a lot for me to vote *Yes* for a proposal in the evaluator interface. As a member of the AB, we are charged to find the best of the best of the best. I have to find nuggets of platinum (not just gold) in the hundred of proposals in my set. Here are a few things that can help you idea shine.
 
 ### Title
 
@@ -66,11 +66,11 @@ One benefit of including a video from Vimeo is that you can replace the video la
 
 ### Links
 
-You can also attach a link to slides hosted on services like Slideshare or Slidedeck. Slides are very helpful for evaluating how you put together your ideas, and I highly recommend including them.  Make sure these are links to pages you control. That way, you can modify these pages after you submit your proposal which locks it in the system. This is key if you want to provide updated information like breaking news or even additional slide content.
+You can also attach a link to slides hosted on services like Slideshare or Speakerdeck. Slides are very helpful for evaluating how you put together your ideas, and I highly recommend including them.  Make sure these are links to pages you control. That way, you can modify these pages after you submit your proposal which locks it in the system. This is key if you want to provide updated information like breaking news or even additional slide content.
 
 The recent version of the PanelPicker also lets you provide another resource link. You can use this to link to your personal site or to another site that better explains your idea.
 
-The best links are to pages that feature the idea being proposed as well as the speakers. I don't recommend just putting links to the companies where one or more speakers work. For example, don't just say that a speaker works for Google and include a link to Google.com. Link to a sub-page at Google.com that lists the speaker. If such a page isn't available, then it's better to link to the "About Me" (or similar) page on their personal website. 
+The best links are to pages that feature the idea being proposed as well as the speakers. I don't recommend just putting links to the companies where one or more speakers work. For example, don't just say that a speaker works for Google and include a link to Google.com. Link to a sub-page at Google.com that lists the speaker. If such a page isn't available, then it's better to link to the "About Me" (or similar) page on their personal website.
 
 ### Description
 
@@ -78,7 +78,7 @@ Write a focused Description (specific is better than general). This is especiall
 
 ### Questions / Learning Objectives
 
-Make sure you include interesting questions in the Question section. I've seen a lot of proposals that simply restate the title or what's in the description of the proposal. In fact, use the Questions Answered space to introduce a topic you'll cover in your presentation and then frame it in the form of a question. 
+Make sure you include interesting questions in the Question section. I've seen a lot of proposals that simply restate the title or what's in the description of the proposal. In fact, use the Questions Answered space to introduce a topic you'll cover in your presentation and then frame it in the form of a question.
 
 ### Quality
 

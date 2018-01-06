@@ -13,11 +13,11 @@ excerpt: "A reduction in force (RIF) is an act to remove headcount in order to s
 
 
 > The CEO looked around the table after silence filled the room. Her swollen eyes suggested that, despite the late hours, she hadn't slept in a while. "This is the responsibility that comes with leadership," she said looking around the room. "I know this isn't easy."
-> 
+>
 > The whiteboard behind her had the company's departments listed in columns: sales, marketing, engineering. Underneath each department were a list of names of people being considered for the reduction in force (RIF). The names in red would definitely be cut while the names in green were under consideration. The directors and managers in the room had to decide who would be included in a round of cuts reducing the number of employees at Fictional by ten percent.
 >
 > Elle, the Director of Marketing, said, "Can't we wait until the next quarter, Ida? We collected a huge number of leads at the conference last month."
-> 
+>
 > "This comes straight from the chairman of the board," Ida said leaning forward in her chair. "Frederick told me last night that this has to happen now."
 >
 > Ida rose from her chair and stood next to the whiteboard. "Ok, let's continue."
@@ -33,11 +33,11 @@ A RIF is something that most people experience from the wrong side, but, if you 
 
 You may think that no one cares if you come to work late, take long breaks, and leave early. But, you're wrong. People notice, and your behavior is discussed when deciding if you should be part of a RIF.
 
-You're not safe even if you're at your desk before everyone else and are the last person to leave. If you're looking at your phone at your desk more than you use your work computer, it will be noticed. Many of the people who will read this work in the technology field, and I understand the concept of "think time". I know that technical work often requires deep thought and taking mental breaks can actually lead to better solutions. But, you have to understand office theater. People look around the office for cues about who seems to making the most contributions. 
+You're not safe even if you're at your desk before everyone else and are the last person to leave. If you're looking at your phone at your desk more than you use your work computer, it will be noticed. Many of the people who will read this work in the technology field, and I understand the concept of "think time". I know that technical work often requires deep thought and taking mental breaks can actually lead to better solutions. But, you have to understand office theater. People look around the office for cues about who seems to making the most contributions.
 
 ## Performance
 
-This one should be obvious, but your performance is scrutinized when consideirng who to cut during a RIF. If your deliverables are routinely late or lack quality, then that will not redound to your benefits. This is especially damaing if co-workers and managers can follow your social media activity. It is not a good optic if your work suffers, but you are extremely active on social media. 
+This one should be obvious, but your performance is scrutinized when considering who to cut during a RIF. If your deliverables are routinely late or lack quality, then that will not redound to your benefits. This is especially damaging if co-workers and managers can follow your social media activity. It is not a good optic if your work suffers, but you are extremely active on social media.
 
 ## Revenue
 
@@ -45,9 +45,9 @@ If it is hard to see the link between what you do for the organization and the r
 
 ## Culture
 
-Workplace culture can become a cliche, but a positive work environment is a real asset for any organization. After all, most jobs involve leaving your family and the people you truly care about to spend hours with co-workers. It really helps if that experience is an enjoyable one with people who exhibit a positive outlook on life and the business. A RIF can be an opportunity to remove people with negative attidudes in order to reduce the toxicity of the work environment.
+Workplace culture can become a cliche, but a positive work environment is a real asset for any organization. After all, most jobs involve leaving your family and the people you truly care about to spend hours with co-workers. It really helps if that experience is an enjoyable one with people who exhibit a positive outlook on life and the business. A RIF can be an opportunity to remove people with negative attitudes in order to reduce the toxicity of the work environment.
 
 
 ## Conclusion
 
-While I hope these observations are helpful if your organization goes through a RIF, they are good guidelines for anyone who cares about their career. No one will care more about your career more than you do so make sure you safeguard your work by performing it at the highest possible level. 
+While I hope these observations are helpful if your organization goes through a RIF, they are good guidelines for anyone who cares about their career. No one will care more about your career more than you do so make sure you safeguard your work by performing it at the highest possible level.

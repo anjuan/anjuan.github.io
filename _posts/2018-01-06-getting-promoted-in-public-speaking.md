@@ -2,7 +2,7 @@
 title: 'Getting Promoted in Public Speaking'
 author: anjuan
 layout: post
-date: "2016-07-15"
+date: "2018-01-06"
 permalink: /blog/getting-promoted-in-public-speaking/
 categories:
   - Speaking
@@ -23,7 +23,7 @@ Here are the ranks as I currently understand them: Private Panelist, Sergeant Se
 
 This speaker is often asked to be on a panel with other speakers to discuss some topic within the realm of their expertise. Private Panelists don’t have to stand on their own because there are other speakers on stage.
 
-Private Panelists are often able to give solo presentations at meetups or small gatherings, and this is a good way to expand their network. As they refine their delivery and develop a reputation for being a good speaker, they can start moving toward the next level. 
+Private Panelists are often able to give solo presentations at meet-ups or small gatherings, and this is a good way to expand their network. As they refine their delivery and develop a reputation for being a good speaker, they can start moving toward the next level. 
 
 Private Panelists rarely receive compensation for their talks, and must pay out-of-pocket for any speaking opportunities outside of their local area.
 

@@ -9,27 +9,27 @@ categories:
 excerpt: "Every speaker has a different journey, but there are levels to public speaking that almost everyone has to navigate."
 ---
 
-I’ve spoken at public tech events since 2009, and 2016 was a banner year for me. I’ve had opportunities to speak from Los Angeles to Boston, from Detroit to Austin, and as far away as South Africa and Colombia. It has been immensely gratifying to have so many opportunities to share my ideas and passions with large audiences.
+I’ve spoken at public tech events since 2009, and 2016 was a banner year for me. I’ve had opportunities to speak from Los Angeles to Boston, from Detroit to Austin, and as far away as South Africa and Colombia. It's been immensely gratifying to have so many opportunities to share my ideas and passions with technical audiences.
 
-As I have continued on my public speaking journey, I have realized that there are different ranks on the speaker circuit. Each rank experiences different audiences, outcomes, and opportunities for advancement.
+As I have continued on my public speaking journey, I have realized that, similar to the military, there are different ranks on the speaker circuit. Each rank experiences different audiences, outcomes, and opportunities for advancement.
 
 Of course, the higher ranks often do the work of the lower ranks, but there is a clear line of progression from level to level.
 
-Here are the ranks as I currently understand them: Private Panelist, Sergeant Session, Captain Keynote, and Colonel Chair.
+Here are the ranks (as I currently understand them): Private Panelist, Sergeant Session, Captain Keynote, and Colonel Chair.
 
 ## Private Panelist
 
 {% include image.html url="/images/getting-promoted-in-public-speaking-private-panelist.jpeg" alt="Private" caption="Private Panelist (Pexels)" width=800 align="center" %}
 
-This speaker is often asked to be on a panel with other speakers to discuss some topic within the realm of their expertise. Private Panelists don’t have to stand on their own because there are other speakers on stage.
+This speaker is often asked to be on a panel with other speakers to discuss some topic within the range of their expertise. Private Panelists don’t have to stand on their own because there are other speakers on stage.
 
-Private Panelists are often able to give solo presentations at meet-ups or small gatherings, and this is a good way to expand their network. As they refine their delivery and develop a reputation for being a good speaker, they can start moving toward the next level. 
+However, Private Panelists are often asked to give solo presentations at meet-ups or small gatherings, and this is a good way to expand their network. As they refine their delivery and develop a reputation for being a good speaker, they can start moving towards the next level. 
 
 Private Panelists rarely receive compensation for their talks, and must pay out-of-pocket for any speaking opportunities outside of their local area.
 
-Obtaining a collection of videos displaying their talks is another good practice for speakers at this level. While these videos should be as well produced as possible, the content is more important than high production values.
+Obtaining a collection of videos displaying their talks is another good practice for speakers at this level. While these videos should be as well-produced as possible, for Private Panelists, the content is more important than high production values.
 
-Once Private Panelists hone their speaking skills, they are well positioned to submit to conference Call For Papers (CFPs). By writing strong abstracts and providing links to videos of their talks, Panelists will begin to receive invitations to speak at conference sessions. However, the number of rejected submissions may dwarf the number of accepted ones so submitting a high volume of ideas is critical. Private Panelists would do well to use resources like Technically Speaking, The Weekly CFP, and Callback Women to find high quality conferences.
+Once Private Panelists hone their speaking skills, they are well positioned to submit talks to Call For Papers (CFPs). By writing strong abstracts and providing links to videos of their talks, Private Panelists will begin to receive invitations to speak at conference sessions. However, the number of rejected submissions may dwarf the number of accepted ones so submitting a high volume of ideas is critical. Private Panelists would do well to use resources like [PaperCall.io](https://www.papercall.io/), [The Weekly CFP](http://theweeklycfp.com/), and, for underrepresented genders in tech, [Callback Women](http://www.callbackwomen.com/) to find high quality conferences.
 
 
 ## Sergeant Session

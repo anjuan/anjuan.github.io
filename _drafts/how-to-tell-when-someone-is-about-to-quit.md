@@ -1,5 +1,5 @@
 ---
-title: 'How to Tell When Someone is Abou to Quit'
+title: 'How to Tell When Someone is About to Quit'
 author: anjuan
 layout: post
 date: "2017-09-20"
@@ -20,6 +20,6 @@ excerpt: "I'm rarely surprised when someone tenders their resignation because I'
 - Start showing up late to the office (when normally punctual)
 - Start showing up late to meetings (when normally punctual)
 - Starts taking long lunch breaks
-- Used to regulalry attend work events but suddenly stops coming
-- Starts leaving digital groups (digitally seperating from the company before physically leaving)
+- Used to regularly attend work events but suddenly stops coming
+- Starts leaving digital groups (digitally separating from the company before physically leaving)
 - They start taking their personal items from the office. That person who had a collection of children's toys set up around their desk suddenly has a clean workspace.

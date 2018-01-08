@@ -11,8 +11,6 @@ excerpt: "Conference committees have the daunting tasks of evaluating hundreds o
 
 {% include image.html url="/images/post-evaluating-using-stars.jpeg" alt="Measuring Tape" caption="Determining how conference proposals measure up. (Pexels)" width=400 align="right" %}
 
-
-
 Speaking at technology conferences can be a very rewarding experience. You get to establish yourself as an expert in your chosen field, meet people outside of your company who do what you do, and often save money since conferences usually cover the registration and travel costs for speakers. However, there is one obstacle between you and those benefits: the proposal selection process.
 
 

@@ -3,10 +3,10 @@ title: 'Why Small is the Key to Big Agile Results'
 author: anjuan
 layout: post
 date: "2016-07-21"
-permalink: /blog/why-smaill-is-the-key-to-big-agile-results/
+permalink: /blog/why-small-is-the-key-to-big-agile-results/
 categories:
   - Software Development
-excerpt: "Software development efforts often try to quickly scale resources in order to speed the pace of development. Hoewever, taking a small approach can often yield better results."
+excerpt: "Software development efforts often try to quickly scale resources in order to speed the pace of development. However, taking a small approach can often yield better results."
 ---
 
 {% include image.html url="/images/post-small-key-big-agile.jpeg" alt="Hummingbird" caption="Big results can come from small things. (Pexels)" width=400 align="right" %}
@@ -23,25 +23,51 @@ I’ve seen Scrum Teams with 20 or more developers, and my first instinct is alw
 
 Let’s say you have one Scrum Master, one Product Owner, and five Development Team members. That is a total of seven people on the Scrum Team. The number of communication channels for this seven person team can be calculated using the formula `n(n-1)/2` where n is the number of people on the team. Using this formula, we can determine that there are 21 communication channels. However, adding more people to the team dramatically increases the number of communication channels:
 
+<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td, th {
+    border: 3px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(odd) {background: #FFF}
+tr:nth-child(even) {background: #CCC}
+
+
+</style>
+</head>
+<body>
+
+</body>
+</html>
+
 
 | Team Members | Communication Channels |
-| ------------ | ---------------------- |
+|:----------:|:--------------------:|
 |  8           |       28               |
 |  9           |       36               |
 | 10	         |       45               | 
 | 11	         |       55               |
-| 12           |       66               |
+| 12 |       66               |
 | 13           |       78               |
-| 14	         |       91               |
+| 14 |       91               |
 | 15	         |      105               |
-| 16	         |      120               | 
+| 16 |      120               | 
 | 17	         |      136               |
 | 18	         |      153               |
 | 19	         |      171               |
 | 20	         |      190               |
 
-<br>
-<br>
+
+
 For example, if three people are added to the seven person Scrum team (a 30% increase in team size), you more than double the number of communication channels. If you double the seven person Scrum Team to 14 people, you more than quadruple the number of communication channels.
 
 Small teams are better positioned to efficiently and effectively manage Scrum events like Sprint Planning, the Daily Standups, the Sprint Review, and the Sprint Retrospective. Having a small team size increases the likelihood the team communication is focused and fast decisions can be made.

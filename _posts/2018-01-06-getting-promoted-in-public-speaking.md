@@ -63,7 +63,7 @@ As Captain Keynotes advance, they start getting invited to give more opening key
 
 At the top of the public speaking stand the Colonel Chairs. These are the people who have spent several months speaking at tech events and have often helped organize and run them. The role of the Colonel Chair is to select speakers for the conference, plan the agenda, enforce the code of conduct, and make sure the conference is a success.
 
-There is an immense amount of stress being a Colonel Chair because the responsibilities are substantial. Many hours of work are required before the conference, and Colonel Chairs often have to maintain a constant presence while the conference is being conducted. There are also severl post-conference responsibilities. However, conferences usually offer some form of compensation for Colonel Chairs, and they can gain a lot of respect in the industry if the events they run are successful.
+There is an immense amount of stress being a Colonel Chair because the responsibilities are substantial. Many hours of work are required before the conference, and Colonel Chairs often have to maintain a constant presence while the conference is being conducted. There are also several post-conference responsibilities. However, conferences usually offer some form of compensation for Colonel Chairs, and they can gain a lot of respect in the industry if the events they run are successful.
 
 
 ## Conclusion

@@ -7,6 +7,7 @@ permalink: /blog/my-son-in-budapest/
 categories:
   - Speaking
 excerpt: "My son gave a presentation to the Scratch conference in Budapest. This is how that happened.."
+comments: true
 ---
 
 * CraftConf

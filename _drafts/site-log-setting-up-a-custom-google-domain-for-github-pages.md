@@ -7,6 +7,7 @@ permalink: /blog/setting-up-a-custom-google-domain-for-github-pages/
 categories:
   - Site Log
 excerpt: "Setting up a custom Google domain to use with GitHub Pages is straightforward, but there are a frew tricky steps. Here is how I did it for this site."
+comments: true
 ---
 
 https://help.github.com/articles/setting-up-an-apex-domain-and-www-subdomain/

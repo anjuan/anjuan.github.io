@@ -7,6 +7,7 @@ permalink: /blog/public-speaking-retrospective-2016/
 categories:
   - Speaking
 excerpt: "I learned a great deal about public speaking in 2016. This is what I learned and my goals for the future."
+comments: true
 ---
 
 I started 2016 with a number of ambitious goals, and I met many of them. I grew as a technologist, maintained a healthy regimen of eating and exercise, left a company to start a new chapter in my career, and enjoyed many loving relationships with family and friends. However, I want to focus this post on the goal that far exceeded my expectations: grow as a public speaker. So, inspired by [Cate](https://cate.blog/2016/12/15/2016-speaking-and-2017-goals/) and [Martin](http://martinb3.io/public-speaking-2016/), I'm reflecting on my experiences as a public speaker in 2016.

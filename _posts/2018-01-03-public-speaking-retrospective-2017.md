@@ -7,6 +7,7 @@ permalink: /blog/public-speaking-retrospective-2017/
 categories:
   - Speaking
 excerpt: "My public speaking career went fully international in 2017, and I'm more thankful than ever for the privilege to take the stage at tech events all over the world. Once again, this is what I learned and my goals for the future."
+comments: true
 ---
 
 As I did [this time last year](http://anjuansimmons.com/blog/public-speaking-retrospective-2016/), here are my reflections on my public speaking experiences in 2017. Last year provided amazing opportunities to level up my skills as a speaker and also grow as a human being.

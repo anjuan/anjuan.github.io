@@ -7,6 +7,7 @@ permalink: /blog/evaluating-conference-proposals-using-stars/
 categories:
   - Speaking
 excerpt: "Conference committees have the daunting tasks of evaluating hundreds of proposals to find the ones that deserve to be on the conference schedule. As a member of several conference committees and advisory boards, I've developed a rubric for grading proposals called STARS."
+comments: true
 ---
 
 {% include image.html url="/images/post-evaluating-using-stars.jpeg" alt="Measuring Tape" caption="Determining how conference proposals measure up. (Pexels)" width=400 align="right" %}

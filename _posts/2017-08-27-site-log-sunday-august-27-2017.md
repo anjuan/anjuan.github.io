@@ -7,6 +7,7 @@ permalink: /blog/setting-up-my-site-on-github-pages/
 categories:
   - Site Log
 excerpt: "This is a high-level log of what I've done with the site as of Sunday, August 27, 2017."
+comments: true
 ---
 
 This is the first post in an irregularly scheduled series of the work I'm doing building out this site. This site is my personal repository of my content on the internet, but it's also an expression of what I've learned using Jekyll to create a website. That includes learning more about GitHub, Markdown, HTML, CSS, and other tech topics.

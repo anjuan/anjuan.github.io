@@ -7,6 +7,7 @@ permalink:
 categories:
   - Drafts
 excerpt: "I'm rarely surprised when someone tenders their resignation because I've learned to recognize the signs that someone is exploring other opportunities."
+comments: true
 ---
 
 - The key is a change in behavior

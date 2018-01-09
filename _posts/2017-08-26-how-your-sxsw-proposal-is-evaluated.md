@@ -7,6 +7,7 @@ permalink: /blog/how-to-get-your-sxsw-proposal-accepted/
 categories:
   - Speaking
 excerpt: "I've been a member of the SXSW Advisory Board (AB) for several years. As a member of the AB, I've reviewed hundreds of proposals submitted throug hthe PanelPicker interface. Here is my approach to deciding if I should vote for a proposal to be a part of SXSW."
+comments: true
 ---
 
 {% include image.html url="/images/post-sxsw-evalutaor.jpeg" alt="Gavel" caption="Judging SXSW proposals is both art and science. (Pexels)" width=400 align="right" %}

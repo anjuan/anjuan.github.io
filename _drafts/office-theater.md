@@ -7,6 +7,7 @@ permalink: /blog/office-theater/
 categories:
   - Site Log
 excerpt: "Acting is more than repeating lines, and being a successful professional is more than just filling your job description. Understanding office theater can help you keep your role and also stay out of the spotlight when your organization is considering workforce reductions."
+comments: true
 ---
 
 

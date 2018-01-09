@@ -1,21 +1,24 @@
 <div class="post-comments"></div>
 {% if page.comments != false %}
 
-  <div id="disqus_thread"></div>
-  <script>
-    /* var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ site.disqus.shortname }}';
-    }; */
-    var disqus_shortname = 'anjuansimmons';
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+        this.page.url = "{{site.url}}{{page.url}}";  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = "{{page.url}}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
     (function() {  // DON'T EDIT BELOW THIS LINE
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        var d = document, s = d.createElement('script');
+        
+        s.src = 'https://anjuansimmons.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
-  {% else %}
+{% else %}
   <div class="bg-danger">Comments have been disabled for this post.</div>
 {% endif %}

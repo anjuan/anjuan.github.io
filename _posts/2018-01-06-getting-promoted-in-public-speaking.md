@@ -7,7 +7,7 @@ permalink: /blog/getting-promoted-in-public-speaking/
 categories:
   - Speaking
 excerpt: "Every speaker has a different journey, but there are levels to public speaking that almost everyone has to navigate."
-comments: false
+comments: true
 ---
 
 I started speaking at public tech events in 2009, and 2016 was a banner year for me. I’ve had opportunities to speak from Los Angeles to Boston, from Detroit to Austin, and as far away as South Africa and Colombia. It's been immensely gratifying to have so many opportunities to share my ideas and passions with technical audiences.

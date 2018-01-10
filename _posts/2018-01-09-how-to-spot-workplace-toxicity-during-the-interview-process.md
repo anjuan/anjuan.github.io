@@ -22,13 +22,13 @@ Here are ways to peer behind the mask and spot potential blemishes in a potentia
 
 You'll get various emails throughout the interview process, and they usually come from the recruiter or the hiring manager. They usually contain updates about how you're doing in the process and provide opportunities for you to ask questions. Receiving these emails late at night (i.e., after 7pm in their local time zone) or on the weekend is a sign of a possible toxic workplace.
  
-This is a sign that the recruiting team and hiring managers may not treat the interview process as a high priority or that they have too much work to do during normal hours to fit in guiding you through the process. Why should you care? Well, your soon-to-be-new-colleagues may have also came through a sloppy process with deficiencies that a better implementation would have screened out. Also, working late at night and on the weekends could be an acceptable organizational process, and you may be pulling those same hours if you get and accept an offer from the company.
+This is a sign that the recruiting team and hiring managers may not treat the interview process as a high priority or that they have too much work to do during normal hours to fit in guiding you through the process. Why should you care? Well, potential new colleagues may have also matriculated through a sloppy process with deficiencies that a better implementation would have screened out. Also, working late at night and on the weekends may be an acceptable organizational process, and you could be pulling those same hours if you receive and accept an offer from the company.
 
 ## Exhausted Employees
 
-Most companies follow the traditional format of an initial phone screen (to make sure you match the impression suggested your resume), a phone screen with the hiring manager (to get a sense if you can do the job), and then an office visit (to see how you interact with your potential new colleagues). I've had a lot of office visits in my career, and I have, on more than one occasion, noticed an employee who seems totally exhausted (e.g., blood shot eyes, excessive yawning, and general lethargy).
+Most companies follow the traditional format of an initial phone screen (to make sure you match the impression suggested by your resume), a phone screen with the hiring manager (to get a sense of if you can do the job), and then an office visit (to see how you interact with your potential new colleagues). I've had a number of office visits in my career, and I have, on more than one occasion, noticed an employee who seems totally exhausted (e.g., blood shot eyes, excessive yawning, and general lethargy).
 
-What's particularly shocking in these cases is that most of the other employees don't seem to notice. This is a sign that overwork and exhaustion are acceptable states for employees even when the company is trying to present itself in the best light.
+What's particularly shocking in these cases was that most of the other employees didn't seem to notice. If you see an employee who seems on the verge of collapse during the interview process, that's a sign that overwork and exhaustion are acceptable states for employees even when the company is trying to present itself in the best light.
 
 ## Reverse Interview
 

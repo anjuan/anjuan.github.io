@@ -44,10 +44,10 @@ A last minute cancellation by a member of the executive team may indicate that t
 
 ## Driven to Distraction
 
-Office visits sometime include an interview with a panel of employees. This gives multiple people the opportunity to assess you at the same time. It's a major red flag if, during the panel interview, one or more members work on their laptops or mobile phones. While it's possible that these devices are being used to take note, you can normally tell if this is the case based on the level of eye contact.
+Office visits occasionally include an interview with a panel of employees. This gives multiple people the opportunity to assess you at the same time. It's a major red flag if, during the panel interview, one or more members work on their laptops or mobile phones. While it's possible that these devices are being used to take notes, you can normally tell if this is the case based on the frequency of eye contact being given and their general level of engagement.
 
-This behavior could also be a sign that employees of the company are so overworked that they cannot be fully present when a candidate for employment is before them. This may an indicator that you won't be treated with respect if join the organization.
+This behavior could be a sign that employees of the company are so overworked that they cannot be fully present when a candidate for employment is before them. This may an indicator that you won't be treated with respect if join the organization.
 
 ## Conclusion
 
-While you can't understand the culture of a company until you spend several months interacting with it, these are the signs that you could be joining a toxic workplace. While it's common to focus on how you're presenting yourself during the interview process, it's critical that you also critically assess the organization that you may trust with your employment.
+While you can't understand the culture of a company until you spend several months interacting with it, these are the signs that you could be joining a toxic workplace. While it's common to focus on how you're presenting yourself during the interview process, it's critical that you also objectively assess the organization that you're considering as a future employer.

@@ -32,9 +32,9 @@ What was particularly shocking in these cases was that most of the other employe
 
 ## Reverse Interview
 
-It's been rare, but I've had the awkward experience of being interviewed during the office visit by someone who seems very interested in **my** current company. With longing in their voice, they asked about the development stack, culture, and perks of the company I was trying to leave in order to join their organization. In each case, the interviewer seemed on the edge of asking me if my current company was hiring!
+It's been rare, but I've had the awkward experience of being interviewed during the office visit by someone who seemed unusually interested in **my** current company. With longing in their voice, they asked about the development stack, culture, and perks of the company I was trying to leave in order to join their organization. In each case, the interviewer seemed to be on the edge of asking me if my current company was hiring!
 
-If someone is so dissatisfied that they can't mask it during the interview process, then that's a major sign that something is toxic at the company. If someone is desperately trying to run away from a building, that's not somewhere I want to enter.
+If an interviewer is so dissatisfied with the company that they can't mask it during the interview process, then that's a major sign that something is toxic at that organization. If someone is desperately trying to run away from a building, then that's not somewhere I want to enter.
 
 ## Executive Team Cancellations
 
@@ -44,10 +44,10 @@ A last minute cancellation by a member of the executive team may indicate that t
 
 ## Driven to Distraction
 
-Office visits occasionally include an interview with a panel of employees. This gives multiple people the opportunity to assess you at the same time. It's a major red flag if, during the panel interview, one or more members work on their laptops or mobile phones. While it's possible that these devices are being used to take notes, you can normally tell if this is the case based on the frequency of eye contact being given and their general level of engagement.
+Office visits occasionally include an interview with a panel of employees. This gives multiple people the opportunity to assess you at the same time. It's a major red flag if, during the panel interview, one or more members work on their laptops or mobile phones. While it's possible that these devices are being used to take notes, you can normally tell if that's the case based on the frequency of eye contact being given and their general level of engagement.
 
-This behavior could be a sign that employees of the company are so overworked that they cannot be fully present when a candidate for employment is before them. This may an indicator that you won't be treated with respect if join the organization.
+This behavior could be a sign that employees of the company are so overworked that they cannot be fully present when a candidate for employment is before them. This may an indicator that you won't be treated with respect if you join the organization.
 
 ## Conclusion
 
-While you can't understand the culture of a company until you spend several months interacting with it, these are the signs that you could be joining a toxic workplace. While it's common to focus on how you're presenting yourself during the interview process, it's critical that you also objectively assess the organization that you're considering as a future employer.
+While you can't understand the culture of a company until you spend several months interacting with it, these are the signs you may see during the interview process that you could be joining a toxic workplace. While it's common to focus on how you're presenting yourself during the interview process, it's critical that you also objectively assess the organization that you're considering as a future employer.

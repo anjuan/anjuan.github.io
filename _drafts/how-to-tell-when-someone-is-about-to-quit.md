@@ -3,9 +3,9 @@ title: 'How to Tell When Someone is About to Quit'
 author: anjuan
 layout: post
 date: "2017-09-20"
-permalink:
+permalink: /blog/how-to-tell-when-someone-is-about-to-quit/
 categories:
-  - Drafts
+  - Business
 excerpt: "I'm rarely surprised when someone tenders their resignation because I've learned to recognize the signs that someone is exploring other opportunities."
 comments: true
 ---

@@ -3,7 +3,7 @@ title: 'Test Draft Post'
 author: anjuan
 layout: post
 date: "2017-08-27"
-permalink:
+permalink: /blog/test-draft-post/
 categories:
   - Drafts
 excerpt: "This is a test draft post."

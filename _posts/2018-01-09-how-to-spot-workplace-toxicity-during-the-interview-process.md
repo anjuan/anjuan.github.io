@@ -40,7 +40,7 @@ If someone is so dissatisfied that they can't mask it during the interview proce
 
 An office visit often includes a (usually short) interview with a member of the executive team. However, if this meeting is cancelled at the last minute, this gives you a lot of insight into the leadership of the company.
 
-A last minute cancellation by a member of the executive team may indicate that the leaders of the company are too busy to prioritize and hiring process and meet their commitments to potential future employees. Company executives make time for the people who are important to them and their business. Failing to make a previously scheduled meeting with you during the interview process could be a sign that you won't be seen as a priority to the top of the company.
+A last minute cancellation by a member of the executive team may indicate that the leaders of the company are too busy to prioritize the hiring process and meet their commitments to potential future employees. Company executives make time for the people who are important to them and key to the success of their business. Failing to make a previously scheduled meeting with you during the interview process could be a sign that you won't be seen as a priority to the top of the company.
 
 ## Driven to Distraction
 

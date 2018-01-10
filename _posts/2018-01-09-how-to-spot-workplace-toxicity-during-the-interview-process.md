@@ -28,7 +28,7 @@ This is a sign that the recruiting team and hiring managers may not treat the in
 
 Most companies follow the traditional format of an initial phone screen (to make sure you match the impression suggested by your resume), a phone screen with the hiring manager (to get a sense of if you can do the job), and then an office visit (to see how you interact with your potential new colleagues). I've had a number of office visits in my career, and I have, on more than one occasion, noticed an employee who seems totally exhausted (e.g., blood shot eyes, excessive yawning, and general lethargy).
 
-What's particularly shocking in these cases was that most of the other employees didn't seem to notice. If you see an employee who seems on the verge of collapse during the interview process, that's a sign that overwork and exhaustion are acceptable states for employees even when the company is trying to present itself in the best light.
+What was particularly shocking in these cases was that most of the other employees didn't seem to notice the fraught state of their colleague. If you see an employee who seems on the verge of collapse during the interview process, that's a sign that overwork and exhaustion are acceptable experiences for employees even when the company is trying to present itself in the best light.
 
 ## Reverse Interview
 

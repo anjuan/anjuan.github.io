@@ -14,7 +14,7 @@ comments: true
 
 My career has spanned two decades, and I've navigated the move between companies several times during that period. So, I've had several chances to see the difference between how the company presents itself during the interview and how it actually operates on a daily basis. 
 
-Remember, once you reach the end of the interview process and the other candidates have been selected out, the company starts to sell itself to you as much as you're trying to sell yourself to it. This means that you'll see more of the Photoshopped version of the organization instead of how it looks without airbrushing.
+Remember, once you reach the end of the interview process and the other candidates have been selected out, the company starts to sell itself to you as much as you're trying to sell yourself to it. This means that you'll see more of the Photoshopped version of the organization rather than the non-airbrushed face of the company it presented when you first began pursuing it.
 
 Here are ways to peer behind the mask and spot potential blemishes in a potential employer's culture and operations during the interview process.
 

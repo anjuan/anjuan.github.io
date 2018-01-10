@@ -20,7 +20,7 @@ What's a toxic workplace? Here are the first two sentences from the Wikipedia de
 
 > A toxic workplace is a workplace that is marked by significant drama and infighting, where personal battles often harm productivity. Toxic workplaces are often considered the result of toxic employers and/or toxic employees who are motivated by personal gain (power, money, fame or special status), use unethical, mean-spirited and sometimes illegal means to manipulate and annoy those around them; and whose motives are to maintain or increase power, money or special status or divert attention away from their performance shortfalls and misdeeds. 
 
-Toxic workplaces should be avoided if at all possible. Here are ways to peer behind the mask and spot possible toxicity in a potential employer's culture and operations **before** you decide to join the organization.
+Toxic workplaces should be avoided if at all possible, and that's easier to do if the organization treats you as a priority and with dignity and respect. Here are ways to peer behind the mask and spot possible toxicity in a potential employer's culture and operations **before** you decide to join the organization.
 
 ## Updates Outside of Regular Hours
 

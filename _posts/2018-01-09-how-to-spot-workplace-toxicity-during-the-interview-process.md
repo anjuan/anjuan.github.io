@@ -5,7 +5,7 @@ layout: post
 date: "2018-01-09"
 permalink:
 categories:
-  - Drafts
+  - Career
 excerpt: "When you're looking for a job, making progress through the interview process can be exciting. However, don't let it blind you to clues that the company may have a toxic workplace."
 comments: true
 ---

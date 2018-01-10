@@ -20,7 +20,7 @@ Here are ways to peer behind the mask and spot possible blemishes in a potential
 
 ## Updates Outside of Regular Hours
 
-You'll get various emails throughout the interview process, and they usually come from the recruiter or the hiring manager. They often contain updates about how you're doing in the process and provide opportunities for you to ask questions. Receiving these emails late at night (i.e., after 7pm in their local time zone) or on the weekend is a sign of a possible toxic workplace.
+You'll get various emails throughout the interview process, and they usually come from the recruiter or the hiring manager. They often contain updates about how you're doing in the process and provide opportunities for you to ask questions. Receiving these emails late at night (e.g., after 7pm in their local time zone) or on the weekend is a sign of a possible toxic workplace.
  
 This is a sign that the recruiting team and hiring managers may not treat the interview process as a high priority or that they have too much work to do during normal hours to fit in guiding you through the process. Why should you care? Well, potential new colleagues may have also matriculated through a sloppy process with deficiencies that a better implementation would have screened out. Also, working late at night and on the weekends may be an acceptable organizational process, and you could be pulling those same hours if you receive and accept an offer from the company.
 

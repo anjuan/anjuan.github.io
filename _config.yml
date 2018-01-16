@@ -40,9 +40,6 @@ excerpt_separator: "<!--more-->"
 # Google Analytics
 google_analytics: UA-112266652-1
 
-# Travis CI - Keeps Travis from reading the vendor directory where bundles the gems it uses
-exclude: [vendor]
-
 # SEO stuff
 google_author: "https://plus.google.com/u/0/+AnjuanSimmons"
 

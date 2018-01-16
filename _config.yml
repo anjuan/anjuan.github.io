@@ -45,6 +45,7 @@ google_author: "https://plus.google.com/u/0/+AnjuanSimmons"
 
 plugins:
   - jekyll-sitemap
+  - html-proofer
 
 
 # Exclude from processing.

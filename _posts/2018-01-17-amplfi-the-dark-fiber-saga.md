@@ -1,9 +1,9 @@
 ---
-title: 'Amplifi: The Dark Fiber Saga'
+title: 'Amplifi HD: The Dark Fiber Saga'
 author: anjuan
 layout: post
 date: "2018-01-17"
-permalink: /blog/amplifi-the-dar-fiber-saga/
+permalink: /blog/amplifi-the-dark-fiber-saga/
 categories:
   - Tech
 excerpt: "My home network wasn't meeting my needs. I was blowing through my ISP's data cap every month, and I had dead spots in various corners where the WiFi completely died. This is the story of how I fought to revive my home network with AT&T's fiber service and AmpliFi HD."

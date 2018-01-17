@@ -36,11 +36,11 @@ I use the Study as my home office, and it has an ethernet jack so I never had a 
 
 Due to the numerous devices used by my kids, my family's frequent use of streaming video services, and my use of Google Cloud to back up my files, I found myself blowing through Comcast's 1 TB monthly cap on a regular basis. So, my bill was slowly increasing every month.
 
-I decided to have another go at improving my home network a few weeks ago. I started by ordering AT&T's Internet 1000 speed which promised up to 1000 Mbps download and no caps. A technician spent four hours trenching outside my house and drilling a hole into my garage. The last step was installing and configuring a 2Wire 5268AC ("5268AC"). I did a quick speedtest with my laptop connected directly to one of the ethernet ports on the 5268AC and, unsurprisingly, I was getting a really fast connection:
+I decided to have another go at improving my home network a few weeks ago. I started by ordering AT&T's Internet 1000 speed which promised up to 1000 Mbps download and no caps. A technician spent four hours trenching outside my house and drilling a hole into my garage. The last step was installing and configuring a 2Wire 5268AC ("5268AC"). I did a quick speed-test with my laptop connected directly to one of the ethernet ports on the 5268AC and, unsurprisingly, I was getting a really fast connection:
 
 {% include image.html url="/images/amplifi-the-dark-fiber-saga-speedtest-1.png" alt="speed test 1" caption="Speed test using wired connection to Linksys router" width=300 align="center" %}
 
-While adding fiber generally improved the speed of wired connections from about 130 Mbps to consistent speeds above 900 Mbps, I still had dead spots in my home. I was like someone who ratched up the water pressure coming into a sprinkler system but still had dead grass in the yard that were too far from a sprinkler head. I realized I needed to expand my WiFi coverage which was impossible to do with the ac6900. So, as we do, I took to Twitter to complain.
+While adding fiber generally improved the speed of wired connections from about 130 Mbps to consistent speeds above 900 Mbps, I still had dead spots in my home. I was like someone who ratcheted up the water pressure coming into a sprinkler system but still had dead grass in the yard that were too far from a sprinkler head. I realized I needed to expand my WiFi coverage which was impossible to do with the ac6900. So, as we do, I took to Twitter to complain.
 
 ## The Coming of AmpliFi HD
 
@@ -159,7 +159,7 @@ My wife and I like to entertain guests, and the lack of a guest mode really bugg
 
 I placed it on the stair case between the Game Room and Learning center in this configuration. However, I soon saw the same AT&T message indicating that the Linksys router was fighting with the upstream AT&T modem. So, I had to put it into bridge mode, too.
 
-Bridge mode on the Linksys router also removed a lot of its capabilities. It could not longer create an explicit guest network or be configured to do things like port forwarding or create MAC filers. I also had to turn off DHCP on the Linksys router so that it could get an IP address from the upstream AT&T modem. However, it was important to leave DNS on so that it could assign IP addresses to the users who connected to it as it performed guest network duties. There are good instruction on putting Linksys routers into bridge mode [here](https://www.linksys.com/fi/support-article?articleNum=137888).
+Bridge mode on the Linksys router also removed a lot of its capabilities. It could not longer create an explicit guest network or be configured to do things like port forwarding or create MAC filers. I also had to turn off DHCP on the Linksys router so that it could get an IP address from the upstream AT&T modem. However, it was important to leave DNS on so that it could assign IP addresses to the users who connected to it as it performed guest network duties. There are good instructions on putting Linksys routers into bridge mode [here](https://www.linksys.com/fi/support-article?articleNum=137888).
 
 I also made the following modifications to have the Linksys router perform as a guest network:
   * I configured the router to obtain an IPv4 address automatically so that it gets an IP address from the AT&T fiber modem.

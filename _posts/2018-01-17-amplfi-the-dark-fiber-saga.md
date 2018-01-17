@@ -65,7 +65,7 @@ I spent a day reading Troy's posts and began researching Ubiquiti's products whe
 
 This is the patch box and switch in the upstairs guest bedroom closet with (going from right to left in the picture) the AT&T fiber modem, the Linksys router I was replacing, and an old Linksys switch. Most of the blue cables run to phone drops around the house, but the ones that go into the AT&T fiber modem connect to rooms with Ethernet ports. I also hung the Linksys router off the AT&T fiber modem so that it had a fast connection to broadcast over WiFi.  By the way, the AT&T fiber modem can broadcast WiFi, but it's not very good at it. So, I disabled the wireless capability of the AT&T fiber modem and just used it for getting the fast connection into my patch box. I used the Linksys router exclusively for WiFi, but I was there to replace it with the AmplFi HD.
 
-{% include image.html url="/images/amplifi-the-dark-fiber-saga-amplifi-hd-in-the-patch-box.jpg" alt="amplifi hd in the patch box" caption="Amplifi HD in the Patch Box" width=800 align="center" %}
+{% include image.html url="/images/amplifi-the-dark-fiber-saga-amplifi-hd-in-the-patch-box.jpg" alt="amplifi hd in the patch box" caption="Amplifi HD in the Patch Closet" width=800 align="center" %}
 
 I opened the AmpliFi HD and found that the packaging was very clean and minimal. You can see the square 802.11ac router and the two mesh points that extend the range of the router.
 

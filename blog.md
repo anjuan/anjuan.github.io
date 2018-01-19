@@ -6,9 +6,31 @@ permalink: /blog/
 
 I blog semi-regularly about a variety of topics. Most of my blog posts are about my career in tech, my thoughts on engineering culture, my travels, and other topics that interest me.
 
-My blog comments are powered by Disqus, and you can leave a comment by logging in with Disqus, Facebook, or Twitter. I moderate all comments, and I will remove any that are disrespectful or uncivil. Please be kind.
+Below is a list of my blog posts in chronological order and grouped by year. [Click here to see them grouped by category.](/categories/)
 
-Below is a list of my blog posts in chronological order. [Click here to see them grouped by category.](http://anjuansimmons.com/categories/)
+You can also search my blog using the box below. You'll get a list of links to any posts that contain the text you enter.
+
+<!---
+Create the search box and search button.
+-->
+
+<form action="get" id="site_search">
+<left>
+  <input style="font-size:20px;" type="text" id="search_box">
+  <input style="font-size:20px;" type="submit" value="Search">
+</left>
+</form>
+<br>
+
+<ul id="search_results"></ul>
+
+<script src="/js/lunr.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/js/search.js"></script>
+
+<!---
+List blog posts grouped by year.
+-->
 
 <ul class="listing">
 {% for post in site.posts %}

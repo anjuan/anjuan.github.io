@@ -5,7 +5,7 @@ layout: post
 date: "2018-01-09"
 permalink: /blog/how-to-spot-workplace-toxicity/
 categories:
-  - Career
+  - Work
 excerpt: "When you're looking for a job, making progress through the interview process can be exciting. However, don't let it blind you to clues that the company may be a toxic workplace."
 comments: true
 ---

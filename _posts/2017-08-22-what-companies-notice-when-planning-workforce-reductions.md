@@ -5,7 +5,7 @@ layout: post
 date: "2017-08-22"
 permalink: /blog/what-companies-consider-when-planning-workforce-reductions/
 categories:
-  - Business
+  - Work
 excerpt: "A reduction in force (RIF) is an act to remove headcount in order to satisfy budgetary concerns. Knowing what companies consider when planning a RIF can help you avoid being included in one."
 comments: true
 ---

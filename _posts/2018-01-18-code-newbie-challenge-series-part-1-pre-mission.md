@@ -5,7 +5,7 @@ layout: post
 date: "2018-01-18"
 permalink: /blog/code-newbie-challenge-series-p1-pre-mission/
 categories:
-  - Writing
+  - CNC2018
 excerpt: "I joined the CodeNewbie Challenge (#CNC2018), and I chose the Blog More challenge. I'm turning my work on this challenge into a blog series, and this is Part 1: The Pre-Mission!"
 comments: true
 ---

@@ -5,7 +5,7 @@ layout: post
 date: "2017-08-27"
 permalink: /blog/setting-up-my-site-on-github-pages/
 categories:
-  - Site Log
+  - Jekyll
 excerpt: "This is a high-level log of what I've done with the site as of Sunday, August 27, 2017."
 comments: true
 ---

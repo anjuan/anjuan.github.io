@@ -5,7 +5,7 @@ layout: post
 date: "2018-01-15"
 permalink: /blog/master-your-inbox-with-the-draft-method/
 categories:
-  - Career
+  - Work
 excerpt: "Are overflowing email inboxes getting you down? The D.R.A.F.T. Method will help you master your messages and bring your email under control."
 comments: true
 ---

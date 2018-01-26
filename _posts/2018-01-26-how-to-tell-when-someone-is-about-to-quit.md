@@ -12,7 +12,7 @@ comments: true
 
 {% include image.html url="/images/how-to-tell-when-someone-is-about-to-quit.jpg" alt="broken exit sign" caption="It's a fact of life that employees leave companies, but a trained eye can see the signs that an exit is on the horizon (Pixabay)" width=400 align="right" %}
 
-The resignation of an employee can have serious consequences for the company. That employee's role now has to be filled by someone else, and, even if the employee's replacement has the same role, the details are probably different. However, most people telegraph their upcoming departure through changes in behavior, and picking up on these changes can help you avoid being surprised.
+The resignation of an employee can have serious consequences for any company. That employee's role now has to be filled by someone else, and, even if the employee's replacement has the same role, the details are probably different. However, most people telegraph their upcoming departure through changes in behavior, and picking up on these changes can help you avoid being surprised.
 
 ## Online Changes
 

@@ -20,5 +20,7 @@
 - title: "Contact Me"
   href: "/contact/"
 
-- title: "Résumé"
-  href: "/resume/"
+# Unplublish the resume page.
+#
+# - title: "Résumé"
+#  href: "/resume/"

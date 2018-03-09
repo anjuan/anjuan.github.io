@@ -29,6 +29,7 @@ This session will help attendees understand the principles behind the Manifesto 
 
 Here are links to videos of me giving this talk at conferences:
 
+* [QCon San Francisco](https://www.infoq.com/presentations/agile-manifesto-principles-leader)
 * [Rocky Mountain Ruby](http://confreaks.tv/videos/rockymountainruby2017-leadership-lessons-from-the-agile-manifesto)
 * [The Lead Developer UK](https://www.youtube.com/watch?v=bvGLTNrJ5io)
 

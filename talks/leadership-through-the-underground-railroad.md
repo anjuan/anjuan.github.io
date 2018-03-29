@@ -4,7 +4,7 @@ title: Leadership Through the Underground Railroad
 permalink: /talks/leadership-through-the-underground-railroad/
 ---
 
-{% include image.html url="/images/leadership-lessons-from-the-agile-manifesto.jpg" alt="LeadDevUK" caption="Giving my Leadership Lessons from the Agile Manifesto talk at The Lead Developer UK in London." width=676 align="center" %}
+{% include image.html url="/images/leadership-through-the-underground-railroad-header.jpg" alt="LeadDevAustin" caption="Giving my Leadership Lessons Through the Underground Railroad talk at The Lead Developer Austin." width=676 align="center" %}
 
 ## Abstract
 

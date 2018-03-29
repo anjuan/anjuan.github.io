@@ -23,7 +23,11 @@ The Underground Railroad provides insights that technical leaders can use to imp
 * A Technical Lead in Trouble
 * The Underground Railroad
 * The Conductor Hero
-* Leadership Lessons
+* Leadership Lesson 1: Prepare Your Incentives Before You Need Them
+* Leadership Lesson 2: Bold Actions Set the Tone
+* Leadership Lesson 3: Don't Let Your Experience Bias You
+* Leadership Lesson 4: Embrace Continuous Solving
+* Leadership Lesson 5: You're a Lead of Leaders
 * Leadership Traits from the Underground Railroad
 
 ## Videos

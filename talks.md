@@ -12,6 +12,8 @@ This page serves as a directory of the talks I give at tech events. Each link wi
 ## Technology Leadership
 
 * [Leadership Lessons from the Agile Manifesto](/talks/leadership-lessons-from-the-agile-manifesto/)
+* [Leadership Lessons through the Underground Railroad](/talks/leadership-through-the-underground-railroad/)
+
 
 ## Diversity and Inclusion
 

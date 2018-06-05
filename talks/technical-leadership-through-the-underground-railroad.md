@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Leadership Through the Underground Railroad
-permalink: /talks/leadership-through-the-underground-railroad/
+title: Technical Leadership Through the Underground Railroad
+permalink: /talks/technical-leadership-through-the-underground-railroad/
 ---
 
 {% include image.html url="/images/leadership-through-the-underground-railroad-header.jpg" alt="LeadDevAustin" caption="Giving my Leadership Lessons Through the Underground Railroad talk at The Lead Developer Austin." width=676 align="center" %}

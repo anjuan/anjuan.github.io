@@ -20,7 +20,7 @@ The Underground Railroad provides insights that technical leaders can use to imp
 
 ## Outline
 
-* A Technical Lead in Trouble
+* A Technical Leader in Trouble
 * The Underground Railroad
 * The Conductor Hero
 * Leadership Lesson 1: Prepare Your Incentives Before You Need Them

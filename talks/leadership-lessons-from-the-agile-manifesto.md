@@ -25,10 +25,15 @@ This session will help attendees understand the principles behind the Manifesto 
 * Customer Collaboration: Customers Trust Colleagues, Not Contracts
 * Responding to Change: Don’t Fear Surprises, Fear Inflexibility
 
+## Slides
+
+You can find my slides on [SpeakerDeck](https://speakerdeck.com/anjuan/leadership-lessons-from-the-agile-manifesto).
+
 ## Videos
 
 Here are links to videos of me giving this talk at conferences:
 
+* [DevOpsDays Seattle](https://youtu.be/cZ781sgseJY)
 * [QCon San Francisco](https://www.infoq.com/presentations/agile-manifesto-principles-leader)
 * [Rocky Mountain Ruby](http://confreaks.tv/videos/rockymountainruby2017-leadership-lessons-from-the-agile-manifesto)
 * [The Lead Developer UK](https://www.youtube.com/watch?v=bvGLTNrJ5io)

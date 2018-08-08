@@ -73,7 +73,7 @@
 /**
  * Site footer
  */
-.site-footer {
+ .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
@@ -103,18 +103,18 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -255,3 +255,81 @@ ul.listing li.listing-item a {
 	font-family: 'Titillium Web', sans-serif;
 }
 
+
+/*------ archive type stuff ------ */
+
+ul#archive {
+       list-style-type: none;
+       margin: 0 0 1em 0;
+       padding: 0;
+}
+
+ul#archive li {
+       border-top: #999 1px dotted;
+       border-bottom: #999 1px dotted;
+       padding: .1em 0 .1em .5em;
+       background: #fff;
+}
+
+ul#archive  h2 {
+	padding-top: .5em }
+
+ul#archive li.alt {
+       background: #f6f6f6;
+}
+
+.archiveposturl {
+       display: block;
+
+       color: #333;
+}
+
+.archiveposturl:hover {
+
+}
+
+ul#archive li span a {
+       color: $clemson-purple;
+	font-weight: bold;
+font-family: 'Titillium Web', sans-serif;
+}
+
+
+ul#archive li span.postlower {
+	font-size: 85%
+
+}
+
+ul#archive li span.postlower a {
+	color: #07c;
+	font-weight: normal;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+
+}
+
+article ul {
+  list-style-type: none;
+}
+
+article ul > li:before {
+  content: "–"; /* en dash */
+  position: absolute;
+  margin-left: -1.1em; 
+}
+
+article ul#archive > li:before {
+  list-style-type: none;
+  content: none;
+}
+
+
+/* ul#archive li span {
+       color: #000;
+       font-size: 85%;
+}
+
+
+
+ul#archive li span a:hover {
+       border-bottom: #bdbdbd 1px solid;
+} */

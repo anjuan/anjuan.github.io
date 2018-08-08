@@ -12,9 +12,9 @@ comments: true
 
 {% include image.html url="/images/the-ten-planning-poker-commandments-header.jpg" alt="poker cards" caption="Planning poker is an effective way for Agile teams to get to a shared understanding with Product Owners. (Unsplash)" width=400 align="right" %}
 
-Planning Poker is a technique Agile software development teams use to estimate the work presented to them by the Product Owner. It allows the software development team members to discuss features requested by users and provide feedback about the effort required to bring those features to production. 
+Planning Poker is a technique Agile software development teams use to estimate the work presented to them by the Product Owner. It allows the software development team members to discuss features requested by users and provide feedback about the effort required to bring those features to production.
 
-Here's a typical Planning Poker session for an Agile team using Scrum. Scrum has an event at the start of a sprint called Sprint Planning. This is where the Scrum Development Team creates a forecast for what they think they can get accomplished during the sprint which is usually a two-week period of time. 
+Here's a typical Planning Poker session for an Agile team using Scrum. Scrum has an event at the start of a sprint called Sprint Planning. This is where the Scrum Development Team creates a forecast for what they think they can get accomplished during the sprint which is usually a two-week period of time.
 
 A common way to describe features is in the form of a user story. 
 
@@ -32,13 +32,13 @@ TBD
 
 ## 4 - “Remember completed stories, to keep them holy. You completed stories of various sizes in previous sprints, and you should use those as a relative guide for estimating. You shall not size without considering completed stories, you or your son or your daughter, your tester or your designer or your programmer or the manager who stays with you. For in previous stories the team made the heavens and the earth, the sea and all that is in them, and sized them all; therefore the work has been made shippable and made holy."
 
-TBD 
+TBD
 
 ## 5 - “Honor your fellow estimators, that your work may be Done in the upcoming sprint."
 
 TBD
 
-## 6 - “You shall not allow anyone to size stories who will not do work in the upcoming sprint".
+## 6 - “You shall not allow anyone to size stories who will not do work in the upcoming sprint."
 
 TBD
 

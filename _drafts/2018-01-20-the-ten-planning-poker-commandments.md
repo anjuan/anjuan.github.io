@@ -20,7 +20,7 @@ A common way to describe features is in the form of a user story.
 
 ## 1 - "You shall bring no time estimates to Planning Poker."
 
-Substantial research has indicated that people are bad at estimating how long something will take.
+Substantial research has indicated that people are bad at estimating how long something will take. In my experience, software developers are overwhelmingly optimistic people. This usually results in estimates that are far too small when compared to actual results.
 
 ## 2 - "You shall not take for yourself a user story that does not match the likeness of the Definition of Ready. You shall not discuss or size such a story, for the software we build is jealous, visiting the iniquity of Un-Ready work on Developers, on the third and fourth sprints of those who size such work, but showing lovingkindness to thousands, to those who heed the Definition of Ready, to those who want to get work to Done within a Sprint."
 

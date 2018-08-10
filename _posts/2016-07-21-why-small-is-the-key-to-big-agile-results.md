@@ -3,7 +3,7 @@ title: 'Why Small is the Key to Big Agile Results'
 author: anjuan
 layout: post
 date: "2016-07-21"
-permalink: blog/why-small-is-the-key-to-big-agile-results/
+permalink: /blog/why-small-is-the-key-to-big-agile-results/
 categories:
   - Agile
 excerpt: "Software development efforts often try to quickly scale resources in order to speed the pace of development. However, taking a small approach can often yield better results."
@@ -18,7 +18,7 @@ The same principle applies to Agile software development teams. Since the market
 
 Contrary to what most people would intuitively think, taking a small approach to software development can increase the amount of work that can be completed by an Agile software development team, especially those that practice Scrum. This requires understanding the concepts of small teams, small releases, and small vertical slices.
 
-## Small Teams
+# Small Teams
 
 I’ve seen Scrum Teams with 20 or more developers, and my first instinct is always to break them up into smaller Scrum Teams. Scrum recommends that the Development Team should be between 3 and 9 people. If a Development Team has less than 3 people, then it may be difficult to have all of the skills needed to complete the potentially shippable product increment by the end of the sprint. If a Development Team has more than 9 people, then coordination costs begin to dramatically rise.
 
@@ -75,7 +75,7 @@ Small teams are better positioned to efficiently and effectively manage Scrum ev
 
 Since Agile teams thrive in an environment with co-located teams that interact through face-to-face contact and regularly reflect with each other, Development Teams with more than nine people can’t communicate effectively enough to maximize their agility.
 
-## Small Releases
+# Small Releases
 
 It can be tempting to drive a software development team to deliver big releases chock full of awesome features. However, small releases with a small set of features provide benefits to both the team and to customers.
 
@@ -83,12 +83,12 @@ When a team considers which items to pull into the Sprint Backlog from the Produ
 
 When a small set of features are delivered to customers, they are better able to understand the delivered software and provide feedback. Give a user ten complicated features and they’ll delay giving you feedback for as long as possible. However, give a user three simple features, and you’ll get feedback before you return from your coffee break. The human mind can only process so much information at once, and we delay analyzing large data sets when we can get away with it. You can confirm this by simply checking the number of unread emails in your inbox.
 
-## Small Vertical Slices
+# Small Vertical Slices
 
 Developers often think of applications in terms of horizontal layers, and they often build software layer by layer. For example, developers will often build the entire back end database for a release, then the application logic, and then the user interface. It’s not uncommon for Development Teams that take this approach to finish a sprint with one layer “Done”. However, this is not a working product increment. How can a back end database be discussed during a Sprint Review? How can a user interface, no matter how elegant, be shown in a demo if it doesn’t work? Furthermore, delivering these layers separately from each other hinders the ability for upper layers to teach you about the lower layers. For example, if the back end database is fully developed before the user interface is started, then problems that can only be detected by the UI can result in the need to rebuild the database.
 
 A better approach is to think of applications in terms of features composed of vertical slices that each have a data, logic, and presentation layer. Therefore, working on Feature X means creating the database tables, business logic, and user interface for Feature X. This greatly increases the chance that Feature X will be working by the time of the Sprint Review and can be verified by the Product Owner. By building out an application vertical slice by vertical slice, the Development Team can deliver features faster and learn things from early vertical slices that can be applied to future vertical slices.
 
-## Conclusion
+# Conclusion
 
 The next time you spin up an Agile software development team or try to improve an existing one, consider taking a small approach. Seek to create a small team that delivers small features in small vertical slices. You may be surprised by the size of the results.

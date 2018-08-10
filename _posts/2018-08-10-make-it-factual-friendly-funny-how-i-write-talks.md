@@ -56,4 +56,4 @@ I try to not be too serial with "make it factual, make it friendly, make it funn
 
 However, this approach does help me avoid spinning my wheels early in the talk's evolution. Instead of looking for stock images or trying to insert jokes, I can focus on facts. Once the factual backbone of the talk is in place, I can go back and layer on imagery, fonts, humor, etc.
 
-I've found this process to be immensely helpful in shortening the time between when I think of a talk and the creation of a viable version of it that's ready to share with audiences.
+I've found this process to be immensely helpful in shortening the time between when I think of a talk and the creation of a viable version that's ready to share with audiences.

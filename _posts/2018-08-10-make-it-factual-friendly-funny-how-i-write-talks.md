@@ -48,7 +48,7 @@ For me, one of the hardest things to add to a talk is humor. However, audiences 
 
 I often find humor in the facts of the talk or in the situations from my life that I use to illustrate points. Often, it's only after I've rehearsed my talk several times that I find the funny bits.
 
-I've learned that jokes may work with some audiences but fail with other audiences. This is ok! Just because a joke falls flat doesn't mean that you should remove it from your talk, especially if people have previously responded well to it.  I have a joke in my [Leadership Lessons from the Agile Manifesto](/talks/leadership-lessons-from-the-agile-manifesto/) that has resulted in rapturous laughter in front of several groups. However, that joke has occasionally been met with crickets at other events. Nevertheless, I'm definitely keeping it in because I know that it works way more often than it doesn't.
+I've learned that jokes may work with some audiences but fail with other audiences. This is ok! Just because a joke falls flat doesn't mean that you should remove it from your talk, especially if people have previously responded well to it.  I have a joke in my [Leadership Lessons from the Agile Manifesto](/talks/leadership-lessons-from-the-agile-manifesto/) talk that has resulted in rapturous laughter in front of several groups. However, that joke has occasionally been met with crickets at other events. Nevertheless, I'm definitely keeping it in because I know that it works way more often than it doesn't.
 
 # Summary
 

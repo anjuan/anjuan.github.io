@@ -3,7 +3,7 @@ title: 'Why Small is the Key to Big Agile Results'
 author: anjuan
 layout: post
 date: "2016-07-21"
-permalink: /blog/why-small-is-the-key-to-big-agile-results/
+permalink: blog/why-small-is-the-key-to-big-agile-results/
 categories:
   - Agile
 excerpt: "Software development efforts often try to quickly scale resources in order to speed the pace of development. However, taking a small approach can often yield better results."

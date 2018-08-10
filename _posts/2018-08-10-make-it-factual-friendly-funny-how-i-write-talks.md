@@ -30,7 +30,7 @@ Audiences love learning things that they didn't know before (especially if they 
 
 # Make it Friendly
 
-After I make it factual, I "make it friendly" which means that the talk should be constructed for easy consumption. Most conference attendees have full-time jobs, and I don't want to make my talk feel like a part-time job.
+After I make it factual, I "make it friendly" which means that the talk should be constructed for easy consumption. Most conference attendees have full-time jobs, and I don't want my talk to feel like a part-time job.
 
 The most important thing I can do to give a friendly presentation is to be passionate. If the speaker isn't excited about the talk, then the audience won't care about the topic. By showing my passion for the talk, the audience can relax and at least watch one person having a good time!
 

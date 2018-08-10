@@ -28,7 +28,6 @@ Trade associations are also great sources for research. Most events are in indus
 
 Audiences love learning things that they didn't know before (especially if they feel that it's something they **should** know), and sprinkling interesting facts throughout my talks is a great way to keep them engaged. One way to share interesting facts is to include current events (in their industry or in popular culture), and link them to the topic of your talk.
 
-
 # Make it Friendly
 
 After I make it factual, I "make it friendly" which means that the talk should be constructed for easy consumption. Most conference attendees have full-time jobs, and I don't want to make my talk feel like a part-time job.

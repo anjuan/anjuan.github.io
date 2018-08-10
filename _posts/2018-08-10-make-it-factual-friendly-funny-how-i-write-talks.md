@@ -44,7 +44,7 @@ I also use stories from my life to connect with audiences, especially when I've 
 
 # Make it Funny
 
-For me, one of the hardest things to add to a talk is humor. However, audiences will usually fall in love with you if you can make them laugh. The who talk doesn't have to be a comedy set, but you should sprinkle enough humor through the talk to keep the audience engaged. Laughter is a great way to facilitate learning.
+For me, one of the hardest things to add to a talk is humor. However, audiences will usually fall in love with you if you can make them laugh. The whole talk doesn't have to be a comedy set, but you should sprinkle enough humor through the talk to keep the audience engaged. Laughter is a great way to facilitate learning.
 
 I often find humor in the facts of the talk or in the situations from my life that I use to illustrate points. Often, it's only after I've rehearsed my talk several times that I find the funny bits.
 

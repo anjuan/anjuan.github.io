@@ -12,6 +12,8 @@ comments: true
 
 I've worked in the technology industry for more than two decades, and I've noticed that people starting their careers in tech often don't understand the optics of the work we do. Technical competence alone, no matter how skilled you may be, will not be enough to be successful in modern software development.
 
+Perceptions matter, and your co-workers will form opinions of you based on their observations of your appearance and behavior. While an argument can be made that you should be judged only by how well you do your job, the reality is that people draw conclusion from more than the results you achieve for the business. Human are tribal by nature, and we look for signs to determine if you're exhibiting in-group or out-group behavior and where you fall in the hierarchy of respect.
+
 
 Your Presence - Look the Part
 

@@ -10,6 +10,8 @@ excerpt: "Acting is more than repeating lines, and being a successful profession
 comments: true
 ---
 
+I've worked in the technology industry for more than two decades, and I've noticed that people starting their careers in tech often don't understand the optics of the work we do. Technical competence alone, no matter how skilled you may be, will not be enough to be successful in modern software development.
+
 
 Your Presence - Look the Part
 

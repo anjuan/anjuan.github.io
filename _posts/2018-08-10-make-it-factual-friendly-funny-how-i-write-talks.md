@@ -30,7 +30,7 @@ Audiences love learning things that they didn't know before (especially if they 
 
 # Make it Friendly
 
-After I make it factual, I "make it friendly" which means that the talk should be constructed for easy consumption. Most conference attendees have full-time jobs, and I don't want to make my talk feel like a part-time job.
+After I make it factual, I "make it friendly" which means that the talk should be constructed for easy consumption. Most conference attendees have full-time jobs, and I don't want my talk to feel like a part-time job.
 
 The most important thing I can do to give a friendly presentation is to be passionate. If the speaker isn't excited about the talk, then the audience won't care about the topic. By showing my passion for the talk, the audience can relax and at least watch one person having a good time!
 
@@ -44,11 +44,11 @@ I also use stories from my life to connect with audiences, especially when I've 
 
 # Make it Funny
 
-For me, one of the hardest things to add to a talk is humor. However, audiences will usually fall in love with you if you can make them laugh. The who talk doesn't have to be a comedy set, but you should sprinkle enough humor through the talk to keep the audience engaged. Laughter is a great way to facilitate learning.
+For me, one of the hardest things to add to a talk is humor. However, audiences will usually fall in love with you if you can make them laugh. The whole talk doesn't have to be a comedy set, but you should sprinkle enough humor through the talk to keep the audience engaged. Laughter is a great way to facilitate learning.
 
 I often find humor in the facts of the talk or in the situations from my life that I use to illustrate points. Often, it's only after I've rehearsed my talk several times that I find the funny bits.
 
-I've learned that jokes may work with some audiences but fail with other audiences. This is ok! Just because a joke falls flat doesn't mean that you should remove it from your talk, especially if people have previously responded well to it.  I have a joke in my [Leadership Lessons from the Agile Manifesto](/talks/leadership-lessons-from-the-agile-manifesto/) that has resulted in rapturous laughter in front of several groups. However, that joke has occasionally been met with crickets at other events. Nevertheless, I'm definitely keeping it in because I know that it works way more often than it doesn't.
+I've learned that jokes may work with some audiences but fail with other audiences. This is ok! Just because a joke falls flat doesn't mean that you should remove it from your talk, especially if people have previously responded well to it.  I have a joke in my [Leadership Lessons from the Agile Manifesto](/talks/leadership-lessons-from-the-agile-manifesto/) talk that has resulted in rapturous laughter in front of several groups. However, that joke has occasionally been met with crickets at other events. Nevertheless, I'm definitely keeping it in because I know that it works way more often than it doesn't.
 
 # Summary
 
@@ -56,4 +56,4 @@ I try to not be too serial with "make it factual, make it friendly, make it funn
 
 However, this approach does help me avoid spinning my wheels early in the talk's evolution. Instead of looking for stock images or trying to insert jokes, I can focus on facts. Once the factual backbone of the talk is in place, I can go back and layer on imagery, fonts, humor, etc.
 
-I've found this process to be immensely helpful in shortening the time between when I think of a talk and the creation of a viable version of it that's ready to share with audiences.
+I've found this process to be immensely helpful in shortening the time between when I think of a talk and the creation of a viable version that's ready to share with audiences.

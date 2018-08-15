@@ -18,35 +18,35 @@ Here's a typical Planning Poker session for an Agile team using Scrum. Scrum has
 
 A common way to describe features is in the form of a user story. 
 
-## 1 - "You shall bring no time estimates to Planning Poker."
+# 1 - "You shall bring no time estimates to Planning Poker."
 
 Substantial research has indicated that people are bad at estimating how long something will take. In my experience, software developers are overwhelmingly optimistic people. This usually results in estimates that are far too small when compared to actual results.
 
-## 2 - "You shall not take for yourself a user story that does not match the likeness of the Definition of Ready. You shall not discuss or size such a story, for the software we build is jealous, visiting the iniquity of Un-Ready work on Developers, on the third and fourth sprints of those who size such work, but showing lovingkindness to thousands, to those who heed the Definition of Ready, to those who want to get work to Done within a Sprint."
+# 2 - "You shall not take for yourself a user story that does not match the likeness of the Definition of Ready. You shall not discuss or size such a story, for the software we build is jealous, visiting the iniquity of Un-Ready work on Developers, on the third and fourth sprints of those who size such work, but showing lovingkindness to thousands, to those who heed the Definition of Ready, to those who want to get work to Done within a Sprint."
 
 The Definition of Ready is a list of characteristics, agreed upon by the Scrum Development Team and the Product Owner, that must be met before a user story can be discussed and sized.
 
-## 3 - “You shall not take the Definition of Done in vain, for the work will not leave Developers unpunished who size ignorant of the Definition of Done."
+# 3 - “You shall not take the Definition of Done in vain, for the work will not leave Developers unpunished who size ignorant of the Definition of Done."
+
+The Definition of Done is a list of the characteristics a user story need to have in order to consider it done. When estimating, it's vitally important to think it terms of the entire development process including designing, testing, and deployment in addition to writing code.
+
+# 4 - “Remember completed stories, to keep them holy. You completed stories of various sizes in previous sprints, and you should use those as a relative guide for estimating. You shall not size without considering completed stories, you or your son or your daughter, your tester or your designer or your programmer or the manager who stays with you. For in previous stories the team made the heavens and the earth, the sea and all that is in them, and sized them all; therefore the work has been made shippable and made holy."
 
 TBD
 
-## 4 - “Remember completed stories, to keep them holy. You completed stories of various sizes in previous sprints, and you should use those as a relative guide for estimating. You shall not size without considering completed stories, you or your son or your daughter, your tester or your designer or your programmer or the manager who stays with you. For in previous stories the team made the heavens and the earth, the sea and all that is in them, and sized them all; therefore the work has been made shippable and made holy."
+# 5 - “Honor your fellow estimators, that your work may be Done in the upcoming sprint."
 
 TBD
 
-## 5 - “Honor your fellow estimators, that your work may be Done in the upcoming sprint."
+# 6 - “You shall not allow anyone to size stories who will not do work in the upcoming sprint."
 
 TBD
 
-## 6 - “You shall not allow anyone to size stories who will not do work in the upcoming sprint."
+# 7 - “You shall consult with the Product Owner."
 
 TBD
 
-## 7 - “You shall consult with the Product Owner."
-
-TBD
-
-## 8 - “You shall not steal the estimate of another."
+# 8 - “You shall not steal the estimate of another."
 
 TBD
 
@@ -54,6 +54,6 @@ TBD
 
 TBD
 
-## 10 - “You shall not base your estimate on how you think other estimators size cards. You shall not base your estimate on how little or how much work you think the team should do during the sprint. You shall only base your estimate on the merits of the story and on the merits alone."
+# 10 - “You shall not base your estimate on how you think other estimators size cards. You shall not base your estimate on how little or how much work you think the team should do during the sprint. You shall only base your estimate on the merits of the story and on the merits alone."
 
 TBD

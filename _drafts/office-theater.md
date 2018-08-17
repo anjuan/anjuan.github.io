@@ -16,7 +16,7 @@ I've worked in the technology industry for more than two decades, and I've notic
 
 Perceptions matter, and your co-workers will form opinions of you based on their observations of your appearance and behavior. While an argument can be made that you should be judged only by how well you do your job, the reality is that people draw conclusions from more than the results you achieve for the business. Human are tribal by nature, and we look for signs to determine if you're exhibiting in-group or out-group behavior and where you fall in the hierarchy of respect.
 
-I call the management of how colleagues assess and draw conclusions about you "office theater". Part of being a professional is understanding that you have to think about your work performance in terms of stagecraft and the experience of a good play.
+I call the management of how colleagues assess and draw conclusions about you "office theater". Part of being a professional is understanding that you have to think about your work performance in terms of stagecraft and the experience of a good play. After all, companies usually do "performance reviews" at least once a year, and I've found that the characteristics of a good theater performance are often similar to a good job performance.
 
 
 # Your Presence - Look the Part

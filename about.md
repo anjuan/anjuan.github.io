@@ -16,4 +16,4 @@ One reason I moved my site to [GitHub Pages](https://pages.github.com/) was my b
 
 {% include image.html url="/images/aneika.jpg" alt="Aneika" caption="My Wife" width=400 align="right" %}
 
-{% include image.html url="/images/Anjuan.jpg" alt="Anjuan" caption="Obligatory Speaker Image" width=400 align="right" %}
+{% include image.html url="/images/anjuan.jpg" alt="Anjuan" caption="Obligatory Speaker Image" width=400 align="right" %}

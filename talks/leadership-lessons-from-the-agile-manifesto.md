@@ -33,6 +33,7 @@ You can find my slides on [SpeakerDeck](https://speakerdeck.com/anjuan/leadershi
 
 Here are links to videos of me giving this talk at conferences:
 
+* [Full Stack Toronoto](https://www.youtube.com/watch?v=14d_j1XKgRM&list=PL1jKW8WyNdz2mfnPikqxfJbLGDuSrUHbd)
 * [DevOpsDays Seattle](https://youtu.be/cZ781sgseJY)
 * [QCon San Francisco](https://www.infoq.com/presentations/agile-manifesto-principles-leader)
 * [Rocky Mountain Ruby](http://confreaks.tv/videos/rockymountainruby2017-leadership-lessons-from-the-agile-manifesto)

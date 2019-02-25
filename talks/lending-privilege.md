@@ -27,6 +27,7 @@ Here are direct links to videos of me giving this talk at various conferences:
 * [Stretch Conference Budapest](http://www.ustream.tv/recorded/118592067)
 * [The Lead Developer New York](https://www.youtube.com/watch?v=1K8Gz7fMevo)
 * [RubyConf](https://confreaks.tv/videos/rubyconf2017-lending-privilege)
+* [Market Place Social in Bogotá (in Spanish)](https://youtu.be/L0cSfzBuhWo)
 * [GitHub Universe](https://www.youtube.com/watch?v=lOZdAt-hseA&feature=youtu.be)
 * [CraftConf](https://www.ustream.tv/recorded/102838989)
 * [QCon London](https://www.infoq.com/presentations/diversity-inclusion-technology)

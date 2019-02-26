@@ -24,7 +24,7 @@ Although technology companies are trying to improve their diversity, I believe t
 
 Here are direct links to videos of me giving this talk at various conferences:
 
-* [Stretch Conference Budapest](http://www.ustream.tv/recorded/118592067)
+* [Stretch Conference Budapest](https://youtu.be/hyiMathkUrQ)
 * [The Lead Developer New York](https://www.youtube.com/watch?v=1K8Gz7fMevo)
 * [RubyConf](https://confreaks.tv/videos/rubyconf2017-lending-privilege)
 * [Market Place Social in Bogotá (in Spanish)](https://youtu.be/L0cSfzBuhWo)

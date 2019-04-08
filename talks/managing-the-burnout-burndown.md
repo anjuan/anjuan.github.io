@@ -4,7 +4,7 @@ title: Managing the Burnout Burndown
 permalink: /talks/managing-the-burnout-burndown/
 ---
 
-{% include image.html url="/images/leadership-lessons-from-the-agile-manifesto.jpg" alt="LeadDevUK" caption="Giving my Leadership Lessons from the Agile Manifesto talk at The Lead Developer UK in London." width=676 align="center" %}
+{% include image.html url="/images/Aneika-and-Anjuan.png" alt="AneikaAndAnjuan" caption="Aneika and Anjuan" width=676 align="center" %}
 
 ## Abstract
 

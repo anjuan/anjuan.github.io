@@ -28,7 +28,7 @@ If your colleague has a personal website, then sudden updates (e.g., new pages, 
 
 Working at a company for a long period of time usually results in predictable movements among employees. There's the morning crowding in the break room while people groggily grab coffee. Then there's the assembly before noon as people find somewhere to eat lunch.
 
-People who are about to quit often change their movements. Instead of joining the lunch bunch as usual, they camp out in a conference room and speak into their phones using hushed tones. Or, while coming into work, you see them talking on their phone behind the parking garage. These location changes may mean that they are covertly engaged in phone interviews with other companies.
+People who are about to quit often change their movements. Instead of joining the lunch bunch as usual, they camp out in a conference room and speak into their phones using hushed tones. Or, while coming into work, you see them talking on their phone behind the parking garage. They may also start working from home more often when they usually come into the office. These location changes may mean that they are covertly engaged in phone interviews and office visits with other companies.
 
 ## Schedule Changes
 

@@ -17,7 +17,7 @@ Engineering managers are, almost by definition, highly capable and strongly driv
 This talk will combine the understanding from the trenches of Anjuan Simmons (who has been an engineering manager for more than 20 years) with the academic understanding of his wife, Dr. Aneika Simmons. Together, they will provide a framework for reducing burnout and consistently keeping stress levels in a managed state.
 
 ## Outline 
-* Burned out Abroad 
+* Burnout in Tech
 * Defining Burnout 
 * Burning Down Barriers (Find a Network) 
 * Burning Down Distractions (Focus) 
@@ -26,13 +26,13 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 ## Slides
 
-In Progress
+* [Speakerdeck|https://speakerdeck.com/anjuan/managing-the-burnout-burndown]
 
 ## Videos
 
-Here are links to videos of us giving this talk at conferences:
+Here is a direct link to a video of us giving this talk:
 
-In Progress
+* [The Lead Developer New York](https://youtu.be/e2dgOfedI3A)
 
 ## What Attendees Have Said
 

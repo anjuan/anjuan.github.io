@@ -26,7 +26,7 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 ## Slides
 
-* [Speakerdeck|https://speakerdeck.com/anjuan/managing-the-burnout-burndown]
+* [Speakerdeck](https://speakerdeck.com/anjuan/managing-the-burnout-burndown)
 
 ## Videos
 

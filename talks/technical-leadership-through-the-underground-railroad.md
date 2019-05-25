@@ -34,6 +34,7 @@ The Underground Railroad provides insights that technical leaders can use to imp
 
 Here are links to videos of me giving this talk at conferences:
 
+* [Full Stack Toronto](https://youtu.be/kopTiMg5u9E)
 * [True University, UC Berkeley](https://youtu.be/EqYb5hJJBvU)
 * [The Lead Developer Austin](https://www.youtube.com/watch?v=9HuvC1ME68I&index=4&list=PLBzScQzZ83I-KXy3__SCUNsBjr0E7ISbq&t=0s)
 

@@ -44,7 +44,7 @@ We often make our workspaces a representation of our personalities and interests
 
 ## Repository Changes
 
-A lot of the value a team creates is stored in knowledge repostories or code repositories. So, co-workers planning to leave often start making copies of these assets. They will start downloading lots of files from knowledge repositories like SharePoint and Confluence. Or, they will clone code repositories outside of the parts of the codebase in which they normally work. This is hard to see unless you have admin access to these repositories, but it can be one of the most concrete signs that someone is planning their exit. 
+A lot of the value a team creates is stored in knowledge repostories and code repositories. So, co-workers planning to leave often start making copies of these assets. They will start downloading lots of files from knowledge repositories like SharePoint and Confluence. Or, they will clone code repositories outside of the parts of the codebase in which they normally work. This is hard to see unless you have admin access to these repositories, but it can be one of the most concrete signs that someone is planning their exit. 
 
 ## Responsibility Changes
 

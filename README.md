@@ -1,7 +1,7 @@
 anjuan.github.io
 ============
 
-This is my personal site hosted on Github at [www.AnjuanSimmons.com](https://www.AnjuanSimmons.com) and powered by Jekyll.
+This is my Github-hosted (and powered by Jekyll) personal site which you can find at [AnjuanSimmons.com](https://AnjuanSimmons.com).
 
 This site has changed hosts over the years (e.g., Yahoo, WordPress, Squarespace, and Google Sites), but I think that GitHub Pages will be its home for the foreseeable future. There are many reasons for this, but I think that the ability to simply manage text files instead of a backend database is near the top of the list.
 

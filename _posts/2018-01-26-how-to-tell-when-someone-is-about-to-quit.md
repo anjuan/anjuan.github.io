@@ -42,6 +42,10 @@ Furthermore, if co-workers who normally attend the regular happy hour after work
 
 We often make our workspaces a representation of our personalities and interests. When colleagues start taking their personal items from the office, then they could be starting their physical separation from the company. Examples of this are people with a collection of family pictures and swag from conferences on their desk who suddenly have a clean workspace. They start taking their personal items away from the office because they may fear that their job search could be detected resulting in their termination. They don't want to worry about leaving their prized possessions at their desk in the event they are escorted from the office.
 
+## Repository Changes
+
+A lot of the value a team creates is stored in knowledge repostories or code repositories. So, co-workers planning to leave often start making copies of these assets. They will start downloading lots of files from knowledge repositories like SharePoint and Confluence. Or, they will clone code repositories outside of the parts of the codebase in which they normally work. This is hard to see unless you have admin access to these repositories, but it can be one of the most concrete signs that someone is planning their exit. 
+
 ## Responsibility Changes
 
 Co-workers who have spent months asking for more responsibility and suddenly go quiet may be signaling that they are looking for that responsibility elsewhere. This sudden loss of desire and urgency may suggest that they have lost interest in continuing to work for your organization.

@@ -7,13 +7,9 @@ permalink: /talks/managing-the-burnout-burndown/
 {% include image.html url="/images/leaddevnewyork2019.jpg" alt="LeadDevNewYork2019" caption="Aneika and Anjuan on stage at The Lead Dev New York" width=676 align="center" %}
 
 
-{% include image.html url="https://pbs.twimg.com/profile_images/1101867459961860096/eaz6E-HD_400x400.png" %}
+{% include image.html url="https://pbs.twimg.com/profile_images/1101867459961860096/eaz6E-HD_400x400.png" width=100 align="center" %}
 
-https://pbs.twimg.com/profile_images/1101867459961860096/eaz6E-HD_400x400.png
-
-!https://pbs.twimg.com/profile_images/1101867459961860096/eaz6E-HD_400x400.png!
-
-image
+test 2
 
 ## Abstract
 

@@ -9,6 +9,12 @@ permalink: /talks/managing-the-burnout-burndown/
 
 {% include image.html url="https://pbs.twimg.com/profile_images/1101867459961860096/eaz6E-HD_400x400.png" %}
 
+https://pbs.twimg.com/profile_images/1101867459961860096/eaz6E-HD_400x400.png
+
+!https://pbs.twimg.com/profile_images/1101867459961860096/eaz6E-HD_400x400.png!
+
+image
+
 ## Abstract
 
 In addition to managing backlogs and burndown charts, technology leaders have to follow an ever-changing software landscape, manage team dynamics, and navigate office politics. It’s no surprise that this leads to burnout. This talk will provide tools to help get stress into managed state.

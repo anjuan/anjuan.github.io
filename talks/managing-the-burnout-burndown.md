@@ -4,7 +4,7 @@ title: Managing the Burnout Burndown
 permalink: /talks/managing-the-burnout-burndown/
 ---
 
-{% include image.html url="/images/Aneika-and-Anjuan.png" alt="AneikaAndAnjuan" caption="Aneika and Anjuan" width=676 align="center" %}
+{% include image.html url="/images/leaddevnewyork2019.jpg" alt="LeadDevNewYork2019" caption="Aneika and Anjuan on stage at The Lead Dev New York" width=676 align="center" %}
 
 ## Abstract
 
@@ -36,6 +36,7 @@ Here is a direct link to a video of us giving this talk:
 
 ## What Attendees Have Said
 
-In Progress
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">At <a href="https://twitter.com/hashtag/LeadDevNewYork?src=hash&amp;ref_src=twsrc%5Etfw">#LeadDevNewYork</a>, <a href="https://twitter.com/aneika?ref_src=twsrc%5Etfw">@aneika</a> and <a href="https://twitter.com/anjuan?ref_src=twsrc%5Etfw">@anjuan</a> are giving a powerful, relatable, heartfelt talk on &quot;Managing the burnout burndown.&quot; <br><br>&quot;Escapism is expensive. We wanted develop a process that would be accessible, that didn&#39;t require privilege to access.&quot;</p>&mdash; adriennefriend (@adriennefriend) <a href="https://twitter.com/adriennefriend/status/1123268522879197184?ref_src=twsrc%5Etfw">April 30, 2019</a></blockquote>
+
 
 [Back to My Talks](/talks/)

@@ -22,7 +22,7 @@ Here are a few of the Slack groups for Black technologists.
 
 The Young Black Austin Slack team has been around for a while and has over 900 members. While the focus of the group is on events around Austin, since the Capital City is a major technology hub, there are often ongoing conversations about the tech scene. Their #sxsw channel is a treasure trove of information, and I think it is a great resource in the months leading up to the conference. 
 
-You can join the Young Black Austin Slack group here.
+You can join the Young Black Austin Slack group [here](http://youngblackatx.com/).
 
 # Black Men in Tech
 
@@ -32,17 +32,15 @@ You can join the Black Men in Tech Slack group [here](http://youngblackatx.com/)
 
 # Revision Path
 
-Started by Maurice Cherry, this Slack group is a companion community for Maurice's excellent Revision Path podcast. This Slack group has over 200 members, and most conversations have a design and product management slant. However, the group also has many great resources for tech professionals.
+Started by [Maurice Cherry](http://mauricecherry.com/), this Slack group is a companion community for Maurice's excellent [Revision Path](http://revisionpath.com/) podcast. This Slack group has over 200 members, and most conversations have a design and product management slant. However, the group also has many great resources for tech professionals.
 
-You can join the Revision Path Slack group here.
+You can join the Revision Path Slack group [here](https://revisionpath.herokuapp.com/).
 
 # Blacks in Technology
 
-Greg Greenlee created this Slack group as a companion community for his Blacks in Technology (BiT) site. There are over 600 members in the BiT Slack group, and the discussions are usually deeply technical. 
+Greg Greenlee created this Slack group as a companion community for his [Blacks in Technology (BiT)](https://www.blacksintechnology.net/) site. There are over 600 members in the BiT Slack group, and the discussions are usually deeply technical.
 
-You can join the BiT Slack group here.
-
-
+You can join the BiT Slack group [here](https://blacksintechnology.typeform.com/to/ZyRYG2).
 
 # The Joy of Black Tech Communities
 

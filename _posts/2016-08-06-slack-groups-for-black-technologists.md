@@ -10,7 +10,7 @@ excerpt: "Relationships are critical to any career, and this is doubly true for 
 comments: true
 ---
 
-{% include image.html url="/images/post-small-key-big-agile.jpeg" alt="Hummingbird" caption="Big results can come from small things. (Pexels)" width=400 align="right" %}
+{% include image.html url="/images/black-slack.png" alt="Slack" caption="Black Slack" width=400 align="right" %}
 
 As a Black person who has worked in the technology sector for two decades, I can attest to the value of community. When you often find yourself at companies and tech events where no one else looks like you, knowing there is a place where others can relate to you is powerful. Having a community is particularly useful in an industry that has demonstrated difficulties in hiring people like you.
 

@@ -28,7 +28,7 @@ You can join the Young Black Austin Slack group [here](http://youngblackatx.com/
 
 Founded by [Wayne Sutton](https://socialwayne.com/about/), this group focuses on building a community for Black men who work in technology. It has more than 400 members. Given the founder's expertise in entrepreneurship, a lot of the discussions are around starting and running technology companies. Wayne also has regular Ask Me Anything (AMA) events with tech heavyweights like Tristan Walker.
 
-You can join the Black Men in Tech Slack group [here](http://youngblackatx.com/).
+You can join the Black Men in Tech Slack group [here](http://blackmenintech.com/).
 
 # Revision Path
 

@@ -1,5 +1,5 @@
 ---
-title: 'What's a Common Misconception People Might Have about You?'
+title: 'Whats a Common Misconception People Might Have about You?'
 author: anjuan
 layout: post
 date: "2019-08-23"

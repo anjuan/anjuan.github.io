@@ -14,7 +14,9 @@ comments: true
 
 I work at a fully remote company, and one of the services we use to help us know each other better is called [Know Your Team](https://knowyourteam.com). Since we don't work in the same office, this service sends out regular questions that are meant to show aspects of our personalities that may not be apparent in our virtual work environment.
 
-This question came into my inbox from Know Your Team this morning: What’s a common misconception people might have about you? I thought a lot of my answer, and here is my reply:
+This question came into my inbox from Know Your Team this morning: **What’s a common misconception people might have about you?** 
+
+I thought a lot of my answer, and here's my reply:
 
 Wow, this question is a great opportunity to practice vulnerability!
 

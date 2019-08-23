@@ -1,9 +1,9 @@
 ---
-title: 'Whats a Common Misconception People Might Have about You?'
+title: 'What Is a Common Misconception People Might Have about You?'
 author: anjuan
 layout: post
 date: "2019-08-23"
-permalink: /blog/whats-a-common-misconception-about-you/
+permalink: /blog/what-is-a-common-misconception-about-you/
 categories:
   - Work
 excerpt: "This is my answer to a question that was asked through the Know Your Team service that my company uses to help us know each other better."

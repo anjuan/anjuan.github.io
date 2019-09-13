@@ -4,7 +4,7 @@ title: Managing the Burnout Burndown
 permalink: /talks/managing-the-burnout-burndown/
 ---
 
-{% include image.html url="/images/leaddevnewyork2019.jpg" alt="LeadDevNewYork2019" caption="Aneika and Anjuan on stage at The Lead Dev New York" width=676 align="center" %}
+{% include image.html url="/images/leaddevnewyork2019.jpg" alt="LeadDevNewYork2019" caption="Giving this talk with my wife Aneika at The Lead Developer conference in New York City." width=676 align="center" %}
 
 ## Abstract
 

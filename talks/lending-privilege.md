@@ -4,7 +4,7 @@ title: Lending Privilege
 permalink: /talks/lending-privilege/
 ---
 
-{% include image.html url="/images/lending-privilege2.jpg" alt="Rotman" caption="Right before I gave my Lending Privilege talk at the Rotman School of Management on the campus of The University of Toronto." width=676 align="center" %}
+{% include image.html url="/images/lending-privilege3.jpg" alt="Stretch" caption="Giving my Lending Privilege talk in Budapest at the Stretch leadership conference." width=676 align="center" %}
 
 ## Abstract
 

@@ -5,7 +5,7 @@ layout: post
 date: "2019-09-25"
 permalink: /blog/denver-startup-week-ambassador./
 categories:
-  - Speaking
+  - Tech
 excerpt: "I had the honor of serving as an Ambassador for Denver Startup Week 2019. This is what I experienced during the program."
 comments: true
 ---

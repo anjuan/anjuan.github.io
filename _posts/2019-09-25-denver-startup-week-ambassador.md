@@ -10,7 +10,7 @@ excerpt: "I had the honor of serving as an Ambassador for Denver Startup Week 20
 comments: true
 ---
 
-{% include image.html url="/images/dsw-logo.jpg" alt="DSW" caption="Denver Startup Week" width=400 align="right" %}
+{% include image.html url="/images/dsw-logo.jpg" alt="DSW" caption="Denver Startup Week" width=200 align="right" %}
 
 I visited Denver the week of September 16th, 2019 as a Denver Startup Week Ambassador. Denver Startup Week (DSW) is a five day series of events that showcases the vibrant startup scene in Denver. I felt that DSW had a vibe very similar to South by Southwest (SXSW) in Austin. There was a ton of awesome programming as well as several evening activities. 
 
@@ -33,7 +33,7 @@ TBD
 
 {% include image.html url="/images/speaking-retro-3.jpg" alt="workshop" caption="My workshop attendees" width=800 align="center" %}
 
-I've given many private workshops during my career, but I gave my first workshop at a conference in June. It was my Hands-On Agile Project Management workshop that I gave at the [PMI Houston](http://pmihouston.org/content.php?page=Annual_Conference) conference. I really enjoyed presenting the content and guiding the participants through the exercises. I don't have a lot of workshops in my portfolio, but I plan to develop at least one in 2017.
+TBD
 
 # Key Takeaways
 
@@ -41,11 +41,15 @@ I've given many private workshops during my career, but I gave my first workshop
 
 ## Best Moments
 
-I love big audiences, and I enjoyed big events in 2016 including Pivotal's [SpringOne Platform](https://springoneplatform.io/2016) in Las Vegas, [GitHub Universe](https://githubuniverse.com/2016/) in San Francisco, and [StrangeLoop](https://www.thestrangeloop.com/2016/sessions.html) in St. Louis. These were all great experiences for me, and I was honored to lend my voice to those conferences. There's something powerful about being in a building with hundreds (and, in a few cases, thousands) of technologists who are all focused on advancing their careers and making the industry better. I was also reunited with other speakers who I met in previous years, and I enjoyed the opportunity to grow our friendships.
+TBD
 
 ## Areas for Improvement
 
-While big events are exhilarating, I was also invited to speak at smaller corporate events. I really enjoyed the intimacy of these events, and the Q&A sessions were usually longer and more personal. It seemed that people, as opposed to attending conferences hundreds of miles away among strangers, were more open to asking questions a few steps from their desks surrounded by their colleagues. I think my non-technical talks have more impact in these settings.
+TBD
+
+* Cover all transportation costs (ground transportation)
+* Include even more interactivity
+
 
 
 # Closing Thoughts

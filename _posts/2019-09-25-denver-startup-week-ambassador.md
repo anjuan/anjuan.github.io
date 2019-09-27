@@ -31,6 +31,8 @@ I believe that the best flight is an uneventful one, and I made it to Denver wit
 
 I enjoyed watching the Denver landscape pass by as the train travelled down the track. It has been a couple of years since I was last in Denver, and I enjoyed watching folks get on and off the train. I'm a big fan of public transit because its better for the environment and also costs less than alternative forms of transportation. I soon reached my stop at Union Station.
 
+I prefer to walk as much as possible when I'm get a chance to travel so I did the ten minute walk from Union Station to the Hilton Garden Inn Union Station which was the host hotel for DSW Ambassadors. My room wasn't ready yet so I decided to visit Basecamp which was the headquarters for all DSW activities. It was cool to see DSW signage all over Downtown Denver.
+
 # Tuesday - Evolve, Guild, VIP Dinner at Polsinelli
 
 {% include image.html url="/images/speaking-retro-2.jpg" alt="OSCON" caption="Giving my Lightning Talk at OSCON" width=600 align="center" %}
@@ -58,6 +60,7 @@ TBD
 
 * Cover all transportation costs (ground transportation)
 * Include even more interactivity
+* Reduce time spent moving from place to place. Have a host company provide a home base for the Ambassadors and have the other startup companies spend time with the Ambassadors there. The three days we had in the program flew by, and this would add a few hours to the schedule by cutting down on travel time.
 
 
 

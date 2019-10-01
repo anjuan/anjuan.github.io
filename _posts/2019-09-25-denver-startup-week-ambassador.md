@@ -56,13 +56,15 @@ I also saw the first of what would be a theme of my experience as a DSW Amabassa
 {% include image.html url="/images/dsw-catalyst.jpg" alt="The View at Catalyst" caption="Looking out from the balconey at Catalyst and seeing the mountains in the background was refreshing" %}
 
 
-We settled into our chairs with our food and listened as Connor told us more about Catalyst introduced the first speaker. 
+We settled into our chairs with our food and listened as Connor told us more about Catalyst and introduced the first speaker. 
 
 {% include image.html url="/images/dsw-connor.jpg" alt="Connor" caption="Connor welcoming the Ambassadors" %}
 
-While we ate, Catalyst's president Mike Biselli told us the amazing story of the space. It's an industry integrator designed to provide an environment for companies in the healthcare sector to work next to each other as they navigate the rapid innovations happening in the sector. Whether the organization is a startup or has been around for decades, Catalyst provides a foundation for collaboration and shared learning.
+While we ate, Catalyst's President Mike Biselli told us the amazing story of the space. It's an industry integrator designed to provide an environment for companies in the healthcare sector to work next to each other as they navigate the rapid innovations happening in the sector. Whether the organization is a startup or has been around for decades, Catalyst provides a foundation for collaboration and shared learning.
 
-We formed ourselves into Lyft groups to caravan over to our next stop: Pie Insurance. This started was founded in 2017 to make it easier for small business owners to carry commercial insurance at an affordable price. They specialize in worker's compensation coverage.
+{% include image.html url="/images/dsw-catalyst-president-mike.jpg" alt="Biselli" caption="Catalyst President telling us the company's story." %}
+
+We formed ourselves into Lyft groups again to caravan over to our next stop: Pie Insurance. This started was founded in 2017 to make it easier for small business owners to carry commercial insurance at an affordable price. They specialize in worker's compensation coverage.
 
 After arriving at their office on Blake Street, we went up to their office on the fifth floor. After being seated, we met their leadership team (John Swigart, Co-Founder and CEO; Dax Craig, Co-Founder and President; Mike Gionfriddo, CTO; Jason Friedlander, Chief Product Officer;  and Melissa Eaton, VP of Customer Care) who gave us an overview of the company. I was then delighted to learn that we would take part in an activity to help improve Pie Insurance!
 

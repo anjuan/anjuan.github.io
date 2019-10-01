@@ -62,7 +62,7 @@ We settled into our chairs with our food and listened as Connor told us more abo
 
 While we ate, Catalyst's President Mike Biselli told us the amazing story of the space. It's an industry integrator designed to provide an environment for companies in the healthcare sector to work next to each other as they navigate the rapid innovations happening in the sector. Whether the organization is a startup or has been around for decades, Catalyst provides a foundation for collaboration and shared learning.
 
-{% include image.html url="/images/dsw-catalyst-president-mike.jpg" alt="Biselli" caption="Catalyst President telling us the company's story." %}
+{% include image.html url="/images/dsw-catalyst-president-mike.jpg" alt="Biselli" caption="Catalyst President telling us the company backstory." %}
 
 We formed ourselves into Lyft groups again to caravan over to our next stop: Pie Insurance. This started was founded in 2017 to make it easier for small business owners to carry commercial insurance at an affordable price. They specialize in worker's compensation coverage.
 

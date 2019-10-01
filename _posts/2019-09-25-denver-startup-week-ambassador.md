@@ -33,22 +33,53 @@ I enjoyed watching the Denver landscape pass by as the train travelled down the 
 
 I prefer to walk as much as possible when I'm get a chance to travel so I did the ten minute walk from Union Station to the Hilton Garden Inn Union Station which was the host hotel for DSW Ambassadors. My room wasn't ready yet so I decided to visit Basecamp which was the headquarters for all DSW activities. It was cool to see DSW signage all over Downtown Denver.
 
-# Tuesday - Evolve, Guild, VIP Dinner at Polsinelli
+{% include image.html url="/images/dsw-signage.jpg" alt="DSW Signage" caption="Seeing DSW Signage in Denver" %}
 
-{% include image.html url="/images/speaking-retro-2.jpg" alt="OSCON" caption="Giving my Lightning Talk at OSCON" width=600 align="center" %}
+Basecamp was off the 16th Street Mall near the iconic [Daniels and Fisher Tower](https://en.wikipedia.org/wiki/Daniels_%26_Fisher_Tower).
+
+{% include image.html url="/images/clock-tower.jpg" alt="Clock Tower" caption="Walking Towards Basecamp and seeing the iconic clock tower" %}
+
+I entered Basecamp which was already starting to hum with activity. I showed the folks at the registration table my DSW email confirmation, and I received my wristband. It was official! I was now part of the DSW experience.
+
+I checked out a few of the vendor and sponsor tables at Basecamp. One was from the winner of DWS last week, a company called Sheets and Giggles. They create sustainable bedding from materials like Eucalyptcus leaves. To my surprise, they gave me a free box of king size sheets wrapped in a nice purple bag.
+
+{% include image.html url="/images/sheets-and-giggles.jpg" alt="Sheets and Giggles" caption="My box of king size environmentally friendly sheets" %}
+
+It was getting close to the meeting time for the Ambassadors so I headed back to the Hilton Garden Inn. I entered the lobby and saw a group of people who had to be my fellow Ambassadors! I started meeting a few of them, but it wasn't long until we had to go to our first event. The program arranged a set of Lyft codes that we would use to caravan over to [Catalyst](http://www.catalysthealthtech.com/), a co-working company specializing in the healthcare field located at 3513 Brighton Blvd.
+
+My group was one of the first to arrive, and I was pleasently surprised to see a nice spread of table and beverages when I walked into the room. This was much appreciated after a morning spend flying into Denver and walking around downtown!
+
+{% include image.html url="/images/food-and-beverages.jpg" alt="Food and Beverages" caption="The spread at Catalyst" %}
+
+I also saw the first of what would be a theme of my experience as a DSW Amabassador. Working in Denver means that you get great views!
+
+{% include image.html url="/images/dsw-catalyst.jpg" alt="The View at Catalyst" caption="Looking out from the balconey at Catalyst and seeing the mountains in the background was refreshing" %}
+
+
+We settled into our chairs with our food and listened as Connor told us more about Catalyst introduced the first speaker. 
+
+{% include image.html url="/images/dsw-connor.jpg" alt="Connor" caption="Connor welcoming the Ambassadors" %}
+
+While we ate, Catalyst's president Mike Biselli told us the amazing story of the space. It's an industry integrator designed to provide an environment for companies in the healthcare sector to work next to each other as they navigate the rapid innovations happening in the sector. Whether the organization is a startup or has been around for decades, Catalyst provides a foundation for collaboration and shared learning.
+
+We formed ourselves into Lyft groups to caravan over to our next stop: Pie Insurance. This started was founded in 2017 to make it easier for small business owners to carry commercial insurance at an affordable price. They specialize in worker's compensation coverage.
+
+After arriving at their office on Blake Street, we went up to their office on the fifth floor. After being seated, we met their leadership team (John Swigart, Co-Founder and CEO; Dax Craig, Co-Founder and President; Mike Gionfriddo, CTO; Jason Friedlander, Chief Product Officer;  and Melissa Eaton, VP of Customer Care) who gave us an overview of the company. I was then delighted to learn that we would take part in an activity to help improve Pie Insurance!
+
+
+# Tuesday - Evolve, Guild, VIP Dinner at Polsinelli
 
 TBD
 
 
 # Wednesday - Ibotta, Back to Houston
 
-{% include image.html url="/images/speaking-retro-3.jpg" alt="workshop" caption="My workshop attendees" width=800 align="center" %}
 
 TBD
 
 # Key Takeaways
 
-{% include image.html url="/images/speaking-retro-4.jpg" alt="big audience" caption="The power of big audiences" width=800 align="center" %}
+TBD
 
 ## Best Moments
 

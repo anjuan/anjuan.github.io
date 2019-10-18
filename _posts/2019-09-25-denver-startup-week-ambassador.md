@@ -68,6 +68,13 @@ We formed ourselves into Lyft groups again to caravan over to our next stop: Pie
 
 After arriving at their office on Blake Street, we went up to their office on the fifth floor. After being seated, we met their leadership team (John Swigart, Co-Founder and CEO; Dax Craig, Co-Founder and President; Mike Gionfriddo, CTO; Jason Friedlander, Chief Product Officer;  and Melissa Eaton, VP of Customer Care) who gave us an overview of the company. I was then delighted to learn that we would take part in an activity to help improve Pie Insurance!
 
+Each member of the leadership team described the challenges they're experiencing, and they asked for help in their specific functional areas (marketing, customer care, technology, etc.) So, we split into teams according to our interests and went into separate rooms. I chose the technology group since my background is in enterprise software development. We addressed the challenge of protecting customer privacy. The bulk of my career has been in consulting, and I really enjoyed acting as an advisor to Pie Insurance.
+
+Pie Insurance was our last company visit of the day, and we had some time to explore the many events happening during Denver Startup Week. I stopped by the DSW VIP Toast at the Downtown Denver Partnership Office and enjoyed hanging out with my fellow Ambassadors. The DSW Opening Block Party was going on in Basecamp, and I took in the many sights and sounds of the DSW experience.
+
+I walked back to the Hilton Garden Inn and got a chance to open my Ambassador swag bag. It had a really soft DWS t-shirt and a lot of thoughtful items.
+
+{% include image.html url="/images/dsw-swag-bag.jpg" alt="Connor" caption="Ambassador Goodies" %}
 
 # Tuesday - Evolve, Guild, VIP Dinner at Polsinelli
 

@@ -105,7 +105,7 @@ Evolve first presenter was Bijal Shah, Chief Product & Analytics Officer. She ga
 
 We heard from other leaders at Evolve and then learned we would hear from a panel discussion moderated by Sage Soronen, Sr. Manager, Recruiting. All of the panelists had moved from outside of Denver to work at Guild.
 
-{% include image.html url="/images/dsw-guid-panel.jpg" alt="Panel" caption="The Guild panel getting set up - Terrence Cummings (VP, Client Success from the San Franscisco Bay Area), Zoe Wainfraub (Chief of Staff and VP of Busines Development from the San Franscisco Bay Area), Dan Fineman (Sr. Director of Product from the San Franscisco Bay Area), Justin Smith (Principal Designer from San Francisco/Seattle/Chicago), Julia McEwan (Senior Product Manager from Charlotte), and Sam Twombly (Senior Product Manger from Connecticut)" %}
+{% include image.html url="/images/dsw-guild-panel.jpg" alt="Panel" caption="The Guild panel getting set up - Terrence Cummings (VP, Client Success from the San Franscisco Bay Area), Zoe Wainfraub (Chief of Staff and VP of Busines Development from the San Franscisco Bay Area), Dan Fineman (Sr. Director of Product from the San Franscisco Bay Area), Justin Smith (Principal Designer from San Francisco/Seattle/Chicago), Julia McEwan (Senior Product Manager from Charlotte), and Sam Twombly (Senior Product Manger from Connecticut)" %}
 
 The panel introduced themselves and then covered a variety of topics including working at Guild, advice for moving the Denver, and makes Guild a possible unicorn.
 

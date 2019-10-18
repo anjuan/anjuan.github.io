@@ -109,25 +109,34 @@ We heard from other leaders at Evolve and then learned we would hear from a pane
 
 The panel introduced themselves and then covered a variety of topics including working at Guild, advice for moving the Denver, and makes Guild a possible unicorn.
 
+We left Guild, and I went back to the Hilton Garden Inn to change for the VIP Dinner as Polsinelli on 1401 Lawrence Street. We had a lovely rooftop dinner where we heard from the sponsors of the program and enjoyed great conversations!
 
+{% include image.html url="/images/dsw-dinner.jpg" alt="Dinner" caption="VIP Dinner at Polsinelli" %}
 
+I walked back to the hotel that night thinking about the intriguing ideas I had been exposed to during the day and happy that I got the chance to spend time with this amazing group of people!
 
 # Wednesday - Ibotta, Back to Houston
 
+I woke up Wednesday to a few issues going on at work so I had to meet the Ambassadors at our last company, Ibotta on 1801 California Street. Ibotta makes a shopping app that makes it easy for consumers to earn cash back on purchages. Thankfully, I got a chance to hear the panel disussion.
 
-TBD
+{% include image.html url="/images/dsw-ibotta-panel.jpg" alt="Panel" caption="Panel at Ibotta" %}
+
+I really enjoyed hearing the panel discuss their culture, growth, and the challenges of maintaining a successful mobile appliction.
+
+I returned to my hotel room to continue working, and, before I knew it, it was time to take the train back to the Denver airport to catch my Southwest Airlines flight to Houston!
+
 
 # Key Takeaways
 
-TBD
-
 ## Best Moments
 
-TBD
+I really enjoyed every Ambassador I met. The program team assembled a wonderful group of people and every intersacton was positive. I learned so much in a very short period of time.
 
-## Areas for Improvement
+I also really liked the energy that the host companies brought to the experience. It was clear that they loved their companies and were proud to be based in Denver.
 
-TBD
+## Ideas for Next Year
+
+The DSW Ambassador 
 
 * Cover all transportation costs (ground transportation)
 * Include even more interactivity

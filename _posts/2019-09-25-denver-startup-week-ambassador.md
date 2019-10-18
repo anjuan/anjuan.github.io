@@ -81,11 +81,15 @@ I had initially planned to attend the Designer Track After Party later that even
 
 I woke up Tuesday morning and went down to the lobby to assemble with the other Ambassadors. We went to Evolve at 717 17th Street to learn about their business. Evolve is connects people who own vacation properties with guests who want to rent them. They have a fascinating business model that utilizes technology to make the experience satisfying for everyone.
 
-{% include image.html url="/images/dsw-evolve-view.jpg" alt="Connor" caption="Another Great View of Denver from Evolve" %}
+{% include image.html url="/images/dsw-evolve-view.jpg" alt="View" caption="Another Great View of Denver from Evolve" %}
 
 We learned about Evolve from Brian Egan, Co-Founder and CEO. He told the Evolve story with passion and humility, and I was really impressed by him after hearing him speak for just a few minutes.
 
 {% include image.html url="/images/dsw-evolve-ceo.jpg" alt="CEO" caption="Evolve Co-Founder and CEO, Brian Egan" %}
+
+test
+
+{% include image.html url="/images/dsw-evolve-view.jpg" alt="View" caption="Another Great View of Denver from Evolve" %}
 
 We heard from other members of Brian's team, and we then had another opportunity to share our expertise as Ambassadors. Similar to Pie Insurance, we formed into teams to tackle a different aspect of the company's business. Evolve called it the "DSW Challenge", and I decided to join the group discussing how to improve customer support. We split off into separate rooms and brainstormed for about 15 minutes which led to the creation of a lot of sticky notes. I was nominated to share our findings with the wider group along with my fellow Ambassador, Kathryn.
 

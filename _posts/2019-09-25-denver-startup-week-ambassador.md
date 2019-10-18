@@ -23,15 +23,15 @@ Out of hundreds of applicants, I was one of 50 people selected to travel to Denv
 
 # Monday - Southwest Airlines, Sheets and Giggles, Catalyst, Pie Insurance
 
-My journey started early in the morning on Monday, September 16th. I normally fly out of George Bush International Airport (IAH), but, [Southwest Airlines](https://www.southwest.com/) sponosrs the DSW Ambassador program by providing a free flight for all 50 participants. Since Soutwest only flies out of Houston's Hobby Airport (HOU), I had to drive from my home in north Houston (passing IAH) to make it to Hobby in time for my flight. Fortunately, it was so early that I didn't run into any traffic and made it to the airport in almost the same about of time it takes me to get to IAH. I parked my car in the garage and boarded my flight with plenty of time to spare.
+My journey started early in the morning on Monday, September 16th. I normally fly out of George Bush International Airport (IAH), but, [Southwest Airlines](https://www.southwest.com/) sponsors the DSW Ambassador program by providing a free flight for all 50 participants. Since Soutwest only flies out of Houston's Hobby Airport (HOU), I had to drive from my home in north Houston at about 4:30 AM to make it to Hobby in time for my flight. Fortunately, it was so early that I didn't run into any traffic and made it to the airport in almost the same amount of time it takes me to get to IAH. I parked my car in the garage and boarded my flight with plenty of time to spare.
 
-I believe that the best flight is an uneventful one, and I made it to Denver without incident. In an effort to keep the cost of travel low, the DSW Amabassor program also provided a free ticket to use for the train from the airport to downtown. So, I walked from the gate to the terminal and boarded the train.
+I believe that the best flight is an uneventful one, and I made it to Denver without incident. In an effort to keep the cost of travel low, the DSW Amabassor program also provided a free ticket to use for the train from the airport to downtown. So, I walked from the gate to the terminal and boarded the [train](https://www.rtd-denver.com/).
 
 {% include image.html url="/images/RTD.jpg" alt="Train" caption="The Denver Public Transportation System is easy and reliable" width=800 align="center" %}
 
-I enjoyed watching the Denver landscape pass by as the train travelled down the track. It has been a couple of years since I was last in Denver, and I enjoyed watching folks get on and off the train. I'm a big fan of public transit because its better for the environment and also costs less than alternative forms of transportation. I soon reached my stop at Union Station.
+I enjoyed watching the Denver landscape pass by as the train travelled down the track. It had been a couple of years since I was last in Denver, and I enjoyed watching folks get on and off the train. I'm a big fan of public transit because it's better for the environment and also costs less than most alternative forms of transportation. I soon reached my stop at [Union Station](https://unionstationindenver.com/).
 
-I prefer to walk as much as possible when I'm get a chance to travel so I did the ten minute walk from Union Station to the Hilton Garden Inn Union Station which was the host hotel for DSW Ambassadors. My room wasn't ready yet so I decided to visit Basecamp which was the headquarters for all DSW activities. It was cool to see DSW signage all over Downtown Denver.
+I prefer to walk as much as possible when I get a chance to travel so I did the ten minute walk from Union Station to the [Hilton Garden Inn Union Station](https://hiltongardeninn3.hilton.com/en/hotels/colorado/hilton-garden-inn-denver-union-station-DENUNGI/index.html) which was the host hotel for the DSW Ambassadors. My room wasn't ready yet so I decided to visit [Basecamp](https://www.denverstartupweek.org/articles/54-dsw-spotlight-on-basecamp-powered-by-chase-for-business) which was the headquarters for all DSW activities. It was cool to see DSW signage all over Downtown Denver.
 
 {% include image.html url="/images/dsw-signage.jpg" alt="DSW Signage" caption="Seeing DSW Signage in Denver" %}
 
@@ -41,13 +41,13 @@ Basecamp was off the 16th Street Mall near the iconic [Daniels and Fisher Tower]
 
 I entered Basecamp which was already starting to hum with activity. I showed the folks at the registration table my DSW email confirmation, and I received my wristband. It was official! I was now part of the DSW experience.
 
-I checked out a few of the vendor and sponsor tables at Basecamp. One was from the winner of DWS last week, a company called Sheets and Giggles. They create sustainable bedding from materials like Eucalyptcus leaves. To my surprise, they gave me a free box of king size sheets wrapped in a nice purple bag.
+I checked out a few of the vendor and sponsor tables at Basecamp. One was from the winner of DWS last week, a company called [Sheets and Giggles](https://sheetsgiggles.com/). They create sustainable bedding from materials like Eucalyptcus leaves. To my surprise, they gave me a free box of king size sheets wrapped in a nice purple bag.
 
 {% include image.html url="/images/sheets-and-giggles.jpg" alt="Sheets and Giggles" caption="My box of king size environmentally friendly sheets" %}
 
 It was getting close to the meeting time for the Ambassadors so I headed back to the Hilton Garden Inn. I entered the lobby and saw a group of people who had to be my fellow Ambassadors! I started meeting a few of them, but it wasn't long until we had to go to our first event. The program arranged a set of Lyft codes that we would use to caravan over to [Catalyst](http://www.catalysthealthtech.com/), a co-working company specializing in the healthcare field located at 3513 Brighton Blvd.
 
-My group was one of the first to arrive, and I was pleasently surprised to see a nice spread of table and beverages when I walked into the room. This was much appreciated after a morning spend flying into Denver and walking around downtown!
+My group was one of the first to arrive, and I was pleasently surprised to see a nice spread of food and beverages when I walked into the room. This was much appreciated after a morning spent flying into Denver and walking around downtown!
 
 {% include image.html url="/images/food-and-beverages.jpg" alt="Food and Beverages" caption="The spread at Catalyst" %}
 
@@ -65,11 +65,11 @@ While we ate, Catalyst's President Mike Biselli told us the amazing story of the
 
 We formed ourselves into Lyft groups again to caravan over to our next stop: [Pie Insurance](https://pieinsurance.com/). This started was founded in 2017 to make it easier for small business owners to carry commercial insurance at an affordable price. They specialize in worker's compensation coverage.
 
-After arriving at their office on Blake Street, we went up to their office on the fifth floor. After being seated, we met their leadership team (John Swigart, Co-Founder and CEO; Dax Craig, Co-Founder and President; Mike Gionfriddo, CTO; Jason Friedlander, Chief Product Officer;  and Melissa Eaton, VP of Customer Care) who gave us an overview of the company. I was then delighted to learn that we would take part in an activity to help improve Pie Insurance!
+After arriving at their building on Blake Street, we went up to their office on the fifth floor. After being seated, we met their leadership team (John Swigart, Co-Founder and CEO; Dax Craig, Co-Founder and President; Mike Gionfriddo, CTO; Jason Friedlander, Chief Product Officer; and Melissa Eaton, VP of Customer Care) who gave us an overview of the company. I was then delighted to learn that we would take part in an activity to help improve Pie Insurance!
 
 Each member of the leadership team described the challenges they're experiencing, and they asked for help in their specific functional areas (marketing, customer care, technology, etc.) So, we split into teams according to our interests and went into separate rooms. I chose the technology group since my background is in enterprise software development. We addressed the challenge of protecting customer privacy. The bulk of my career has been in consulting, and I really enjoyed acting as an advisor to Pie Insurance.
 
-Pie Insurance was our last company visit of the day, and we had some time to explore the many events happening during Denver Startup Week. I stopped by the DSW VIP Toast at the Downtown Denver Partnership Office and enjoyed hanging out with my fellow Ambassadors. The DSW Opening Block Party was going on in Basecamp, and I took in the many sights and sounds of the DSW experience.
+Pie Insurance was our last company visit of the day, and we had some free time to explore the many events happening during Denver Startup Week. I stopped by the DSW VIP Toast at the Downtown Denver Partnership Office and enjoyed hanging out with my fellow Ambassadors. The DSW Opening Block Party was going on in Basecamp, and I took in the many sights and sounds of the DSW experience.
 
 I walked back to the Hilton Garden Inn and got a chance to open my Ambassador swag bag. It had a really soft DWS t-shirt and a lot of thoughtful items.
 
@@ -79,19 +79,19 @@ I had initially planned to attend the Designer Track After Party later that even
 
 # Tuesday - Evolve, Guild, VIP Dinner at Polsinelli
 
-I woke up Tuesday morning and went down to the lobby to assemble with the other Ambassadors. We went to [Evolve](https://evolvevacationrental.com/) at 717 17th Street to learn about their business. Evolve is connects people who own vacation properties with guests who want to rent them. They have a fascinating business model that utilizes technology to make the experience satisfying for everyone.
+I woke up Tuesday morning and went down to the lobby to assemble with the other Ambassadors. We went to [Evolve](https://evolvevacationrental.com/) at 717 17th Street to learn about their business. Evolve connects people who own vacation properties with guests who want to rent them. They have a fascinating business model that utilizes technology to make the experience satisfying for everyone.
 
 {% include image.html url="/images/dsw-evolve-view.jpg" alt="View" caption="Another Great View of Denver from Evolve" %}
 
-We learned about Evolve from Brian Egan, Co-Founder and CEO. He told the Evolve story with passion and humility, and I was really impressed by him after hearing him speak for just a few minutes.
+We learned about Evolve from Brian Egan, Co-Founder and CEO. He told the Evolve story with passion and humility, and I was really impressed after only hearing him speak for just a few minutes.
 
 {% include image.html url="/images/dsw-evolve-ceo.jpg" alt="CEO" caption="Evolve Co-Founder and CEO, Brian Egan" %}
 
-We heard from other members of Brian's team, and we then had another opportunity to share our expertise as Ambassadors. Similar to Pie Insurance, we formed into teams to tackle a different aspect of the company's business. Evolve called it the "DSW Challenge", and I decided to join the group discussing how to improve customer support. We split off into separate rooms and brainstormed for about 15 minutes which led to the creation of a lot of sticky notes. I was nominated to share our findings with the wider group along with my fellow Ambassador, Kathryn.
+We heard from other members of Brian's team, and we then had another opportunity to share our expertise as Ambassadors. Similar to Pie Insurance, we formed into teams to tackle a different aspect of the company's business. Evolve called it the "DSW Challenge", and I decided to join the group discussing how to improve customer support. We split off into separate rooms and brainstormed for about 15 minutes (which led to the creation of a lot of sticky notes). I was nominated to share our findings with the wider group along with my fellow Ambassador, Kathryn.
 
 {% include image.html url="/images/dsw-evolve-speaking.jpg" alt="Speaking" caption="Presenting the recommendations of my team" %}
 
-I was really impressed with the ideas we presented, and I think we left Evolve with a lot of options to implement.
+I was really amazed by the ideas that were presented, and I think we left Evolve with a lot of options to implement.
 
 We had some free time for lunch so I grabbed a quick bite and walked back to the hotel to catch up on work. I then met some of the other Ambassadors, and we went to [Guild Education](https://www.guildeducation.com/) at 370 17th street which provides support for companies that offer continuing education programs for their employees. Once again, the view outside their windows was amazing!
 
@@ -99,13 +99,13 @@ We had some free time for lunch so I grabbed a quick bite and walked back to the
 
 {% include image.html url="/images/dsw-guild-welcome.jpg" alt="Welcome" caption="Welcome to Guild!" %}
 
-Guild's first presenter was Bijal Shah, Chief Product & Analytics Officer. She gave us a great overview of how Guild supports both employees and employers invovled in an education benefits program.
+Guild's first presenter was Bijal Shah, Chief Product & Analytics Officer. She gave us a great overview of how Guild supports both employees and employers involved in an education benefits program.
 
 {% include image.html url="/images/dws-guild-bijal.jpg" alt="Bijal" caption="Evolve's Bijal Shah" %}
 
 We heard from other leaders at Guild and then learned we would hear from a panel discussion moderated by Sage Soronen, Sr. Manager, Recruiting. All of the panelists had moved from outside of Denver to work at Guild.
 
-{% include image.html url="/images/dsw-guild-panel.jpg" alt="Panel" caption="The Guild panel getting set up - Terrence Cummings (VP, Client Success from the San Franscisco Bay Area), Zoe Wainfraub (Chief of Staff and VP of Busines Development from the San Franscisco Bay Area), Dan Fineman (Sr. Director of Product from the San Franscisco Bay Area), Justin Smith (Principal Designer from San Francisco/Seattle/Chicago), Julia McEwan (Senior Product Manager from Charlotte), and Sam Twombly (Senior Product Manger from Connecticut)" %}
+{% include image.html url="/images/dsw-guild-panel.jpg" alt="Panel" caption="The Guild panel getting set up - Terrence Cummings (VP, Client Success from the San Franscisco Bay Area), Zoe Wainfraub (Chief of Staff and VP of Business Development from the San Franscisco Bay Area), Dan Fineman (Sr. Director of Product from the San Franscisco Bay Area), Justin Smith (Principal Designer from San Francisco/Seattle/Chicago), Julia McEwan (Senior Product Manager from Charlotte), and Sam Twombly (Senior Product Manger from Connecticut)" %}
 
 The panel introduced themselves and then covered a variety of topics including working at Guild, advice for moving the Denver, and makes Guild a possible unicorn.
 
@@ -117,9 +117,9 @@ I walked back to the hotel that night thinking about the intriguing ideas I had 
 
 # Wednesday - Ibotta, Back to Houston
 
-I woke up Wednesday to a few issues going on at work so I had to meet the Ambassadors at our last company, [Ibotta](https://home.ibotta.com/) on 1801 California Street. Ibotta makes a shopping app that makes it easy for consumers to earn cash back on purchages. Thankfully, I got a chance to hear the panel disussion.
+I woke up Wednesday to a few issues going on at work so I had to catch up later with the group at our last company visit, [Ibotta](https://home.ibotta.com/) on 1801 California Street. Ibotta makes a shopping app that makes it easy for consumers to earn cash back on purchases. Thankfully, I got a chance to hear the panel disussion at the end of the session.
 
-{% include image.html url="/images/dsw-ibotta-panel.jpg" alt="Panel" caption="Panel at Ibotta" %}
+{% include image.html url="/images/dsw-ibotta-panel.png" alt="Panel" caption="Panel at Ibotta" %}
 
 I really enjoyed hearing the panel discuss their culture, growth, and the challenges of maintaining a successful mobile appliction.
 
@@ -129,6 +129,10 @@ I returned to my hotel room to continue working, and, before I knew it, it was t
 # Key Takeaways
 
 ## Best Moments
+
+### The Denver Startup Environment
+
+It became very clear that Denver is a true hub for startups. There's great talent in the city, and the cost of living is much lower than the San Francisco Bay Area or New York City. While a lot of VC funding still comes from the coasts, the strong business proposition that Denver offers is clear.
 
 ### A Great Group
 

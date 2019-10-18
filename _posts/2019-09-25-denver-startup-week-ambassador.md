@@ -87,17 +87,18 @@ We learned about Evolve from Brian Egan, Co-Founder and CEO. He told the Evolve 
 
 {% include image.html url="/images/dsw-evolve-ceo.jpg" alt="CEO" caption="Evolve Co-Founder and CEO, Brian Egan" %}
 
-test
-
-{% include image.html url="/images/dsw-evolve-view.jpg" alt="View" caption="Another Great View of Denver from Evolve" %}
-
 We heard from other members of Brian's team, and we then had another opportunity to share our expertise as Ambassadors. Similar to Pie Insurance, we formed into teams to tackle a different aspect of the company's business. Evolve called it the "DSW Challenge", and I decided to join the group discussing how to improve customer support. We split off into separate rooms and brainstormed for about 15 minutes which led to the creation of a lot of sticky notes. I was nominated to share our findings with the wider group along with my fellow Ambassador, Kathryn.
 
 {% include image.html url="/images/dsw-evolve-speaking.jpg" alt="Speaking" caption="Presenting the recommendations of my team" %}
 
 I was really impressed with the ideas we presented, and I think we left Evolve with a lot of options to implement.
 
-Our next stop was Evolve Education which provides support for companies that offer continuing education programs for their employees.
+Our next stop was Evolve Education at 370 17th street which provides support for companies that offer continuing education programs for their employees. Once again, the view outside their windows was amazing!
+
+{% include image.html url="/images/dsw-guild-view.jpg" alt="View" caption="Does any company in Denver not have an amazing view of the mountains?" %}
+
+{% include image.html url="/images/dsw-guild-welcome.jpg" alt="Welcome" caption="Welcome to Guild!" %}
+
 
 
 

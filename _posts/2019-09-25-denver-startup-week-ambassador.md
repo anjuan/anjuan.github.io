@@ -97,6 +97,10 @@ We heard from other members of Brian's team, and we then had another opportunity
 
 I was really impressed with the ideas we presented, and I think we left Evolve with a lot of options to implement.
 
+Our next stop was Evolve Education which provides support for companies that offer continuing education programs for their employees.
+
+
+
 
 # Wednesday - Ibotta, Back to Houston
 

@@ -55,7 +55,6 @@ I also saw the first of what would be a theme of my experience as a DSW Amabassa
 
 {% include image.html url="/images/dsw-catalyst.jpg" alt="The View at Catalyst" caption="Looking out from the balconey at Catalyst and seeing the mountains in the background was refreshing" %}
 
-
 We settled into our chairs with our food and listened as Connor told us more about Catalyst and introduced the first speaker. 
 
 {% include image.html url="/images/dsw-connor.jpg" alt="Connor" caption="Connor welcoming the Ambassadors" %}
@@ -76,9 +75,14 @@ I walked back to the Hilton Garden Inn and got a chance to open my Ambassador sw
 
 {% include image.html url="/images/dsw-swag-bag.jpg" alt="Connor" caption="Ambassador Goodies" %}
 
+I had initially planned to attend the Designer Track After Party later that evening, but I had a lot of Slack messages and emails from work that I knew would take several hours of my attention. So, I worked from the hotel and then called it a night.
+
 # Tuesday - Evolve, Guild, VIP Dinner at Polsinelli
 
-TBD
+I woke up Tuesday morning and went down to the lobby to assemble with the other Ambassadors. We went to Evolve at 717 17th Street to learn about their business. Evolve is connects people who own vacation properties with guests who want to rent them. They have a fascinating business model that utilizes technology to make the experience satisfying for everyone.
+
+{% include image.html url="/images/ dsw-evolve-view.jpg" alt="Connor" caption="Another Great View of Denver from Evolve" %}
+
 
 
 # Wednesday - Ibotta, Back to Houston

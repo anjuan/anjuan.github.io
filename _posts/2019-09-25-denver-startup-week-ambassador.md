@@ -93,12 +93,21 @@ We heard from other members of Brian's team, and we then had another opportunity
 
 I was really impressed with the ideas we presented, and I think we left Evolve with a lot of options to implement.
 
-Our next stop was Evolve Education at 370 17th street which provides support for companies that offer continuing education programs for their employees. Once again, the view outside their windows was amazing!
+We had some free time for lunch so I grabbed a quick bite and walked back to the hotel to catch up on work. I then met some of the other Ambassadors, and we went to Evolve Education at 370 17th street which provides support for companies that offer continuing education programs for their employees. Once again, the view outside their windows was amazing!
 
 {% include image.html url="/images/dsw-guild-view.jpg" alt="View" caption="Does any company in Denver not have an amazing view of the mountains?" %}
 
 {% include image.html url="/images/dsw-guild-welcome.jpg" alt="Welcome" caption="Welcome to Guild!" %}
 
+Evolve first presenter was Bijal Shah, Chief Product & Analytics Officer. She gave us a great overview of how Guild supports both employees and employers invovled in an education benefits program.
+
+{% include image.html url="/images/dws-guild-bijal.jpg" alt="Bijal" caption="Evolve's Bijal Shah" %}
+
+We heard from other leaders at Evolve and then learned we would hear from a panel discussion moderated by Sage Soronen, Sr. Manager, Recruiting. All of the panelists had moved from outside of Denver to work at Guild.
+
+{% include image.html url="/images/dsw-guid-panel.jpg" alt="Panel" caption="The Guild panel getting set up - Terrence Cummings (VP, Client Success from the San Franscisco Bay Area), Zoe Wainfraub (Chief of Staff and VP of Busines Development from the San Franscisco Bay Area), Dan Fineman (Sr. Director of Product from the San Franscisco Bay Area), Justin Smith (Principal Designer from San Francisco/Seattle/Chicago), Julia McEwan (Senior Product Manager from Charlotte), and Sam Twombly (Senior Product Manger from Connecticut)" %}
+
+The panel introduced themselves and then covered a variety of topics including working at Guild, advice for moving the Denver, and makes Guild a possible unicorn.
 
 
 

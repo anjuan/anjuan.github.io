@@ -63,7 +63,7 @@ While we ate, Catalyst's President Mike Biselli told us the amazing story of the
 
 {% include image.html url="/images/dsw-catalyst-president-mike.jpg" alt="Biselli" caption="Catalyst President telling us the company backstory." %}
 
-We formed ourselves into Lyft groups again to caravan over to our next stop: Pie Insurance. This started was founded in 2017 to make it easier for small business owners to carry commercial insurance at an affordable price. They specialize in worker's compensation coverage.
+We formed ourselves into Lyft groups again to caravan over to our next stop: [Pie Insurance](https://pieinsurance.com/). This started was founded in 2017 to make it easier for small business owners to carry commercial insurance at an affordable price. They specialize in worker's compensation coverage.
 
 After arriving at their office on Blake Street, we went up to their office on the fifth floor. After being seated, we met their leadership team (John Swigart, Co-Founder and CEO; Dax Craig, Co-Founder and President; Mike Gionfriddo, CTO; Jason Friedlander, Chief Product Officer;  and Melissa Eaton, VP of Customer Care) who gave us an overview of the company. I was then delighted to learn that we would take part in an activity to help improve Pie Insurance!
 
@@ -79,7 +79,7 @@ I had initially planned to attend the Designer Track After Party later that even
 
 # Tuesday - Evolve, Guild, VIP Dinner at Polsinelli
 
-I woke up Tuesday morning and went down to the lobby to assemble with the other Ambassadors. We went to Evolve at 717 17th Street to learn about their business. Evolve is connects people who own vacation properties with guests who want to rent them. They have a fascinating business model that utilizes technology to make the experience satisfying for everyone.
+I woke up Tuesday morning and went down to the lobby to assemble with the other Ambassadors. We went to [Evolve](https://evolvevacationrental.com/) at 717 17th Street to learn about their business. Evolve is connects people who own vacation properties with guests who want to rent them. They have a fascinating business model that utilizes technology to make the experience satisfying for everyone.
 
 {% include image.html url="/images/dsw-evolve-view.jpg" alt="View" caption="Another Great View of Denver from Evolve" %}
 
@@ -93,23 +93,23 @@ We heard from other members of Brian's team, and we then had another opportunity
 
 I was really impressed with the ideas we presented, and I think we left Evolve with a lot of options to implement.
 
-We had some free time for lunch so I grabbed a quick bite and walked back to the hotel to catch up on work. I then met some of the other Ambassadors, and we went to Evolve Education at 370 17th street which provides support for companies that offer continuing education programs for their employees. Once again, the view outside their windows was amazing!
+We had some free time for lunch so I grabbed a quick bite and walked back to the hotel to catch up on work. I then met some of the other Ambassadors, and we went to [Guild Education](https://www.guildeducation.com/) at 370 17th street which provides support for companies that offer continuing education programs for their employees. Once again, the view outside their windows was amazing!
 
 {% include image.html url="/images/dsw-guild-view.jpg" alt="View" caption="Does any company in Denver not have an amazing view of the mountains?" %}
 
 {% include image.html url="/images/dsw-guild-welcome.jpg" alt="Welcome" caption="Welcome to Guild!" %}
 
-Evolve first presenter was Bijal Shah, Chief Product & Analytics Officer. She gave us a great overview of how Guild supports both employees and employers invovled in an education benefits program.
+Guild's first presenter was Bijal Shah, Chief Product & Analytics Officer. She gave us a great overview of how Guild supports both employees and employers invovled in an education benefits program.
 
 {% include image.html url="/images/dws-guild-bijal.jpg" alt="Bijal" caption="Evolve's Bijal Shah" %}
 
-We heard from other leaders at Evolve and then learned we would hear from a panel discussion moderated by Sage Soronen, Sr. Manager, Recruiting. All of the panelists had moved from outside of Denver to work at Guild.
+We heard from other leaders at Guild and then learned we would hear from a panel discussion moderated by Sage Soronen, Sr. Manager, Recruiting. All of the panelists had moved from outside of Denver to work at Guild.
 
 {% include image.html url="/images/dsw-guild-panel.jpg" alt="Panel" caption="The Guild panel getting set up - Terrence Cummings (VP, Client Success from the San Franscisco Bay Area), Zoe Wainfraub (Chief of Staff and VP of Busines Development from the San Franscisco Bay Area), Dan Fineman (Sr. Director of Product from the San Franscisco Bay Area), Justin Smith (Principal Designer from San Francisco/Seattle/Chicago), Julia McEwan (Senior Product Manager from Charlotte), and Sam Twombly (Senior Product Manger from Connecticut)" %}
 
 The panel introduced themselves and then covered a variety of topics including working at Guild, advice for moving the Denver, and makes Guild a possible unicorn.
 
-We left Guild, and I went back to the Hilton Garden Inn to change for the VIP Dinner as Polsinelli on 1401 Lawrence Street. We had a lovely rooftop dinner where we heard from the sponsors of the program and enjoyed great conversations!
+We left Guild, and I went back to the Hilton Garden Inn to change for the VIP Dinner at [Polsinelli](https://www.polsinelli.com/offices/denver) on 1401 Lawrence Street. We had a lovely rooftop dinner where we heard from the sponsors of the program and enjoyed great conversations!
 
 {% include image.html url="/images/dsw-dinner.jpg" alt="Dinner" caption="VIP Dinner at Polsinelli" %}
 
@@ -117,7 +117,7 @@ I walked back to the hotel that night thinking about the intriguing ideas I had 
 
 # Wednesday - Ibotta, Back to Houston
 
-I woke up Wednesday to a few issues going on at work so I had to meet the Ambassadors at our last company, Ibotta on 1801 California Street. Ibotta makes a shopping app that makes it easy for consumers to earn cash back on purchages. Thankfully, I got a chance to hear the panel disussion.
+I woke up Wednesday to a few issues going on at work so I had to meet the Ambassadors at our last company, [Ibotta](https://home.ibotta.com/) on 1801 California Street. Ibotta makes a shopping app that makes it easy for consumers to earn cash back on purchages. Thankfully, I got a chance to hear the panel disussion.
 
 {% include image.html url="/images/dsw-ibotta-panel.jpg" alt="Panel" caption="Panel at Ibotta" %}
 

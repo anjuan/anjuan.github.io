@@ -136,13 +136,10 @@ I also really liked the energy that the host companies brought to the experience
 
 ## Ideas for Next Year
 
-The DSW Ambassador 
+The DSW Ambassador program is mature and very well run. Here are few ideas that I think will make it even better next year.
 
-* Cover all transportation costs (ground transportation)
-* Include even more interactivity
-* Reduce time spent moving from place to place. Have a host company provide a home base for the Ambassadors and have the other startup companies spend time with the Ambassadors there. The three days we had in the program flew by, and this would add a few hours to the schedule by cutting down on travel time.
+The program covers the flight, hotel, and ground transportation to and from the Denver airport. However, I had to pay for parking my car at the Houston airport. It would be great if the program reimbursed the Ambassadors for this expense.
 
+I really liked the experience of providing consulting services as an Ambassador. I'd love for more of the host companies to provide that opportunity and continue to make the experience more interactive.
 
-
-# Closing Thoughts
-
+We spent quite a bit of time moving from company to company which was great since it provided a way to see more of Denver. However, transportation time took up quite a bit of our schedule. The three days in the program flew by, and it would be great if we could add a few hours to the schedule by cutting down on travel of time. If a host company could provide a home base for the Ambassadors for the duration of the program and have the other startup company representatives travel to that location, then I think this would improve the experience. 

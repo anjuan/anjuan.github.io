@@ -130,7 +130,11 @@ I returned to my hotel room to continue working, and, before I knew it, it was t
 
 ## Best Moments
 
+### A Great Group
+
 I really enjoyed every Ambassador I met. The program team assembled a wonderful group of people and every intersacton was positive. I learned so much in a very short period of time.
+
+### Energetic Host Companies
 
 I also really liked the energy that the host companies brought to the experience. It was clear that they loved their companies and were proud to be based in Denver.
 
@@ -138,8 +142,14 @@ I also really liked the energy that the host companies brought to the experience
 
 The DSW Ambassador program is mature and very well run. Here are few ideas that I think will make it even better next year.
 
+### Cover All Expenses
+
 The program covers the flight, hotel, and ground transportation to and from the Denver airport. However, I had to pay for parking my car at the Houston airport. It would be great if the program reimbursed the Ambassadors for this expense.
 
+### More Interactivity
+
 I really liked the experience of providing consulting services as an Ambassador. I'd love for more of the host companies to provide that opportunity and continue to make the experience more interactive.
+
+### Ambassador Central
 
 We spent quite a bit of time moving from company to company which was great since it provided a way to see more of Denver. However, transportation time took up quite a bit of our schedule. The three days in the program flew by, and it would be great if we could add a few hours to the schedule by cutting down on travel of time. If a host company could provide a home base for the Ambassadors for the duration of the program and have the other startup company representatives travel to that location, then I think this would improve the experience. 

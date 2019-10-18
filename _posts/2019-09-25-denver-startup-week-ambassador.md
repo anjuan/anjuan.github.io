@@ -12,7 +12,7 @@ comments: true
 
 {% include image.html url="/images/dsw-logo.jpg" alt="DSW" caption="Denver Startup Week" width=200 align="right" %}
 
-I visited Denver the week of September 16th, 2019 as a Denver Startup Week Ambassador. Denver Startup Week (DSW) is a five day series of events that showcases the vibrant startup scene in Denver. I felt that DSW had a vibe very similar to South by Southwest (SXSW) in Austin. There was a ton of awesome programming as well as several evening activities. 
+I visited Denver the week of September 16th, 2019 as a Denver Startup Week Ambassador. Denver Startup Week (DSW) is a five day series of events that showcases the vibrant startup scene in Denver. I felt that DSW had a vibe very similar to South by Southwest ([SXSW](https://www.sxsw.com/) in Austin. There was a ton of awesome daytime programming as well as several evening activities. 
 
 As a DSW Ambassador, I had the privilege of getting an intimate series of meetings with some of the most successful startup companies in Denver. We were given exclusive access to startup founders, their leadership teams, and exclusive events during Denver Startup Week. 
 

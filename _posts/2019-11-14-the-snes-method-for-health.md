@@ -12,7 +12,7 @@ comments: true
 
 {% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" width=800 align="center" %}
 
-I've read about health for my entire adult life, and, when I entered my 40s, I really began to think deeply about what I can do to develop and maintain a high level of physical fitness. I've boiled down what I'e learned into an acronym called SNES. This stands for
+I've been reading about ways to improve my overall level of health for my entire adult life. When I entered my 40s, I really began to think deeply about what I can do to develop and maintain at least a moderate level of physical fitness. I've boiled down what I'e learned into an acronym called SNES. This stands for:
 
 * **S**leep
 * **N**utrition
@@ -31,9 +31,9 @@ This is first because nothing else you do can really compensate for a lack of sl
 
 My main tools for how I approach nutrition are intermittent fasting and keto. I was bulletproof up until age 40, but the past few years have brought kidney stones and a blood clot in my left leg. Intermittent fasting and keto have done wonders for both, and I also follow a low oxalate diet.
 
-# Excercise
+# Exercise
 
-{% include image.html url="/images/dsw-ibotta-panel.png" alt="Panel" caption="Panel at Ibotta" %}
+{% include image.html url="/images/snes-exercise" alt="Gym" caption="Panel at Ibotta" %}
 
 Sleep and nutrition are about improving the things you have to do every day. Exercise is an optional activity, but it's an extremely important investment in your health. I don't like exercise, but I love how it makes me feel. I recommitted to exercise several months ago, and I started just walking around the block, and I have built up to working out 2-3 times a week in a gym and hiking a couple of times a week. And, I don't spend much more than an hour per workout. A little goes a long way.
 

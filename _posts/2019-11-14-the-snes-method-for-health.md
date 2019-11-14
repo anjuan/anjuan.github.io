@@ -10,7 +10,7 @@ excerpt: "I've developed a simple system for thinking about maintaining my healt
 comments: true
 ---
 
-{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" width=800 align="center" %}
+{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
 
 I've been reading about ways to improve my overall level of health for my entire adult life. When I entered my 40s, I really began to think deeply about what I can do to develop and maintain at least a moderate level of physical fitness. I began to experience a series of health challenges, and I realized that I was losing the benefit of youth and had to work 
 
@@ -54,6 +54,6 @@ This is at the end of the acronym because it's important to end stress in our li
 
 # Summary
 
-{% include image.html url="/images/snes-summary.jpg" alt="Ambassadors" caption="Photo by Gundula Vogel on Pixabay " width=800 align="center" %}
+{% include image.html url="/images/snes-summary.jpg" alt="Ambassadors" caption="Photo by Gundula Vogel on Pixabay" %}
 
 While staying healthy and fit can be complicated, the SNES method is a lightweight framework for thinking about the components of a healthy lifestyle. Each component can be modified according to the goals you're trying to achieve. I primarily want to be energetic and active for the next few decades of my life, and I'm finding the SNES method to be very effective for achieving those outcomes.

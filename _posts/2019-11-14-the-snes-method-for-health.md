@@ -42,7 +42,7 @@ When I do eat, I emphasize vegatables (especially cauliflower, green beans, and 
 
 # Exercise
 
-{% include image.html url="/images/snes-exercise.jpg" alt="Gym" caption="Panel at Ibotta" %}
+{% include image.html url="/images/snes-exercise.jpg" alt="Gym" caption="Photo from Unsplash" %}
 
 Sleep and nutrition are about improving the things you have to do every day. Exercise is an optional activity, but it's an extremely important investment in your health. I don't like exercise, but I love how it makes me feel. I recommitted to exercise several months ago, and I started just walking around the block, and I have built up to working out 2-3 times a week in a gym and hiking a couple of times a week. And, I don't spend much more than an hour per workout. A little goes a long way.
 

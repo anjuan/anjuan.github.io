@@ -12,7 +12,10 @@ comments: true
 
 {% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" width=800 align="center" %}
 
-I've been reading about ways to improve my overall level of health for my entire adult life. When I entered my 40s, I really began to think deeply about what I can do to develop and maintain at least a moderate level of physical fitness. I've boiled down what I'e learned into an acronym called SNES. This stands for:
+I've been reading about ways to improve my overall level of health for my entire adult life. When I entered my 40s, I really began to think deeply about what I can do to develop and maintain at least a moderate level of physical fitness. I began to experience a series of health challenges, and I realized that I was losing the benefit of youth and had to work 
+
+
+I've boiled down what I'e learned into an acronym called SNES. This stands for:
 
 * **S**leep
 * **N**utrition
@@ -39,12 +42,12 @@ Sleep and nutrition are about improving the things you have to do every day. Exe
 
 # Stress
 
-{% include image.html url="/images/dsw-evolve-ceo.jpg" alt="CEO" caption="Evolve Co-Founder and CEO, Brian Egan" %}
+{% include image.html url="/images/snes-stress.jpg" alt="Traffic Jam" caption="Photo by Jens Herrndorff on Unsplash" %}
 
-This is at the end because it's important to end stress in our lives. Of course, totally ending it is impossible, but it's always worth learning better ways to manage stress. One key tool in this area is embracing the fact that I'm an introvert, and a lot of my self-care is giving myself time to rest and research in silence and solitude. That's how I recharge and recover from stressful situations.
+This is at the end of the acronym because it's important to end stress in our lives. Of course, totally ending stress is impossible, but it's always worth learning better ways to manage stress. One key tool in this area is embracing the fact that I'm an introvert, and a lot of my self-care is giving myself time to rest and research in silence and solitude. That's how I recharge and recover from stressful situations.
 
 # Summary
 
-{% include image.html url="/images/dsw-ambassadors.jpg" alt="Ambassadors" caption="The Ambassadors for Denver Startup Week 2019" width=800 align="center" %}
+{% include image.html url="/images/snes-summary.jpg" alt="Ambassadors" caption="Photo by Gundula Vogel on Pixabay " width=800 align="center" %}
 
 While staying healthy and fit can be complicated, the SNES method is a lightweight framework for thinking about the components of a healthy lifestyle. Each component can be modified according to the goals you're trying to achieve. I primarily want to be energetic and active for the next few decades of my life, and I'm finding the SNES method to be very effective for achieving those outcomes.

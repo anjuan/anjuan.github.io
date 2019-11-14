@@ -26,13 +26,19 @@ I've boiled down what I'e learned into an acronym called SNES. This stands for:
 
 {% include image.html url="/images/snes-sleep.jpg" alt="Bed" caption="Photo by Jaymantri on Pexels" %}
 
-This is first because nothing else you do can really compensate for a lack of sleep. It's vital to optimize the amount and quality of your sleep.
+This is first priority because nothing else you do can really compensate for a lack of sleep. It's vital to optimize the amount and quality of your sleep. I've found that I need at least 7 hours of sleep each night, and I really thrive when I can get 8 hours.
+
+I've left companies to find a role that lets be get enough sleep. The ability to work remotely has been the biggest game changer is improving the amount of sleep I get. Not having to spend hours commuting opened up time in my schedule to let me spend time with my family after work and also get enough sleep. I feel so much more present and aware now that I've made this change.
 
 # Nutrition
 
 {% include image.html url="/images/snes-nutrition.jpg" alt="View" caption="Photo by Brooke Lark on Unsplash" %}
 
-My main tools for how I approach nutrition are intermittent fasting and keto. I was bulletproof up until age 40, but the past few years have brought kidney stones and a blood clot in my left leg. Intermittent fasting and keto have done wonders for both, and I also follow a low oxalate diet.
+My main tools for how I approach nutrition are [intermittent fasting](https://www.healthline.com/nutrition/intermittent-fasting-guide) and [keto](https://www.webmd.com/diet/ss/slideshow-ketogenic-diet). I felt bulletproof up until age 40, but the past few years have brought kidney stones and a blood clot in my left leg. Intermittent fasting and keto have done wonders for both, and I also follow a low oxalate diet.
+
+I follow a four hour window when it comes to fasting. That means that I only eat between 4pm and 8pm each day, and I fast the other 20 hours. However, it took me some time to build up to this approach to how I eat. I started eating breakfast later and later until I eventually skipped it. I then did the sam thing for lunch. I now find that I don't even get hungry until 4pm because my appetite has adjusted to my eating schedule. Keep in mind that I do drink water when I'm fasting because hydration is critical for someone like me who forms kidney stones.
+
+When I do eat, I emphasize vegatables (especially cauliflower, green beans, and salad) and a moderate amount of protein. I also eat about four eggs a day because there is so much nutritional richness in both the yolk and the white of the egg. I do eat a low amount of carbs, but I avoid sugar and dairy.
 
 # Exercise
 

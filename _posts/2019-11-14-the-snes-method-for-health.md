@@ -24,19 +24,19 @@ I've boiled down what I'e learned into an acronym called SNES. This stands for:
 
 # Sleep
 
-{% include image.html url="/images/snes-sleep.jpg" alt="Bed" caption="Photo by Jaymantri on Pexels" width=800 align="center" %}
+{% include image.html url="/images/snes-sleep.jpg" alt="Bed" caption="Photo by Jaymantri on Pexels" %}
 
 This is first because nothing else you do can really compensate for a lack of sleep. It's vital to optimize the amount and quality of your sleep.
 
 # Nutrition
 
-{% include image.html url="/images/dsw-evolve-view.jpg" alt="View" caption="Another Great View of Denver from Evolve" %}
+{% include image.html url="/images/snes-nutrition.jpg" alt="View" caption="Photo by Brooke Lark on Unsplash" %}
 
 My main tools for how I approach nutrition are intermittent fasting and keto. I was bulletproof up until age 40, but the past few years have brought kidney stones and a blood clot in my left leg. Intermittent fasting and keto have done wonders for both, and I also follow a low oxalate diet.
 
 # Exercise
 
-{% include image.html url="/images/snes-exercise" alt="Gym" caption="Panel at Ibotta" %}
+{% include image.html url="/images/snes-exercise.jpg" alt="Gym" caption="Panel at Ibotta" %}
 
 Sleep and nutrition are about improving the things you have to do every day. Exercise is an optional activity, but it's an extremely important investment in your health. I don't like exercise, but I love how it makes me feel. I recommitted to exercise several months ago, and I started just walking around the block, and I have built up to working out 2-3 times a week in a gym and hiking a couple of times a week. And, I don't spend much more than an hour per workout. A little goes a long way.
 

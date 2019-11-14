@@ -10,7 +10,7 @@ excerpt: "I've developed a simple system for thinking about maintaining my healt
 comments: true
 ---
 
-{% include image.html url="/images/dsw-logo.jpg" alt="DSW" caption="Denver Startup Week" width=200 align="right" %}
+{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" width=800 align="center" %}
 
 I've read about health for my entire adult life, and, when I entered my 40s, I really began to think deeply about what I can do to develop and maintain a high level of physical fitness. I've boiled down what I'e learned into an acronym called SNES. This stands for
 
@@ -21,7 +21,7 @@ I've read about health for my entire adult life, and, when I entered my 40s, I r
 
 # Sleep
 
-{% include image.html url="/images/RTD.jpg" alt="Train" caption="The Denver Public Transportation System is easy and reliable" width=800 align="center" %}
+{% include image.html url="/images/snes-sleep.jpg" alt="Bed" caption="Photo by Jaymantri on Pexels" width=800 align="center" %}
 
 This is first because nothing else you do can really compensate for a lack of sleep. It's vital to optimize the amount and quality of your sleep.
 

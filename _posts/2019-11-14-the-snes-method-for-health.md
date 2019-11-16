@@ -59,7 +59,7 @@ I normally do weight machines when I workout at a gym because I like the way I c
 
 This is at the end of the acronym because it's important to end stress in our lives. Of course, totally ending stress is impossible, but it's always worth learning better ways to manage stress. One key tool in this area is embracing the fact that I'm an introvert, and a lot of my self-care is giving myself time to rest and research in silence and solitude. That's how I recharge and recover from stressful situations.
 
-I mentioned above that I've changed jobs to get more sleep, and I've also changed jobs to get away from stressful work environments. While I've been fortunate to have very good experiences over a multi-decade career, I've had a handful of managers who were incompatible with my working style. Thankfully, I've been able to move away from those situations, and I've never regretted making those moves. No company or role is perfect, but I've found that stress levels can vary widely 
+I mentioned above that I've changed jobs to get more sleep, and I've also changed jobs to get away from stressful work environments. While I've been fortunate to have very good experiences over a multi-decade career, I've had a handful of managers who were incompatible with my working style. Thankfully, I've been able to move away from those situations, and I've never regretted making those moves. No company or role is perfect, but I've found that stress levels can vary widely based on your manager and the culture of the organization. 
 
 # Summary
 

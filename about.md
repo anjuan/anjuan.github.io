@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/about.simmons.family.jpg" alt="family" caption="My Family" width=400 align="right" %}
+{% include image.html url="/images/family-portrait-cruise-july-2019.jpg" alt="family" caption="My Family" %}
 
 Hi, welcome to my personal site on the web. Most of the content on this site is about my career in technology, but, if you really want to know what I care about, look no further than my family. No matter whatever level of success I achieve, nothing will be more meaningful or significant to me than my family.
 

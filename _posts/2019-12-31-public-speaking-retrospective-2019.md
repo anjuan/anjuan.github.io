@@ -20,6 +20,8 @@ I'm following the traditional format for a Sprint Retrospective by starting with
 
 {% include image.html url="/images/public-speaking-retro-2017-signature-talks.jpg" alt="stage" caption="On stage at The Lead Developer UK in London" width=800 align="center" %}
 
+I've given talks for several years, but I really started taking public speaking seriously in 2016. I've had a couple of talks that became fairly popular (i.e., were accepted to a variety of tech conferences each year), and I even began to speak at international conferences.
+
 Managing the Burnout Burndown.
 
 

@@ -44,13 +44,23 @@ If the Narrator is not the host, then the person who owns the Zoom account shoul
 
 ## Participants Raise Their Hand
 
-Zoom has a feature called "Raise Hand" that is usually used to let the host know that a participant has a question. For Werewolf, this feature will be used to determine the people who are still in the game.
+Zoom has a feature called "Raise Hand" that is usually used to let the host know that a participant has a question. For Werewolf, this feature will be used to determine the people who are still in the game. At this point, everyone (except the Narrator) should select "Raise Hand" (the way to do this varies based on the client you're using to access Zoom).
 
 ## Narrator Assigns Roles
 
-To start playing Werewolf
+The Narrator should use the chat feature in Zoom to send a private message to everyone playing Werewolf that tells them their role. It's important that no player share or signify in any way the role assigned to them. There are four roles in the basic version of Werewolf:
 
-Once everyone joins the Zoom meeting, the Narrator should be 
+### Townsperson
+
+You're a regular member of the town. Perhaps you're a baker, merchant, or soldier. Your job is to save the town by eliminating the Werewolves that have infiltrated your town and started feeding on your neighbors. Also, try to avoid getting killed yourself.
+
+### Werewolf
+
+During the day you seem to be a regular Townsperson. However, you've been kissed by the Night and transform into a Werewolf when the sun sets. Your new nature compels you to kill and eat a Townsperson every night.
+
+### Seer
+
+You're a Townsperson 
 
 # The First Round
 
@@ -58,10 +68,13 @@ Day
 
 Night
 
+Must choose somone to kill
+
+# Subsequent Rounds
+
 # The End Game
 
 
-the artificial motions used in machines. I'm also working more stretching into my workout routine because bodies stiffen as they get older.
 
 
 # Summary

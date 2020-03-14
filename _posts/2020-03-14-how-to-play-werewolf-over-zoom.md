@@ -92,15 +92,31 @@ Once all actions have been announced to the Narrator, the first Night phase is o
 
 # Subsequent Rounds
 
+The Narrator says, "Townspeople, wake up" and all players left in the game turn their cameras back on. After confirming that all living players have their cameras on, the Narrator begins resolving the actions completed during the night.
 
+## An Unprotected Townsperson is Killed by the Werewolves
 
+If the person selected by the Werewolves was not saved by the Healer, then the Narrator announces the death of that player. The Narrator can be dramatic by saying something like, "Everyone wakes up to see a trail of blood leading to the forrest. There you find Terry's mangled remains by the Great Oak. Curiously, there are deep claw marks in the bark of the surrounding trees. It looks like Terry put up a fight." Once someone is dead, they lower their hand to indicate in the Participants List that they are no longer in the game. **It's important that dead players say nothing once removed from the game. They shouldn't announce their role, thoughts about who the Werewolves are, or share any information. The Narrator may mute them or remove them from the Zoom room if necessary.**
 
-Even if killed, the Narrator should continue to ask the Seer and Healer for their actions
+## A Protected Townsperson Was Attacked by the Werewolves
+
+If the person selected by the Werewolves was saved by the Healer, then the Narrator announces that someone was attacked last night, but they survived. No other information is provided to the players.
+
+After resolving the Night actions, the Townspeople have to decide what to do. This is a free discussion period, but the Narrator may put a time limit on how long the players have to talk. 
+
+If a Townsperson is accused of being a Werewolf by at least one other person, the Narrator will ask for a vote on that accusation. If the majority of the other players agree, then that person has the opportunity to defend themselves. The Narrator may put a time limit (e.g., 30 seconds) on this defense. Once the player makes the case for their innocence, the Narrator asks for a vote on the execution of that player. If the majority of the other players agree, then that player is killed and is no longer in the game. That person should lower their hand in the Participants List to indicate that they are no longer in the game.
+
+The Seer or the Healer may elect to reveal themselves during the Day phase. For example, the Seer may share that they identified a Werewolf. Or, the Healer may reveal that they saves a player from being killed by the Werewolves.
+
+Players without the Seer or Healer roles may pretend to be those roles in order to confuse the Townspeople, especially if they are actually Werewolves.
+
+The Townspeople may determine that they do not want to execute anyone during that particular Day phase. 
+
+Whether or not there's an execution, the Day phase is followed by another Night phase. Even if the people with the Seer and Healer roles are killed, the Narrator should continue to prompt them for actions durng the Night phase.
 
 # The End Game
 
-
-
+The game ends when all of the Werewolves are killed by the Townspeople or there the number of Townspeople left in the game is equal to or less than the number of Werewolves.
 
 # Summary
 

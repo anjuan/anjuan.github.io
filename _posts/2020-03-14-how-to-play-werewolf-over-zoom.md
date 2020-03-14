@@ -82,7 +82,9 @@ Once everyone has introduced themselves, the first Day phase is over.
 
 The Narrator announces the start of the first night phase by saying, "Townspeople, go to sleep". Everyone playing the game should turn off their camera in Zoom. This reduces the chance that some movement or facial expression will betray a player's role. The Narrator can confirm that all players have their cameras off by looking at the Participants List in Zoom. Everyone with the hand icon next to their name should also have the "camera off" icon next to their name. 
 
-The Narrator prompts the Werewolves for their actions by saying, "Werewolves, who do you to kill". The players with the Werewolf role should confer over private message with each other and select a victim. 
+The Narrator prompts the Werewolves for their actions by saying, "Werewolves, who do you to kill". The players with the Werewolf role should confer over private message with each other and select a victim. It's important to avoid accidentaly sending a private message to someone who is not a Werewolf or to all of the participants. Once the Werewolves agree on who to kill, they **all** have to send a private message to the Narrator. This makes sure that the selected victim is a unanimous decision. If the private messages to the Narrator don't name the same victim, the Narrator should say, "Werewolves, you have to agree." If one or more Werewolves don't name a victim, the Narrator should say, "Werewolves, I need everyone to send me the name of who you want to kill." The Werewolves **must** select a person to kill everynight, and the decision must be unanimous.
+
+The Narrator then prompts the Seer by saying, "Seer, who do you want to identify?" 
 
 Must choose somone to kill
 

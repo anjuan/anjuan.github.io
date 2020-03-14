@@ -10,7 +10,7 @@ excerpt: "Werewolf is a fun social game that can be enjoyed even by a distribute
 comments: true
 ---
 
-{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
+{% include image.html url="/images/samuele-giglio-wL4knvbQphI-unsplash.jpg" alt="Header" caption="Photo by Samuele Giglio on Unsplash" %}
 
 I've played Werewolf (and the varient called Mafia) for years, and it's a fun game. However, it can be difficult to get enough people together to play in the same physical location. This post describes how to play Werewolf using a remote meeting software application called Zoom.
 

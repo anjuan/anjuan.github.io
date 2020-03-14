@@ -112,6 +112,8 @@ If the person selected by the Werewolves was not saved by the Healer, then the N
 
 If the person selected by the Werewolves was saved by the Healer, then the Narrator announces that someone was attacked last night, but they survived. No other information is provided to the players.
 
+## Deliberations by the Townspeople
+
 After resolving the Night actions, the Townspeople have to decide what to do. This is a free discussion period, but the Narrator may put a time limit on how long the players have to talk. 
 
 If a Townsperson is accused of being a Werewolf by at least one other person, the Narrator will ask for a vote on that accusation. If the majority of the other players agree, then that person has the opportunity to defend themselves. The Narrator may put a time limit (e.g., 30 seconds) on this defense. Once the player makes the case for their innocence, the Narrator asks for a vote on the execution of that player. If the majority of the other players agree, then that player is killed and is no longer in the game. That person should lower their hand in the Participants List to indicate that they are no longer in the game.

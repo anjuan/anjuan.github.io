@@ -100,7 +100,7 @@ Once all actions have been announced to the Narrator, the first Night phase is o
 
 # Subsequent Rounds
 
-{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
+{% include image.html url="/images/tim-umphreys-npgIpv-1yZQ-unsplash.jpg" alt="Header" caption="Photo by Tim Umphreys on Unsplash" %}
 
 The Narrator says, "Townspeople, wake up" and all players left in the game turn their cameras back on. After confirming that all living players have their cameras on, the Narrator begins resolving the actions completed during the night.
 

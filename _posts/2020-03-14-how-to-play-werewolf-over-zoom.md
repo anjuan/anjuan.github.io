@@ -32,10 +32,19 @@ Before the first round starts, the people playing Werewolf need to complete a fe
 
 ## Login to Zoom
 
+The person who owns the Zoom account should send the meeting URL to everyone who wants to play Werewolf. This will put everone in the same virtual meeting rooom. 
+
+## Cameras On
+
+Everyone playing Werewolf should start with their cameras turned on. This is important for later in the game.
 
 ## Make the Narrator the Host
 
+If the Narrator is not the host, then the person who owns the Zoom account should make the Narrator the host.
+
 ## Participants Raise Their Hand
+
+Zoom has a feature called "Raise Hand" that is usually used to let the host know that a participant has a question. For Werewolf, this feature will be used to determine the people who are still in the game.
 
 ## Narrator Assigns Roles
 

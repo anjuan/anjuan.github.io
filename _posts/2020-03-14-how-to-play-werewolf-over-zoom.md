@@ -76,7 +76,7 @@ You're a Townsperson with the unique ability to save lives. During the night, yo
 
 # The First Round
 
-{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
+{% include image.html url="/images/jp-valery-dGMWw5k2vW4-unsplash.jpg" alt="Header" caption="Photo by Jp Valery on Unsplash" %}
 
 ## Day
 

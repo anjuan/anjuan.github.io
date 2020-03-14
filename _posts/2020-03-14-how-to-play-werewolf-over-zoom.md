@@ -128,8 +128,6 @@ Whether or not there's an execution, the Day phase is followed by another Night 
 
 # The End Game
 
-{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
-
 The game ends when all of the Werewolves are killed by the Townspeople or there the number of Townspeople left in the game is equal to or less than the number of Werewolves.
 
 # Summary

@@ -10,6 +10,8 @@ excerpt: "Werewolf is a fun social game that can be enjoyed even by a distribute
 comments: true
 ---
 
+{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
+
 I've played Werewolf (and the varient called Mafia) for years, and it's a fun game. However, it can be difficult to get enough people together to play in the same physical location. This post describes how to play Werewolf using a remote meeting software application called Zoom.
 
 # A Word of Caution
@@ -18,6 +20,8 @@ Werewolf is a game that requires deception and simulated killing. The deception 
 
 # Prerequisites
 
+{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
+
 This post assumes that at least one person (ideally the person playing the Narrator) has a Zoom account. Zoom has two categories for the people in a meeting: host and participants. The host is the person who owns the account, and the participants are the people who join the host's accout.
 
 Zoom has a Free Plan that provide all of the features that are needed to play Werewolf. However, for meetings with one host and two or more participants, the meeting will end after 40 minutes on the Free Plan. Since playing Werewolf requires seven or more people, you'll run into the time limit using Zoom's Free Plan. So, ideally, at least one person has access to a paid plan to use for Werewolf.
@@ -25,6 +29,8 @@ Zoom has a Free Plan that provide all of the features that are needed to play We
 This post also assumes that everyone has access to a computer with a webcam and a high speed internet connection. Whoever has the host account should send the meeting link out before the Werewolf session starts so that everyone can make sure it works for them before playing the game.
 
 # Before the First Round
+
+{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
 
 Werewolf is played in a round consisting of two phases: Day and Night. The Day phase of the round is when the townspeople are active and try to determine who is a Werewolf so that they can be killed and removed from the game. The Night phase of the round is when the Werewolves are active and try to kill the townspeople. The game is over when all of the Werewolves are killed or the number of Townspeople is equal to or less than the number of Werewolves left in the game.
 
@@ -70,6 +76,8 @@ You're a Townsperson with the unique ability to save lives. During the night, yo
 
 # The First Round
 
+{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
+
 ## Day
 
 The first round starts with the Day phase. Everyone has their camera on in Zoom and the people playing Werewolf have the icon of a hand next to their name in the Participants list. 
@@ -91,6 +99,8 @@ The Narrator then prompts the Healer by saying, "Healer, who do you want to save
 Once all actions have been announced to the Narrator, the first Night phase is over.
 
 # Subsequent Rounds
+
+{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
 
 The Narrator says, "Townspeople, wake up" and all players left in the game turn their cameras back on. After confirming that all living players have their cameras on, the Narrator begins resolving the actions completed during the night.
 
@@ -115,6 +125,8 @@ The Townspeople may determine that they do not want to execute anyone during tha
 Whether or not there's an execution, the Day phase is followed by another Night phase. Even if the people with the Seer and Healer roles are killed, the Narrator should continue to prompt them for actions durng the Night phase.
 
 # The End Game
+
+{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
 
 The game ends when all of the Werewolves are killed by the Townspeople or there the number of Townspeople left in the game is equal to or less than the number of Werewolves.
 

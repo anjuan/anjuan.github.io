@@ -60,7 +60,7 @@ During the day you seem to be a regular Townsperson. However, you've been kissed
 
 ### Seer
 
-You're a Townsperson 
+You're a Townsperson with the unique ability to peer into a person's soul and see their true nature. During the night, you'll get a chance to see if another Townsperson is a Werewolf. However, use this information wisely because it can lead to you beng targetted by the Werewolves the next night if they deduce your identity.
 
 # The First Round
 

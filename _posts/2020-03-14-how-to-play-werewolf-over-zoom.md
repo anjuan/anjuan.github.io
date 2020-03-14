@@ -20,7 +20,7 @@ Werewolf is a game that requires deception and simulated killing. The deception 
 
 # Prerequisites
 
-{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
+{% include image.html url="/images/jr-korpa-KZTpv43fve8-unsplash.jpg" alt="Header" caption="Photo by JR Korpa on Unsplash" %}
 
 This post assumes that at least one person (ideally the person playing the Narrator) has a Zoom account. Zoom has two categories for the people in a meeting: host and participants. The host is the person who owns the account, and the participants are the people who join the host's accout.
 
@@ -30,7 +30,7 @@ This post also assumes that everyone has access to a computer with a webcam and 
 
 # Before the First Round
 
-{% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}
+{% include image.html url="/images/fred-kearney-HPDBqcA_1mc-unsplash.jpg" alt="Header" caption="Photo by Fred Kearney on Unsplash" %}
 
 Werewolf is played in a round consisting of two phases: Day and Night. The Day phase of the round is when the townspeople are active and try to determine who is a Werewolf so that they can be killed and removed from the game. The Night phase of the round is when the Werewolves are active and try to kill the townspeople. The game is over when all of the Werewolves are killed or the number of Townspeople is equal to or less than the number of Werewolves left in the game.
 

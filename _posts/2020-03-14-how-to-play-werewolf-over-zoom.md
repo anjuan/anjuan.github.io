@@ -22,11 +22,32 @@ This post assumes that at least one person (ideally the person playing the Narra
 
 Zoom has a Free Plan that provide all of the features that are needed to play Werewolf. However, for meetings with one host and two or more participants, the meeting will end after 40 minutes on the Free Plan. Since playing Werewolf requires seven or more people, you'll run into the time limit using Zoom's Free Plan. So, ideally, at least one person has access to a paid plan to use for Werewolf.
 
+This post also assumes that everyone has access to a computer with a webcam and a high speed internet connection. Whoever has the host account should send the meeting link out before the Werewolf session starts so that everyone can make sure it works for them before playing the game.
+
 # Before the First Round
 
+Werewolf is played in a round consisting of Day and Night. The Day part of the round is when the townspeople are active and try to determine who is a Werewolf so that they can be killed and removed from the game. The Night part of the round is when the Werewolves are active and try to kill the townspeople. The game is over when all of the Werewolves are killed or the number of Townspeople is equal to or less than the number of Werewolves left in the game.
 
+Before the first round starts, the people playing Werewolf need to complete a few actions.
+
+## Login to Zoom
+
+
+## Make the Narrator the Host
+
+## Participants Raise Their Hand
+
+## Narrator Assigns Roles
+
+To start playing Werewolf
+
+Once everyone joins the Zoom meeting, the Narrator should be 
 
 # The First Round
+
+Day
+
+Night
 
 # The End Game
 

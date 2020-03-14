@@ -26,7 +26,7 @@ This post also assumes that everyone has access to a computer with a webcam and 
 
 # Before the First Round
 
-Werewolf is played in a round consisting of Day and Night. The Day part of the round is when the townspeople are active and try to determine who is a Werewolf so that they can be killed and removed from the game. The Night part of the round is when the Werewolves are active and try to kill the townspeople. The game is over when all of the Werewolves are killed or the number of Townspeople is equal to or less than the number of Werewolves left in the game.
+Werewolf is played in a round consisting of two phases: Day and Night. The Day phase of the round is when the townspeople are active and try to determine who is a Werewolf so that they can be killed and removed from the game. The Night phase of the round is when the Werewolves are active and try to kill the townspeople. The game is over when all of the Werewolves are killed or the number of Townspeople is equal to or less than the number of Werewolves left in the game.
 
 Before the first round starts, the people playing Werewolf need to complete a few actions.
 
@@ -42,9 +42,9 @@ Everyone playing Werewolf should start with their cameras turned on. This is imp
 
 If the Narrator is not the host, then the person who owns the Zoom account should make the Narrator the host.
 
-## Participants Raise Their Hand
+## Players Raise Their Hand
 
-Zoom has a feature called "Raise Hand" that is usually used to let the host know that a participant has a question. For Werewolf, this feature will be used to determine the people who are still in the game. At this point, everyone (except the Narrator) should select "Raise Hand" (the way to do this varies based on the client you're using to access Zoom).
+Zoom has a feature called "Raise Hand" that is usually used to let the host know that a participant has a question. For Werewolf, this feature will be used to determine the people who are still in the game. At this point, everyone (except the Narrator) should select "Raise Hand" (the way to do this varies based on the client you're using to access Zoom). This puts an icon of a hand next to their name in Zoom's Participants List window. If people have joined the Zoom room just to watch the game, then the lack of a hand icon distinguishes them from the actual players.
 
 ## Narrator Assigns Roles
 
@@ -56,21 +56,39 @@ You're a regular member of the town. Perhaps you're a baker, merchant, or soldie
 
 ### Werewolf
 
-During the day you seem to be a regular Townsperson. However, you've been kissed by the Night and transform into a Werewolf when the sun sets. Your new nature compels you to kill and eat a Townsperson every night.
+During the day you seem to be a regular Townsperson. However, you've been kissed by the Night and transform into a Werewolf when the sun sets. Your new nature compels you to kill and eat a Townsperson every night. When the Narrator sends a private message assigning this role to you, you'll also be told the other players who are also Werewolves.
 
 ### Seer
 
 You're a Townsperson with the unique ability to peer into a person's soul and see their true nature. During the night, you'll get a chance to see if another Townsperson is a Werewolf. However, use this information wisely because it can lead to you beng targetted by the Werewolves the next night if they deduce your identity.
 
+### Healer
+
+You're a Townsperson with the unique ability to save lives. During the night, you'll get a chance to protect another Townsperson from death if they are attacked by the Werewolves. You can choose to protect yourself.
+
+*Note: Depending on the number of people playing, the Narrator may elect to assign the roles of Werewolf, Seer, and Healer, and tell everyone else, "Unless I've told you otherwise, you're a Townsperson".
+
 # The First Round
 
-Day
+## Day
 
-Night
+The first round starts with the Day phase. Everyone has their camera on in Zoom and the people playing Werewolf have the icon of a hand next to their name in the Participants list. 
+
+The Narrator will ask the players to introduce themselves. Ideally, the people playing Werewolf will have fun and say something like, "Hi, I'm Terry, and I've run the butcher shop in the middle of town for ten years. We're having a special today, two steaks for the price of one!"  No one should disclose if they have the role of Werewolf, Seer, or Healer at this point in the game.
+
+Once everyone has introduced themselves, the first Day phase is over.
+
+## Night
+
+The Narrator announces the start of the first night phase by saying, "Townspeople, go to sleep". Everyone playing the game should turn off their camera in Zoom. This reduces the chance that some movement or facial expression will betray a player's role. The Narrator can confirm that all players have their cameras off by looking at the Participants List in Zoom. Everyone with the hand icon next to their name should also have the "camera off" icon next to their name. 
+
+The Narrator prompts the Werewolves for their actions by saying, "Werewolves, who do you to kill". The players with the Werewolf role should confer over private message with each other and select a victim. 
 
 Must choose somone to kill
 
 # Subsequent Rounds
+
+Even if killed, the Narrator should continue to ask the Seer and Healer for their actions
 
 # The End Game
 

@@ -100,7 +100,7 @@ Once all actions have been announced to the Narrator, the first Night phase is o
 
 # Subsequent Rounds
 
-{% include image.html url="wolf-3022813_1920.jpg" alt="Wolf Moon" caption="Image by Mohamed Hassan from Pixabay" %}
+{% include image.html url="/images/wolf-3022813_1920.jpg" alt="Wolf Moon" caption="Image by Mohamed Hassan from Pixabay" %}
 
 The Narrator says, "Townspeople, wake up" and all players left in the game turn their cameras back on. After confirming that all living players have their cameras on, the Narrator begins resolving the actions completed during the night.
 

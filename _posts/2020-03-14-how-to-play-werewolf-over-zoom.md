@@ -10,7 +10,7 @@ excerpt: "Werewolf is a fun social game that can be enjoyed even by a distribute
 comments: true
 ---
 
-{% include image.html url="/images/samuele-giglio-wL4knvbQphI-unsplash.jpg" alt="Header" caption="Photo by Samuele Giglio on Unsplash" %}
+{% include image.html url="/images/samuele-giglio-wL4knvbQphI-unsplash.jpg" alt="Werewolf on Stage" caption="Photo by Samuele Giglio on Unsplash" %}
 
 I've played Werewolf (and the varient called Mafia) for years, and it's a fun game. However, it can be difficult to get enough people together to play in the same physical location. This post describes how to play Werewolf using a remote meeting software application called Zoom.
 
@@ -20,7 +20,7 @@ Werewolf is a game that requires deception and simulated killing. The deception 
 
 # Prerequisites
 
-{% include image.html url="/images/jr-korpa-KZTpv43fve8-unsplash.jpg" alt="Header" caption="Photo by JR Korpa on Unsplash" %}
+{% include image.html url="/images/jr-korpa-KZTpv43fve8-unsplash.jpg" alt="Hazy Moon" caption="Photo by JR Korpa on Unsplash" %}
 
 This post assumes that at least one person (ideally the person playing the Narrator) has a Zoom account. Zoom has two categories for the people in a meeting: host and participants. The host is the person who owns the account, and the participants are the people who join the host's accout.
 
@@ -30,7 +30,7 @@ This post also assumes that everyone has access to a computer with a webcam and 
 
 # Before the First Round
 
-{% include image.html url="/images/fred-kearney-HPDBqcA_1mc-unsplash.jpg" alt="Header" caption="Photo by Fred Kearney on Unsplash" %}
+{% include image.html url="/images/fred-kearney-HPDBqcA_1mc-unsplash.jpg" alt="Man in Forrest" caption="Photo by Fred Kearney on Unsplash" %}
 
 Werewolf is played in a round consisting of two phases: Day and Night. The Day phase of the round is when the townspeople are active and try to determine who is a Werewolf so that they can be killed and removed from the game. The Night phase of the round is when the Werewolves are active and try to kill the townspeople. The game is over when all of the Werewolves are killed or the number of Townspeople is equal to or less than the number of Werewolves left in the game.
 
@@ -76,7 +76,7 @@ You're a Townsperson with the unique ability to save lives. During the night, yo
 
 # The First Round
 
-{% include image.html url="/images/jp-valery-dGMWw5k2vW4-unsplash.jpg" alt="Header" caption="Photo by Jp Valery on Unsplash" %}
+{% include image.html url="/images/jp-valery-dGMWw5k2vW4-unsplash.jpg" alt="Wolf in Woods" caption="Photo by Jp Valery on Unsplash" %}
 
 ## Day
 
@@ -100,7 +100,7 @@ Once all actions have been announced to the Narrator, the first Night phase is o
 
 # Subsequent Rounds
 
-{% include image.html url="/images/tim-umphreys-npgIpv-1yZQ-unsplash.jpg" alt="Header" caption="Photo by Tim Umphreys on Unsplash" %}
+{% include image.html url="/images/tim-umphreys-npgIpv-1yZQ-unsplash.jpg" alt="Crescent Moon" caption="Photo by Tim Umphreys on Unsplash" %}
 
 The Narrator says, "Townspeople, wake up" and all players left in the game turn their cameras back on. After confirming that all living players have their cameras on, the Narrator begins resolving the actions completed during the night.
 
@@ -128,7 +128,7 @@ Whether or not there's an execution, the Day phase is followed by another Night 
 
 # The End Game
 
-{% include image.html url="/images/guillermo-alvarez-OR0KqeaXq_c-unsplash.jpg" alt="Header" caption="Photo by Guillermo Álvarez on Unsplash" %}
+{% include image.html url="/images/guillermo-alvarez-OR0KqeaXq_c-unsplash.jpg" alt="Medieval City" caption="Photo by Guillermo Álvarez on Unsplash" %}
 
 The game ends when all of the Werewolves are killed by the Townspeople or there the number of Townspeople left in the game is equal to or less than the number of Werewolves.
 

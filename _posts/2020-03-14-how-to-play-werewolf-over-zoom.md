@@ -30,7 +30,7 @@ This post also assumes that everyone has access to a computer with a webcam and 
 
 # Before the First Round
 
-{% include image.html url="/images/fred-kearney-HPDBqcA_1mc-unsplash.jpg" alt="Man in Forrest" caption="Photo by Fred Kearney on Unsplash" %}
+{% include image.html url="/images/tim-umphreys-npgIpv-1yZQ-unsplash.jpg" alt="Crescent Moon" caption="Photo by Tim Umphreys on Unsplash" %}
 
 Werewolf is played in a round consisting of two phases: Day and Night. The Day phase of the round is when the townspeople are active and try to determine who is a Werewolf so that they can be killed and removed from the game. The Night phase of the round is when the Werewolves are active and try to kill the townspeople. The game is over when all of the Werewolves are killed or the number of Townspeople is equal to or less than the number of Werewolves left in the game.
 
@@ -100,7 +100,7 @@ Once all actions have been announced to the Narrator, the first Night phase is o
 
 # Subsequent Rounds
 
-{% include image.html url="/images/tim-umphreys-npgIpv-1yZQ-unsplash.jpg" alt="Crescent Moon" caption="Photo by Tim Umphreys on Unsplash" %}
+{% include image.html url="/images/fred-kearney-HPDBqcA_1mc-unsplash.jpg" alt="Man in Forrest" caption="Photo by Fred Kearney on Unsplash" %}
 
 The Narrator says, "Townspeople, wake up" and all players left in the game turn their cameras back on. After confirming that all living players have their cameras on, the Narrator begins resolving the actions completed during the night.
 
@@ -112,7 +112,7 @@ If the person selected by the Werewolves was not saved by the Healer, then the N
 
 If the person selected by the Werewolves was saved by the Healer, then the Narrator announces that someone was attacked last night, but they survived. No other information is provided to the players.
 
-## Deliberations by the Townspeople
+## Discussion by the Townspeople
 
 After resolving the Night actions, the Townspeople have to decide what to do. This is a free discussion period, but the Narrator may put a time limit on how long the players have to talk. 
 

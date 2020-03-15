@@ -72,7 +72,7 @@ You're a Townsperson with the unique ability to peer into a person's soul and se
 
 You're a Townsperson with the unique ability to save lives. During the night, you'll get a chance to protect another Townsperson from death if they are attacked by the Werewolves. You can choose to protect yourself.
 
-*Note: Depending on the number of people playing, the Narrator may elect to assign the roles of Werewolf, Seer, and Healer, and tell everyone else, "Unless I've told you otherwise, you're a Townsperson". Also, two Werewolves will work for a group of about 15 players. Use three Werewolves for larger groups.
+*Note: Depending on the number of people playing, the Narrator may elect to assign the roles of Werewolf, Seer, and Healer, and tell everyone else, "Unless I've told you otherwise, you're a Townsperson". Also, two Werewolves will work for a group of about 15 players. Use three Werewolves for larger groups.*
 
 # The First Round
 

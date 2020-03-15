@@ -122,7 +122,7 @@ The Seer or the Healer may elect to reveal themselves during the Day phase. For 
 
 Players without the Seer or Healer roles may pretend to be those roles in order to confuse the Townspeople, especially if they are actually Werewolves.
 
-The Townspeople may determine that they do not want to execute anyone during that particular Day phase. 
+The Townspeople may determine that they do not want to execute anyone during that particular Day phase. However, this gives the Werewolves more time to kill Townspeople during the Night.
 
 Whether or not there's an execution, the Day phase is followed by another Night phase. Even if the people with the Seer and Healer roles are killed, the Narrator should continue to prompt them for actions durng the Night phase.
 

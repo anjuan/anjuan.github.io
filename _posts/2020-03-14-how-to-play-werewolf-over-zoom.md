@@ -12,11 +12,11 @@ comments: true
 
 {% include image.html url="/images/samuele-giglio-wL4knvbQphI-unsplash.jpg" alt="Werewolf on Stage" caption="Photo by Samuele Giglio on Unsplash" %}
 
-I've played Werewolf (and the varient called Mafia) for years, and it's a fun game. However, it can be difficult to get enough people together to play in the same physical location. This post describes how to play Werewolf using a remote meeting software application called Zoom.
+I've played [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)) (and the varient called Mafia) for years, and it's a fun game. However, it can be difficult to get enough people together to play in the same physical location. This post describes how to play Werewolf using a remote meeting software application called Zoom.
 
 # A Word of Caution
 
-Werewolf is a game that requires deception and simulated killing. The deception is similar to other games like chess or Monopoly where you often have to hide your true intentions in order to win the game. The killing is similar to dodgeball where you're figuratively removed from the game (albeit in an often graphically gruesome way). Lying and the dramatization of murder can be unfortable to some players.
+Werewolf is a game that requires deception and simulated killing. The deception is similar to other games like chess or Monopoly where you often have to hide your true intentions in order to win the game. The killing is similar to dodgeball where you're figuratively removed from the game (albeit in an often graphically gruesome way). The elements of lying and dramatized murder can be unfortable to some players.
 
 # Prerequisites
 
@@ -72,7 +72,7 @@ You're a Townsperson with the unique ability to peer into a person's soul and se
 
 You're a Townsperson with the unique ability to save lives. During the night, you'll get a chance to protect another Townsperson from death if they are attacked by the Werewolves. You can choose to protect yourself.
 
-*Note: Depending on the number of people playing, the Narrator may elect to assign the roles of Werewolf, Seer, and Healer, and tell everyone else, "Unless I've told you otherwise, you're a Townsperson".
+*Note: Depending on the number of people playing, the Narrator may elect to assign the roles of Werewolf, Seer, and Healer, and tell everyone else, "Unless I've told you otherwise, you're a Townsperson". Also, two Werewolves will work for a group of about 15 players. Use three Werewolves for larger groups.
 
 # The First Round
 

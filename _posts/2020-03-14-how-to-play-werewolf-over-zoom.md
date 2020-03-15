@@ -62,17 +62,17 @@ You're a regular member of the town. Perhaps you're a baker, merchant, or soldie
 
 ### Werewolf
 
-During the day you seem to be a regular Townsperson. However, you've been kissed by the Night and transform into a Werewolf when the sun sets. Your new nature compels you to kill and eat a Townsperson every night. When the Narrator sends a private message assigning this role to you, you'll also be told the other players who are also Werewolves.
+During the day you seem to be a regular Townsperson. However, you've been kissed by the Night and transform into a Werewolf when the sun sets. Your new nature compels you to kill and eat a Townsperson every night. When the Narrator sends a private message assigning this role to you, you'll also be told the other players who are also Werewolves. There should be two Werewolves for a group of 15 players. Add another Werewolf for larger groups.
 
 ### Seer
 
-You're a Townsperson with the unique ability to peer into a person's soul and see their true nature. During the night, you'll get a chance to see if another Townsperson is a Werewolf. However, use this information wisely because it can lead to you beng targetted by the Werewolves the next night if they deduce your identity.
+You're a Townsperson with the unique ability to peer into a person's soul and see their true nature. During the night, you'll get a chance to see if another Townsperson is a Werewolf. However, use this information wisely because it can lead to you beng targetted by the Werewolves the next night if they deduce your identity. There is one Seer per group.
 
 ### Healer
 
-You're a Townsperson with the unique ability to save lives. During the night, you'll get a chance to protect another Townsperson from death if they are attacked by the Werewolves. You can choose to protect yourself.
+You're a Townsperson with the unique ability to save lives. During the night, you'll get a chance to protect another Townsperson from death if they are attacked by the Werewolves. You can choose to protect yourself. There is one Healer per group.
 
-*Note: Depending on the number of people playing, the Narrator may elect to assign the roles of Werewolf, Seer, and Healer, and tell everyone else, "Unless I've told you otherwise, you're a Townsperson". Also, two Werewolves will work for a group of about 15 players. Use three Werewolves for larger groups.*
+*Note: Depending on the number of people playing, the Narrator may elect to assign the roles of Werewolf, Seer, and Healer, and tell everyone else, "Unless I've told you otherwise, you're a Townsperson".*
 
 # The First Round
 

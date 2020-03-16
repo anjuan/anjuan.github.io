@@ -12,7 +12,7 @@ comments: true
 
 {% include image.html url="/images/samuele-giglio-wL4knvbQphI-unsplash.jpg" alt="Werewolf on Stage" caption="Photo by Samuele Giglio on Unsplash" %}
 
-I've played [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)) (and the varient called Mafia) for years, and it's a fun social game. However, it can be difficult to get enough people together to play in the same physical location. This post describes how to play Werewolf using a popular remote meeting software application called [Zoom](https://zoom.us/).
+I've played [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)) (and the varient called Mafia) for years, and it's a fun social game. However, it can be difficult to get enough people together to play in the same physical location. This post describes how to play Werewolf using a popular online meeting application called [Zoom](https://zoom.us/).
 
 # A Word of Caution
 

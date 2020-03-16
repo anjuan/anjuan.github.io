@@ -138,7 +138,7 @@ Whether or not there's an execution, the Day phase is followed by another Night 
 
 The game ends when all of the Werewolves are killed by the Townspeople or the number of Townspeople left in the game is equal to or less than the number of Werewolves.
 
-{% include image.html url="/images/End-Game.png" alt="Zoom End-Game" caption="This is the Zoom interface at the end of the game. The Townspeople managed to kill of Magnus, but the Werewolves has decimated most of the Townspeople. So, with only one Werewolf and another Townsperson left in the game, the Werewolves win." %}
+{% include image.html url="/images/End-Game.png" alt="Zoom End-Game" caption="This is the Zoom interface at the end of the game. The Townspeople managed to kill of Magnus, but the Werewolves have decimated most of the Townspeople. So, with only one Werewolf and another Townsperson left in the game, the Werewolves win." %}
 
 # Summary
 

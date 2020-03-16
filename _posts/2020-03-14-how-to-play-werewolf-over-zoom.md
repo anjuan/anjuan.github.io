@@ -46,7 +46,7 @@ Everyone playing Werewolf should start with their cameras turned on. This is imp
 
 ## Make the Narrator the Host
 
-If the Narrator is not the host, then the person who owns the Zoom account should make the Narrator the host.
+If the Narrator is not the host, then the person who owns the Zoom account should make the Narrator the host. The Narrator is the referee of Werewolf and makes sure the game is played according to the simple rules and mechanics that govern the game. Making sure the Narrator is the host in Zoom allows that person to have enough control to keep the game fair.
 
 ## Players Raise Their Hand
 

@@ -92,6 +92,8 @@ Once everyone has introduced themselves, the first Day phase is over.
 
 The Narrator announces the start of the first night phase by saying, "Townspeople, go to sleep". Everyone playing the game (except the Narrator) should turn off their camera in Zoom. This reduces the chance that some movement or facial expression will betray a player's role. The Narrator can confirm that all players have their cameras off by looking at the Participants List in Zoom. Everyone with the hand icon next to their name should also have the "camera off" icon next to their name. 
 
+{% include image.html url="/images/Start-Game.png" alt="Zoom Start Game" caption="This is the Zoom interface at night with all cameras off (except the narrator) and everyone still in the game with the Raise Hand icon next to their name in the Participants List. Magnus and Wanda are the two Werewolves." %}
+
 The Narrator prompts the Werewolves for their actions by saying, "Werewolves, who do you to kill?" The players with the Werewolf role should confer over private message with each other and select a victim. It's important to avoid accidentaly sending a private message to someone who is not a Werewolf or to all of the participants. Once the Werewolves agree on who to kill, they **all** have to send a private message to the Narrator. This makes sure that the selected victim is a unanimous decision. If the private messages to the Narrator don't name the same victim, the Narrator should say, "Werewolves, you have to agree." If one or more Werewolves don't name a victim, the Narrator should say, "Werewolves, I need everyone to send me the name of who you want to kill." The Werewolves **must** select a person to kill everynight, and the decision must be unanimous.
 
 The Narrator then prompts the Seer by saying, "Seer, who do you want to identify?" The player with the Seer role should send the name of another player to the Narrator over private message. The Narrator should respond over private message with, "That person is a Werewolf" or "That person is not a Werewolf". No other information should be provided to the Seer.
@@ -128,11 +130,15 @@ The Townspeople may determine that they do not want to execute anyone during tha
 
 Whether or not there's an execution, the Day phase is followed by another Night phase. Even if the people with the Seer and Healer roles are killed, the Narrator should continue to prompt them for actions durng the Night phase.
 
+{% include image.html url="/images/Mid-Game.png" alt="Zoom Mid-Game" caption="This is the Zoom interface at a later night phase. Peter and Steve have been killed off by the Werewolves so their hands are lowered in the Participants List." %}
+
 # The End Game
 
 {% include image.html url="/images/gray-castle-under-cloudy-sky-831082.jpg" alt="Gray Castle Under Cloudy Sky" caption="Photo by Rudolf Kirchner from Pexels" %}
 
 The game ends when all of the Werewolves are killed by the Townspeople or there the number of Townspeople left in the game is equal to or less than the number of Werewolves.
+
+{% include image.html url="/images/End-Game.png" alt="Zoom End-Game" caption="This is the Zoom interface at the end of the game. The Townspeople managed to kill of Magnus, but the Werewolves has decimated most of the Townspeople. So, with only one Werewolf and another Townsperson left in the game, the Werewolves win." %}
 
 # Summary
 

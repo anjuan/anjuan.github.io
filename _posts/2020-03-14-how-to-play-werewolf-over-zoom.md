@@ -22,7 +22,7 @@ Werewolf is a game that requires deception and simulated killing. The deception 
 
 {% include image.html url="/images/jr-korpa-KZTpv43fve8-unsplash.jpg" alt="Hazy Moon" caption="Photo by JR Korpa on Unsplash" %}
 
-This post assumes that at least one person (ideally the person playing the Narrator) has a Zoom account. Zoom has two categories for the people in a meeting: host and participants. The host is the person who owns the account, and the participants are the people who join the host's accout.
+This post assumes that at least one person (ideally the person playing the Narrator) has a Zoom account. Zoom has two categories for the people in a meeting: host and participants. The host is the person who owns the account, and the participants are the people who join the host's account.
 
 Zoom has a Free Plan that provide all of the features that are needed to play Werewolf. However, for meetings with one host and two or more participants, the meeting will end after 40 minutes on the Free Plan. Since playing Werewolf requires seven or more people, you'll run into the time limit using Zoom's Free Plan. So, ideally, at least one person has access to a paid plan to use for Werewolf.
 

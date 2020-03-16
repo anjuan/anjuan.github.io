@@ -32,7 +32,7 @@ This post also assumes that everyone has access to a computer with a webcam and 
 
 {% include image.html url="/images/tim-umphreys-npgIpv-1yZQ-unsplash.jpg" alt="Crescent Moon" caption="Photo by Tim Umphreys on Unsplash" %}
 
-Werewolf is played in a round consisting of two phases: Day and Night. The Day phase of the round is when the Townspeople are active and try to determine who is a Werewolf so that they can be killed and removed from the game. The Night phase of the round is when the Werewolves are active and try to kill the Townspeople. The game is over when all of the Werewolves are killed or the number of Townspeople is equal to or less than the number of Werewolves left in the game.
+Werewolf is played in a round consisting of two phases: Day and Night. The Day phase of the round is when the Townspeople are active and try to deduce the identities of the Werewolves so that they can be killed and removed from the game. The Night phase of the round is when the Werewolves are active and try to kill the Townspeople. The game is over when all of the Werewolves are killed or the number of Townspeople is equal to or less than the number of Werewolves left in the game.
 
 Before the first round starts, the people playing Werewolf need to complete a few actions.
 
@@ -136,7 +136,7 @@ Whether or not there's an execution, the Day phase is followed by another Night 
 
 {% include image.html url="/images/gray-castle-under-cloudy-sky-831082.jpg" alt="Gray Castle Under Cloudy Sky" caption="Photo by Rudolf Kirchner from Pexels" %}
 
-The game ends when all of the Werewolves are killed by the Townspeople or there the number of Townspeople left in the game is equal to or less than the number of Werewolves.
+The game ends when all of the Werewolves are killed by the Townspeople or the number of Townspeople left in the game is equal to or less than the number of Werewolves.
 
 {% include image.html url="/images/End-Game.png" alt="Zoom End-Game" caption="This is the Zoom interface at the end of the game. The Townspeople managed to kill of Magnus, but the Werewolves has decimated most of the Townspeople. So, with only one Werewolf and another Townsperson left in the game, the Werewolves win." %}
 

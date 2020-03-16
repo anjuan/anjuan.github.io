@@ -130,7 +130,7 @@ The Townspeople may determine that they do not want to execute anyone during tha
 
 Whether or not there's an execution, the Day phase is followed by another Night phase. Even if the people with the Seer and Healer roles are killed, the Narrator should continue to prompt them for actions durng the Night phase.
 
-{% include image.html url="/images/Mid-Game.png" alt="Zoom Mid-Game" caption="This is the Zoom interface at a later night phase. Peter and Steve have been killed off by the Werewolves so their hands are lowered in the Participants List." %}
+{% include image.html url="/images/Quarter-Game.png" alt="Zoom Quarter-Game" caption="This is the Zoom interface at a later night phase. Peter and Steve have been killed off by the Werewolves so their hands are lowered in the Participants List." %}
 
 # The End Game
 

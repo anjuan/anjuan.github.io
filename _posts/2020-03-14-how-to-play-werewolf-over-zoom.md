@@ -16,7 +16,7 @@ I've played [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)) (and th
 
 # A Word of Caution
 
-Werewolf is a game that requires deception and simulated killing. The deception is similar to other games like chess or Monopoly where you often have to hide your true intentions in order to win the game. The killing is similar to dodgeball where you're figuratively removed from the game (albeit in an often graphically gruesome way). The elements of lying and dramatized murder can be unfortable to some players.
+Werewolf is a game that requires deception and simulated killing. The deception is similar to other games like chess or Monopoly where you often have to hide your true intentions in order to win the game. The killing is similar to dodgeball where you're figuratively removed from the game (albeit in an often graphically gruesome way). The elements of lying and dramatized murder can be uncomfortable to some players.
 
 # Prerequisites
 

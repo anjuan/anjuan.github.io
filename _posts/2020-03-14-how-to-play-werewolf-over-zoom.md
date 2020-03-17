@@ -122,7 +122,7 @@ After resolving the Night actions, the Townspeople have to decide what to do. Th
 
 If a Townsperson is accused of being a Werewolf by at least one other person, the Narrator will ask for a vote on that accusation. If the majority of the other players agree, then that person has the opportunity to defend themselves. The Narrator may put a time limit (e.g., 30 seconds) on this defense. Once the player makes the case for their innocence, the Narrator asks for a vote on the execution of that player. If the majority of the other players still agree, then that player is killed and is no longer in the game. That person should lower their hand in the Participants List to indicate that they are no longer in the game.
 
-The Seer or the Healer may elect to reveal themselves during the Day phase. For example, the Seer may share that they identified a Werewolf. Or, the Healer may reveal that they saves a player from being killed by the Werewolves.
+The Seer or the Healer may elect to reveal themselves during the Day phase. For example, the Seer may share that they identified a Werewolf. Or, the Healer may reveal that they saved a player from being killed by the Werewolves.
 
 Players without the Seer or Healer roles may pretend to be those roles in order to confuse the Townspeople, especially if they are actually Werewolves.
 

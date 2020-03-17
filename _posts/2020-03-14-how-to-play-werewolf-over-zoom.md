@@ -82,7 +82,7 @@ You're a Townsperson with the unique ability to save lives. During the night, yo
 
 The first round starts with the Day phase. Everyone has their camera on in Zoom and the people playing Werewolf have the icon of a hand next to their name in the Participants list. 
 
-The Narrator will ask the players to introduce themselves. Ideally, the people playing Werewolf will have fun and say something like, "Hi, I'm Terry, and I've run the butcher shop in the middle of town for ten years. We're having a special today, two steaks for the price of one!"  No one should disclose if they have the role of Werewolf, Seer, or Healer at this point in the game.
+The Narrator will ask the players to introduce themselves. Ideally, the people playing Werewolf will have fun and say something like, "Hi, I'm Peter, and I've run the butcher shop in the middle of town for ten years. We're having a special today, two steaks for the price of one!"  No one should disclose if they have the role of Werewolf, Seer, or Healer at this point in the game.
 
 Once everyone has introduced themselves, the first Day phase is over.
 
@@ -110,7 +110,7 @@ The Narrator says, "Townspeople, wake up" and all players left in the game turn 
 
 ## An Unprotected Townsperson is Killed by the Werewolves
 
-If the person selected by the Werewolves was not saved by the Healer, then the Narrator announces the death of that player. The Narrator can be dramatic by saying something like, "Everyone wakes up to see a trail of blood leading to the forrest. There you find Terry's mangled remains by the Great Oak. Curiously, there are deep claw marks in the bark of the surrounding trees. It looks like Terry put up a fight." Once someone is dead, they lower their hand to indicate in the Participants List that they are no longer in the game. **It's important that dead players say nothing once removed from the game. They shouldn't announce their role, thoughts about who the Werewolves are, or share any information. The Narrator may mute them or remove them from the Zoom room if necessary.**
+If the person selected by the Werewolves was not saved by the Healer, then the Narrator announces the death of that player. The Narrator can be dramatic by saying something like, "Everyone wakes up to see a trail of blood leading to the forrest. There you find Peter's mangled remains by the Great Oak. Curiously, there are deep claw marks in the bark of the surrounding trees. It looks like Peter put up a fight." Once someone is dead, they lower their hand to indicate in the Participants List that they are no longer in the game. **It's important that dead players say nothing once removed from the game. They shouldn't announce their role, thoughts about who the Werewolves are, or share any information. The Narrator may mute them or remove them from the Zoom room if necessary.**
 
 ## A Protected Townsperson Was Attacked by the Werewolves
 

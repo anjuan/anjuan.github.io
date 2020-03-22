@@ -88,7 +88,7 @@ Optionally, the Narrator can ask the players to introduce themselves. Ideally, t
 
 The Narrator should make sure everyone understands how to do the following actions in Zoom:
 
-* Send a chat message to one other participant (the default is to send to everyone); you can do this by picking a player and having everyone send an individual message to that person (that person should confirm that they received an individual message from all of the other players)
+* Send a chat message to one other participant (the default is to send to everyone); you can do this by having everyone send an individual message to the Narrator (the Narrator should confirm that they received an individual message from all of the other players)
 * Turn your camera on and off
 * Mute and unmute your microphone
 * Lower and raise your hand in the Participants list

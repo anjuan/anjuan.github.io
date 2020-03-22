@@ -28,6 +28,8 @@ Zoom has a [Free Plan](https://zoom.us/pricing) that provides all of the feature
 
 This post also assumes that everyone has access to a computer with a webcam and a high speed internet connection. Whoever has the host account should send the meeting link to the players before the Werewolf session starts so that everyone can make sure it works for them before playing the game.
 
+This guide assumes that all players are not in the same physical location. If you are in the same place as another player, at least go to a separate room. 
+
 # Before the First Round
 
 {% include image.html url="/images/tim-umphreys-npgIpv-1yZQ-unsplash.jpg" alt="Crescent Moon" caption="Photo by Tim Umphreys on Unsplash" %}
@@ -82,9 +84,16 @@ You're a Townsperson with the unique ability to save lives. During the night, yo
 
 The first round starts with the Day phase. Everyone has their camera on in Zoom and the people playing Werewolf have the icon of a hand next to their name in the Participants list. 
 
-The Narrator will ask the players to introduce themselves. Ideally, the people playing Werewolf will have fun and say something like, "Hi, I'm Peter, and I've run the butcher shop in the middle of town for ten years. We're having a special today, two steaks for the price of one!"  No one should disclose if they have the role of Werewolf, Seer, or Healer at this point in the game.
+Optionally, the Narrator can ask the players to introduce themselves. Ideally, the people playing Werewolf will have fun and say something like, "Hi, I'm Peter, and I've run the butcher shop in the middle of town for ten years. We're having a special today, two steaks for the price of one!"  No one should disclose if they have the role of Werewolf, Seer, or Healer at this point in the game.
 
-Once everyone has introduced themselves, the first Day phase is over.
+The Narrator should make sure everyone understands how to do the following actions in Zoom:
+
+* Send a chat message to one other participant (the default is to send to everyone)
+* Turn your camera on and off
+* Mute and unmute your microphone
+* Lower and raise your hand in the Participants list
+
+Once everyone has confirmed that they know how to perform these actions in Zoom, the first Day phase is over.
 
 ## Night
 

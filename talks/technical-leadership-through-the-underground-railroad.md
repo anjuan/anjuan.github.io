@@ -4,7 +4,7 @@ title: Technical Leadership Through the Underground Railroad
 permalink: /talks/technical-leadership-through-the-underground-railroad/
 ---
 
-{% include image.html url="/images/technical-leadership-through-the-underground-railroad-header.jpg" alt="LeadDevAustin" caption="Giving my Technical Leadership Lessons Through the Underground Railroad talk at True University on the UC Berkeley campus." width=676 align="center" %}
+{% include image.html url="/images/QCon-2020.JPG" alt="QCon London 2020" caption="Giving my Technical Leadership Through the Underground Railroad talk at QCon London." width=676 align="center" %}
 
 ## Abstract
 

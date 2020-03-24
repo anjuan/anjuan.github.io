@@ -4,7 +4,7 @@ title: Lending Privilege
 permalink: /talks/lending-privilege/
 ---
 
-{% include image.html url="/images/lending-privilege3.jpg" alt="Stretch" caption="Giving my Lending Privilege talk in Budapest at the Stretch leadership conference." width=676 align="center" %}
+{% include image.html url="/images/lending-privilege3.jpg" alt="Stretch" caption="Giving my Lending Privilege talk in Budapest at the Stretch leadership conference." %}
 
 ## Abstract
 

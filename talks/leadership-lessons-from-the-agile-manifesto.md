@@ -4,7 +4,7 @@ title: Leadership Lessons from the Agile Manifesto
 permalink: /talks/leadership-lessons-from-the-agile-manifesto/
 ---
 
-{% include image.html url="/images/leadership-lessons-from-the-agile-manifesto.jpg" alt="LeadDevUK" caption="Giving my Leadership Lessons from the Agile Manifesto talk at The Lead Developer UK in London." width=676 align="center" %}
+{% include image.html url="/images/leadership-lessons-from-the-agile-manifesto.jpg" alt="LeadDevUK" caption="Giving my Leadership Lessons from the Agile Manifesto talk at The Lead Developer UK in London." %}
 
 ## Abstract
 

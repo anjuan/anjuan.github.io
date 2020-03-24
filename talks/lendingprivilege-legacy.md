@@ -6,7 +6,7 @@ permalink: /my-talks/lending-privilege/
 
 *Note: This is the legacy version of the description of "Lending Privilege" for legacy references to the URL on my previous site. The version that is probably more up to date is [here](http://anjuansimmons.com/talks/lending-privilege/).*
 
-{% include image.html url="/images/lending-privilege2.jpg" alt="Rotman" caption="Right before I gave my Lending Privilege talk at the Rotman School of Management on the campus of The University of Toronto." width=676 align="center" %}
+{% include image.html url="/images/lending-privilege2.jpg" alt="Rotman" caption="Right before I gave my Lending Privilege talk at the Rotman School of Management on the campus of The University of Toronto." %}
 
 ## Abstract
 

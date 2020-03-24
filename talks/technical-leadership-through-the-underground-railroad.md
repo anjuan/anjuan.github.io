@@ -4,7 +4,9 @@ title: Technical Leadership Through the Underground Railroad
 permalink: /talks/technical-leadership-through-the-underground-railroad/
 ---
 
-{% include image.html url="/images/QCon-2020.JPG" alt="QCon London 2020" caption="Giving my Technical Leadership Through the Underground Railroad talk at QCon London." width=676 align="center" %}
+{% include image.html url="/images/QCon-2020.JPG" alt="QCon London 2020" caption="Giving my Technical Leadership Through the Underground Railroad talk at QCon London." %}
+
+{% include image.html url="/images/jp-valery-dGMWw5k2vW4-unsplash.jpg" alt="Wolf in Woods" caption="Photo by Jp Valery on Unsplash" %}
 
 ## Abstract
 

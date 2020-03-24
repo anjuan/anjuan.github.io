@@ -6,8 +6,6 @@ permalink: /talks/technical-leadership-through-the-underground-railroad/
 
 {% include image.html url="/images/QCon-2020.JPG" alt="QCon London 2020" caption="Giving my Technical Leadership Through the Underground Railroad talk at QCon London." %}
 
-{% include image.html url="/images/jp-valery-dGMWw5k2vW4-unsplash.jpg" alt="Wolf in Woods" caption="Photo by Jp Valery on Unsplash" %}
-
 ## Abstract
 
 Technical leaders are often tasked with guiding teams through difficult times. The Underground Railroad provides insights into how to navigate challenging conditions and find success. The principles that Conductors on the Underground Railroad followed can be directly applied to the work of software engineering leadership.

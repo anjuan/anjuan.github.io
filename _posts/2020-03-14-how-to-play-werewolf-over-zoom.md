@@ -64,7 +64,15 @@ You're a regular member of the town. Perhaps you're a baker, merchant, or soldie
 
 ### Werewolf
 
-During the day you seem to be a regular Townsperson. However, you've been kissed by the Night and transform into a Werewolf when the sun sets. Your new nature compels you to kill and eat a Townsperson every night. When the Narrator sends a private message assigning this role to you, you'll also be told the other players who are also Werewolves. There should be two Werewolves for a group of seven to fifteen players (not counting the Narrator). Add another Werewolf for larger groups.
+During the day you seem to be a regular Townsperson. However, you've been kissed by the Night and transform into a Werewolf when the sun sets. Your new nature compels you to kill and eat a Townsperson every night. When the Narrator sends a private message assigning this role to you, you'll also be told the other players who are also Werewolves. How many Werewolves should you have? It depends on the number of players:
+
+* 6-8 Players : 1 Werwolf
+* 9-11 Players : 2 Werewolves
+* 12-14 Players: 3 Werewolves
+* 15-17 Players: 4 Werewolves
+* 18-20 Players: 5 Werewolves
+
+Once you get over 20 players, I recommend splitting into different groups or adding additional roles described in [Ultimate Werewolf](https://beziergames.com/products/ultimate-werewolf-deluxe-edition). Also, if you have more than 3 Werewolves, it will get tedious using Zoom's built-in chat feature because that only allows 1:1 communication. It would be best to move the Werewolves into a separate messaging tool like [Slack](slack.com).
 
 ### Seer
 

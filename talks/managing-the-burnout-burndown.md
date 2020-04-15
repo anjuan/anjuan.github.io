@@ -2,9 +2,12 @@
 layout: page
 title: Managing the Burnout Burndown
 permalink: /talks/managing-the-burnout-burndown/
+driveId: 1L3UYP32oI0dMjouftpH0Um1PPnJrq3qt/preview
 ---
 
 {% include image.html url="/images/leaddevnewyork2019.jpg" alt="LeadDevNewYork2019" caption="Giving this talk with my wife Aneika at The Lead Developer conference in New York City." %}
+
+{% include googleDrivePlayer.html id=page.driveId %}
 
 ## Abstract
 

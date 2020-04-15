@@ -28,6 +28,8 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 * [Speakerdeck](https://speakerdeck.com/anjuan/managing-the-burnout-burndown)
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDMtxKE-ebCVrDd8xXtUNGaui2mS_7AIwKqsKFsZCLcL9A24mIWZE8aEGhmGoZIyF0DhD9akFw__v4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Videos
 
 Here is a direct link to a video of us giving this talk:

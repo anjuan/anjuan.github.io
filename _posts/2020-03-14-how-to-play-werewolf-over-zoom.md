@@ -12,7 +12,7 @@ comments: true
 
 {% include image.html url="/images/samuele-giglio-wL4knvbQphI-unsplash.jpg" alt="Werewolf on Stage" caption="Photo by Samuele Giglio on Unsplash" %}
 
-I've played [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)) (and the varient called Mafia) for years, and it's a fun social game. However, it can be difficult to get enough people together to play in the same physical location. This post describes how to play Werewolf using a popular online meeting application called [Zoom](https://zoom.us/).
+I've played [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)) (and the variant called Mafia) for years, and it's a fun social game. However, it can be difficult to get enough people together to play in the same physical location. This post describes how to play Werewolf using a popular online meeting application called [Zoom](https://zoom.us/).
 
 # A Word of Caution
 
@@ -28,7 +28,7 @@ Zoom has a [Free Plan](https://zoom.us/pricing) that provides all of the feature
 
 This post also assumes that everyone has access to a computer with a webcam and a high speed internet connection. Whoever has the host account should send the meeting link to the players before the Werewolf session starts so that everyone can make sure it works for them before playing the game.
 
-This guide assumes that all players are not in the same physical location. If you are in the same place as another player, at least go to a separate room. 
+This guide assumes that all players are not in the same physical location. If you are in the same place as another player, at least go to a separate room.
 
 # Before the First Round
 
@@ -40,7 +40,7 @@ Before the first round starts, the people playing Werewolf need to complete a fe
 
 ## Login to Zoom
 
-The person who owns the Zoom account should send the meeting URL to everyone who wants to play Werewolf. This will put everone in the same virtual meeting rooom. 
+The person who owns the Zoom account should send the meeting URL to everyone who wants to play Werewolf. This will put everyone in the same virtual meeting room. 
 
 ## Cameras On
 
@@ -76,7 +76,7 @@ Once you get over 20 players, I recommend splitting into different groups or add
 
 ### Seer
 
-You're a Townsperson with the unique ability to peer into a person's soul and see their true nature. During the night, you'll get a chance to see if another Townsperson is a Werewolf. However, use this information wisely because it can lead to you being targetted by the Werewolves the next night if they deduce your identity. There is one Seer per group.
+You're a Townsperson with the unique ability to peer into a person's soul and see their true nature. During the night, you'll get a chance to see if another Townsperson is a Werewolf. However, use this information wisely because it can lead to you being targeted by the Werewolves the next night if they deduce your identity. There is one Seer per group.
 
 ### Healer
 
@@ -90,7 +90,7 @@ You're a Townsperson with the unique ability to save lives. During the night, yo
 
 ## Day
 
-The first round starts with the Day phase. Everyone has their camera on in Zoom and the people playing Werewolf have the icon of a hand next to their name in the Participants list. 
+The first round starts with the Day phase. Everyone has their camera on in Zoom and the people playing Werewolf have the icon of a hand next to their name in the Participants list.
 
 Optionally, the Narrator can ask the players to introduce themselves. Ideally, the people playing Werewolf will have fun and say something like, "Hi, I'm Peter, and I've run the butcher shop in the middle of town for ten years. We're having a special today, two steaks for the price of one!"  No one should disclose if they have the role of Werewolf, Seer, or Healer at this point in the game.
 
@@ -107,11 +107,11 @@ Once everyone has confirmed that they know how to perform these actions in Zoom,
 
 **Only the Narrator can speak at night. All other communication is done using the private messaging feature in Zoom. The Narrator may choose to instantly kill and remove from the game players who repeatedly violate this rule.**
 
-The Narrator announces the start of the first night phase by saying, "Townspeople, go to sleep". Everyone playing the game (except the Narrator) should turn off their camera and mute their mics in Zoom. This reduces the chance that some movement or facial expression will betray a player's role. The Narrator can confirm that all players have their cameras off by looking at the Participants List in Zoom. Everyone with the hand icon next to their name should also have the "camera off" icon next to their name. 
+The Narrator announces the start of the first night phase by saying, "Townspeople, go to sleep". Everyone playing the game (except the Narrator) should turn off their camera and mute their mics in Zoom. This reduces the chance that some movement or facial expression will betray a player's role. The Narrator can confirm that all players have their cameras off by looking at the Participants List in Zoom. Everyone with the hand icon next to their name should also have the "camera off" icon next to their name.
 
 {% include image.html url="/images/Start-Game.png" alt="Zoom Start Game" caption="This is the Zoom interface at night with all cameras off (except the narrator) and everyone still in the game with the Raise Hand icon next to their name in the Participants List. Magnus and Wanda are the two Werewolves." %}
 
-The Narrator prompts the Werewolves for their actions by saying, "Werewolves, who do you to kill?" The players with the Werewolf role should confer over private message with each other and select a victim. It's important to avoid accidentaly sending a private message to someone who is not a Werewolf or to all of the participants. Once the Werewolves agree on who to kill, they **all** have to send a private message to the Narrator. This makes sure that the selected victim is a unanimous decision. If the private messages to the Narrator don't name the same victim, the Narrator should say, "Werewolves, you have to agree." If one or more Werewolves don't name a victim, the Narrator should say, "Werewolves, I need everyone to send me the name of who you want to kill." The Werewolves **must** select a person to kill everynight, and the decision must be unanimous.
+The Narrator prompts the Werewolves for their actions by saying, "Werewolves, who do you to kill?" The players with the Werewolf role should confer over private message with each other and select a victim. It's important to avoid accidentally sending a private message to someone who is not a Werewolf or to all of the participants. Once the Werewolves agree on who to kill, they **all** have to send a private message to the Narrator. This makes sure that the selected victim is a unanimous decision. If the private messages to the Narrator don't name the same victim, the Narrator should say, "Werewolves, you have to agree." If one or more Werewolves don't name a victim, the Narrator should say, "Werewolves, I need everyone to send me the name of who you want to kill." The Werewolves **must** select a person to kill every night, and the decision must be unanimous.
 
 The Narrator then prompts the Seer by saying, "Seer, who do you want to identify?" The player with the Seer role should send the name of another player to the Narrator over private message. The Narrator should respond over private message with, "That person is a Werewolf" or "That person is not a Werewolf". No other information should be provided to the Seer.
 
@@ -135,7 +135,7 @@ If the person selected by the Werewolves was saved by the Healer, then the Narra
 
 ## Discussion by the Townspeople
 
-After resolving the Night actions, the Townspeople have to decide what to do. This is a free discussion period, but the Narrator may put a time limit on how long the players have to talk. 
+After resolving the Night actions, the Townspeople have to decide what to do. This is a free discussion period, but the Narrator may put a time limit on how long the players have to talk.
 
 If a Townsperson is accused of being a Werewolf by at least one other person, the Narrator will ask for a vote on that accusation. If the majority of the other players agree, then that person has the opportunity to defend themselves. The Narrator may put a time limit (e.g., 30 seconds) on this defense. Once the player makes the case for their innocence, the Narrator asks for a vote on the execution of that player. If the majority of the other players still agree, then that player is killed and is no longer in the game. That person should lower their hand in the Participants List to indicate that they are no longer in the game.
 
@@ -145,7 +145,7 @@ Players without the Seer or Healer roles may pretend to be those roles in order 
 
 The Townspeople may determine that they do not want to execute anyone during that particular Day phase. However, this gives the Werewolves more time to kill Townspeople during the Night.
 
-Whether or not there's an execution, the Day phase is followed by another Night phase. Even if the people with the Seer and Healer roles are killed, the Narrator should continue to prompt them for actions durng the Night phase.
+Whether or not there's an execution, the Day phase is followed by another Night phase. Even if the people with the Seer and Healer roles are killed, the Narrator should continue to prompt them for actions during the Night phase.
 
 {% include image.html url="/images/Quarter-Game.png" alt="Zoom Quarter-Game" caption="This is the Zoom interface at a later night phase. Peter and Steve have been killed off by the Werewolves so their hands are lowered in the Participants List." %}
 
@@ -153,7 +153,7 @@ Whether or not there's an execution, the Day phase is followed by another Night 
 
 {% include image.html url="/images/gray-castle-under-cloudy-sky-831082.jpg" alt="Gray Castle Under Cloudy Sky" caption="Photo by Rudolf Kirchner from Pexels" %}
 
-The game continues round after round until all of the Werewolves are killed by the Townspeople or the number of Townspeople left in the game is equal to or less than the number of Werewolves. 
+The game continues round after round until all of the Werewolves are killed by the Townspeople or the number of Townspeople left in the game is equal to or less than the number of Werewolves.
 
 The Narrator may allow the players to reveal their roles once the game is over.
 

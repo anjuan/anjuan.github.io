@@ -10,6 +10,7 @@ driveId2: 1o7lkruTV8P9DaCW9Q8p6VSEZpMxgLpAq/preview
 
 ## Video
 
+**LeadDev New York**
 {% include googleDrivePlayer.html id=page.driveId1 %}
 
 ## Abstract
@@ -38,14 +39,48 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 ## Additional Videos
 
-Here are direct links to videos of this talk being given:
-
+**DevRelCon London**
 {% include googleDrivePlayer.html id=page.driveId2 %}
 
 ## What Attendees Have Said
 
+### LeadDev New York
 > Anjuan and Aneika are giving a powerful, relatable, heartfelt talk on "Managing the burnout burndown";Escapism is expensive. We wanted develop a process that would be accessible, that dind't require privilege to access.
 
 > At #LeadDevNewYork Anjaun and Aneika did a brilliant talk called "Managing the Burnout Burndown", which is up [online](https://t.co/gsTpIFVg9t). I loved that it had a great framework backed by research, but also plenty of practical & pragmatic advice 
+
+### DevConf South Africa
+
+> very insightful presentation
+
+> This is a real issue for developers out here in the wild and  this presentation hit vital points in helping identify and resolve issues that could lead to burnout. Great job!
+
+> Anjuan has so much empathy for the developer in the trenches.
+
+> Incredible and relatable. Definitely am more aware and understand certain patterns that occurred during stressful times and how it affected my development quality. Thank you for taking the time to help us understand
+
+> "Great presentation. Made me think about ways we can avoid burnout in the team and assist other team members avoid it aswell.
+
+> Very valuable points made in the presentation and I enjoyed it.
+
+> Really enjoyed the thorough Q&A session.
+
+> A great Q&A session afterward.
+
+> Thank you for the information! This was one of the best talks of the day.
+
+> Great points on how to avoid burnout.
+
+> Really well done and well rounded with some excellent points and suggestions.
+
+> As someone who feels on the edge of burnout, this was insightful and very useful.
+
+> Anjuan have touched on many issues relevant to us as developers and i loved seeing his passion and enthusiasm, whist sharing very useful content."
+
+> Really great talk with practical methods. Loved it!
+
+> "Cool calm accent. Really enjoyed that the presentation was concise and that he elaborated on the points in detail. It also felt like he easily lead to the next slide when talking about the final points on the previous. Was a nice, natural flow.
+
+> Presentation seemed very natural and seemed like he knew it off-by-heart"
 
 [Back to My Talks](/talks/)

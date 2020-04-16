@@ -2,10 +2,18 @@
 layout: page
 title: Leadership Lessons from the Agile Manifesto
 permalink: /talks/leadership-lessons-from-the-agile-manifesto/
+youtubeId1: bvGLTNrJ5io
+youtubeId2: 14d_j1XKgRM
+youtubeId3: cZ781sgseJY
 ---
 
 {% include image.html url="/images/leadership-lessons-from-the-agile-manifesto.jpg" alt="LeadDevUK" caption="Giving my Leadership Lessons from the Agile Manifesto talk at The Lead Developer UK in London." %}
 
+## Video
+
+**[LeadDev London](https://youtu.be/bvGLTNrJ5io)**
+{% include youtubePlayer.html id=page.youtubeId1 %}
+<br>
 ## Abstract
 
 Whether you’re a Tech Lead, Engineering Manager, or Project Manager for an engineering team, you probably weren’t handed an instruction manual when you were given your first team to lead. This talk will show you how to apply the principles in the Manifesto Agile Manifesto to become a better leader.
@@ -29,22 +37,30 @@ This session will help attendees understand the principles behind the Manifesto 
 
 You can find my slides on [SpeakerDeck](https://speakerdeck.com/anjuan/leadership-lessons-from-the-agile-manifesto).
 
-## Videos
+## Additional Videos
 
-Here are links to videos of me giving this talk at conferences:
+**[Full Stack Toronto](https://youtu.be/14d_j1XKgRM)**
+{% include youtubePlayer.html id=page.youtubeId2 %}
+<br>
 
-* [Full Stack Toronto](https://www.youtube.com/watch?v=14d_j1XKgRM&list=PL1jKW8WyNdz2mfnPikqxfJbLGDuSrUHbd)
-* [DevOpsDays Seattle](https://youtu.be/cZ781sgseJY)
-* [QCon San Francisco](https://www.infoq.com/presentations/agile-manifesto-principles-leader)
-* [Rocky Mountain Ruby](http://confreaks.tv/videos/rockymountainruby2017-leadership-lessons-from-the-agile-manifesto)
-* [The Lead Developer UK](https://www.youtube.com/watch?v=bvGLTNrJ5io)
+**[DevOpsDays Seattle](https://youtu.be/cZ781sgseJY)**
+{% include youtubePlayer.html id=page.youtubeId3 %}
+<br>
+<br>
+
+**[QCon San Francisco](https://www.infoq.com/presentations/agile-manifesto-principles-leader)**
+<br>
+
+**[Rocky Mountain Ruby](http://confreaks.tv/videos/rockymountainruby2017-leadership-lessons-from-the-agile-manifesto)**
+<br>
 
 ## What Attendees Have Said
 
-*"Dignity always outranks the chain of commands". Brilliant, @anjuan. #leaddev@* - [Sergey](https://twitter.com/bolshchikov)
+### LeadDev London
+> "Dignity always outranks the chain of commands". Brilliant, @anjuan. #leaddev@ - [Sergey](https://twitter.com/bolshchikov)
 
-*"as tech leads, you’re going to build more than just software" well said @anjuan #leaddev* - [Malcolm Young](https://twitter.com/malcomio)
+> "as tech leads, you’re going to build more than just software" well said @anjuan #leaddev - [Malcolm Young](https://twitter.com/malcomio)
 
-*Leadership lessons from the Agile Manifesto talk by @anjuan was full of wise and useful tips! #LeadDev* - [Tamara Forza](https://twitter.com/tforza)
+> Leadership lessons from the Agile Manifesto talk by @anjuan was full of wise and useful tips! #LeadDev - [Tamara Forza](https://twitter.com/tforza)
 
 [Back to My Talks](/talks/)

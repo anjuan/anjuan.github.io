@@ -10,8 +10,9 @@ driveId2: 1o7lkruTV8P9DaCW9Q8p6VSEZpMxgLpAq/preview
 
 ## Video
 
-**LeadDev New York**
+**[LeadDev New York](https://drive.google.com/file/d/1L3UYP32oI0dMjouftpH0Um1PPnJrq3qt/view?usp=sharing)**
 {% include googleDrivePlayer.html id=page.driveId1 %}
+<br>
 
 ## Abstract
 
@@ -39,8 +40,9 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 ## Additional Videos
 
-**DevRelCon London**
+**[DevRelCon London](https://drive.google.com/file/d/1o7lkruTV8P9DaCW9Q8p6VSEZpMxgLpAq/view?usp=sharing)**
 {% include googleDrivePlayer.html id=page.driveId2 %}
+<br>
 
 ## What Attendees Have Said
 

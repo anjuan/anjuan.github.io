@@ -9,7 +9,7 @@ driveId: 1L3UYP32oI0dMjouftpH0Um1PPnJrq3qt/preview
 
 ## Video
 
-{% include googleDrivePlayer.html id=page.driveId alt="LeadDevNewYork2019 video" caption="Video from The LeadDev New York" %}
+{% include googleDrivePlayer.html id=page.driveId %}
 
 ## Abstract
 

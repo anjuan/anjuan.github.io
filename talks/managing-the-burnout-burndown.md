@@ -44,11 +44,8 @@ Here are direct links to videos of this talk being given:
 
 ## What Attendees Have Said
 
-{% include image.html url="https://pbs.twimg.com/profile_images/1101867459961860096/eaz6E-HD_400x400.png" height=80 width=80 align="left" %}<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">At <a href="https://twitter.com/hashtag/LeadDevNewYork?src=hash&amp;ref_src=twsrc%5Etfw">#LeadDevNewYork</a>, <a href="https://twitter.com/aneika?ref_src=twsrc%5Etfw">@aneika</a> and <a href="https://twitter.com/anjuan?ref_src=twsrc%5Etfw">@anjuan</a> are giving a powerful, relatable, heartfelt talk on &quot;Managing the burnout burndown.&quot; <br><br>&quot;Escapism is expensive. We wanted develop a process that would be accessible, that didn&#39;t require privilege to access.&quot;</p>&mdash; adriennefriend (@adriennefriend) <a href="https://twitter.com/adriennefriend/status/1123268522879197184?ref_src=twsrc%5Etfw">April 30, 2019</a></blockquote>
+> Anjuan and Aneika are giving a powerful, relatable, heartfelt talk on "Managing the burnout burndown";Escapism is expensive. We wanted develop a process that would be accessible, that dind't require privilege to access.
 
-{% include image.html url="https://pbs.twimg.com/profile_images/478845312308498432/yYipJBhv_400x400.jpeg" height=80 width=80 align="left" %}<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">At <a href="https://twitter.com/hashtag/LeadDevNewYork?src=hash&amp;ref_src=twsrc%5Etfw">#LeadDevNewYork</a> <a href="https://twitter.com/anjuan?ref_src=twsrc%5Etfw">@anjuan</a> and <a href="https://twitter.com/aneika?ref_src=twsrc%5Etfw">@aneika</a> did a brilliant talk called Managing the Burnout Burndown, which is up online <a href="https://t.co/gsTpIFVg9t">https://t.co/gsTpIFVg9t</a>. I loved that it had a great framework backed by research, but also plenty of practical &amp; pragmatic advice <a href="https://twitter.com/hashtag/burnout?src=hash&amp;ref_src=twsrc%5Etfw">#burnout</a></p>&mdash; Meri Williams 🌈💪🏾 (@Geek_Manager) <a href="https://twitter.com/Geek_Manager/status/1131719862244532225?ref_src=twsrc%5Etfw">May 24, 2019</a></blockquote>
-
-
-
+> At #LeadDevNewYork Anjaun and Aneika did a brilliant talk called "Managing the Burnout Burndown", which is up [online](https://t.co/gsTpIFVg9t). I loved that it had a great framework backed by research, but also plenty of practical & pragmatic advice 
 
 [Back to My Talks](/talks/)

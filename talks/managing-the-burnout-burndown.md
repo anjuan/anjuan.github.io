@@ -7,7 +7,9 @@ driveId: 1L3UYP32oI0dMjouftpH0Um1PPnJrq3qt/preview
 
 {% include image.html url="/images/leaddevnewyork2019.jpg" alt="LeadDevNewYork2019" caption="Giving this talk with my wife Aneika at The Lead Developer conference in New York City." %}
 
-{% include googleDrivePlayer.html id=page.driveId %}
+## Video
+
+{% include googleDrivePlayer.html id=page.driveId alt="LeadDevNewYork2019 video" caption="Video from The LeadDev New York" %}
 
 ## Abstract
 

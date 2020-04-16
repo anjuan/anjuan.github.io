@@ -3,6 +3,8 @@ layout: page
 title: Technical Leadership Through the Underground Railroad
 permalink: /talks/technical-leadership-through-the-underground-railroad/
 youtubeId1: 9HuvC1ME68I
+youtubeId2: kopTiMg5u9E
+youtubeId3: EqYb5hJJBvU
 ---
 
 {% include image.html url="/images/QCon-2020.JPG" alt="QCon London 2020" caption="Giving my Technical Leadership Through the Underground Railroad keynote at QCon London." %}
@@ -39,10 +41,15 @@ The Underground Railroad provides insights that technical leaders can use to imp
 
 ## Additional Videos
 
-* [Full Stack Toronto](https://youtu.be/kopTiMg5u9E)
-* [True University, UC Berkeley](https://youtu.be/EqYb5hJJBvU)
-* [QCon London 2020 Keynote](https://www.infoq.com/presentations/leadership-conductors-underground-railroad/)
+**[Full Stack Toronto](https://youtu.be/kopTiMg5u9E)**
+{% include youtubePlayer.html id=page.youtubeId2 %}
+<br>
 
+**[True University, UC Berkeley](https://youtu.be/EqYb5hJJBvU)**
+{% include youtubePlayer.html id=page.youtubeId3 %}
+<br>
 
+**[QCon London 2020 Keynote](https://www.infoq.com/presentations/leadership-conductors-underground-railroad/)**
+<br>
 
 [Back to My Talks](/talks/)

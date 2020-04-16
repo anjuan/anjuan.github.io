@@ -37,7 +37,7 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 ## Videos
 
-Here is a direct link to a video of us giving this talk:
+Here is a direct link to a video of this talk being given:
 
 * [The Lead Developer New York](https://youtu.be/e2dgOfedI3A)
 

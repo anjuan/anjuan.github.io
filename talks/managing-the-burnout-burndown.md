@@ -2,14 +2,15 @@
 layout: page
 title: Managing the Burnout Burndown
 permalink: /talks/managing-the-burnout-burndown/
-driveId: 1L3UYP32oI0dMjouftpH0Um1PPnJrq3qt/preview
+driveId1: 1L3UYP32oI0dMjouftpH0Um1PPnJrq3qt/preview
+driveId2: 1o7lkruTV8P9DaCW9Q8p6VSEZpMxgLpAq/preview
 ---
 
 {% include image.html url="/images/leaddevnewyork2019.jpg" alt="LeadDevNewYork2019" caption="Giving this talk with my wife Aneika at The Lead Developer conference in New York City." %}
 
 ## Video
 
-{% include googleDrivePlayer.html id=page.driveId %}
+{% include googleDrivePlayer.html id=page.driveId1 %}
 
 ## Abstract
 
@@ -35,12 +36,11 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDMtxKE-ebCVrDd8xXtUNGaui2mS_7AIwKqsKFsZCLcL9A24mIWZE8aEGhmGoZIyF0DhD9akFw__v4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Videos
+## Additional Videos
 
 Here are direct links to videos of this talk being given:
 
-* [The Lead Developer New York](https://youtu.be/e2dgOfedI3A)
-* [DevRelCon London](https://drive.google.com/file/d/1o7lkruTV8P9DaCW9Q8p6VSEZpMxgLpAq/view?usp=sharing)
+{% include googleDrivePlayer.html id=page.driveId2 %}
 
 ## What Attendees Have Said
 

@@ -5,7 +5,7 @@ permalink: /talks/technical-leadership-through-the-underground-railroad/
 youtubeId1: 9HuvC1ME68I
 ---
 
-{% include image.html url="/images/QCon-2020.JPG" alt="QCon London 2020" caption="Giving my Technical Leadership Through the Underground Railroad talk at QCon London." %}
+{% include image.html url="/images/QCon-2020.JPG" alt="QCon London 2020" caption="Giving my Technical Leadership Through the Underground Railroad keynote at QCon London." %}
 
 ## Video
 

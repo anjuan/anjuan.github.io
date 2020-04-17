@@ -11,7 +11,7 @@ driveId2: 1o7lkruTV8P9DaCW9Q8p6VSEZpMxgLpAq/preview
 ## Video
 
 **[LeadDev New York](https://drive.google.com/file/d/1L3UYP32oI0dMjouftpH0Um1PPnJrq3qt/view?usp=sharing)**
-
+{% include googleDrivePlayer.html id=page.driveId1 %}
 <br>
 
 ## Abstract

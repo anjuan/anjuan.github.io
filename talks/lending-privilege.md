@@ -2,7 +2,8 @@
 layout: page
 title: Lending Privilege
 permalink: /talks/lending-privilege/
-youtubeId1: bvGLTNrJ5io
+youtubeId1: hyiMathkUrQ
+youtubeId2: 1K8Gz7fMevo
 ---
 
 {% include image.html url="/images/lending-privilege3.jpg" alt="Stretch" caption="Giving my Lending Privilege talk in Budapest at the Stretch leadership conference." %}
@@ -35,7 +36,9 @@ The photos I used for Bea, Elle, and Em came from the [Women of Color in Tech Ch
 
 ## Additional Videos
 
-* [The Lead Developer New York](https://www.youtube.com/watch?v=1K8Gz7fMevo)
+**[The Lead Developer New York](https://www.youtube.com/watch?v=1K8Gz7fMevo)**
+{% include youtubePlayer.html id=page.youtubeId2 %}
+
 * [RubyConf](https://confreaks.tv/videos/rubyconf2017-lending-privilege)
 * [Market Place Social in Bogotá (in Spanish)](https://youtu.be/L0cSfzBuhWo)
 * [GitHub Universe](https://www.youtube.com/watch?v=lOZdAt-hseA&feature=youtu.be)

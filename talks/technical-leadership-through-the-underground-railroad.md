@@ -2,6 +2,7 @@
 layout: page
 title: Technical Leadership Through the Underground Railroad
 permalink: /talks/technical-leadership-through-the-underground-railroad/
+driveId1: 1YHE-kH3-tx9lOQYFra3aeQJxbHfJV3LE/preview
 youtubeId1: 9HuvC1ME68I
 youtubeId2: kopTiMg5u9E
 youtubeId3: EqYb5hJJBvU
@@ -11,9 +12,8 @@ youtubeId3: EqYb5hJJBvU
 
 ## Video
 
-**[LeadDev Austin](https://youtu.be/9HuvC1ME68I)**
-{% include youtubePlayer.html id=page.youtubeId1 %}
-<br>
+**[QCon London Keynote](https://www.infoq.com/presentations/leadership-conductors-underground-railroad/)**
+{% include googleDrivePlayer.html id=page.driveId1 %}
 
 ## Abstract
 
@@ -41,6 +41,10 @@ The Underground Railroad provides insights that technical leaders can use to imp
 
 ## Additional Videos
 
+**[LeadDev Austin](https://youtu.be/9HuvC1ME68I)**
+{% include youtubePlayer.html id=page.youtubeId1 %}
+<br>
+
 **[Full Stack Toronto](https://youtu.be/kopTiMg5u9E)**
 {% include youtubePlayer.html id=page.youtubeId2 %}
 <br>
@@ -49,7 +53,7 @@ The Underground Railroad provides insights that technical leaders can use to imp
 {% include youtubePlayer.html id=page.youtubeId3 %}
 <br>
 
-**[QCon London 2020 Keynote](https://www.infoq.com/presentations/leadership-conductors-underground-railroad/)**
+
 <br>
 
 [Back to My Talks](/talks/)

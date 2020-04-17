@@ -4,6 +4,11 @@ title: Lending Privilege
 permalink: /talks/lending-privilege/
 youtubeId1: hyiMathkUrQ
 youtubeId2: 1K8Gz7fMevo
+youtubeId3: L0cSfzBuhWo
+youtubeId4: lOZdAt-hseA
+youtubeId5: X-Bvl5wkBdg
+youtubeId6: oUWw6h-mi0o
+youtubeId7: C4hVDBBJ6wI
 ---
 
 {% include image.html url="/images/lending-privilege3.jpg" alt="Stretch" caption="Giving my Lending Privilege talk in Budapest at the Stretch leadership conference." %}
@@ -38,16 +43,37 @@ The photos I used for Bea, Elle, and Em came from the [Women of Color in Tech Ch
 
 **[The Lead Developer New York](https://www.youtube.com/watch?v=1K8Gz7fMevo)**
 {% include youtubePlayer.html id=page.youtubeId2 %}
+<br>
 
-* [RubyConf](https://confreaks.tv/videos/rubyconf2017-lending-privilege)
-* [Market Place Social in Bogotá (in Spanish)](https://youtu.be/L0cSfzBuhWo)
-* [GitHub Universe](https://www.youtube.com/watch?v=lOZdAt-hseA&feature=youtu.be)
-* [CraftConf](https://www.ustream.tv/recorded/102838989)
-* [QCon London](https://www.infoq.com/presentations/diversity-inclusion-technology)
-* [DevOpsDays Boston](https://www.youtube.com/watch?v=X-Bvl5wkBdg&feature=youtu.be)
-* [DevOps Days Chicago (Ignite Talk)](http://confreaks.tv/videos/devopsdayschicago2017-ignites-lending-privilege)
-* [SpringOne Platform (Ignite Talk)](https://www.youtube.com/watch?v=oUWw6h-mi0o)
-* [GitHub CodeConf](https://www.youtube.com/watch?v=C4hVDBBJ6wI)
+**[Market Place Social in Bogotá (in Spanish)](https://youtu.be/L0cSfzBuhWo)**
+{% include youtubePlayer.html id=page.youtubeId3 %}
+<br>
+
+**[GitHub Universe](https://www.youtube.com/watch?v=lOZdAt-hseA&feature=youtu.be)**
+{% include youtubePlayer.html id=page.youtubeId4 %}
+<br>
+
+**[DevOpsDays Boston](https://www.youtube.com/watch?v=X-Bvl5wkBdg&feature=youtu.be)**
+{% include youtubePlayer.html id=page.youtubeId5 %}
+<br>
+
+**[SpringOne Platform (Ignite Talk)](https://www.youtube.com/watch?v=oUWw6h-mi0o)**
+{% include youtubePlayer.html id=page.youtubeId6 %}
+<br>
+
+**[GitHub CodeConf](https://www.youtube.com/watch?v=C4hVDBBJ6wI)**
+{% include youtubePlayer.html id=page.youtubeId7 %}
+<br>
+
+**[DevOps Days Chicago (Ignite Talk)](http://confreaks.tv/videos/devopsdayschicago2017-ignites-lending-privilege)**
+<br>
+
+**[CraftConf](https://www.ustream.tv/recorded/102838989)**
+
+**[QCon London](https://www.infoq.com/presentations/diversity-inclusion-technology)**
+
+**[RubyConf](https://confreaks.tv/videos/rubyconf2017-lending-privilege)**
+
 
 ## What Attendees Have Said
 

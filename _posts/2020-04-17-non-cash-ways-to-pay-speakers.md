@@ -26,9 +26,15 @@ There are creative ways that conference organizers can compensate speakers witho
 
 ## Gifts
 
-Themed gifts like cowboy boots in a music city
+There are few things nicer than getting an unexpected gift. Providing speakers some token of your appreciation, especially if tied to the host city or them of the conference, can do a lot to cement your relationship with them.
 
-Gift cards
+### Themed Gifts
+
+I once received a pair of cowboy boots for a conference held in Nashville. The conference had to plan in advance by asking me for my shoe size when I registered for my speaker ticket. I was very appreciative of this gesture, and I still remember that conference when I wear my boots even though that event was years ago.
+
+### Gift cards
+
+While not as personal as a themed gift, a gift card can be a nice gesture.
 
 ## Self-Care
 

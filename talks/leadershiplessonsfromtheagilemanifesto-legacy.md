@@ -11,6 +11,7 @@ permalink: /my-talks/leadershiplessonsfromtheagilemanifesto/
 **[LeadDev London](https://youtu.be/bvGLTNrJ5io)**
 {% include youtubePlayer.html id=page.youtubeId1 %}
 <br>
+
 ## Abstract
 
 Whether you’re a Tech Lead, Engineering Manager, or Project Manager for an engineering team, you probably weren’t handed an instruction manual when you were given your first team to lead. This talk will show you how to apply the principles in the Manifesto Agile Manifesto to become a better leader.

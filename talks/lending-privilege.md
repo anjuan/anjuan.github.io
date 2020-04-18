@@ -35,9 +35,7 @@ Although technology companies are trying to improve their diversity, I believe t
 
 ## Slides
 
-I've given my "Lending Privilege" talk in multiple countries, and I have been very pleased to see it so well received by many in the tech community. A few people have recommended that I open source the talk so that other people can contribute to it so I have presented my slides and speaker notes in the table below. The speaker notes don't include the content I tailor to specific events or the extemporaneous comments I often make on stage, but they are the baseline for every time I deliver this talk.
-
-The photos I used for Bea, Elle, and Em came from the [Women of Color in Tech Chat stock image repository](https://www.flickr.com/photos/wocintechchat/albums). It's a great source of inclusive stock photography for your presentations!
+The photos I used in my slides for Bea, Elle, and Em came from the [Women of Color in Tech Chat stock image repository](https://www.flickr.com/photos/wocintechchat/albums). It's a great source of inclusive stock photography for your presentations!
 
 ## Additional Videos
 

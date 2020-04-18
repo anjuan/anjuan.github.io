@@ -61,7 +61,7 @@ The photos I used for Bea, Elle, and Em came from the [Women of Color in Tech Ch
 {% include youtubePlayer.html id=page.youtubeId6 %}
 <br>
 
-**[GitHub CodeConf](https://www.youtube.com/watch?v=C4hVDBBJ6wI)**
+**[GitHub CodeConf Los Angeles](https://www.youtube.com/watch?v=C4hVDBBJ6wI)**
 {% include youtubePlayer.html id=page.youtubeId7 %}
 <br>
 

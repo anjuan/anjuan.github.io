@@ -49,7 +49,7 @@ The photos I used for Bea, Elle, and Em came from the [Women of Color in Tech Ch
 {% include youtubePlayer.html id=page.youtubeId3 %}
 <br>
 
-**[GitHub Universe](https://www.youtube.com/watch?v=lOZdAt-hseA&feature=youtu.be)**
+**[GitHub Universe San Francisco](https://www.youtube.com/watch?v=lOZdAt-hseA&feature=youtu.be)**
 {% include youtubePlayer.html id=page.youtubeId4 %}
 <br>
 
@@ -57,7 +57,7 @@ The photos I used for Bea, Elle, and Em came from the [Women of Color in Tech Ch
 {% include youtubePlayer.html id=page.youtubeId5 %}
 <br>
 
-**[SpringOne Platform (Ignite Talk)](https://www.youtube.com/watch?v=oUWw6h-mi0o)**
+**[SpringOne Platform Las Vegas (Ignite Talk)](https://www.youtube.com/watch?v=oUWw6h-mi0o)**
 {% include youtubePlayer.html id=page.youtubeId6 %}
 <br>
 
@@ -68,11 +68,11 @@ The photos I used for Bea, Elle, and Em came from the [Women of Color in Tech Ch
 **[DevOps Days Chicago (Ignite Talk)](http://confreaks.tv/videos/devopsdayschicago2017-ignites-lending-privilege)**
 <br>
 
-**[CraftConf](https://www.ustream.tv/recorded/102838989)**
+**[CraftConf Budapest](https://www.ustream.tv/recorded/102838989)**
 
 **[QCon London](https://www.infoq.com/presentations/diversity-inclusion-technology)**
 
-**[RubyConf](https://confreaks.tv/videos/rubyconf2017-lending-privilege)**
+**[RubyConf New Orleans](https://confreaks.tv/videos/rubyconf2017-lending-privilege)**
 
 
 ## What Attendees Have Said

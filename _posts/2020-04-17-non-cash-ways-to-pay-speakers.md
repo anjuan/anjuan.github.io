@@ -74,10 +74,12 @@ Speakers often find it difficult to explore the cities they visit to speak at co
 
 ### City Tours
 
+Most event organizers have relationships with representatives from the local city government. You can use these relationships to arrange tours of the host city. This can be as simple as a bus tour around the city that stops at tourist attractions.
 
 ### Venue Tours
 
-(e.g., museums like the Rock and Roll museum or the city thing in St. Louis at Strange Loop)
+I've been to conferences hosted at beautiful museums, opera houses, train stations, and other architecturally interesting locations.
+
 
 # Summary
 

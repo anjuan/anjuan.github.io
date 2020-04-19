@@ -34,23 +34,35 @@ I once received a pair of cowboy boots for a conference held in Nashville. The c
 
 ### Gift cards
 
-While not as personal as a themed gift, a gift card can be a nice gesture.
+While not as personal as a themed gift, a gift card can be a nice gesture. You can provide an electronic gift card to reduce the burden of having to collect a physical item.
+
+If event organizers plan ahead, they can ask speakers to provide the name of their favorite restaurant when they register for the event. You can then send them a gift card for that restaurant after the event ends.
 
 ## Self-Care
 
-Massage, manicure, pedicure
+Many event organizers arrange hotels for speakers, and these hotels often have gyms and spas. You can make sure speakers have free access to the gyms and also one or more free services in the spa such as a massage, manicure, pedicure, etc.
 
-## Employment Assistance
+If you have a virtual event, you can still leverage relationships with hotels that have properties in the home city of the speakers and negotiate providing these services there.
 
-Discretely ask if any speakers are looking for work and arrange a one-on-one meeting with the event vendors and sponsors that are hiring for the skill set of the speaker
+## Career Assistance
+
+Most speakers have a full time job in addition to speaking, and event organizers can provide assistance no matter where they are in their career.
+
+### Introductions
+
+When a speaker registers for the event, ask if they are looking for work. If they indicate that they are, then ask them to indicate their desired roles and if they're interested in working at one of the sponsors of the event. Since sponsors and vendors are often involved in events to hire, you can then arrange one-on-one meetings between the speakers and the companies that match their interests and background.
+
+### Workshops
+
+I've seen a number of events that provide speakers free access to sessions but not to the workshops. You can invest in the professional development of the speakers by also giving them free access to one or more workshops.
 
 ## Altruism
 
-Make a contribution in the name of the speaker to a charity of their choosing
+You can ask speakers in advance to pick a charity, and you can then make a contribution in the name of the speaker to that charity. You can go a step further and ask speakers to pick from a list of charities that align with the theme, mission, or interests of your event.
 
 ## Vanity
 
-Personalized gifts like bags or chargers. Hand drawn pictures. Will need to have headshots. Pick interesting background images (like the host city) or a fun theme like super hero (maybe ask their favorite super hero beforehand)
+Let's be honest. It takes a certain amount of vanity to get on stage in front of hundreds of people and expect them to benefit from what you have to say. You can appeal to this vanity by providing personalized gifts like bags or chargers. There are two events in Budapest that offer hand drawn pictures of the speaker and then give them to the speakers in a nice frame. To pull this off, they asked for headshots in advance, and the artist sometimes includes an interesting background image like the skyline of the host city. I've seen some speakers have their drawn portraits done in the likeness of their favorite super hero.
 
 ## Travel
 
@@ -68,6 +80,20 @@ For event organizers who are arranging flights for speakers, bumping their trave
 
 Similar to flights, booking upgraded hotel rooms can go a long ways towards making travel easier for speakers. This is even better when perks like a free breakfast can be included.
 
+## Your Event
+
+Event organizers can use the event itself as a way to make speakers feel welcome and special.
+
+### Upgraded Green Room
+
+Most events provide speakers a green room, but you can take it up a notch by providing upgraded snacks and coffee. You can also negotiate with your food service provider to give speakers an upgraded version of the meals provided during the event.
+
+Speakers often have to use green rooms to take calls before and after their speaking slot, so having hygienically cleaned noise cancelling bluetooth headphones can make this an easier experience.
+
+### Concierge
+
+As a speaker, I have to manage a lot of details when I'm getting ready to go on stage at your event. I have to make sure I arrive in time to do an audio check, make sure my laptop is compatible with your system, drink enough water to stay hydrated but not so much that I have a full bladder in the middle of my presentation, etc. Assigning a volunteer to each speaker to be their own concierge can make it easier to manage these little details. Make sure you explain to both the volunteer and the speaker what concierge services are available. This can be as simple as getting some water or as complex as recommending nearby restaurants and making reservations for the speaker later that night.
+
 ## Tours
 
 Speakers often find it difficult to explore the cities they visit to speak at conferences due to the preparation time needed to perform well on stage as well as the need to attend to their regular job and also stay in contact with their families and friends. Making it easier to see more of the city can make their trip even more memorable. These ideas are also dependent on current travel restrictions being lifted.
@@ -78,7 +104,11 @@ Most event organizers have relationships with representatives from the local cit
 
 ### Venue Tours
 
-I've been to conferences hosted at beautiful museums, opera houses, train stations, and other architecturally interesting locations.
+I've been to conferences hosted at beautiful museums, opera houses, train stations, and other architecturally interesting locations. Providing special access to these venues can provide speakers with memories of your event that they will long remember.
+
+### Experiences
+
+While this requires a substantial budget, providing experiences for speakers that they may not have access to in their home cities is great way to reward them for their time. This can include golfing, sailing, fishing, hiking, etc.
 
 
 # Summary

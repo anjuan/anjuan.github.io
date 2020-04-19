@@ -5,7 +5,7 @@ layout: post
 date: "2020-04-17"
 permalink: /blog/non-cash-ways-to-pay-speakers/
 categories:
-  - Speakers
+  - Speaking
 excerpt: "Event organizers have a wide variety of ways compensate speakers for their time without making direct cash payments."
 comments: true
 ---
@@ -14,35 +14,39 @@ comments: true
 
 # Paying Speakers
 
-*Note: I drafted this way before the current coronovirus global pandemic. Given the devastation this has wrecked on the global conference market, I thought about shelving it for better days. However, I think that events now have a heavy incentive to become virtual experiences. That means that finding creative way to reward speakers will be more important than ever.* 
+*Note: I drafted this way before the current coronovirus global pandemic. Given the devastation this has wrecked on the global conference market, I thought about shelving it for better days. However, I think that events now have a heavy incentive to become virtual experiences. That means that finding creative way to reward speakers will be more important than ever since travel will be less of a perk for the foreseeable future.* 
 
 
-I've been fortunate to develop my public speaking to the level where I regularly receive some form of cash compensation for my presentations. Speakers engage in a large amount of labor including creating compelling talks, rehearsing, taking on the stress of travel, and then presenting on stage in a way that will keep the attention of attendees. Since speakers often drive ticket sales, it makes sense to share a portion of that revenue with the people who create content for the event.
+I've been fortunate to develop my public speaking to the level where I regularly receive some form of cash compensation for my presentations. Speakers engage in a large amount of labor including creating compelling talks, rehearsing, taking on the stress of travel, and then presenting on stage in a way that will keep the attention of attendees. Since speakers often drive ticket sales, it makes sense to share a portion of that revenue with the people who create valuable content for the event.
 
-However, event organizes often expect speakers to do all of this labor without payment. Despite having prominent sponsors and often charging hundreds of dollars per ticket, they may not have the budget to pay speakers. Also, the event may be in a country where paying speakers presents difficult tax of visa complications.
+However, event organizes often expect speakers to do all of this labor without payment. Despite having prominent sponsors and often charging hundreds of dollars per ticket, they may not have the budget to pay speakers. Also, the event may be in a country where paying speakers presents difficult tax or visa complications.
 
 There are creative ways that conference organizers can compensate speakers without making direct cash payments. 
 
 
 ## Gifts
 
-There are few things nicer than getting an unexpected gift. Providing speakers some token of your appreciation, especially if tied to the host city or them of the conference, can do a lot to cement your relationship with them.
+There are few things nicer than getting an unexpected gift. Providing some token of your appreciation, especially if tied to the host city or theme of the conference, can do a lot to cement your relationship with your speakers. While it's ideal to receive these gifts in person, they can also be shipped to speakers after the event.
 
 ### Themed Gifts
 
-I once received a pair of cowboy boots for a conference held in Nashville. The conference had to plan in advance by asking me for my shoe size when I registered for my speaker ticket. I was very appreciative of this gesture, and I still remember that conference when I wear my boots even though that event was years ago.
+I once received a pair of cowboy boots from a conference held in Nashville, Tennessee. The conference had to plan in advance by asking me for my shoe size when I registered for my speaker ticket. I was very appreciative of this gesture, and I still remember that conference when I wear my boots even though that event was years ago.
+
+Let's be honest. It takes a certain amount of vanity to get on stage in front of hundreds of people and expect them to benefit from what you have to say. You can appeal to this vanity by providing personalized gifts like bags or chargers. You can also have a special "speaker" version of the conference shirt or hoodie that's identifies as a speaker and includes their name.
+
+There are two events in Budapest that offer hand drawn pictures of the speaker and then give them to the speakers in a nice frame. I really cherish these pieces of personalized art, and I wish more events did the same. To pull this off, the event organizers asked for headshots in advance, and the artist included the conference's symbol in the drawing. I've also seen other speakers receive these portraits with an interesting background image like the skyline of the host city. Others had their portraits drawn in the likeness of their favorite super hero.
 
 ### Gift cards
 
 While not as personal as a themed gift, a gift card can be a nice gesture. You can provide an electronic gift card to reduce the burden of having to collect a physical item.
 
-If event organizers plan ahead, they can ask speakers to provide the name of their favorite restaurant when they register for the event. You can then send them a gift card for that restaurant after the event ends.
+If event organizers plan ahead, they can ask speakers to provide the name of their favorite restaurant when they register for the event. You can then provide a gift card for that restaurant after the event ends.
 
 ## Self-Care
 
 Many event organizers arrange hotels for speakers, and these hotels often have gyms and spas. You can make sure speakers have free access to the gyms and also one or more free services in the spa such as a massage, manicure, pedicure, etc.
 
-If you have a virtual event, you can still leverage relationships with hotels that have properties in the home city of the speakers and negotiate providing these services there.
+If you have a virtual event, you can still leverage relationships with hotels that have properties in the home cities of your speakers and negotiate providing these services there.
 
 ## Career Assistance
 
@@ -50,7 +54,7 @@ Most speakers have a full time job in addition to speaking, and event organizers
 
 ### Introductions
 
-When a speaker registers for the event, ask if they are looking for work. If they indicate that they are, then ask them to indicate their desired roles and if they're interested in working at one of the sponsors of the event. Since sponsors and vendors are often involved in events to hire, you can then arrange one-on-one meetings between the speakers and the companies that match their interests and background.
+When a speaker registers for the event, ask if they are looking for work. If they indicate that they are, then ask them to indicate their desired roles and if they're interested in working at one of the sponsors or vendors of the event. Since sponsors and vendors are often involved in events to find talent, you can then arrange one-on-one meetings between the speakers and the companies that match their interests and background.
 
 ### Workshops
 
@@ -59,10 +63,6 @@ I've seen a number of events that provide speakers free access to sessions but n
 ## Altruism
 
 You can ask speakers in advance to pick a charity, and you can then make a contribution in the name of the speaker to that charity. You can go a step further and ask speakers to pick from a list of charities that align with the theme, mission, or interests of your event.
-
-## Vanity
-
-Let's be honest. It takes a certain amount of vanity to get on stage in front of hundreds of people and expect them to benefit from what you have to say. You can appeal to this vanity by providing personalized gifts like bags or chargers. There are two events in Budapest that offer hand drawn pictures of the speaker and then give them to the speakers in a nice frame. To pull this off, they asked for headshots in advance, and the artist sometimes includes an interesting background image like the skyline of the host city. I've seen some speakers have their drawn portraits done in the likeness of their favorite super hero.
 
 ## Travel
 
@@ -82,7 +82,7 @@ Similar to flights, booking upgraded hotel rooms can go a long ways towards maki
 
 ## Your Event
 
-Event organizers can use the event itself as a way to make speakers feel welcome and special.
+Event organizers can use the event itself as a way to make speakers feel welcome and special. These ideas also have to wait until current travel restrictions are lifted, but now is a great time to start negotiating for their inclusion in your budget.
 
 ### Upgraded Green Room
 

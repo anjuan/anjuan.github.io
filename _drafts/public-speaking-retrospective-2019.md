@@ -5,7 +5,7 @@ layout: post
 date: "2019-12-31"
 permalink: /blog/public-speaking-retrospective-2019/
 categories:
-  - Speaking
+  - Drafts
 excerpt: "The biggest change in my public speaking career was doing a talk with my wife on burnout. Here are a few thoughts about the talks we gave in 2019."
 comments: true
 ---

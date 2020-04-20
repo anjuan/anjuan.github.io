@@ -5,7 +5,7 @@ layout: post
 date: "2017-09-05"
 permalink: /blog/setting-up-a-custom-google-domain-for-github-pages/
 categories:
-  - Site Log
+  - Drafts
 excerpt: "Setting up a custom Google domain to use with GitHub Pages is straightforward, but there are a frew tricky steps. Here is how I did it for this site."
 comments: true
 ---

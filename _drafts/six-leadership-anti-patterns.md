@@ -5,7 +5,7 @@ layout: post
 date: "2018-02-15"
 permalink: /blog/six-leadership-anti-patterns/
 categories:
-  - Work
+  - Drafts
 excerpt: "Leadership is complicated, but there are six anti-patterns that seem effective in the short-term but will result in advantages that are only temporary."
 comments: true
 ---

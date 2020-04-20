@@ -5,7 +5,7 @@ layout: post
 date: "2018-01-20"
 permalink: /blog/the-ten-planning-poker-commandments/
 categories:
-  - Agile
+  - Drafts
 excerpt: "In my role of ScrumMaster, I've helped several teams learn how to use Planning Poker to size user stories. This post distills the lessons I've shared over the years."
 comments: true
 ---

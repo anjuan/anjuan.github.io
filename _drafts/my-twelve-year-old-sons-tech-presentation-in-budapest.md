@@ -5,7 +5,7 @@ layout: post
 date: "2017-09-20"
 permalink: /blog/my-son-in-budapest/
 categories:
-  - Speaking
+  - Drafts
 excerpt: "My son gave a presentation to the Scratch conference in Budapest. This is how that happened.."
 comments: true
 ---

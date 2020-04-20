@@ -5,7 +5,7 @@ layout: post
 date: "2020-04-25"
 permalink: /blog/blocking-out-your-day-for-remote-work/
 categories:
-  - Remote Work
+  - Drafts
 excerpt: "By organizing your day into dedicated blocks of time, you can make the most of working remotely."
 comments: true
 ---

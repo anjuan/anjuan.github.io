@@ -45,7 +45,7 @@ Very few conferences pay speakers which has never been an issue for me since I h
 
 There are a few things that could have been improved.
 
-## Accomodations
+## Accommodations
 
 {% include image.html url="/images/public-speaking-retro-2017-spousal-support.jpg" alt="wife speaking" caption="My wife speaking at an academic conference" width=800 align="center" %}
 

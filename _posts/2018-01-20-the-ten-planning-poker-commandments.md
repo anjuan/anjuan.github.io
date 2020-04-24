@@ -14,10 +14,6 @@ comments: true
 
 Planning Poker is a technique Agile software development teams use to estimate the work presented to them by the Product Owner. It allows the software development team members to discuss features requested by users and provide feedback about the effort required to bring those features to production.
 
-Here's a typical Planning Poker session for an Agile team using Scrum. Scrum has an event at the start of a sprint called Sprint Planning. This is where the Scrum Development Team creates a forecast for what they think they can get accomplished during the sprint which is usually a two-week period of time.
-
-A common way to describe features is in the form of a user story. 
-
 # 1 - "You shall bring no time estimates to Planning Poker."
 
 Substantial research has indicated that people are bad at estimating how long something will take. In my experience, software developers are overwhelmingly optimistic people. This usually results in estimates that are far too small when compared to actual results.

@@ -60,7 +60,7 @@ TBD
 
 
 
-# Summary of 2018
+# Summary of 2019
 
 Cities
 * New York (Speaker)
@@ -69,7 +69,7 @@ Cities
 Countries
 
 
-# Goals for 2019
+# Goals for 2020
 
 ## Return to Africa
 

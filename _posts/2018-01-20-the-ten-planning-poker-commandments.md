@@ -5,7 +5,7 @@ layout: post
 date: "2018-01-20"
 permalink: /blog/the-ten-planning-poker-commandments/
 categories:
-  - Drafts
+  - Agile
 excerpt: "In my role of ScrumMaster, I've helped several teams learn how to use Planning Poker to size user stories. This post distills the lessons I've shared over the years."
 comments: true
 ---
@@ -32,28 +32,28 @@ The Definition of Done is a list of the characteristics a user story need to hav
 
 # 4 - “Remember completed stories, to keep them holy. You completed stories of various sizes in previous sprints, and you should use those as a relative guide for estimating. You shall not size without considering completed stories, you or your son or your daughter, your tester or your designer or your programmer or the manager who stays with you. For in previous stories the team made the heavens and the earth, the sea and all that is in them, and sized them all; therefore the work has been made shippable and made holy."
 
-TBD
+Planning Poker is an exercise is relative sizing. It's important that you look at completed stories for examples of various sizes. You can then compare these to the stories being sized and determine if they are larger or smaller.
 
 # 5 - “Honor your fellow estimators, that your work may be Done in the upcoming sprint."
 
-TBD
+Sizing stories can be contentious, and it's important that participants treat each other with kindness and respect. The goal is not to "win" the sizing. The goal is to come to a better shared understanding of the work.
 
 # 6 - “You shall not allow anyone to size stories who will not do work in the upcoming sprint."
 
-TBD
+The only people who can size the work are the people who will do the work.
 
 # 7 - “You shall consult with the Product Owner."
 
-TBD
+Ideally, the Product Owner is present during the sizing exercise to answer any business or product questions about the work.
 
 # 8 - “You shall not steal the estimate of another."
 
-TBD
+It's easy for junior members of the team to not be intimidated by senior members of the team. This is avoided by having all Planning Poker participants reveal their sizes at the same time. However, it's important that everyone stick to the size they've chosen unless they find technical information they had not considered.
 
-## 9 - “You shall not prematurely show your estimate. That is an abomination."
+# 9 - “You shall not prematurely show your estimate. That is an abomination."
 
-TBD
+When using physical cards when playing Planning Poker, it's possible for a participant to surreptitiously show their card. It's important to not do this and unduly bias the exercise.
 
 # 10 - “You shall not base your estimate on how you think other estimators size cards. You shall not base your estimate on how little or how much work you think the team should do during the sprint. You shall only base your estimate on the merits of the story and on the merits alone."
 
-TBD
+The size is based on the work item being discussed and only on the work item being discussed. All other considerations should be ignored.

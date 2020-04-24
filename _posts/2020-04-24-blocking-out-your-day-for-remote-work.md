@@ -14,7 +14,7 @@ comments: true
 
 # Remote Work
 
-The spread of novel coronavirus has forced many people to find themselves thrust into working from home. There have been many articles written about how to make the leap to remote work, but I find that a lot of this guidance isn't very structured. Since we all understand the concept of time, I think that understanding remote work as the process of managing blocks of time can be a very useful way to make the transition.
+The spread of [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html) has forced many people into working from home. There have been many articles written about how to make the leap to remote work, but I find that a lot of this guidance isn't very structured. Since we all understand the concept of time, I think that understanding remote work as the process of managing blocks of time can be a very useful way to make the transition.
 
 Instead of seeing your day as a linear sequence of events, thinking in terms of time boxes you can make meaningful to you can be empowering. Often, when working in an office, your schedule is something that's imposed on you. After all, you have to be in the office at a certain time, there's pressure to eat lunch when other people do, and you have little control over people interrupting your focus by coming over to socialize. Remote work gives you the opportunity to bring your schedule under your control. 
 

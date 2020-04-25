@@ -74,7 +74,7 @@ Similar to the Opening Block, it's important to have something that symbolizes t
 
 Now that you understand the blocks, you can arrange them on your calendar. Yes, I recommend actually going into your calendar management tool and entering the blocks as events. You may want to mark these blocks as private so that they don't show up if you share your calendar with others. Or, you may want them to be pubic so that other people don't schedule time on top of your blocks.
 
-Its ok to change things up! You may need to change your day so that it starts with a Break Block instead of a Work Block. Or, perhaps you're trying to meet a deadline, and you need longer work blogs during the times in the day when it's easier for you to get into a focused state. Make the blocks work for you.
+It's ok to change things up! You may need to change your day so that it starts with a Break Block instead of a Work Block. Or, perhaps you're trying to meet a deadline, and you need longer work blogs during the times in the day when it's easier for you to get into a focused state. Make the blocks work for you.
 
 # Summary
 

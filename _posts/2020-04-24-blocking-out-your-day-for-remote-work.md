@@ -78,4 +78,4 @@ It's ok to change things up! You may need to change your day so that it starts w
 
 # Summary
 
-I'm a big believer in the value in giving your "Best 40 Hours" each week. This means that you organize your time in a way that you can present the best version of you to whatever task you're trying to accomplish. Taking ownership of your day and ordering your time into blocks that align with your best work can increase your productivity while still finding time to enjoy your life.
+I'm a big believer in the value of giving your "Best 40 Hours" each week. This means that you organize your time in a way that you can present the best version of you to whatever task you're trying to accomplish. Taking ownership of your day and ordering your time into blocks that align with your best work can increase your productivity while still finding time to enjoy your life.

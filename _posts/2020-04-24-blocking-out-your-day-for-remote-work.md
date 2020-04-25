@@ -32,7 +32,7 @@ I recommend signing up for the highest tier of service provided by your internet
 
 ### Place
 
-I'm a believer in having a purpose for every space and a space for every purpose. So, if you can, setup dedicated spaces for different purposes. This is especially important while most of the world is under shelter-in-place regulations. When we're forced to stay inside, it's vital to have a sense of purpose for your dwelling place.
+I'm a believer in having a purpose for every space and a space for every purpose. So, if you can, set up dedicated spaces for different purposes. This is especially important while most of the world is under shelter-in-place regulations. When we're forced to stay inside, it's vital to have a sense of purpose for your dwelling place.
 
 I recommend having spaces for fun, exercise, sleep, relaxation, work, and other categories that are meaningful to you. I highly recommend that your work space have a door you can close which will be vital for getting into a state of deep work.
 

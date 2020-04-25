@@ -16,7 +16,7 @@ comments: true
 
 The spread of [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html) has forced many people into working from home. There have been many articles written about how to make the leap to remote work, but I find that a lot of this guidance isn't very structured. Since we all understand the concept of time, I think that understanding remote work as the process of managing blocks of time can be a very useful way to make the transition.
 
-Instead of seeing your day as a linear sequence of events, thinking in terms of time boxes you can make meaningful to you can be empowering. Often, when working in an office, your schedule is something that's imposed on you. After all, you have to be in the office at a certain time, there's pressure to eat lunch when other people do, and you have little control over people interrupting your focus by coming over to socialize. Remote work gives you the opportunity to bring your schedule under your control. 
+Instead of seeing your day as a linear sequence of events, thinking in terms of time boxes under your control can be empowering. Often, when working in an office, your schedule is something that's imposed on you. After all, you have to be in the office at a certain time, there's pressure to eat lunch when other people do, and you have little control over people interrupting your focus by coming over to socialize. Remote work gives you the opportunity to bring your schedule under your control. 
 
 You can also block out your day based on your current state of mind. Some people need to dive right into work at the start of the day or they will lose motivation to get things done. Others need to do something enjoyable before they feel ready to be productive. The blocks allow you to wrap your day around how you're built to process information.
 
@@ -28,7 +28,7 @@ Before we get started with the blocks, it's important to set the table for the b
 
 The lifeblood of remote work is a solid internet connection. This ensures that you have enough bandwidth to send and receive clear audio and video data during meetings. We've all seen people in meetings become pixelated or even completely drop from the call due to a poor connection. 
 
-I recommend signing up for the highest tier of service provided by your internet service provider.
+I recommend signing up for the highest tier of service provided by your internet service provider. I'm fortunate to have access to a high speed fiber connection to my home.
 
 ### Place
 

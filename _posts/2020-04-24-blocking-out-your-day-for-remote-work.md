@@ -44,7 +44,7 @@ I highly recommend having a block of time for getting yourself ready to start yo
 
 ### Dress
 
-One of the things that people enjoy the most when they start working remotely is the flexibility around dressing. Since there's less scrutiny on what you're wearing if you don't have to leave the house, remote work tends to result in much looser dress codes. However, I recommend you put on something other than what you wore to bed in your Opening Block. While you don't have to dress in the clothes you would wear to the office, the act of getting dressed helps prepare your mind for doing something other than sleeping. 
+One of the things that people enjoy the most when they start working remotely is the flexibility around dressing. Since there's less scrutiny on what you're wearing if you don't have to leave the house, remote work tends to result in much looser dress codes. However, I recommend you put on something during your Opening Block other than what you wore to bed. While you don't have to dress in the clothes you would wear to the office, the act of getting dressed helps prepare your mind for doing something other than sleeping. 
 
 ### Symbolism
 

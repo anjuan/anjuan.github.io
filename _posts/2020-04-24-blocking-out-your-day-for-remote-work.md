@@ -24,7 +24,7 @@ You can also block out your day based on your current state of mind. Some people
 
 Before we get started with the blocks, it's important to set the table for the best possible remote work experience. 
 
-### High Speed Internet
+### Connection
 
 The lifeblood of remote work is a solid internet connection. This ensures that you have enough bandwidth to send and receive clear audio and video data during meetings. We've all seen people in meetings become pixelated or even completely drop from the call due to a poor connection. 
 

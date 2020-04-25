@@ -52,7 +52,7 @@ Your Opening Block should also have something that symbolizes that you're ready 
 
 ## Meeting Block
 
-The Meeting Block is probably the one block that others have a lot of control in setting. These are probably fixed to your calendar, and you'll have to accept that those blocks of time are probably unmovable. However, I do recommend becoming an advocate of making your meetings as effective as possible. You can do this by making sure that every meeting has an agenda and a defined outcome. I also recommend modeling punctuality by always showing up on time to every meeting. A lot of the efficiency of meetings is due to unclear goals and late arrivals.
+The Meeting Block is probably the one block that others have a lot of control in setting. These are probably fixed to your calendar, and you'll have to accept that those blocks of time are probably unmovable. However, I do recommend becoming an advocate of making your meetings as effective as possible. You can do this by making sure that every meeting has an agenda and a defined outcome. I also recommend modeling punctuality by always showing up on time to every meeting. A lot of meeting inefficiency is due to unclear goals and late arrivals.
 
 ## Work Block
 

@@ -64,7 +64,7 @@ Your Work Block should be a period of deep work where you give your full attenti
 
 Break Blocks are there to give your mind time to rest between the other blocks. You can do your Break Blocks anywhere, but I recommend that you don't take them in your work space. It's important for you to keep that space dedicated to work activity.
 
-You can do whatever you want during your Break Block as long as you find it delightful. This can be drinking your favorite beverage, eating something delicious, or taking a walk. By making your Break Blocks something delightful, they give you experiences to look forward to in your day.
+You can do whatever you want during your Break Block as long as you find it delightful. This can be drinking your favorite beverage, eating something delicious, having a fun conversation, or taking a walk. By making your Break Blocks something delightful, they give you experiences to look forward to in your day.
 
 ## Closing Block
 
@@ -78,4 +78,4 @@ It's ok to change things up! You may need to change your day so that it starts w
 
 # Summary
 
-I'm a big believer in the value in giving your "Best 40 Hours" each week. This means that you organize your time in a way that you can present the best version of you to whatever you're trying to accomplish. Taking ownership of your day and ordering your time into blocks that align with your best work can increase your productivity while still finding time to enjoy your life.
+I'm a big believer in the value in giving your "Best 40 Hours" each week. This means that you organize your time in a way that you can present the best version of you to whatever task you're trying to accomplish. Taking ownership of your day and ordering your time into blocks that align with your best work can increase your productivity while still finding time to enjoy your life.

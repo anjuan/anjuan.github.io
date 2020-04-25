@@ -58,7 +58,7 @@ The Meeting Block is probably the one block that others have a lot of control in
 
 The Work Block is when you get things done that are valuable to you. For most people, this is what you do for a living, but it could be a personal project. In a given week, you can probably only make meaningful progress on a handful of items. So, you should try to identify the most important things you need to get done and put your entire focus on completing those items.
 
-Your Work Block should be a period of deep work where you give your full attention to the activity. I highly recommend silencing all notification and staying off social media. If the things you work on during your work block are truly meaningful to you, then they deserve your full attention.
+Your Work Block should be a period of deep work where you give your full attention to the activity. I highly recommend silencing all notifications and staying off social media. If the things you work on during your work block are truly meaningful to you, then they deserve your full attention.
 
 ## Break Block
 

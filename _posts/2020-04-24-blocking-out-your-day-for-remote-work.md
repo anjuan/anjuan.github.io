@@ -18,7 +18,7 @@ The spread of [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html) h
 
 Instead of seeing your day as a linear sequence of events, thinking in terms of time boxes under your control can be empowering. Often, when working in an office, your schedule is something that's imposed on you. After all, you have to be in the office at a certain time, there's pressure to eat lunch when other people do, and you have little control over people interrupting your focus by coming over to socialize. Remote work gives you the opportunity to bring your schedule under your control. 
 
-You can also block out your day based on your current state of mind. Some people need to dive right into work at the start of the day or they will lose motivation to get things done. Others need to do something enjoyable before they feel ready to be productive. The blocks allow you to wrap your day around how you're built to process information.
+You can also block out your day based on your current state of mind. Some people need to dive right into work at the start of the day or they will lose motivation to get things done. Others need to do something enjoyable before they feel ready to be productive. Setting up blocks of time for defined purposes allows you to wrap your day around how you're built to process information.
 
 ## Setting the Table
 

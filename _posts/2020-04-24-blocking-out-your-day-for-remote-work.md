@@ -28,19 +28,19 @@ Before we get started with the blocks, it's important to set the table for the b
 
 The lifeblood of remote work is a solid internet connection. This ensures that you have enough bandwidth to send and receive clear audio and video signals during meetings. We've all seen people in meetings become pixelated or even completely drop from the call due to a poor connection. 
 
-I recommend signing up for the highest tier of service provided by your internet service provider. I'm fortunate to have access to a high speed fiber connection to my home.
+If possible, sign up for the highest tier of service provided by your internet service provider. I'm fortunate to have access to a high speed fiber connection to my home.
 
 ### Place
 
 I'm a believer in having a purpose for every space and a space for every purpose. So, if you can, set up dedicated spaces for different purposes. This is especially important while most of the world is under shelter-in-place regulations. When we're forced to stay inside, it's vital to have a sense of purpose for your dwelling place.
 
-I recommend having separate spaces for fun, exercise, sleep, relaxation, work, and other categories that are meaningful to you. I highly recommend that your work space have a door you can close which will be vital for getting into a state of deep work.
+Try to create separate spaces for fun, exercise, sleep, relaxation, work, and other categories that are meaningful to you. I highly recommend that your work space have a door you can close which will be vital for getting into a state of deep work.
 
 Now that you have a work space with a high speed internet connection, let's talk about the different blocks of time you can use to create the optimal work day for remote work.
 
 ## Opening Block
 
-I highly recommend having a block of time for getting yourself ready to start your day. Human beings are motivated by ritual, and the Opening Block helps you transition from sleep to activity. 
+It's important to give yourself a block of time for starting your work day. Human beings are motivated by ritual, and the Opening Block helps you transition from sleep to activity. 
 
 ### Dress
 
@@ -48,11 +48,11 @@ One of the things that people enjoy the most when they start working remotely is
 
 ### Symbolism
 
-Your Opening Block should also have something that symbolizes that you're ready to start your day. This is another way to prepare yourself for activity. The symbol should be some physical act. This could be ringing a bell or simply saying something like, "It's time to start".
+Your Opening Block should also have something that symbolizes that you're ready to start your day. This is another way to prepare yourself for activity, and the symbol should be some physical act. This could be drinking a cup of coffee, ringing a bell, or simply saying something like, "It's time to start".
 
 ## Meeting Block
 
-The Meeting Block is probably the one block that others have a lot of control in setting. These are probably fixed to your calendar, and you'll have to accept that those blocks of time are probably unmovable. However, I do recommend becoming an advocate of making your meetings as effective as possible. You can do this by making sure that every meeting has an agenda and a defined outcome. I also recommend modeling punctuality by always showing up on time to every meeting. A lot of meeting inefficiency is due to unclear goals and late arrivals.
+The Meeting Block is probably the one block that is the least under your control. Your meeting schedule is probably fixed to your calendar, and you'll have to accept that those blocks of time are mostly unmovable. However, I do recommend becoming an advocate of making your meetings as effective as possible. You can do this by making sure that every meeting, regardless of who facilitates it, has an agenda and a defined outcome. I also recommend modeling punctuality by always showing up on time to every meeting. A lot of meeting inefficiency is due to unclear goals and late arrivals.
 
 ## Work Block
 
@@ -62,22 +62,22 @@ Your Work Block should be a period of deep work where you give your full attenti
 
 ## Break Block
 
-Break Blocks are there to give your mind time to rest between the other blocks. You can do your Break Blocks anywhere, but I recommend that you don't take them in your work space. It's important for you to keep that space dedicated to work activity.
+Break Blocks are there to give your mind time to rest between the other blocks. I recommend leaving your work space during your Break Blocks. It's important for you to keep that space dedicated to work activity.
 
 You can do whatever you want during your Break Block as long as you find it delightful. This can be drinking your favorite beverage, eating something delicious, having a fun conversation, or taking a walk. By making your Break Blocks something delightful, they give you experiences to look forward to in your day.
 
 ## Closing Block
 
-Similar to the Opening Block, it's important to have something that symbolizes the end of your period of activity. Again, performing some physical ritual is important. This could be clapping your hands or saying something like, "It's finished!"
+Similar to the Opening Block, it's important to have something that symbolizes the end of your work day. Again, performing some physical ritual is important. This could be clapping your hands or saying something like, "It's finished!"
 
 ## Arranging the Blocks
 
 Now that you understand the blocks, you can arrange them on your calendar. Yes, I recommend actually going into your calendar management tool and entering the blocks as events. You may want to mark these blocks as private so that they don't show up if you share your calendar with others. Or, you may want them to be pubic so that other people don't schedule time on top of your blocks.
 
-Those Meeting Blocks can be tough to move so you may want to try using them as anchors for the other blocks. For example, you may have a weekly mid-morning meeting. You can put an Opening Block and Work Block before that Meeting Block and then follow it with another Work Block and then a Break Block.
+Since Meeting Blocks can be tough to move, you may want to try using them as anchors for the other blocks. For example, you may have a weekly mid-morning status meeting. You can put an Opening Block and a Work Block before the Meeting Block occupied by the status meeting and then follow it with another Work Block and then a Break Block.
 
 It's ok to change things up! You may need to change your day so that it starts with a Break Block instead of a Work Block. Or, perhaps you're trying to meet a deadline, and you need longer Work Blocks during the times in the day when it's easier for you to get into a focused state. Make the blocks work for you.
 
 # Summary
 
-I'm a big believer in the value of giving your "Best 40 Hours" each week. This means that you organize your time in a way that you can present the best version of you to whatever task you're trying to accomplish. Taking ownership of your day and ordering your time into blocks that align with your best work can increase your productivity while still finding time to enjoy your life.
+I'm a big believer in the value of giving your "Best 40 Hours" each week. This means that you organize your work day in a way that allows you to present the best version of yourself to whatever task you're trying to accomplish. Taking ownership of your day and ordering your time into time blocks that align with your best work can increase your productivity while still finding time to enjoy life.

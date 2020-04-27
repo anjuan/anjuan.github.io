@@ -68,7 +68,7 @@ You can do whatever you want during your Break Block as long as you find it deli
 
 ## Closing Block
 
-Similar to the Opening Block, it's important to have something that symbolizes the end of your work day. Again, performing some physical ritual is important. This could be clapping your hands or saying something like, "It's finished!"
+Similar to the Opening Block, it's important to have something that symbolizes the end of your work day. Again, performing some physical ritual is important. This could be clapping your hands, or saying something like, "It's finished!", or perhaps "Hailing frequencies closed".
 
 ## Arranging the Blocks
 

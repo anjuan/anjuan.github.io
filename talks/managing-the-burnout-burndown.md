@@ -36,6 +36,9 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 * [Speakerdeck](https://speakerdeck.com/anjuan/managing-the-burnout-burndown)
 
+## Podcasts
+<iframe src="https://player.acast.com/betterfasterhappier/episodes/5d45e5ce833846051f8618c2" frameBorder="0" width="100%" height="110px" allow="autoplay"></iframe>
+
 ## Additional Videos
 
 **[DevRelCon London](https://drive.google.com/file/d/1o7lkruTV8P9DaCW9Q8p6VSEZpMxgLpAq/view?usp=sharing)**

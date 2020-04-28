@@ -41,8 +41,6 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/2d123c36-a90d-4372-9caa-bd35cb4a1f08?dark=true"></iframe>
 
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://app.stitcher.com/splayer/f/505648/67318353"></iframe>
-
 [Under the Hood of Developer Marketing](https://www.stitcher.com/podcast/under-the-hood-of-developer-marketing/e/67318353)
 
 ## Additional Videos

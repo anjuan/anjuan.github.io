@@ -36,6 +36,13 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 * [Speakerdeck](https://speakerdeck.com/anjuan/managing-the-burnout-burndown)
 
+## Podcasts
+<iframe src="https://player.acast.com/betterfasterhappier/episodes/5d45e5ce833846051f8618c2" frameBorder="0" width="100%" height="110px" allow="autoplay"></iframe>
+
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/2d123c36-a90d-4372-9caa-bd35cb4a1f08?dark=true"></iframe>
+
+[Under the Hood of Developer Marketing](https://www.stitcher.com/podcast/under-the-hood-of-developer-marketing/e/67318353)
+
 ## Additional Videos
 
 **[DevRelCon London](https://drive.google.com/file/d/1o7lkruTV8P9DaCW9Q8p6VSEZpMxgLpAq/view?usp=sharing)**

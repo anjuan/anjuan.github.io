@@ -43,7 +43,7 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 [Hanselminutes](https://hanselminutes.simplecast.com/episodes/managing-the-burnout-burndown-with-dr-aneika-simmons)
 
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/2d123c36-a90d-4372-9caa-bd35cb4a1f08?dark=false"></iframe>
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/505648/67318353" width="220" height="150" frameborder="0" scrolling="no"></iframe>
 
 ## Additional Videos
 

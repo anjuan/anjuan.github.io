@@ -14,7 +14,11 @@ comments: true
 
 *Note: Some of the links below are affiliate links which will send me a small commission if you use them to make purchases.*
 
-I started journaling in early 2019 as a mindfulness practice.
+I started journaling in years ago as a mindfulness practice. My life usually goes at a fast pace from when I wake up in the morning to when I collapse into bed at the end of the day. After all, maintaining my relationship with my wife, tending to the needs of our three children, and performing my full time job as an Engineering Manager leave very few spare moments in my day.
+
+However, I found that taking time to pause and write in my journal helped me pay attention to thoughts, memories, and observations that I was missing. Getting these things out of my head and into a journal freed up space in my mind and also provide a sense of calm.
+
+I tried several methods tools over the years ranging from day planners to notebooks, but I found the perfect solution for me in the Notability app on the iPad and the Apple Pencil. However, it was a journey to get there.
 
 ## Previous Tools
 
@@ -22,9 +26,7 @@ I started journaling in early 2019 as a mindfulness practice.
 
 {% include image.html url="/images/paper-journals.jpg" alt="Paper Journals" caption="Here are a few of my paper journals. I really loved the one on top." %}
 
-
-
-Loved the physicality of notebooks and writing in them with a pen. I've found that typing in a journal didn't have the psychological weight of writing. I have dozens of electronic journals in cloud storage, but they aren't as meaningful as my stack of paper journals.
+I loved the physicality of notebooks and writing in them with a pen. I've found that typing in a journal didn't have the psychological weight of writing. I have dozens of electronic journals in cloud storage, but they aren't as meaningful as my stack of paper journals.
 
 I've tried many types of paper based notebooks over the years ranging from calendar based planners to dedicated journals. I eventually settled on my preferred setup:
 
@@ -35,6 +37,8 @@ I've tried many types of paper based notebooks over the years ranging from calen
 * A wrap that would keep the journal closed
 * A bookmark
 * A nice ballpoint pen that didn't bleed through the pages
+
+{% include image.html url="/images/favorite-paper-journal.jpg" alt="Favorite Paper Journals" caption="This is what my favorite paper journal looks like open to a blank set of pages." %}
 
 This is a link to the notebook that met all of these requirements, and I loved it!
 
@@ -60,7 +64,10 @@ My experiences with physical and electronic ways to journal weren't optimal, but
 
 ## Notability and the Apple Pencil
 
-TBD
+How I use it
+
+
+Finding journal prompts
 
 ## Future Upgrades
 

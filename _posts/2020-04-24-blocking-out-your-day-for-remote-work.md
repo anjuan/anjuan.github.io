@@ -78,7 +78,7 @@ Now that you understand the blocks, you can arrange them on your calendar. Yes, 
 
 Since Meeting Blocks can be tough to move, you may want to try using them as anchors for the other blocks. For example, you may have a weekly mid-morning status meeting. You can put an Opening Block and a Work Block before the Meeting Block occupied by the status meeting and then follow it with another Work Block and then a Break Block.
 
-It's ok to change things up! You may need to change your day so that it starts with a Break Block instead of a Work Block. Or, perhaps you're trying to meet a deadline, and you need longer Work Blocks during the times in the day when it's easier for you to get into a focused state. Make the blocks work for you.
+It's ok to change things up! You may need to change your day so that it starts with a Break Block instead of a Work Block. Or, perhaps you're trying to meet a deadline, and you need longer Work Blocks during the times in the day when it's easier for you to get into a focused state. *You don't work for the blocks*. Make the blocks work for you.
 
 # Summary
 

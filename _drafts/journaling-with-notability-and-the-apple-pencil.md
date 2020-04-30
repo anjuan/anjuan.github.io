@@ -68,6 +68,8 @@ My experiences with physical and electronic ways to journal weren't optimal, but
 
 Easy to write
 
+Infinite scroll
+
 Entries are automatically backed up to Google Drive
 
 Insert video of copying text, moving text, drawing (both freehand and straight lines)
@@ -76,15 +78,17 @@ Insert video of copying text, moving text, drawing (both freehand and straight l
 
 You can find a lot of ways to journal online. Some people journal to create a list of things to be grateful, document affirmations, reflect on the past, plan for the future, etc. I don't have a particular format or method for journaling. It's more important for me to regularly journal as a personal practice than to constrain what I write.
 
-Image of my journal.
+{% include image.html url="/images/notability-categories.jpg" alt="Notability Categories" caption="How I use categories in Notability" %}
 
-I create a category in Notability for every month and have a page in each month with my journal entries. Notability will automatically put a date and time stamp on my journals, but I've started adding putting the date at the beginning of each entry so that this shows up in the backups stored in Google Drive.
+I create a category in Notability for every month and have a page in each month with my journal entries.
+
+{% include image.html url="/images/notablity-journal-entry.png" alt="Notability Journal Entry" caption="Here's a sample journal entry" %}
+
+Notability will automatically put a date and time stamp on my journals, but I've started adding putting the date at the beginning of each entry so that this shows up in the backups stored in Google Drive.
 
 ### Using Journal Prompts
 
 I use a book of journal prompts from time to time to find interesting things to put in my journal. Here are some of my favorite prompts from ####### that I've answered over the past few months.
-
-
 
 ## Future Upgrades
 

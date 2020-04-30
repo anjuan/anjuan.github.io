@@ -14,11 +14,11 @@ comments: true
 
 *Note: Some of the links below are affiliate links which will send me a small commission if you use them to make purchases.*
 
-I started journaling in years ago as a mindfulness practice. My life usually goes at a fast pace from when I wake up in the morning to when I collapse into bed at the end of the day. After all, maintaining my relationship with my wife, tending to the needs of our three children, and performing my full time job as an Engineering Manager leave very few spare moments in my day.
+I started journaling a few years ago as a mindfulness practice. My life usually goes at a fast pace from when I wake up in the morning to when I collapse into bed at the end of the day. After all, maintaining my relationship with my wife, tending to the needs of our three children, and performing my full time job as an Engineering Manager leave very few spare moments in my day.
 
-However, I found that taking time to pause and write in my journal helped me pay attention to thoughts, memories, and observations that I was missing. Getting these things out of my head and into a journal freed up space in my mind and also provide a sense of calm.
+However, I found that taking time to pause and write in my journal helped me pay attention to thoughts, memories, and observations that I was missing. Getting these things out of my head and into a journal freed up space in my mind and also provided a sense of calm.
 
-I tried several methods tools over the years ranging from day planners to notebooks, but I found the perfect solution for me in the Notability app on the iPad and the Apple Pencil. However, it was a journey to get there.
+I tried several methods and tools over the years ranging from day planners to notebooks, but I found the perfect solution for me in the [Notability app](https://www.gingerlabs.com/) on the iPad and the Apple Pencil. However, it was a journey to get there.
 
 ## Previous Tools
 

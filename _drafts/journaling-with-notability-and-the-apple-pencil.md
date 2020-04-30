@@ -2,7 +2,7 @@
 title: 'Journaling with Notability and the Apple Pencil'
 author: anjuan
 layout: post
-date: "2020-04-27"
+date: "2020-04-30"
 permalink: /blog/journaling-with-notability-and-the-apple-pencil/
 categories:
   - Drafts
@@ -38,7 +38,7 @@ I've tried many types of paper based notebooks over the years ranging from calen
 * A bookmark
 * A nice ballpoint pen that didn't bleed through the pages
 
-{% include image.html url="/images/favorite-paper-journal.jpg" alt="Favorite Paper Journals" caption="This is what my favorite paper journal looks like open to a blank set of pages." %}
+{% include image.html url="/images/favorite-paper-journal.jpg" alt="Favorite Paper Journals" caption="Despite not having a spiral spine, this is what my favorite paper journal looks like open to a blank set of pages." %}
 
 This is a link to the notebook that met all of these requirements, and I loved it!
 
@@ -72,7 +72,7 @@ Entries are automatically backed up to Google Drive
 
 Insert video of copying text, moving text, drawing (both freehand and straight lines)
 
-### My Approach to Journaling
+### My Approach to Journaling in Notability
 
 You can find a lot of ways to journal online. Some people journal to create a list of things to be grateful, document affirmations, reflect on the past, plan for the future, etc. I don't have a particular format or method for journaling. It's more important for me to regularly journal as a personal practice than to constrain what I write.
 
@@ -80,13 +80,19 @@ Image of my journal.
 
 I create a category in Notability for every month and have a page in each month with my journal entries. Notability will automatically put a date and time stamp on my journals, but I've started adding putting the date at the beginning of each entry so that this shows up in the backups stored in Google Drive.
 
-Finding journal prompts
+### Using Journal Prompts
+
+I use a book of journal prompts from time to time to find interesting things to put in my journal. Here are some of my favorite prompts from ####### that I've answered over the past few months.
+
+
 
 ## Future Upgrades
 
 New ipad
 
 New Apple Pencil - magnetically attaches to iPad
+
+New iPad Keyboard
 
 ## Finding What Works for You
 

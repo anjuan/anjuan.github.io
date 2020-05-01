@@ -43,7 +43,7 @@ I went on to try several different types of paper based notebooks, and I eventua
 
 {% include image.html url="/images/favorite-paper-journal.jpg" alt="Favorite Paper Journals" caption="Despite not having a wire binding, this is what my favorite paper journal looks like open to a blank set of pages." %}
 
-This [planner and notebook](https://amzn.to/3aPDK4s)(*affiliate link*) was the one the met most of these requirements, and I loved it!
+This [planner and notebook](https://amzn.to/3aPDK4s) (*affiliate link*) was the one the met most of these requirements, and I loved it!
 
 However, the physicality of paper notebooks was also a weakness. I always feared losing my paper notebooks, and that would mean losing months if not years of irreplaceable thoughts. Also, I once lived in an apartment in Houston that was flooded during a hurricane. Not only did a I lose several photo albums, a number of my paper journals were ruined. I still have an innate fear of losing journals due to another natural disaster.
 

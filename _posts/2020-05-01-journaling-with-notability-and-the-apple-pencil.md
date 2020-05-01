@@ -5,7 +5,7 @@ layout: post
 date: "2020-05-01"
 permalink: /blog/journaling-with-notability-and-the-apple-pencil/
 categories:
-  - Drafts
+  - Tech
 excerpt: "I started the practice of journaling last year, and I've found that the Notability app and the Apple Pencil are the perfect set of tools for recording my thoughts."
 comments: true
 ---

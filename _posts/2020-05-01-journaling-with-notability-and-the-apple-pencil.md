@@ -136,4 +136,4 @@ I've also been keeping my eye on [Apple's Magic Keyboad](https://amzn.to/35kWgQO
 
 I recommend Notability and the Apple Pencil for keeping an electronic journal, but the practice of journaling is the key. Whether you use some other set of electronic tools or just pen and a paper notepad, regularly writing out your thoughts is a great way to relax and get to know yourself.
 
-*Note: Some of the links in this post are affiliate links which will send me a small commission if you use them to make purchases.*
+*Note: Some of the links in this post are affiliate links which will send a small commission to me if you use them to make purchases.*

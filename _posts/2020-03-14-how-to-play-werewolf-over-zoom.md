@@ -72,7 +72,7 @@ During the day you seem to be a regular Townsperson. However, you've been kissed
 * 15-17 Players: 4 Werewolves
 * 18-20 Players: 5 Werewolves
 
-Once you get over 20 players, I recommend splitting into different groups or adding additional roles described in [Ultimate Werewolf](https://beziergames.com/products/ultimate-werewolf-deluxe-edition). Also, if you have more than 3 Werewolves, it will get tedious using Zoom's built-in chat feature because that only allows 1:1 communication. It would be best to move the Werewolves into a separate messaging tool like [Slack](slack.com).
+Once you get over 20 players, I recommend splitting into different groups or adding additional roles described in [Ultimate Werewolf Deluxe Edition](https://amzn.to/2z3yIUQ) (*affiliate link*). Also, if you have more than 3 Werewolves, it will get tedious using Zoom's built-in chat feature because that only allows 1:1 communication. It would be best to move the Werewolves into a separate messaging tool like [Slack](slack.com).
 
 ### Seer
 
@@ -162,3 +162,5 @@ The Narrator may allow the players to reveal their roles once the game is over.
 # Summary
 
 Werewolf is a fun game that you don't have to wait until you get people in one physical location to enjoy. By using Zoom, you can play the game remotely and still have fun!
+
+*Note: Some of the links in this post are affiliate links which will send a small commission to me if you use them to make purchases.*

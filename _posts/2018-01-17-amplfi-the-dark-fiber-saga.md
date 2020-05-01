@@ -16,7 +16,7 @@ Like a lot of people who work in tech, my home network is a gateway to the publi
 
 For my family, our home network is a wireless hotspot where my wife can sit on the coach using her work laptop and our kids can roam around the house on their phones and tablets watching YouTube videos, playing online games, and completing school assignments. 
 
-For me, our home network is a place where I can work remotely from my company's central office and also open ports to allow various services to work through the router. It's also a security system when I travel because I can almost feel like I'm still home by checking the various [network cameras](https://nest.com/cameras/nest-cam-iq-indoor/overview/) around the home and even get an alert when someone pushes the button on the [Ring doorbell](https://ring.com/) next to our front door.
+For me, our home network is a place where I can work remotely from my company's central office and also open ports to allow various services to work through the router. It's also a security system when I travel because I can almost feel like I'm still home by checking the various [network cameras](https://nest.com/cameras/nest-cam-iq-indoor/overview/) around the home and even get an alert when someone pushes the button on the [Ring doorbell](https://amzn.to/2YnXLwo) (*affiliate link*) next to our front door.
 
 I improved my home network in 2014, but it was beginning to show its age despite my upgrade to the highest consumer internet speed offered by Comcast. Here's the second floor of my house where my aged [Linksys ac6900](https://www.linksys.com/us/p/P-EA6900/) router valiantly tried to cover both floors and all corners of my house with WiFi (2 GHz and 5 GHz bands) from the central patch board and switch in a closet while also providing ethernet connectivity to several rooms:
 
@@ -30,7 +30,7 @@ So, the second floor, due to the close proximity of the Linksys router, wasn't a
 
 Again, the wireless image is just a graphical representation of the coverage of the Linksys router as it extended down to the first floor. The coverage in the center of the first floor wasn't too bad. So, guests hanging out in the Family room or eating in the dining room or breakfast area had a decent wireless experience. However, the master bedroom and master bath (called "Owners Retreat" and "Owners Bath" by the builder) had several areas where the WiFi signal from the Linksys router was weak or non-existent. Also, the Nest Cameras I had for the backyard ("Covered Porch") and garage experienced random outages due to poor connectivity to the Linksys router. 
 
-Furthermore, I had an [August smart lock](http://august.com/) on my front door (to the right of the Study) as well as the aforementioned Ring doorbell on my front porch, and they both experienced frequent drops. In fact, I purchased the [August Connect](http://august.com/products/august-connect-wifi-bridge/) to control the lock anywhere in the world, but it usually never worked which meant the lock could only be controlled while in Bluetooth range. I also purchased two [Ring Chimes](https://shop.ring.com/collections/accessories/products/chime-pro?variant=56549477835) (placed outside the Dining room on the first floor and Bathroom 2 upstairs) to improve the connectivity of the Ring doorbell since they bridged the wireless network.
+Furthermore, I had an [August smart lock](https://amzn.to/3bTXgOl) (*affiliate link*) on my front door (to the right of the Study) as well as the aforementioned Ring doorbell on my front porch, and they both experienced frequent drops. In fact, I purchased the [August Connect](http://august.com/products/august-connect-wifi-bridge/) to control the lock anywhere in the world, but it usually never worked which meant the lock could only be controlled while in Bluetooth range. I also purchased two [Ring Chimes](https://shop.ring.com/collections/accessories/products/chime-pro?variant=56549477835) (placed outside the Dining room on the first floor and Bathroom 2 upstairs) to improve the connectivity of the Ring doorbell since they bridged the wireless network.
 
 I use the Study as my home office, and it has an ethernet jack so I never had a problem using a wired connection. However, using my phone and iPad on WiFi in my office wasn't a great experience.
 
@@ -47,7 +47,7 @@ While adding fiber generally improved the speed of wired connections from about 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m due for a new home router, and Google WiFi looks promising. But, the need for a constant connection to Google is odd. And, with CES around the corner, I can wait a few more weeks.</p>&mdash; Anjuan (@anjuan) <a href="https://twitter.com/anjuan/status/949854225978228736?ref_src=twsrc%5Etfw">January 7, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-As I suggested in this tweet, one of the mesh routers that came up again and again in my research was [Google WiFi](https://store.google.com/product/google_wifi). However, I never buy new equipment when CES is so close, and I decided to wait. This tweet generated a bit of discussion leading to this comment by [Dan North](https://dannorth.net/):
+As I suggested in this tweet, one of the mesh routers that came up again and again in my research was [Google WiFi](https://amzn.to/2KRRu44) (*affiliate link*). However, I never buy new equipment when CES is so close, and I decided to wait. This tweet generated a bit of discussion leading to this comment by [Dan North](https://dannorth.net/):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You should check out <a href="https://twitter.com/troyhunt?ref_src=twsrc%5Etfw">@troyhunt</a>’s home WiFi setup. Not the cheapest but he’s super stoked about it. He’s blogged about it at length.</p>&mdash; Dan North (@tastapod) <a href="https://twitter.com/tastapod/status/949864996305031168?ref_src=twsrc%5Etfw">January 7, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -59,7 +59,7 @@ Troy himself replied shortly thereafter:
 
 I had never heard of [Ubiquiti](https://www.ubnt.com/), but Troy's posts are **thorough**. You really should follow the [link Troy posted above](https://www.troyhunt.com/tag/ubiquiti/) because he's a great writer and a technical expert.
 
-I spent a day reading Troy's posts and began researching Ubiquiti's products when I was contacted by the company with an offer to try their [AmpliFi HD](https://www.amplifi.com/) home WiFi system. They also offered to send me their [UniFi system](https://unifi-hd.ubnt.com/), but, based on my research, AmpliFi HD would be a better choice for my home. I provided my mailing address, and the AmpliFi HD box showed up a few days later. I went upstairs to set it up.
+I spent a day reading Troy's posts and began researching Ubiquiti's products when I was contacted by the company with an offer to try their [AmpliFi HD](https://amzn.to/3bXTgMM) (*affiliate link*) home WiFi system. They also offered to send me their [UniFi system](https://unifi-hd.ubnt.com/), but, based on my research, AmpliFi HD would be a better choice for my home. I provided my mailing address, and the AmpliFi HD box showed up a few days later. I went upstairs to set it up.
 
 {% include image.html url="/images/amplifi-the-dark-fiber-saga-as-is-patch-box.jpg" alt="patch box before" caption="The patch box and switch before the AmpliFi HD" width=800 align="center" %}
 
@@ -192,3 +192,5 @@ Before I share my final thoughts about the AmpliFi HD system, remember that this
 If you have a home the size of mine or smaller and don't use a fiber service, then I think the AmpliFi HD system is a solid solution. It's easy to use and will expand your wireless coverage.
 
 If you're trying to cover a structure with a larger footprint than my house and use a fiber service, then know that you'll have to make some pretty significant tradeoffs to use the AmpliFi HD system. I was able to workaround what was, in my opinion, the main tradeoff (the loss of a guest network hosted by the AmpliFi HD router), and the system works to my satisfaction.
+
+*Note: Some of the links in this post are affiliate links which will send a small commission to me if you use them to make purchases.*

@@ -130,7 +130,7 @@ I'm currently using the first generation Apple Pencil, and I'd like to eventuall
 
 ### Apple Magic Keyboard
 
-I've also been keeping my eye on [Apple's Magic Keyboad] (https://amzn.to/35kWgQO)(*affiliate link*). I think it's way too expensive now, but I could see myself buying one when the price eventually goes down. It would be nice to have a keyboard, but I would primarily use it as a protective case and stand for the iPad.
+I've also been keeping my eye on [Apple's Magic Keyboad](https://amzn.to/35kWgQO) (*affiliate link*). I think it's way too expensive now, but I could see myself buying one when the price eventually goes down. It would be nice to have a keyboard, but I would primarily use it as a protective case and stand for the iPad.
 
 ## Finding What Works for You
 

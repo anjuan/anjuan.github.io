@@ -32,21 +32,17 @@ One key part of my remote office setup that you won't see in it is the fiber ser
 
 ## The Door from Inside the Office
 
-I purchased a rod and curtains to provide another layer of sound proofing. The doors are more than ten feet high so I had to order really tall curtains.
+* A - Curtain Rod
+* B - Curtain Rod fasteners
+* C - Curtain for privacy and sound proofing
+* D - Door that closes
+* E- Seals on bottom of door
 
-* Door that closes
-* Seals on bottom of door
-* Curtain for privacy and sound proofing
-* Curtain Rod
-* Curtain Rod fasteners
-* Fiber internet (link to AT&T)
-
-* Curtains
-* Rod
+I purchased a rod and curtains to provide another layer of sound proofing. The doors are more than ten feet high so I had to order really tall curtains. I also installed seals on the bottom of the door to help keep out sound from the rest of the house.
 
 ## East Wall
 
-This is the area in my office where I spend the most time.
+This is the area in my office where I spend the most time. It's here where I take my calls and also do my work.
 
 ### Desk Area
 
@@ -58,37 +54,64 @@ This is the area in my office where I spend the most time.
 * Trash can
 * Wife's Wedding Dress picture
 
+My desk area has a lot of the things that make it easier to get through my work day. I spend the vast majority of my work day standing (hence the anti-fatigue mat), but I wanted the option to sit for the brief times when sitting in a chair made a task easier. I initially looked for those fancy standing desks that could raise or lower at the touch of a button. However, I had a budget to use to build out my home office, and that would have taken a lot of space in the budget that could be used for other things. So, I decided to go with a far more economical approach. I purchased two coffee tables from Walmart that I put on top of my existing desk, and I set up my primary laptop and monitors on top of those tables. That's the set of equipment I use when standing. I can also sit down in the chair and use my secondary laptop and monitor when sitting.
+
+The map on the wall is a backdrop for framing myself in Zoom calls, and the picture of my wife in her wedding dress is just a lovely reminder of how happy I was when we got married. The boomerang on top of the picture is a gift from a co-worker who went to Australia several years ago.
+
+The circular desk beneath my wife's picture is a place to put random items that I don't want to put on the upper or lower desks.
+
 ### Upper Desk
 
-* Monitors
-* Macbook Pro Stand
+* O-Ring Light
+* Dell Monitor
+* Logitech Brio Webcam
+* MacBook Pro Stand
+* Wireless Charging Pad (normally for my phone)
 * The MacBook Pro is hard wired via Ethernet cable to make maximum use of the fiber internet
-* DIY Risers
+* HP Monitor
+* Android
+* Yeti Mic
+* Google Home Mini
+* Mailchimp Mascot
+* Headphones
+* Headphone stand
+* Old speakers used as risers for monitors
+* iPad
+* IPad Stand
+* Makeshift Mic riser
+* Macally keyboard with numeric keypad
+* DIY Risers (set of old speakers)
 * Mat on top of desk (to protect the desk)
-* Microphone
-* Headset
-* Webcam
-* O-Ring Light (and bench it stands on)
-* USB-extender
-* iPad stand
+
+
+The upper desk is my command center. I use my MacBook Pro as a hub that drives most of the other equipment on my desk. The two monitors provide enough surface area for me to feel productive. I typically use the left monitor for personal productivity items like my task list, the MacBook screen in the middle is where I put the things I'm currently working on, and the right monitor is usually reserved for communications like email, Slack, Jira, etc.
+
+The keys to the clear sound and crisp picture I present on video calls are the O-ring light, Logitech Brio webcam, Yeti microphone, and Corsair headsets. They provide great lighting as well as strong my audio and video signals. While the MacBook has a built-in webcam, microphone, and speakers, it can't match the experience of using separate dedicated devices.
+
+The iPad is nice for quickly pulling up things like my personal calendar, pulling up my Nest cameras if I hear something outside of the office, or checking personal email.
+
+I also have little "flair" items like the Android and MailChimp mascots. I'm heavily in the Android ecosystem, and I once gave a talk at the MailChimp office in Atlanta so these are just nice personal items.
 
 ### Lower Desk
 
-* Monitor
+
 * Scanner
+* Monitor
+* MacBook
 * Printer
+* USB extender
 * Mat on top of desk (to protect the desk)
-
-* External Drives
-
 * Shredder
-* Wireless Charging Pad
-* Google Home Mini
+
+
+I rarely use the lower desk since I stand for most of the day. However, it provides a secondary MacBook as well as an external monitor.
+
 
 ### Behind Desk
 
 * USB-C extender
 * Bench
+* External Drives
 
 ## South Wall (Coffee/Snack Area)
 
@@ -96,6 +119,8 @@ This is the area in my office where I spend the most time.
 * K-Cup holder (sorry, single use pods are very useful)
 * Game of Microphones (speaker badge trophies)
 * Diplomas
+
+The South Wall has what I consider to be my break area. I have a coffee machine to properly caffeinate myself throughout the day, healthy snacks, etc. I've thought about getting a water cooler, but that may be going too far.
 
 ## West Wall (Library and Kitchen)
 

@@ -73,13 +73,14 @@ tr:nth-child(even) {background: #CCC}
 | Ⓔ     |   Seals on bottom of door               |
 
 <br>
-In addition to having a door that could be closed, I wanted to sound proof my office as much as possible. My office is near the front door and not too far from the dining room and living room. So, at any given moment during the work day, one or more members of my family could be just outside the office or watching TV in the living room. 
 
-I purchased a rod and curtains to provide another layer of sound proofing. The doors are more than ten feet high so I had to order really tall curtains. I also installed seals on the bottom of the door to help keep out sound from the rest of the house.
+In addition to having a door that could be closed, I wanted to sound proof my office as much as possible. My office is near the front door and not too far from the dining room and living room. So, at any given moment during the work day, one or more members of my family could be just outside the office or watching TV in the living room. I found complicated (and expensive) ways to sound proof the door, but I went with an economical and effective solution.
+
+I purchased a rod and curtains to provide another layer of sound proofing. The doors are more than ten feet high so I had to order really tall curtains. I also installed seals on the bottom of the door to help keep out sound from the rest of the house. While this setup doesn't block all external sound from entering the office, it does provide a much quieter environment in which to work.
 
 ## East Wall
 
-This is the area in my office where I spend the most time. It's here where I take my calls and also do my work.
+The area in front of the east wall is where I spend most of my time in the office. It's here where I take my calls and also do my work.
 
 ### Desk Area
 
@@ -123,14 +124,13 @@ The circular desk beneath my wife's picture is a place to put random items that 
 
 The upper desk is my command center. I use my MacBook Pro as a hub that drives most of the other equipment on my desk. The two monitors provide enough surface area for me to feel productive. I typically use the left monitor for personal productivity items like my task list, the MacBook screen in the middle is where I put the things I'm currently working on, and the right monitor is usually reserved for communications like email, Slack, Jira, etc.
 
-The keys to the clear sound and crisp picture I present on video calls are the O-ring light, Logitech Brio webcam, Yeti microphone, and Corsair headsets. They provide great lighting as well as strong my audio and video signals. While the MacBook has a built-in webcam, microphone, and speakers, it can't match the experience of using separate dedicated devices.
+The equipment that contributes the most to the clear sound and crisp picture on my video calls are the O-ring light, Logitech Brio webcam, Yeti microphone, and Corsair headsets. They provide great lighting as well as strong my audio and video signals. While the MacBook has a built-in webcam, microphone, and speakers, it can't match the experience of using separate dedicated devices.
 
 The iPad is nice for quickly pulling up things like my personal calendar, pulling up my Nest cameras if I hear something outside of the office, or checking personal email.
 
 I also have little "flair" items like the Android and MailChimp mascots. I'm heavily in the Android ecosystem, and I once gave a talk at the MailChimp office in Atlanta so these are just nice personal items.
 
 ### Lower Desk
-
 
 * Scanner
 * Monitor
@@ -141,8 +141,7 @@ I also have little "flair" items like the Android and MailChimp mascots. I'm hea
 * Shredder
 
 
-I rarely use the lower desk since I stand for most of the day. However, it provides a secondary MacBook as well as an external monitor.
-
+I rarely use the lower desk since I stand for most of the day. However, it provides a secondary MacBook as well as an external monitor. I also have a scanner for the odd times I need to scan a picture or document and a laser printer. I also have a mat on top of the desk because it's easy to clean. I try to avoid eating in my office, but, when I do, I usually do it on the lower desk. So, the mat is a great way to protect the desk from spills and stains.
 
 ### Behind Desk
 
@@ -150,19 +149,30 @@ I rarely use the lower desk since I stand for most of the day. However, it provi
 * Bench
 * External Drives
 
+There are a fews that you can't easily see from the front of the desk. They are a USB extender that I use to drive the various devices that plug into the MacBook on the upper desk. I also have a couple of external hard drives that I use for backing up both MacBooks. There's also a bench that I use for holding the multi-outlets I use for plugging in all of my office equipment.
+
 ## South Wall (Coffee/Snack Area)
 
+* Diplomas
+* Game of Microphones (speaker badge trophies)
 * Coffee Machine
 * K-Cup holder (sorry, single use pods are very useful)
-* Game of Microphones (speaker badge trophies)
-* Diplomas
+* Memory Alpha Case
+* Memory Alpha Folders
 
-The South Wall has what I consider to be my break area. I have a coffee machine to properly caffeinate myself throughout the day, healthy snacks, etc. I've thought about getting a water cooler, but that may be going too far.
+The South Wall has what I consider to be my break area. The top of the wall have the various degrees my wife and I have earned over the years. I also have a collection of items (most badges) I've collected from being a speaker.
+
+I have a coffee machine to properly caffeinate myself throughout the day, healthy snacks, etc. I've thought about getting a water cooler, but that may be going too far.
+
+The tray with the folders are, to borrow from Star Trek, my own personal Memory Alpha. Each slot stands for a year, and they hold letters from 1993 to 2003. Those were the years when I received a lot of correspondence starting from my college years to my second year of marriage. I'm slowly sorting and placing those envelopes and letters into those folders. Letters from this decade are particularly precious to me because I stopped getting letters afterwards due to the near ubiquitous use of email for correspondence.
 
 ## West Wall (Library and Kitchen)
 
 * Windows
 * Statues
+1. Thought
+2. Christ
+3. Glory
 * Power Ups
 1. Engagement Photo
 2. Wedding Photo
@@ -170,15 +180,6 @@ The South Wall has what I consider to be my break area. I have a coffee machine 
 * Book Shelves
 * Microwave
 * Mini-fridge
-
-
-
-
-* Reminder of ways people have tried to find meaning
-
-1. Thought
-2. Christ
-3. Glory
 
 The West Wall has my library and kitchen. The top of the wall has those three windows that my wife wisely pushed to get added to the build of our home. I have a statue in each windows that I initially randomly put in each window. However, I know think of them as symbols of three ways that humanity has tried to find meaning in life: thought, religion, and glory.
 
@@ -196,8 +197,9 @@ The three bookshelves have a hodgepodge of books. They are in desperate need of 
 * Laptop Tray
 * Dustbuster
 
+The north wall is my nook where I try to relax with a good book when I can. I used a rod and curtain to physically separate the space from the rest of the room. This curtain also provides some soundproofing if there's noise coming from the front of the house.
 
-
+Given recent stay-at-home orders, my wife usually works here which is a great way for us to spend time together!
 
 ## The Essentials
 

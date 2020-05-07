@@ -67,8 +67,6 @@ tr:nth-child(even) {background: #CCC}
 | 19	         |      171               |
 | 20	         |      190               |
 
-
-
 For example, if three people are added to the seven person Scrum team (a 30% increase in team size), you more than double the number of communication channels. If you double the seven person Scrum Team to 14 people, you more than quadruple the number of communication channels.
 
 Small teams are better positioned to efficiently and effectively manage Scrum events like Sprint Planning, the Daily Standups, the Sprint Review, and the Sprint Retrospective. Having a small team size increases the likelihood the team communication is focused and fast decisions can be made.

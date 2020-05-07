@@ -16,9 +16,11 @@ I've worked remotely on and off for several years, and I've been lucky to work f
 
 I'm in Zoom meetings for work several hours each day, and I also do a fair amount of speaking at virtual conferences. That means I appear on other people's screens quite often, and I regularly get asked about my remote office setup. The feedback I've generally received is that my audio and video are notable for their clarity and crispness. This high quality is due to the investments I've made in my home office, and I'm going to share what I think makes my office so great.
 
+I should add that I've worked for a few companies that provided a stipend for kitting out my remote office. So, I'm fully aware of how much financial privilege that's provided to me. However, I hope this article gives everyone at least an idea of the types of gear that can upgrade your remote experience and budgets can be adjusted accordingly.
+
 ## My Office Layout
 
-{% include image.html url="/images/mclaran-first-floor.gif" alt="McLaran Layout" caption="My remote office is in the room marked 'Study' on this floorplan." %}
+{% include image.html url="/images/mclaran-first-floor.gif" alt="McLaran Layout" caption="My remote office is in the room marked 'Study' on this floor plan." %}
 
 My wife and I purchased our home in 2014, and it came with a nice office on the first floor. Two things to note about the floor plan above is that my house faces north and the actual build of our house is a mirror image. So, the north side of my house is at the bottom of the image, and you take a right turn from the main entrance to enter my office.
 
@@ -26,17 +28,52 @@ The builder's floor plan called for the West Wall of the study to just be a regu
 
 ## Outside the Office
 
+{% include image.html url="/images/office-from-the-outside.jpg" alt="Outside Office" caption="This is the view of my home office from the outside." %}
+
 The first thing to understand about my home office is that it's a totally separate room from the rest of the house. This is key because that means I have a door that I can close. That means I can not only have a barrier to keep out noise from the rest of the house, I can also signify to my family that I'm working (i.e., by closing the door).
 
 One key part of my remote office setup that you won't see in it is the fiber service from AT&T that provides internet connectivity to my entire home. Since my home has several Nest security cameras that constantly use data and we use several services that require internet access, I made the decision a long time ago to purchase a fast connection.
 
+<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td, th {
+    border: 3px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(odd) {background: #FFF}
+tr:nth-child(even) {background: #CCC}
+
+
+</style>
+</head>
+<body>
+
+</body>
+</html>
+
 ## The Door from Inside the Office
 
-* A - Curtain Rod
-* B - Curtain Rod fasteners
-* C - Curtain for privacy and sound proofing
-* D - Door that closes
-* E- Seals on bottom of door
+{% include image.html url="/images/office-door.jpg" alt="Office Door" caption="The door as viewed from inside my office." %}
+
+| Letter | Description |
+|:-----:|:--------------------|
+| Ⓐ     |  [Kenney Beckett 5/8" Standard Decorative Curtain Rod, 48-86", Pewter](https://amzn.to/2WzrZtL)               |
+| Ⓑ     |   Curtain Rod fasteners               |
+| Ⓒ     |   Curtain for privacy and sound proofing               | 
+| Ⓓ     |   Door that closes               |
+| Ⓔ     |   Seals on bottom of door               |
+
+<br>
+In addition to having a door that could be closed, I wanted to sound proof my office as much as possible. My office is near the front door and not too far from the dining room and living room. So, at any given moment during the work day, one or more members of my family could be just outside the office or watching TV in the living room. 
 
 I purchased a rod and curtains to provide another layer of sound proofing. The doors are more than ten feet high so I had to order really tall curtains. I also installed seals on the bottom of the door to help keep out sound from the rest of the house.
 
@@ -124,14 +161,18 @@ The South Wall has what I consider to be my break area. I have a coffee machine 
 
 ## West Wall (Library and Kitchen)
 
-* Book Shelves
-* Mini-fridge
-* Microwave
-* Encouragement
-
+* Windows
+* Statues
+* Power Ups
 1. Engagement Photo
 2. Wedding Photo
 3. Craft Hand drawn portrait
+* Book Shelves
+* Microwave
+* Mini-fridge
+
+
+
 
 * Reminder of ways people have tried to find meaning
 
@@ -139,12 +180,27 @@ The South Wall has what I consider to be my break area. I have a coffee machine 
 2. Christ
 3. Glory
 
+The West Wall has my library and kitchen. The top of the wall has those three windows that my wife wisely pushed to get added to the build of our home. I have a statue in each windows that I initially randomly put in each window. However, I know think of them as symbols of three ways that humanity has tried to find meaning in life: thought, religion, and glory.
+
+The top of the bookshelves have what I call "power ups". These are things that I can look at from my desk when I need some positive vibes. They pictures of my wife and I from our engagement photos and on our wedding day. I also have a hand drawn portrait given to be as a gift when I spoke at the Craft Conference in Budapest a few years ago.
+
+The three bookshelves have a hodgepodge of books. They are in desperate need of organizing, but I always have other priorities in my list of things to do. I occasionally turn my webcam around and do video meetings where a bookshelf would make a better backdrop than a map.
+
 ## North Wall (Nook)
 
-* Curtain for privacy and sound proofing
 * Curtain Rod
 * Curtain Rod fasteners
-* Coach
-* Room Lamp
-* Dustbuster
+* Curtain for privacy and sound proofing
+* Chais Lounge
+* Floor Lamp
 * Laptop Tray
+* Dustbuster
+
+
+
+
+## The Essentials
+
+I put a lot of effort into building out my home office for remote work, but I can boil it down to three essentials. First, have a door that can close if at all possible. This gives you a way to really focus on your work without distractions. Second, have dedicated devices for your audio and video. While most laptops come with a built-in webcam, microphone, and speakers, you'll get a much better experience if you purchase good quality stand-alone equipment and plug them into your computer. Finally, invest in good lighting. You don't have to buy a fancy O-ring light. Arranging a few household lamps around your laptop can do wonders.
+
+*Note: Most of the links in this post are affiliate links which will send a small commission to me if you use them to make purchases.*

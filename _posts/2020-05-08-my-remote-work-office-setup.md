@@ -14,7 +14,7 @@ comments: true
 
 I've worked remotely on and off for several years, and I've been lucky to work for a fully remote company over the past nine months. It's glorious, and I don't think I can ever be convinced to work in a corporate office ever again.
 
-I'm in Zoom meetings for work several hours each day, and I also do a fair amount of speaking at virtual conferences. That means I appear on other people's screens quite often, and I regularly get asked about my remote office setup. The feedback I've generally received is that my audio and video are notable for their clarity and crispness. This high quality is due to the investments I've made in my home office, and I'm going to share what I think makes my office so great.
+I'm in Zoom meetings for work several hours each day, and I also do a fair amount of speaking at virtual conferences. That means I appear on other people's screens quite often, and I regularly get asked about my remote office setup. The feedback I've generally received is that my audio and video are notable for their clarity and crispness. This high quality is due to the investments I've made in building out my home office, and I'm going to share what I think makes my configuration so great.
 
 I should add that I've worked for a few companies that provided a stipend for kitting out my remote office. So, I'm fully aware of how much financial privilege that's provided to me. However, I hope this article gives everyone at least an idea of the types of gear that can upgrade your remote experience and budgets can be adjusted accordingly.
 

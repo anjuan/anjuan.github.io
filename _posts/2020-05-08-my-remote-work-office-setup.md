@@ -211,6 +211,8 @@ The top of the bookshelves have what I call "power ups". These are things that I
 
 The three bookshelves have a hodgepodge of books. They are in desperate need of organizing, but I always have other priorities in my list of things to do. I occasionally turn my webcam around and do video meetings where a bookshelf would make a better backdrop than a map.
 
+The microwave and mini-fridge are when I want to eat something more substantial than what I can get from the snack area. This usually includes things like reheating leftovers from last night's dinner or eating foods that require refrigeration.
+
 ## North Wall (Nook)
 
 {% include image.html url="/images/remote-office-nook.jpg" alt="Nook" caption="The Nook is meant to be a place to relax and recharge." %}

@@ -123,7 +123,7 @@ The upper desk is my command center. I use my MacBook Pro as a hub that drives m
 
 By the way, I used an old pair of speakers to elevate the Dell and HP monitors. I've found that having all three monitors at eye level does wonders for my neck since I don't have to look down at them while working. This also puts the webcam at a perfect position for video calls since it allows me to naturally look like I'm making eye contact with the attendees.
 
-The equipment that contributes the most to the clear sound and crisp picture on my video calls are the ring light, Logitech Brio webcam, Yeti microphone, and Corsair headset. They provide great lighting as well as strong my audio and video signals. While the MacBook has a built-in webcam, microphone, and speakers, it can't match the experience of using separate dedicated devices.
+The equipment that contributes the most to the clear sound and crisp picture on my video calls are the ring light, Logitech Brio webcam, Yeti microphone (which is positioned right in front of my mouth but just out of view from the webcam), and Corsair headset. They provide great lighting as well as strong my audio and video signals. While the MacBook has a built-in webcam, microphone, and speakers, it can't match the experience of using separate dedicated devices.
 
 The iPad is nice for quickly pulling up things like my personal calendar, viewing my Nest cameras if I hear something outside of the office, or checking personal email.
 

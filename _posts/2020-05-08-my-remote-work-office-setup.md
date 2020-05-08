@@ -12,7 +12,7 @@ comments: true
 
 {% include image.html url="/images/remote-office-header.jpg" alt="Anjuan on Zoom" caption="My remote office setup helps me do my best work no matter where the other members of my team are located." %}
 
-I've worked remotely on and off for several years, and I've been lucky to work for a fully remote company over he past nine months. It's glorious, and I don't think I can ever be convinced to work in a corporate office ever again.
+I've worked remotely on and off for several years, and I've been lucky to work for a fully remote company over the past nine months. It's glorious, and I don't think I can ever be convinced to work in a corporate office ever again.
 
 I'm in Zoom meetings for work several hours each day, and I also do a fair amount of speaking at virtual conferences. That means I appear on other people's screens quite often, and I regularly get asked about my remote office setup. The feedback I've generally received is that my audio and video are notable for their clarity and crispness. This high quality is due to the investments I've made in my home office, and I'm going to share what I think makes my office so great.
 

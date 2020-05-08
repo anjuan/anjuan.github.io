@@ -10,7 +10,7 @@ excerpt: "Here's the lowdown on my remote office setup.."
 comments: true
 ---
 
-{% include image.html url="/images/anjuan-zoom.png" alt="Anjuan on Zoom" caption="If you've been in a meeting with me, you're familiar with this view in Zoom." %}
+{% include image.html url="/images/remote-office-header.jpg" alt="Anjuan on Zoom" caption="My remote office setup helps me do my best work no matter where the other members of my team are located." %}
 
 I've worked remotely on and off for several years, and I've been lucky to work for a fully remote company over he past nine months. It's glorious, and I don't think I can ever be convinced to work in a corporate office ever again.
 
@@ -202,6 +202,10 @@ The north wall is my nook where I try to relax with a good book when I can. I us
 Given recent stay-at-home orders, my wife usually works here which is a great way for us to spend time together!
 
 ## The Essentials
+
+{% include image.html url="/images/remote-office-zoom.png" alt="Anjuan on Zoom" caption="Master the essentials of remote work, and you'll present your best self on video calls." %}
+
+
 
 I put a lot of effort into building out my home office for remote work, but I can boil it down to three essentials. First, have a door that can close if at all possible. This gives you a way to really focus on your work without distractions. Second, have dedicated devices for your audio and video. While most laptops come with a built-in webcam, microphone, and speakers, you'll get a much better experience if you purchase good quality stand-alone equipment and plug them into your computer. Finally, invest in good lighting. You don't have to buy a fancy O-ring light. Arranging a few household lamps around your laptop can do wonders.
 

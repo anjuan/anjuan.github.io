@@ -14,7 +14,7 @@ comments: true
 
 # Paying Speakers
 
-*Note: I drafted this way before the current coronovirus global pandemic. Given the devastation this has wrecked on the global conference market, I thought about shelving it for better days. However, I think that events now have a heavy incentive to become virtual experiences. That means that finding creative way to reward speakers will be more important than ever since travel will be less of a perk for the foreseeable future.* 
+*Note: I drafted this way before the current coronavirus global pandemic. Given the devastation this has wrecked on the global conference market, I thought about shelving it for better days. However, I think that events now have a heavy incentive to become virtual experiences. That means that finding creative way to reward speakers will be more important than ever since travel will be less of a perk for the foreseeable future.* 
 
 
 I've been fortunate to develop my public speaking to the level where I regularly receive some form of cash compensation for my presentations. Speakers engage in a large amount of labor including creating compelling talks, rehearsing, taking on the stress of travel, and then presenting on stage in a way that will keep the attention of attendees. Since speakers often drive ticket sales, it makes sense to share a portion of that revenue with the people who create valuable content for the event.

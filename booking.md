@@ -10,7 +10,7 @@ I’m an experienced and passionate speaker who would love to speak or run a wor
 
 ## My First Duty
 
-The first duty of a speaker is to provide a high quality experience for the audience. I take this duty very seriously. My job is operate at a high level of excellence while I'm on stage and in all interactions. I will be fully present whether I'm on stage, sitting on a panel, or mingling with attendees. This is the trust into which I enter when I agree to take part in your event.
+The first duty of a speaker is to provide a high quality experience for the audience. I take this duty very seriously. My job is to operate at a high level of excellence while I'm on stage and in all interactions. I will be fully present whether I'm on stage, sitting on a panel, or mingling with attendees. This is the trust into which I enter when I agree to take part in your event.
 
 ## What I Offer
 

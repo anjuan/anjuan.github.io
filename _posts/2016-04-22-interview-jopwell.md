@@ -1,5 +1,5 @@
 ---
-title: 'Interview with Jopwell'
+title: 'Interview with Jopwell on Being a Software Project Manager'
 author: anjuan
 layout: post
 date: "2016-04-22"

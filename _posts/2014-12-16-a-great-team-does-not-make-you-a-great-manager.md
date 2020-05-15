@@ -12,6 +12,8 @@ comments: true
 
 {% include image.html url="/images/todd-kent-onnJOfF-okU-unsplash.jpg" alt="Auto Repair Shop" caption="Photo by todd kent on Unsplash" %}
 
+https://docs.google.com/document/d/15Vy4DyOYkfBKjJXLkTquexP1pqN41bSisEmtrMC3wSE/edit?usp=sharing
+
 I routinely hear performance reviews from my fellow managers that sound something like this, "This developer is doing a horrible job. I constantly have to give them guidance, monitor their performance, and make corrections to their deliverables."
 
 My response is usually, "Yes, but what are you doing to manage their performance to a higher level?"

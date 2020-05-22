@@ -14,7 +14,7 @@ comments: true
 
 Organizations invest vast amounts of time and money into meetings, but they are often ineffective events with no agenda that simply result in a plan to have another meeting. Since most people have to stop working to attend meetings, countless hours of lost productivity are spent each week in meetings.
 
-We can more out of meetings by doing less. By simplifying meetings, we can make them useful events that don't last any longer than necessary and end with things getting done. This requires effectively planning, conducting, and closing meetings.
+We can get more out of meetings by doing less. By simplifying meetings, we can make them useful events that don't last any longer than necessary and end with things getting done. This requires effectively planning, conducting, and closing meetings.
 
 ## The Best Meeting is Often No Meeting
 

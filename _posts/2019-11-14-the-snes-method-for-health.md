@@ -31,7 +31,7 @@ Using the SNES Method helps me optimize the four primary components of my physic
 
 This is the first priority because nothing else you do can really compensate for a lack of sleep. It's vital to optimize the amount and quality of your sleep. I've found that I need at least 7 hours of sleep each night, and I really thrive when I can get 8 hours.
 
-I've left companies to find a role that lets be get enough sleep. The ability to work remotely has been the biggest game changer is improving the amount of sleep I get. Not having to spend hours commuting opened up time in my schedule to let me spend time with my family after work and also get enough sleep. I feel so much more present and aware now that I've made this change.
+I've left companies to find a role that lets me get enough sleep. The ability to work remotely has been the biggest game changer is improving the amount of sleep I get. Not having to spend hours commuting opened up time in my schedule to let me spend time with my family after work and also get enough sleep. I feel so much more present and aware now that I've made this change.
 
 In addition to improving the quantity of my sleep, I've also made improvements to the quality of my sleep. I avoid working in bed and try to see my bed solely as a place to sleep. I also try to avoid looking at a screen right before I go to sleep. Ideally, the last thing I do before going to sleep is chatting with my wife for a few minutes in the dark as we lay in bed. Doing this has helped me wake up feeling refreshed and feeling like I actually got a good nights sleep.
 

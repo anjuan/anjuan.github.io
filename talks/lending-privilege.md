@@ -47,7 +47,7 @@ The photos I used in my slides for Bea, Elle, and Em came from the [Women of Col
 {% include youtubePlayer.html id=page.youtubeId3 %}
 <br>
 
-**[GitHub Universe San Francisco](https://www.youtube.com/watch?v=lOZdAt-hseA&feature=youtu.be)**
+**[GitHub Universe San Francisco](https://youtu.be/ywxqUJQaoNI)**
 {% include youtubePlayer.html id=page.youtubeId4 %}
 <br>
 
@@ -59,7 +59,7 @@ The photos I used in my slides for Bea, Elle, and Em came from the [Women of Col
 {% include youtubePlayer.html id=page.youtubeId6 %}
 <br>
 
-**[GitHub CodeConf Los Angeles](https://www.youtube.com/watch?v=C4hVDBBJ6wI)**
+**[GitHub CodeConf Los Angeles](https://youtu.be/FVEY8p7vk0s)**
 {% include youtubePlayer.html id=page.youtubeId7 %}
 <br>
 

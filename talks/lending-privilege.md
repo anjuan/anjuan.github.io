@@ -5,10 +5,10 @@ permalink: /talks/lending-privilege/
 youtubeId1: hyiMathkUrQ
 youtubeId2: 1K8Gz7fMevo
 youtubeId3: L0cSfzBuhWo
-youtubeId4: lOZdAt-hseA
+youtubeId4: ywxqUJQaoNI
 youtubeId5: X-Bvl5wkBdg
 youtubeId6: oUWw6h-mi0o
-youtubeId7: C4hVDBBJ6wI
+youtubeId7: FVEY8p7vk0s
 ---
 
 {% include image.html url="/images/lending-privilege3.jpg" alt="Stretch" caption="Giving my Lending Privilege talk in Budapest at the Stretch leadership conference." %}

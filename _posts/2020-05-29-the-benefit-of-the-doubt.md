@@ -5,7 +5,7 @@ layout: post
 date: "2020-05-28"
 permalink: /blog/the-benefit-of-the-doubt/
 categories:
-  - Work
+  - Leadership
 excerpt: "The are reflections on a few times I've been given the benefit of the doubt and ways I can apply it to my work."
 comments: true
 ---

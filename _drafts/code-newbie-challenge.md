@@ -82,8 +82,4 @@ It was harder than I thought to find a good project type blog post to analyze. A
   2. **Teach the tech:** The article was written more from the standpoint of a founder, and I would have liked more technical detail.
   3. **Mention the metrics:** The author described project achievements like making the Top Paid category in the App Store, but I would include more internal and external metrics used to track the success of the project.
 
-
-This concludes my first assignment in the Blog More #CNC2018 challenge! If my intuition is correct, then I'm looking forward to writing my own tutorial, explainer, and project blog posts in future missions!    
-
-
-
+This concludes my first assignment in the Blog More #CNC2018 challenge! If my intuition is correct, then I'm looking forward to writing my own tutorial, explainer, and project blog posts in future missions!

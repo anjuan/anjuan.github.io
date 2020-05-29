@@ -42,7 +42,7 @@ We arrived, and I exited the taxi. The taxi drove away, and I rang the buzzer be
 
 He looked and let me know that I was actually quite far from the meetup location. He offered to give me a ride. I hesitated because I was alone in a foreign land, but I thought that waiting for another taxi would take too long. I sat in the passenger seat, and he drove the ten minutes it took to get to the meetup. We chatted during the ride, and he said he liked the chance to practice his English with an American. I thanked him, exited the car, and went in to a very good session.
 
-## Doubting Guilt
+## The Benefits of Doubting Guilt
 
 In both of these examples, the men involved gave me the benefit of the doubt. They assumed I was a good person and lent me their assistance when I had nothing to offer in return. I was presumed innocent which freed them to see me as a fellow human who needed help.
 

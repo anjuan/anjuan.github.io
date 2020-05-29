@@ -39,8 +39,8 @@ List blog posts grouped by year.
     {% assign year = y %}
     <h2 class="blogyear">{{ y}}</h2>
   {% endif %}
-<li class="archiveposturl"><span><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span><br/>
-<span class = "postlower"><strong>Author:</strong> {{post.author}} 
+<li class="archiveposturl"><span><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span><br/> {{ post.excerpt }} <br/>
+<span class = "postlower"> 
 <strong>Category:</strong>  {% if post.categories %}
  
   {% for cat in post.categories %}

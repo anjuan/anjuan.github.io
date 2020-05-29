@@ -6,7 +6,7 @@ date: "2020-05-28"
 permalink: /blog/the-benefit-of-the-doubt/
 categories:
   - Leadership
-excerpt: "The are reflections on a few times I've been given the benefit of the doubt and ways I can apply it to my work."
+excerpt: "This is my reflection of the term 'benefit of the doubt' and how I use the concept to lead my teams."
 comments: true
 ---
 

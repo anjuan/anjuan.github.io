@@ -55,4 +55,4 @@ Throughout the history of America, Anti-Racists have called America out on the d
 
 However, justice is still broken in America. George Floyd is just one name in a long list of unarmed Black Americans who have been killed by the police. In addition to criminal reform, we need reform in education, healthcare, employment, and all levels of government policy. If we want to reconfigure America so that racism is no longer the default setting, then it will take more Anti-racists dedicated to creating a system of justice.
 
-I'm an Anti-Racist, and I hope you'll be an Anti-Racist, too.
+I'm an Anti-Racist, and I hope you'll become an Anti-Racist, too.

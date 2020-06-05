@@ -33,9 +33,9 @@ Given the truth of American history, it's no wonder that racism continues to pla
 [Black people are more likely to be killed in police chases than white people](http://www.usatoday.com/pages/interactives/blacks-killed-police-chases-higher-rate/), [Black judges have their rulings overturned more than white judges](https://www.npr.org/2016/07/12/485661659/research-black-judges-are-more-likely-to-be-reversed-on-appeal-than-white-judges), [Black people receive less anesthesia from doctors](https://www.nytimes.com/interactive/2019/08/14/magazine/racial-differences-doctors.html), 
 [cities rely more on fines if they have Black residents](https://www.vox.com/identities/2017/7/7/15929196/police-fines-study-racism), and [resumes with Black sounding names are less likely to get called for an interview than resumes with white names](https://cos.gatech.edu/facultyres/Diversity_Studies/Bertrand_LakishaJamal.pdf).
 
-**Racism pervades every aspect of the lives of Black Americans from how we're born to how we die.** I'm not arguing that every problem that plagues Black America is due to racism. We've made progress, and racism isn't everywhere. However, every Black American has to live every day knowing that racism could be anywhere. And, it's often fatal.
+**Racism pervades every aspect of the lives of Black Americans from how we're born to how we die.** I'm not arguing that every problem that plagues Black America is due to racism. We've made progress, and racism isn't everywhere. **However, every Black American has to live every day knowing that racism could be anywhere.** And, it's often fatal.
 
-So, when people argue that we should stop trying to end racism, they are arguing that we let the default setting of racism continue to govern life in America.
+So, when people argue that we should stop resisting racism, they are arguing that we let the default setting of racism continue to govern life in America.
 
 ## A Lost Cause Worth Saving
 

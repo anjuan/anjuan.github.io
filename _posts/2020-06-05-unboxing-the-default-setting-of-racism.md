@@ -22,7 +22,7 @@ I've been involved in many conversations about racism, and one thing that contin
 
 ## Anti-Blackness from the Cradle to the Casket
 
-{% include image.html url="/images/unboxing-the-default-settings-of-racism-slave-ship.jpg" alt="Model of a Slave Ship" caption="Slave ship model displayed at the National Museum of American History (Smithsonian Institution)." %}
+{% include image.html url="/images/unboxing-the-default-settings-of-racism-slave-ship.jpg" alt="Model of a Slave Ship" caption="Slave ship model displayed at the National Museum of American History (Smithsonian Institution)" %}
 
 The United States of America was built on the backs of millions of Black people who were forced to work for free for centuries. The abolition of legalized slavery in 1865 did nothing to undo the immense mental and physical damage done to Black Americans for generations. In fact, the enactment of Jim Crow laws, the enforcement of racial segregation laws, and the terrorism of white supremacist groups like the KKK kept Black Americans in a new form of servitude. This new form of slavery was made of social partitions and shocking levels of racial hatred instead of plantations and shackles.
 

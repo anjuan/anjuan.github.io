@@ -9,6 +9,7 @@ youtubeId4: ywxqUJQaoNI
 youtubeId5: X-Bvl5wkBdg
 youtubeId6: oUWw6h-mi0o
 youtubeId7: FVEY8p7vk0s
+youtubeId8: laHXj4z1h1U
 ---
 
 {% include image.html url="/images/lending-privilege3.jpg" alt="Stretch" caption="Giving my Lending Privilege talk in Budapest at the Stretch leadership conference." %}
@@ -45,6 +46,10 @@ The photos I used in my slides for Bea, Elle, and Em came from the [Women of Col
 
 **[Market Place Social in Bogotá (in Spanish)](https://youtu.be/L0cSfzBuhWo)**
 {% include youtubePlayer.html id=page.youtubeId3 %}
+<br>
+
+**[You Got This (Virtual)](https://youtu.be/laHXj4z1h1U)**
+{% include youtubePlayer.html id=page.youtubeId8 %}
 <br>
 
 **[GitHub Universe San Francisco](https://youtu.be/ywxqUJQaoNI)**

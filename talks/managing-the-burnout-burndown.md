@@ -38,11 +38,13 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 ## Podcasts
 
-<iframe src="https://anchor.fm/cohere/embed/episodes/Burnout-with-Aneika-and-Anjuan-Simmons-eddv1l/a-a22i5n0" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nNdUYYmczAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
-<iframe src="https://player.acast.com/betterfasterhappier/episodes/5d45e5ce833846051f8618c2" frameBorder="0" width="100%" height="110px" allow="autoplay"></iframe>
+<iframe src="https://player.acast.com/betterfasterhappier/episodes/5d45e5ce833846051f8618c2" frameBorder="0" width="100%" height="110px" allow="autoplay"></iframe><br>
 
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/2d123c36-a90d-4372-9caa-bd35cb4a1f08?dark=true"></iframe>
+<iframe src="https://anchor.fm/cohere/embed/episodes/Burnout-with-Aneika-and-Anjuan-Simmons-eddv1l/a-a22i5n0" height="102px" width="400px" frameborder="0" scrolling="no"></iframe><br>
+
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/2d123c36-a90d-4372-9caa-bd35cb4a1f08?dark=true"></iframe><br>
 
 [Under the Hood of Developer Marketing](https://www.stitcher.com/podcast/under-the-hood-of-developer-marketing/e/67318353)
 

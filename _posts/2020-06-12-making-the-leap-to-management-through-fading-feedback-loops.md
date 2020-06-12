@@ -19,7 +19,7 @@ I’ve learned to shift my sense of accomplishment by focusing on three key area
 
 ## Team Productivity
 
-First, I focus on the productivity of my team. How would the team describe our goals? What’s the team’s understanding of how our work ties to the success of the business and the service of our customers? How would the team describe their confidence in their ability to get work done? Finding the answers to these questions usually led to ways to help my team achieve better outcomes.
+First, I focus on the productivity of my team. How would the team describe our goals? What’s the team’s understanding of how our work ties to the success of the business and the service of our customers? How would the team describe their confidence in their ability to get things done? Finding the answers to these questions usually led to ways to help my team achieve better outcomes.
 
 ## Team Atmosphere
 

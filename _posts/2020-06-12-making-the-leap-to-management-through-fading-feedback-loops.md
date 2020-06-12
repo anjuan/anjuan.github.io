@@ -23,7 +23,7 @@ First, I focus on the productivity of my team. How would the team describe our g
 
 ## Team Atmosphere
 
-I also work on the experience felt by the members of my team. I consider creating an “atmosphere of good feelings” a core part of my job. That means the people on my team feel cared for and show care for each other. While I try to have as few team meetings as possible, I use meetings as a way to gauge how my team is experiencing their work. In addition to achieving the objective of our meetings, I spend a lot of time reading body language and trying to see where each team member is on an emotional level. I also get a lot of this data from 1:1s, Slack, and retrospectives.
+I also work on the experience felt by the members of my team. I consider creating an “atmosphere of good feelings” a core part of my job. That means the people on my team feel cared for and show care for each other. While I try to have as few team meetings as possible, I use meetings as a way to gauge how my team is experiencing their work. In addition to achieving the objective of our meetings, I spend a lot of time reading body language and trying to see where each team member is on an emotional level. I also get a lot of this data from 1:1s, Slack, and sprint retrospectives.
 
 ## Team Growth
 

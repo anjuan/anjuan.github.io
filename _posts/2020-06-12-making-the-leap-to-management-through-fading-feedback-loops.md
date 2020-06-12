@@ -13,7 +13,7 @@ comments: true
 {% include image.html url="/images/making-the-leap-to-management-through-fading-feedback-loops-header.jpg" alt="Man Leaping" caption="Photo by Lennart Wittstock from Pexels
 " %}
 
-When I made the transition from individual contributor to manager, I felt the effect of no longer having a tangible and tight feedback cycle for my work. I no longer had the binary outcome of my code either working as specified or being defective in some way. My days become much more analog with long (sometimes infinite) feedback loops. This made it hard to know if I was really making progress or just marching in place.
+When I made the transition from individual contributor to manager, I felt the effect of no longer having a tangible and tight feedback cycle for my work. I no longer had the binary outcome of my code either working or failing. My days become much more analog with long (sometimes infinite) feedback loops. This made it hard to know if I was really making progress or just marching in place.
 
 I’ve learned to shift my sense of accomplishment by focusing on three key areas: productivity, atmosphere, and growth.
 
@@ -23,7 +23,7 @@ First, I focus on the productivity of my team. How would the team describe our g
 
 ## Team Atmosphere
 
-I also work on the experience felt by the members of my team. I consider creating an “atmosphere of good feelings” something that is a core part of my job. That means the people on my team feel cared for and show care for each other. While I try to have as few team meetings as possible, I use meetings as a way to gauge how my team is experiencing their work. In addition to achieving the objective of our meetings, I spend a lot of time reading body language and trying to see where each player is on an emotional level. I also get a lot of this data from 1:1s, Slack, and retrospectives.
+I also work on the experience felt by the members of my team. I consider creating an “atmosphere of good feelings” a core part of my job. That means the people on my team feel cared for and show care for each other. While I try to have as few team meetings as possible, I use meetings as a way to gauge how my team is experiencing their work. In addition to achieving the objective of our meetings, I spend a lot of time reading body language and trying to see where each player is on an emotional level. I also get a lot of this data from 1:1s, Slack, and retrospectives.
 
 ## Team Growth
 

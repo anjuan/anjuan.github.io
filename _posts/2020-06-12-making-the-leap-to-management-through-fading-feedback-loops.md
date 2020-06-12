@@ -35,6 +35,6 @@ None of this is easy, and there’s always more signal than noise. A lot of thes
 
 I know that a lot of this is fuzzy, but I have two resources that go a lot deeper than I can in one blog post. The first one is [The Manager’s Path](https://www.amazon.com/dp/1491973897/ref=cm_sw_r_tw_dp_U_x_4PP3EbG05SRRN) by [Camille Fournier](https://twitter.com/skamille?s=20). She wrote a lot of it specifically for people navigating the change from individual contributor to manager.
 
-I also recommend [Eryn O'Neil's](https://twitter.com/eryno?s=20) video called "Congrats! You're the tech lead - now what?"
+I also recommend [Eryn O'Neil's](https://twitter.com/eryno?s=20) talk called "Congrats! You're the tech lead - now what?"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FcyD85z3JSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

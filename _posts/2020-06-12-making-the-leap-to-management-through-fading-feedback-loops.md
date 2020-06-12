@@ -23,13 +23,13 @@ First, I focus on the productivity of my team. How would the team describe our g
 
 ## Team Atmosphere
 
-I also work on the experience felt by the members of my team. I consider creating an “atmosphere of good feelings” a core part of my job. That means the people on my team feel cared for and show care for each other. While I try to have as few team meetings as possible, I use meetings as a way to gauge how my team is experiencing their work. In addition to achieving the objective of our meetings, I spend a lot of time reading body language and trying to see where each player is on an emotional level. I also get a lot of this data from 1:1s, Slack, and retrospectives.
+I also work on the experience felt by the members of my team. I consider creating an “atmosphere of good feelings” a core part of my job. That means the people on my team feel cared for and show care for each other. While I try to have as few team meetings as possible, I use meetings as a way to gauge how my team is experiencing their work. In addition to achieving the objective of our meetings, I spend a lot of time reading body language and trying to see where each team member is on an emotional level. I also get a lot of this data from 1:1s, Slack, and retrospectives.
 
 ## Team Growth
 
-Finally, I seek accomplishment in the growth of my team. In what ways does my team feel that they can now do things, as a team, that they couldn’t do before? What about as individuals? How can I provide opportunities for my team to improve themselves through education and training? Does our promotion rate (when we can get back to giving promotions) reflect steady improvement?
+Finally, I seek accomplishment in the growth of my team. In what ways does my team feel that they can now do things, as a team, that they couldn’t do before? What about as individuals? How can I provide opportunities for my team to improve themselves through education and training? Does our promotion rate reflect steady improvement?
 
-None of this is easy, and there’s always more signal than noise. A lot of these outcomes play out over quarters and years instead of weeks and months. You probably won’t see the end of the story for most of your players. However, I’ve found that applying these general principles to the teams I lead has provided very positive results.
+None of this is easy, and there’s always more signal than noise. A lot of these outcomes play out over quarters and years instead of weeks and months. You probably won’t see the end of the story for most of the members of your teams. However, I’ve found that applying these general principles to the teams I lead has provided very positive results.
 
 ## Additional Resources
 

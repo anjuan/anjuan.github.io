@@ -23,7 +23,7 @@ First, I focus on the productivity of my team. How would the team describe our g
 
 ## Team Atmosphere
 
-I also work on the experience felt my the members of my team. I consider creating an “atmosphere of good feelings” something that is a core part of my job. That means the people on my team feel cared for and show care for each other. While I try to have as few team meetings as possible, I use meetings as a way to gauge how my team is experiencing their work. In addition to achieving the objective of our meetings, I spend a lot of time reading body language and trying to see where each player is on an emotional level. I also get a lot of this data from 1:1s, Slack, and retrospectives.
+I also work on the experience felt by the members of my team. I consider creating an “atmosphere of good feelings” something that is a core part of my job. That means the people on my team feel cared for and show care for each other. While I try to have as few team meetings as possible, I use meetings as a way to gauge how my team is experiencing their work. In addition to achieving the objective of our meetings, I spend a lot of time reading body language and trying to see where each player is on an emotional level. I also get a lot of this data from 1:1s, Slack, and retrospectives.
 
 ## Team Growth
 
@@ -31,7 +31,7 @@ Finally, I seek accomplishment in the growth of my team. In what ways does my te
 
 None of this is easy, and there’s always more signal than noise. A lot of these outcomes play out over quarters and years instead of weeks and months. You probably won’t see the end of the story for most of your players. However, I’ve found that applying these general principles to the teams I lead has provided very positive results.
 
-## Additonal Resources
+## Additional Resources
 
 I know that a lot of this is fuzzy, but I have two resources that go a lot deeper than I can in one blog post. The first one is [The Manager’s Path](https://www.amazon.com/dp/1491973897/ref=cm_sw_r_tw_dp_U_x_4PP3EbG05SRRN) by [Camille Fournier](https://twitter.com/skamille?s=20). She wrote a lot of it specifically for people navigating the change from individual contributor to manager.
 

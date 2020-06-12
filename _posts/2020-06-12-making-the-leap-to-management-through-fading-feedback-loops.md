@@ -29,7 +29,7 @@ I also work on the experience felt by the members of my team. I consider creatin
 
 Finally, I seek accomplishment in the growth of my team. In what ways does my team feel that they can now do things, as a team, that they couldn’t do before? What about as individuals? How can I provide opportunities for my team to improve themselves through education and training? Does our promotion rate reflect steady improvement?
 
-None of this is easy, and there’s always more signal than noise. A lot of these outcomes play out over quarters and years instead of weeks and months. You probably won’t see the end of the story for most of the members of your teams. However, I’ve found that applying these general principles to the teams I lead has provided very positive results.
+None of this is easy, and there’s always more noise than signal. A lot of these outcomes play out over quarters and years instead of weeks and months. You probably won’t see the end of the story for most of the members of your teams. However, I’ve found that applying these general principles to the teams I lead has provided very positive results.
 
 ## Additional Resources
 

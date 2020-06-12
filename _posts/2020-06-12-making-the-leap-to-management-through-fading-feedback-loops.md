@@ -13,7 +13,7 @@ comments: true
 {% include image.html url="/images/making-the-leap-to-management-through-fading-feedback-loops-header.jpg" alt="Man Leaping" caption="Photo by Lennart Wittstock from Pexels
 " %}
 
-When I made the transition from individual contributor to manager, I felt the effect of no longer having a tangible and tight feedback cycle for my work. I no longer had the binary outcome of my code either working or failing. My days become much more analog with long (sometimes infinite) feedback loops. This made it hard to know if I was really making progress or just marching in place.
+When I made the transition from individual contributor to manager, I felt the effect of no longer having a tangible and tight feedback loop for my work. I no longer had the binary outcome of my code either working or failing. My days become much more analog with long (sometimes infinite) feedback loops. This made it hard to know if I was really making progress or just marching in place.
 
 I’ve learned to shift my sense of accomplishment by focusing on three key areas: productivity, atmosphere, and growth.
 

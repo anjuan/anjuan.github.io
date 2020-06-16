@@ -44,12 +44,12 @@ The photos I used in my slides for Bea, Elle, and Em came from the [Women of Col
 {% include youtubePlayer.html id=page.youtubeId2 %}
 <br>
 
-**[Market Place Social in Bogotá (in Spanish)](https://youtu.be/L0cSfzBuhWo)**
-{% include youtubePlayer.html id=page.youtubeId3 %}
-<br>
-
 **[You Got This (Virtual)](https://youtu.be/laHXj4z1h1U)**
 {% include youtubePlayer.html id=page.youtubeId8 %}
+<br>
+
+**[Market Place Social in Bogotá (in Spanish)](https://youtu.be/L0cSfzBuhWo)**
+{% include youtubePlayer.html id=page.youtubeId3 %}
 <br>
 
 **[GitHub Universe San Francisco](https://youtu.be/ywxqUJQaoNI)**

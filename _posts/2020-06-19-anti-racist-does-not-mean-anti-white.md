@@ -1,14 +1,16 @@
 ---
-title: 'Anti-Racist Does Not Equal Anti-White'
+title: 'Anti-Racist Does Not Mean Anti-White'
 author: anjuan
 layout: post
-date: "2020-06-18"
-permalink: /blog/anti-racist-does-not-equal-anti-white/
+date: "2020-06-19"
+permalink: /blog/anti-racist-does-not-mean-anti-white/
 categories:
   - Inclusion and Diversity
 excerpt: "As the Anti-Racist movement grows, it's important to clarify that it's not an Anti-White movement."
 comments: true
 ---
+
+{% include image.html url="/images/anti-racist-does-not-mean-anti-white-header.jpg" alt="Cityscape" caption="Photo by Jessica Furtney on Unsplash" %}
 
 I'm glad to see continued energy around the Anti-Racist movement, especially in the tech industry. However, I want to address something that's probably in the back of a lot of people's minds:
 

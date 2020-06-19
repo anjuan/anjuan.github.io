@@ -1,12 +1,12 @@
 ---
-title: 'Working in Tech as a Black Manager'
+title: 'Working in Tech as a Black Leader'
 author: anjuan
 layout: post
 date: "2020-06-18"
-permalink: /blog/working-in-tech-as-a-black-manager/
+permalink: /blog/working-in-tech-as-a-black-leader/
 categories:
   - Inclusion and Diversity
-excerpt: "Earlier this week, I posted a series of tweets explaining my experience as a Black manager in tech. It resonated with a lot of the people who saw it resulting in thousands of likes. I'm republishing the tweet thread here on my blog."
+excerpt: "Earlier this week, I posted a series of tweets explaining my experience as a Black leader in tech. It resonated with a lot of the people who saw it resulting in thousands of likes. I'm republishing the tweet thread here on my blog."
 comments: true
 ---
 

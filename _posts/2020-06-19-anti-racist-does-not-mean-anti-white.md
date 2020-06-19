@@ -49,4 +49,3 @@ Helping Black people doesn't mean White people lose. It means we gain a world wh
 Helping women doesn't mean men lose. It means we gain a world where there's more opportunity because we stop preventing half the population from fully taking part in forging the future.
 
 Black Lives Matter doesn't mean All Other Lives Don't Matter. It means All Lives Can Truly Matter because we change the system that's specifically killing lives based on skin color. Removing that gross injustice brings true justice to everyone.
-Missing some Tweet in this thread? You can try to force a refresh.

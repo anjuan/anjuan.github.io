@@ -16,7 +16,7 @@ comments: true
 >
 > <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">I&#39;ve worked in software development for over 20 years, and most of my career has been in management. I want to share something about the reality of working as a Black man fulfilling leadership roles in tech.</p>&mdash; Anjuan (@anjuan) <a href="https://twitter.com/anjuan/status/1272521442035466242?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 >
-> I had no idea that, as of this writing, 7,643 people would like that tweet. I gained thousands of new followers in a couple of days. I'm publishing the contents of the thread (with two small typo corrections and a formatting change) here to preserve the moment on my blog.
+> I had no idea that, as of this writing, over 7,000 people would like that tweet. I gained thousands of new followers in a couple of days. I'm publishing the contents of the thread (with two small typo corrections and a formatting change) here to preserve the moment on my blog.
 
 I've worked in software development for over 20 years, and most of my career has been in management. I want to share something about the reality of working as a Black man fulfilling leadership roles in tech.
 

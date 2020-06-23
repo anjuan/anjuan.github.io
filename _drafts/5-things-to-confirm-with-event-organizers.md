@@ -42,3 +42,7 @@ TBD
 ## 7 - Schedule
 
 ## 8 - Meals
+
+## 9 - Confidentiality
+
+Is this event private or public? Can I post that I'm speaking at the event before it occurs? What about after? Can the recording of my presentation be shared publicly afterwards?

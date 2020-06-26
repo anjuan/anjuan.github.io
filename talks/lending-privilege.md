@@ -77,6 +77,9 @@ The photos I used in my slides for Bea, Elle, and Em came from the [Women of Col
 
 **[RubyConf New Orleans](https://confreaks.tv/videos/rubyconf2017-lending-privilege)**
 
+## Podcasts
+
+<iframe src="https://art19.com/shows/inside-intercom/episodes/8100eaed-8d23-444a-a558-39ddd28ac68f/embed?theme=dark-custom" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe><br>
 
 ## What Attendees Have Said
 

@@ -6,7 +6,7 @@ date: "2020-06-26"
 permalink: /blog/5-things-speakers-should-confirm-with-event-organizes/
 categories:
   - Speaking
-excerpt: "As a speaker, it's critical that get on the same page with event organizers when planning how you'll participate in their program."
+excerpt: "As a speaker, it's critical to get on the same page with event organizers when planning how you'll participate in their program."
 comments: true
 ---
 

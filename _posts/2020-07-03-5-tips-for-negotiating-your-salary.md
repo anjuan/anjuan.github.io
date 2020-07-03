@@ -107,10 +107,6 @@ These objectives have to be things that are very important to the company. Also,
 
 It's important that the objectives are very clearly written down. They should be in the offer letter, and you should review them with your new boss on a monthly basis after you start working.
 
-Don't argue money. Present options. More vacation, early match, etc.
-
-Use performance bonuses to get to your target annual compensation but use this tactic carefully.
-
 ## Summary
 
 This post doesn't exhaust everything you need to know in order to negotiate your salary. However, these are techniques I've used to successfully gain a total compensation package that meets (and sometimes exceeds) my expectations.

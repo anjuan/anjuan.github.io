@@ -91,19 +91,19 @@ tr:nth-child(even) {background: #CCC}
 
 <br>
 
-This is an very simplified example, but let's say Option Ⓐ in the table is the initial offer. It's a salary number that is below your target with 2 weeks of PTO and no training budget. 
+This is an very simplified example, but let's say Option Ⓐ in the table is the initial offer. It's a salary number that's below your target with 2 weeks of PTO and no training budget.
 
 You receive that offer and describe Option Ⓑ: "This is a good offer. However, it's a bit lower than I expected based on the value of my background and experience. If the salary can't be adjusted, then there are a couple of things that can be changed to make this work. My family takes two vacations each year in the summer and in the winter. If we can increase the PTO to 6 weeks that would be fantastic. Also, I've had a lot of success in my career because my employers have invested in growing my skillset. So, I usually have an annual training budget of $3,000 for conferences, webinars, books, etc."
 
-However, you're a flexible and reasonable human so you continue to negotiate and describe Option Ⓒ: "If we can raise the salary to something in line with the value I bring to the company, then I think I could accept just 4 weeks of PTO and a $1,000 dollar training budget." 
+However, you're a flexible and reasonable human so you continue to negotiate and describe Option Ⓒ: "If we can raise the salary to something in line with the value I bring to the company, then I think I could accept just 4 weeks of PTO and a $1,000 dollar training budget."
 
-Getting option Ⓐ,Ⓑ, or Ⓒ isn't the objective. The objective is to find out where the organization can move. Their response will let you know how much freedom they have in each component of the total compensation package. You'll be able to see where you can press and get a lot of movement and where there's total rigidity no matter how you frame the offer.
+Getting option Ⓐ,Ⓑ, or Ⓒ isn't the objective. The objective is to find out where the organization can move in response to the things you really care about. Their response will let you know how much freedom they have in each component of the total compensation package. You'll be able to see where you can press and get a lot of movement and where there's total rigidity no matter how you frame the offer.
 
 ## 5 - Consider Asking for a Performance Bonus
 
-I've also had success asking for a performance bonus. This is a cash pay out based on achieving certain objectives by a defined timeframe. I usually set it at the six month mark of my employment.
+I've also had success asking for a performance bonus. This is cash or some other benefit you receive based on achieving certain objectives by a defined timeframe. I usually set it at the six month mark of my employment.
 
-These objectives have to be things that are very important to the company and you can achieve above and beyond the expected outcomes of my position. If any part of the total compensation package can't be moved to an acceptable level through negotiation, you can ask to get the level you want based on your performance.
+These objectives have to be things that are very important to the company. Also, they have to be outcomes you can achieve above and beyond the expected outcomes of my position. If any part of the total compensation package can't be moved to an acceptable level through negotiation, you can ask to get the level you want based on your performance.
 
 It's important that the objectives are very clearly written down. They should be in the offer letter, and you should review them with your new boss on a monthly basis after you start working.
 

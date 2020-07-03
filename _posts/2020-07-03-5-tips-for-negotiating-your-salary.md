@@ -14,7 +14,7 @@ comments: true
 
 I've worked in the technology industry as an engineering manager for over two decades, and I've worked across several companies. So, I've had the opportunity to review several offers of employment.
 
-There's not a lot of transparency about how much companies pay, and that gives a lot of leverage to employers. After all, if you're willing to take a lower salary than someone else with a similar back ground and set of skills, why should they pay more? If you had salary offers from two relatively identical companies, would you take the one that paid less? 
+There's not a lot of transparency about how much companies pay, and that gives a lot of leverage to employers. If you're willing to take a lower salary than someone else with a similar back ground and set of skills, why should they pay more? After all, if you had salary offers from two relatively identical companies, would **you** take the one that paid less? 
 
 I've learned a few techniques for navigating the, "So, how much are you making now?" question as well as the other aspects of negotiating your salary.
 

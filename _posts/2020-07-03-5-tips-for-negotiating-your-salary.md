@@ -16,13 +16,13 @@ I've worked in the technology industry as an engineering manager for over two de
 
 There's not a lot of transparency about how much companies pay, and that gives a lot of leverage to employers. If you're willing to take a lower salary than someone else with a similar back ground and set of skills, why should they pay more? After all, if you had salary offers from two relatively identical companies, would **you** take the one that paid less? 
 
-I've learned a few techniques for navigating the, "So, how much are you making now?" question as well as the other aspects of negotiating your salary.
+I've learned a few techniques for fielding the, "So, how much are you making now?" question as well as the other aspects of negotiating your salary.
 
 ## 1 - Think Total Compensation
 
-I titled this post, "Tips for Negotiating Your Salary", but my first tip is to stop thinking about the salary portion of the offer. Instead, start thinking about total compensation. Salary is just one component of the package that companies pay for your employment. The other components include paid time off (PTO), 401(k) matching contributions, training, insurance, stock, options, etc.
+I titled this post, "5 Tips for Negotiating Your Salary", but my first tip is to stop thinking about the salary portion of the offer. Instead, start thinking about total compensation. Salary is just one component of the package that companies pay for your employment. The other components include paid time off (PTO), 401(k) matching contributions, training, insurance, stock, options, etc.
 
-By thinking of total compensation, you bring other levers to pull in the salary negotiation. You'll also get a sense of where the company has flexibility in what they can offer.
+By thinking of total compensation, you bring other levers to pull to the salary negotiation. You'll also get a sense of where the company has flexibility in what they can offer.
 
 ## 2 - Do Your Research
 
@@ -42,7 +42,7 @@ It's not your job to help the interviewer research the market rate for the roles
 
 Here's how you answer the question: "I'm paid a fair salary for what I bring to my current company, and I'm confident I'll be paid a fair salary here."
 
-You may wonder, what if they continue to press for a number? I've found that this response always works: "You know, I'm really focused on making sure there's a fit between what the company needs and my background and skills. I'm really not worried about the salary right now."
+You may be wondering, "But, what if they continue to press for a salary figure?" I've found that this response always works: "You know, I'm really focused on making sure there's a fit between what the company needs and my background and skills. I'm really not worried about the salary right now."
 
 This shows that you're dedicated to making your case as a candidate based on the value you bring to the company in terms of your background and skills. You're focused on job fit instead of salary fit.
 
@@ -54,11 +54,7 @@ You get the offer, and your eyes go straight to the salary. That's natural, but 
 
 Once you've analyzed the entire offer, you know the aspects that meet your needs and the ones that don't. It's possible that the salary meets or exceeds your expectations. Don't stop negotiating! You're trying to get to the right total compensation level, remember?
 
-Take the components of the offer and create a few options. This is an overly simplified example, but let's say Option Ⓐ in the table below is the initial offer. It's a salary number that is below your target with 2 weeks of PTO and no training budget. 
-
-You receive that offer and describe Option Ⓑ: "This is a good offer. However, it's a bit lower than I expected based on the value of my background and experience. If the salary can't be adjusted, then there are a couple of things that can be changed to make this work. My family takes two vacations each year in the summer and in the winter. If we can increase the PTO to 6 weeks that would be fantastic. Also, I've had a lot of success in my career because my employers have invested in growing my skillset. So, I usually have an annual training budget of $3,000 for conferences, webinars, books, etc."
-
-However, you're a flexible and reasonable human so you continue to negotiate and describe Option Ⓒ: "If we can raise the salary to something in line with the value I bring to the company, then I think I could accept just 4 weeks of PTO and a $1,000 dollar training budget." 
+Take the components of the offer and create a few options shown in this table: 
 
 <html>
 <head>
@@ -94,6 +90,13 @@ tr:nth-child(even) {background: #CCC}
 | Ⓒ     |  $200,000       | 4 Weeks | $1,000 |
 
 <br>
+
+This is an very simplified example, but let's say Option Ⓐ in the table is the initial offer. It's a salary number that is below your target with 2 weeks of PTO and no training budget. 
+
+You receive that offer and describe Option Ⓑ: "This is a good offer. However, it's a bit lower than I expected based on the value of my background and experience. If the salary can't be adjusted, then there are a couple of things that can be changed to make this work. My family takes two vacations each year in the summer and in the winter. If we can increase the PTO to 6 weeks that would be fantastic. Also, I've had a lot of success in my career because my employers have invested in growing my skillset. So, I usually have an annual training budget of $3,000 for conferences, webinars, books, etc."
+
+However, you're a flexible and reasonable human so you continue to negotiate and describe Option Ⓒ: "If we can raise the salary to something in line with the value I bring to the company, then I think I could accept just 4 weeks of PTO and a $1,000 dollar training budget." 
+
 Getting option Ⓐ,Ⓑ, or Ⓒ isn't the objective. The objective is to find out where the organization can move. Their response will let you know how much freedom they have in each component of the total compensation package. You'll be able to see where you can press and get a lot of movement and where there's total rigidity no matter how you frame the offer.
 
 ## 5 - Consider Asking for a Performance Bonus
@@ -111,4 +114,3 @@ Use performance bonuses to get to your target annual compensation but use this t
 ## Summary
 
 This post doesn't exhaust everything you need to know in order to negotiate your salary. However, these are techniques I've used to successfully gain a total compensation package that meets (and sometimes exceeds) my expectations.
-

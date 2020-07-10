@@ -6,7 +6,7 @@ date: "2020-07-10"
 permalink: /blog/the-althea-test-for-measuring-inclusion-maturity/
 categories:
   - Inclusion
-excerpt: "I've been asked by several organizations to help them understand the maturity of their inclusion efforts. I've found that the Althea test is a good place to start."
+excerpt: "I've been asked by several organizations to help them understand the maturity of their inclusion efforts. I've found that the Althea Test is a good place to start. The reason is tied to the RMS Titanic."
 comments: true
 ---
 
@@ -14,9 +14,9 @@ comments: true
 
 ## Measuring Inclusion Maturity
 
-I've been lucky to have create a popular talk called "Lending Privilege" that explains how everyone can contribute to DEI (Diversity, Equity, and Inclusion) efforts both at work and in our personal lives. I've had the privilege of giving it all over the world.
+I've been lucky to have created a popular talk called [Lending Privilege](https://anjuansimmons.com/talks/lending-privilege/) that explains how everyone can contribute to DEI (Diversity, Equity, and Inclusion) efforts both at work and in our personal lives. I've had the privilege of giving it all over the world.
 
-One outcome of giving my "Lending Privilege" talk so often is that I'm often invited to present it at software engineering companies. These companies range in size from small startups to multi-national corporations with tens of thousands of employees.
+One outcome of giving my **Lending Privilege** talk so many times is that I'm often invited to present it at software engineering companies. These companies range in size from small startups to multi-national corporations with tens of thousands of employees.
 
 On a regular basis, either before or after I give my talk, I'm brought in to meet with a team of leaders of the company. These meetings often include the people who invited me to the event, members of the executive team, VPs of Engineering (VPEs) or Directors, and software Engineering Managers. They usually want to get to know me, but they also want to know how I would assess the inclusion maturity level of their company. They want me to help them understand, "How can we be more inclusive?"
 
@@ -46,7 +46,7 @@ Providing aid for the most vulnerable provides a much more effective system of h
 
 Most people know about the Titanic from the 1997 Oscar winning film if not from history. What is less known is the story of the [RMS Carpathia](https://www.maritime-executive.com/article/carpathias-role-in-titanic-rescue) which was the only ship that rescued survivors of the Titanic.
 
-When the captain of the Carpathia heard about the Titanic, he immediately began preparing the ship to help survivors. He slung out the lifeboats and rigged lights along the sides of the ships so that the survivors could see help coming. He also lowered ladders and rigging so that people who were physically able could climb aboard the ship. However, he did something else. He prepared slings so that children, the sick, the elderly, and others who could not pull themselves onto the ship could be hauled on board.
+When the captain of the Carpathia heard about what happened to Titanic, he immediately began preparing the ship to help survivors. He slung out the lifeboats and rigged lights along the sides of the ships so that the survivors could see help coming. He also lowered ladders and rigging so that people who were physically able could climb aboard the ship. However, he did something else. He prepared slings so that children, the sick, the elderly, and others who could not pull themselves onto the ship could be hauled on board.
 
 I love the idea behind those slings. The slings mean that the rescuers had to put a lot of thinking into how they could quickly help the most people. I'm not sure if the slings were thought of first, but they indicated a completeness of thought that was reflected in what happened when the Carpathia reached the Titanic.
 
@@ -54,7 +54,7 @@ By directed all possible heat to the steam engines, Carpathia exceeded it's maxi
 
 It turns out that another ship, the SS Californian was only five miles away from Titanic when it was sinking. However, it didn't respond to Titanic distress single until a day later.
 
-Organizations that pass the Althea Test are like Carpathia. They've created a system and an environment that thinks of those who are most harmed by a lack of inclusion. This attracts Black women who enter these companies to find support and a path towards leadership. This results in an an environment that also supports other marginalized groups (LGBTQ, Latinx, etc.)
+Organizations that pass the Althea Test are like Carpathia. They've created a system and set of experiences that think of those who are most harmed by a lack of inclusion: Black women. This attracts Black women who enter these companies to find support and a path towards leadership. This results in an an environment that also supports other marginalized groups (LGBTQ, Latinx, etc.). I truly believe this is only really possible when VPEs and other "managers of managers" are actively involved in crafting this environment based on individual attention and sponsorship.
 
 Organizations that fail the Althea Test are like the SS Californian. They're in the right general area, but they're missing essential signals. 
 

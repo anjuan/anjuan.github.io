@@ -52,7 +52,7 @@ I love the idea behind those slings. The slings meant that the rescuers had put 
 
 By directing all possible heat to the steam engines, *Carpathia* exceeded it's maximum rated speed of 14 knots and hit an impossible speed of 17 knots. Dodging a minefield of ice bergs in the dark, it reached *Titanic* an hour earlier than expected. Having been slung out, the lifeboats were immediately put work, and using a combination of methods, 705 of the 2,208 people who boarded *Titanic* were saved. I imagine those slings added several children and those who were sick or injured to that number.
 
-It turns out that another ship, the *SS Californian* was only five miles away from *Titanic* when it was sinking. However, it didn't respond to *Titanic's* distress single until a day later.
+It turns out that another ship, the *SS Californian* was only five miles away from *Titanic* when it was sinking. However, it didn't respond to *Titanic's* distress signal until a day later.
 
 Organizations that pass the Althea Test are like *Carpathia*. They've created a system and a set of experiences that think of those who are most harmed by a lack of inclusion: Black women. This attracts Black women who enter these companies to find support and a path towards leadership. This results in an an environment that also supports other marginalized groups (LGBTQ, Latinx, etc.). I truly believe this is only really possible when VPEs and other "managers of managers" are actively involved in crafting this environment based on individual attention and sponsorship.
 

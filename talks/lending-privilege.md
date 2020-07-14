@@ -79,6 +79,8 @@ The photos I used in my slides for Bea, Elle, and Em came from the [Women of Col
 
 ## Podcasts
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/847154221&color=%231b5da0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-699370465" title="INSPIRE 20" target="_blank" style="color: #cccccc; text-decoration: none;">INSPIRE 20</a> · <a href="https://soundcloud.com/user-699370465/inspire20-anjuan-simmons" title="EP04:  Anjuan Simmons, Engineering Coach" target="_blank" style="color: #cccccc; text-decoration: none;">EP04:  Anjuan Simmons, Engineering Coach</a></div>
+
 <iframe src="https://art19.com/shows/inside-intercom/episodes/8100eaed-8d23-444a-a558-39ddd28ac68f/embed?theme=dark-custom" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe><br>
 
 ## What Attendees Have Said

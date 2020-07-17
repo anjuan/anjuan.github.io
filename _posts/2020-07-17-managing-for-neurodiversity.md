@@ -60,7 +60,7 @@ Despite exhibiting a short attention span and being easily distracted, when your
 
 ### Remediation: Timebox Work
 
-Work with your team member to divide their work into manageable chunks. Schedule regular checkpoints that act as force functions to help your team member emerge from the cocoon of their hyper-focused state.
+Work with your team member to divide their work into manageable chunks. Schedule regular checkpoints that act as a force function to help your team member emerge from the cocoon of their hyper-focused state.
 
 ### How This Helps the Entire Team
 

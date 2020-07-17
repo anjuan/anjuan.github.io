@@ -34,7 +34,7 @@ Your team member has difficulty focusing on one thing for a sustained period of 
 
 ### Remediation: An Ordered Backlog and Limit WIP
 
-A practice is Agile software development is having a product backlog in priority order that informs the work of the development team. The work is often displayed on a "board" where it moves from various states like "Not Started", "In Progress", "In Peer Review", "QA", and "Done". To keep work flowing, many Agile teams put "Work in Progress" (WIP) limit on each column. This makes sure that only a certain number of items can be each state. If a column is at its WIP limit, then the team swarms to unblock things downstream.
+A practice in Agile software development is having a product backlog in priority order that informs the work of the development team. The work is often displayed on a "board" where it moves from various states like "Not Started", "In Progress", "In Peer Review", "QA", and "Done". To keep work flowing, many Agile teams put "Work in Progress" (WIP) limit on each column. This makes sure that only a certain number of items can be each state. If a column is at its WIP limit, then the team swarms to unblock things downstream.
 
 Even if you aren't practicing Agile software development, using the concepts of an ordered backlog and WIP limits can be a powerful way to manage tasks. Provide a list of things for your team member to work on and make sure they are in priority order. Make sure they know that an item has to be completed before the next one can be started.
 

@@ -6,7 +6,7 @@ date: "2020-07-17"
 permalink: /blog/managing-for-neurodiversity/
 categories:
   - Inclusion and Diversity
-excerpt: "Being an inclusive leader means that we welcome talent no matter how it's packaged. That includes people whose brains focus in different ways."
+excerpt: "Being an inclusive leader means that we welcome talent no matter how it's packaged. That includes people whose brains work in different ways."
 comments: true
 ---
 

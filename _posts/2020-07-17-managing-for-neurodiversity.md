@@ -12,7 +12,7 @@ comments: true
 
 {% include image.html url="/images/managing-for-neurodiversity.jpg" alt="Rubix Cube" caption="Photo by Imran Bangash on Unsplash" %}
 
-I'm passionate about being an inclusive leader. I invest a lot of my leadership style to creating team environments that are welcoming to everyone. Most people understand inclusion as creating a sense of belonging for everyone regardless of race, gender, physical ability, sexual orientation, religion, age, and other characteristics. However, making space for people whose brains work in different ways is a fairly new way of thinking about inclusion.
+I'm passionate about being an inclusive leader. I invest a lot of my leadership style into creating team environments that are welcoming to everyone. Most people understand inclusion as creating a sense of belonging for everyone regardless of race, gender, physical ability, sexual orientation, religion, age, and other characteristics. However, making space for people whose brains work in different ways is a fairly new way of thinking about inclusion.
 
 We tend to think of human behavior along a spectrum called "normal" and categorize people who think and behave in different ways as abnormal. These differences in behavior are often diagnosed as autism, dyslexia, attention deficit hyperactivity disorder (ADHD), Tourette Syndrome, etc.
 

@@ -26,7 +26,7 @@ If you have someone on your team who seems to be a neurodivergent person, please
 
 This post describes behaviors that are usually characteristics of neurodiverse people. For each type of observed behavior, I give a suggested accommodation as well as an explanation of how the accommodation helps the entire team.
 
-It's important that you don't frame these accomodations as things you're doing to "help" or "fix" the neurodiverse member of the team. In fact, you can propose and implement these changes as improvements meant to help everyone. The truth is, 
+It's important that you don't frame these accommodations as things you're doing to "help" or "fix" the neurodiverse member of the team. In fact, you can propose and implement these changes as improvements meant to help everyone. This has the additional benefit of being true.
 
 ## Characteristic: Short Attention Span
 
@@ -56,12 +56,16 @@ Everyone is susceptible to distraction, and we all have to deal with an almost u
 
 ## Characteristic: Hyper-focusing
 
-Despite exhibiting a short attention span and being easily distracted, when your team member can focus, they enter an almost zen like Your team member has trouble tuning out the external environment. They tend to be easily interrupted by any change (e.g., someone walking by, an unexpected noise, etc.) and are slow to return to their task.
+Despite exhibiting a short attention span and being easily distracted, when your team member can focus, they enter an almost zen like state where they are totally absorbed by their work. They become totally oblivious to everything else and can lose track of time.
 
 ### Remediation: Timebox Work
 
-Create an environment that limits distractions. If possible, position this person in a part of the office that has low traffic and a door that can be closed. Also, suggest that they remove distractions by silencing notifications and using a separate computer for things like email, chat. etc.
+Work with your team member to divide their work into manageable chunks. Schedule regular checkpoints that act as force functions to help your team member emerge from the cocoon of their hyper-focused state.
 
 ### How This Helps the Entire Team
 
-Everyone is susceptible to distraction, and we all have to deal with an almost unlimited supply of things that can take our minds off work. Creating a place where the entire team can harness their full attention will help everyone.
+Dividing large pieces of work into smaller units helps everyone think about their work and show measurable progress. By checking in with the team at regular intervals, you can detect things that are blocking your team. Most Agile teams have daily stand-ups (in person or virtual) to regularly check progress.
+
+## Summary
+
+Creating an environment that accommodates neurodiverse team members helps the entire team. By structuring your team's work, thoughtfully designing their work environment, and setting up regular checkpoints, the flow of work across your team will improve. You'll also create a more inclusive environment.

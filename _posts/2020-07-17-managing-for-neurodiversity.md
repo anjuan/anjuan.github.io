@@ -14,7 +14,7 @@ comments: true
 
 I'm passionate about being an inclusive leader. I invest a lot of my leadership style into creating team environments that are welcoming to everyone. Most people understand inclusion as creating a sense of belonging for everyone regardless of race, gender, physical ability, sexual orientation, religion, age, and other characteristics. However, making space for people whose brains work in different ways is a fairly new way of thinking about inclusion.
 
-We tend to think of human behavior along a spectrum called "normal" and categorize people who think and behave in different ways as abnormal. These differences in behavior are often diagnosed as autism, dyslexia, attention deficit hyperactivity disorder (ADHD), Tourette Syndrome, etc.
+We tend to think of human behavior along a spectrum called "normal" and categorize people who think and behave in different ways as "abnormal". These differences in behavior are often diagnosed as autism, dyslexia, attention deficit hyperactivity disorder (ADHD), Tourette Syndrome, etc.
 
 I don't think of neurodivergent people as abnormal or disabled. They simply receive information about the world and process it in different ways. In fact, no two people see and respond to the world in the same way. We all need to make accommodations for these differences whether we're talking about introversion, extraversion, autism, or dyslexia.
 
@@ -22,7 +22,7 @@ As a leader, it's my job to make sure that everyone on a team has an environment
 
 ## Deduce, Don't Diagnose
 
-If you have someone on your team who seems to be a neurodivergent person, please don't try to diagnose them. You probably don't have the training required to make such a diagnosis, and the team member will probably negatively react to your attempts to do so. Instead, silently make observations and then use your powers of deduction to determine your course of action.
+If you have someone on your team who seems to be a neurodivergent person, please don't try to diagnose them. You probably don't have the training required to make such a diagnosis, and the team member will probably react negatively to your attempts to do so. Instead, silently make observations and then use your powers of deduction to determine your course of action.
 
 This post describes behaviors that are usually characteristics of neurodiverse people. For each type of observed behavior, I give a suggested accommodation as well as an explanation of how the accommodation helps the entire team.
 
@@ -34,7 +34,7 @@ Your team member has difficulty focusing on one thing for a sustained period of 
 
 ### Remediation: An Ordered Backlog and Limit WIP
 
-A practice in Agile software development is having a product backlog in priority order that informs the work of the development team. The work is often displayed on a "board" where it moves from various states like "Not Started", "In Progress", "In Peer Review", "QA", and "Done". To keep work flowing, many Agile teams put "Work in Progress" (WIP) limit on each column. This makes sure that only a certain number of items can be each state. If a column is at its WIP limit, then the team swarms to unblock things downstream.
+A common practice in Agile software development is having a product backlog sorted in priority order that informs the work of the development team. The work is often displayed on a "board" where it moves from various states like "Not Started", "In Progress", "In Peer Review", "QA", and "Done". To keep work flowing, many Agile teams put "Work in Progress" (WIP) limit on each column. This makes sure that only a certain number of items can be each state. If a column is at its WIP limit, then the team swarms to unblock things downstream.
 
 Even if you aren't practicing Agile software development, using the concepts of an ordered backlog and WIP limits can be a powerful way to manage tasks. Provide a list of things for your team member to work on and make sure they are in priority order. Make sure they know that an item has to be completed before the next one can be started.
 
@@ -44,7 +44,7 @@ Humans are empirically bad at multi-tasking, and structuring work in this way wi
 
 ## Characteristic: Distractibility
 
-Your team member has trouble tuning out the external environment. They tend to be easily interrupted by any change (e.g., someone walking by, an unexpected noise, etc.) and are slow to return to their task.
+Your team member has trouble tuning out the external environment. They tend to be easily interrupted by any change (e.g., people walking by, an unexpected noise, etc.) and are slow to return to their task.
 
 ### Remediation: Environment Design
 

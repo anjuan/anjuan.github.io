@@ -18,7 +18,7 @@ We tend to think of human behavior along a spectrum called "normal" and categori
 
 I don't think of neurodivergent people as abnormal or disabled. They simply receive information about the world and process it in different ways. In fact, no two people see and respond to the world in the same way. We all need to make accommodations for these differences whether we're talking about introversion, extraversion, autism, or dyslexia.
 
-As a leader, it's my job to make sure that everyone on a team has an environment that allows them to be their authentic selves and also do their best work. I've found that when I understand the different ways my team members see the world, I can change the environment in a way that supports their natural working style. Surprisingly, I often find that these changes help the other members of the team even when they don't are neurotypical.
+As a leader, it's my job to make sure that everyone on a team has an environment that allows them to be their authentic selves and also do their best work. I've found that when I understand the different ways my team members see the world, I can change the environment in a way that supports their natural working style. Surprisingly, I often find that these changes help the other members of the team who would be considered "neurotypical".
 
 ## Deduce, Don't Diagnose
 

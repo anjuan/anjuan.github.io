@@ -18,9 +18,9 @@ Steve Jobs famously said that part of Apple's ability to create almost magical p
 
 When I was an undergraduate electrical engineering student at the University of Texas at Austin in the 1990s, I also realized that "technology alone is not enough". I had a long list of required classes including various types of calculus, circuit analysis, algorithms, computer programming, modern physics, and other deeply technical courses. I enjoyed these classes, but I knew I needed more to become person I wanted to be when I graduated.
 
-Fortunately, my degree plan also included a few free electives that I could use to select courses from outside the engineering department. I put a lot of thought into which classes to choose. Even at that young age I didn't want to take easy classes that wouldn't challenge me. However, I also wanted a break from the rigor of my technical classes. I remember reading through the expansive course catalog to see what courses would pique my interest and also expand my understanding of the world.
+Fortunately, my degree plan also included a few free electives that I could use to select courses from outside the engineering department. I put a lot of thought into which classes to choose. Even at that young age, I didn't want to take easy classes that wouldn't challenge me. However, I also wanted a break from the rigor of my technical classes. I remember reading through the expansive course catalog to see what options would pique my interest and also expand my understanding of the world.
 
-I chose three electives from the liberal arts part of the catalog that would come to be more meaningful to the business leader I am today than any of my technical courses. They were Environmentalism, Black Literature, and Gandhi.
+I chose three electives from the liberal arts section that would contribute more to the business leader I am today than any of my technical courses. They were courses in Environmentalism, Black Literature, and Gandhi.
 
 ## Environmentalism
 

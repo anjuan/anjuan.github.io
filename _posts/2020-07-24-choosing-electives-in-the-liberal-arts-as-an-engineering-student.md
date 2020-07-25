@@ -24,7 +24,7 @@ I chose three electives from the liberal arts section that would contribute more
 
 ## Environmentalism
 
-My Environmentalism elective explored how humanity impacts the environment in significant ways that last for generations. I took this class way before I knew anything about the science of climate change. Being a huge fan of science fiction, I had a deep belief that science would be the key to solving humanity's problems. However, this class taught me that science could be used to cause great harm to people and the planet. In fact, it takes concerted effort to make sure that science should always hold the preservation of life as an absolute first principle.
+My Environmentalism elective explored how humanity impacts the environment in significant ways that last for generations. I took this class way before I knew anything about the science of climate change. Being a huge fan of science fiction, I had a deep belief that science would be the key to solving humanity's problems. However, this class taught me that science could be used to cause great harm to people and the planet. In fact, it takes concerted effort to make sure that science always considers the preservation of life as an absolute first principle.
 
 We read  Rachel Carson's [Silent Spring](https://www.amazon.com/Silent-Spring-Rachel-Carson/dp/0618249060/ref=sr_1_1?crid=RAE55PAQSQ21&dchild=1&keywords=silent+spring&qid=1595629425&s=books&sprefix=silent+spring%2Caps%2C163&sr=1-1) in this class, and I learned how DDT had revolutionized agriculture, medicine, and several other industries. However, DDT also had a devastating impact on the environment as well as human and animal life.
 

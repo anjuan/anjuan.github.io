@@ -40,7 +40,7 @@ As a leader, this course prepared me to be unapologetically Black. I have been t
 
 ## Gandhi
 
-My class on Gandhi taught me about the life of the famous activist who used non-violent resistance to achieve India's independence. I learned about learned about **Satyagraha** which means "truth force". Combined with the principle of **Ahiṃsā** (avoidance of violence) and **Tapasya** (self-sacrifice), I learned how these disciplines can free a nation.
+My class on Gandhi taught me about the life of the famous activist who used non-violent resistance to achieve India's independence. I learned about **Satyagraha** which means "truth force". Combined with the principle of **Ahiṃsā** (avoidance of violence) and **Tapasya** (self-sacrifice), I learned how these disciplines can free a nation.
 
 As a leader, this course taught me that I have to show my teams that anything I ask of them are things I'm willing to do myself. I also treat everyone with dignity and respect which honors our shared humanity. Conducting myself in this way tightly bonds them to my team in a way that many managers struggle to achieve.
 

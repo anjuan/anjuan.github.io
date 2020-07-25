@@ -32,7 +32,7 @@ As a leader, this course prepared me to always consider the impact of the produc
 
 ## Black Literature
 
-My Black Literature elective build on my deep interest in the Harlem Renaissance and the Black Civil Rights movement that formed in high school. My junior and senior major projects in my high school Honor's English courses were on Langston Hughes and Malcolm X.
+My Black Literature elective built on my already deep interest in the Harlem Renaissance and the Black Civil Rights movement that formed in high school. My junior and senior major projects in my high school Honor's English courses were on Langston Hughes and Malcolm X.
 
 This college level course exposed me to other writers and poets from the United States but also from the African continent. It expanded my understanding of the beauty of my people's struggle and how words can channel the often untold truths of our lives.
 

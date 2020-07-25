@@ -36,7 +36,7 @@ My Black Literature elective built on my already deep interest in the Harlem Ren
 
 This college level course exposed me to other writers and poets from the United States but also from the African continent. It expanded my understanding of the beauty of my people's struggle and how words can channel the often untold truths of our lives.
 
-As a leader, this course prepared me to be unapologetically Black. I have been the first Black Manager experienced by many of the people on my teams. In some cases, I was the first Black employee at of the smaller companies where I've worked. When faced with challenges at work, I recall the words of the Black voices from this class and press through difficulty to find solutions.
+As a leader, this course prepared me to be unapologetically Black. I have been the first Black Manager experienced by many of the people on my teams. In some cases, I was the first Black employee at the smaller companies where I've worked. When faced with challenges at work, I recall the words of the Black voices from this class and press through difficulty to find solutions.
 
 ## Gandhi
 

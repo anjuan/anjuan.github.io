@@ -48,11 +48,11 @@ You don't have to provide your kids with the expensive office chairs you see in 
 
 We can't stress enough how important lighting is when kids are in a remote learning environment. First, the people on the other side of the video call will be able to clearly see your kids. Second, your kids will be less likely to suffer from eye strain.
 
-We went further and ordered some light therapy lamps (also called "[Seasonal Affective Disorder [SAD] lights](https://www.mayoclinic.org/tests-procedures/light-therapy/about/pac-20384604)") that provide light and also mimic sunlight to facilitate energy and focus. The learning center area in my house doesn't have windows near it so I wanted to provide a way for my teens to get something close to sunlight while they learn.
+We went further and ordered some light therapy lamps (also called "[Seasonal Affective Disorder [SAD] lights](https://www.mayoclinic.org/tests-procedures/light-therapy/about/pac-20384604)") that provide light and also mimic sunlight to facilitate energy and focus. The learning center area in my house doesn't have windows near it so we wanted to provide a way for my teens to get something close to sunlight while they learn.
 
 ### Invest in Quality Equipment
 
-You'll want to get the best possible equipment for your teens. That includes the computer, keyboard, mouse, monitor, and microphone they'll use ever school day. I also recommend getting a secondary monitor for each student since that provides one monitor for video calls and another monitor for doing work.
+You'll want to get the best possible equipment for your teens. That includes the computer, keyboard, mouse, monitor, and microphone they'll use ever school day. We also recommend getting a secondary monitor for each student since that provides one monitor for video calls and another monitor for doing work.
 
 It's easy to spend a **lot** of money buying equipment for your teens to use at home. However, compared to even a decade ago, computing power is relatively cheap. You may even have old computer equipment around your house that you can re-purpose and use. You can also buy what your budget allows for now and then upgrade later.
 

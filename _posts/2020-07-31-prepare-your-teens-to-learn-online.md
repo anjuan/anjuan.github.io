@@ -5,8 +5,8 @@ layout: post
 date: "2020-07-31"
 permalink: /blog/prepare-your-teens-to-learn-online/
 categories:
-  - Parenting
-excerpt: "In a few weeks, my three teen-aged children will start a school year with online learning for the first time. Here's what I'm doing to get them ready to learn from home."
+  - Tech
+excerpt: "In a few weeks, my three teen-aged children will start a school year with online learning for the first time. Here's what my wife and I are doing to get them ready to learn from home."
 comments: true
 ---
 
@@ -38,7 +38,7 @@ You should provide a desk for your kids to use while they learn online. They may
 
 ### Chair
 
-You teens will spend several hours sitting while they learn so they should have comfortable chairs. Don't use the card table chairs shown in the picture above. I have proper seating on order from Amazon, and they will be in place well before school starts.
+Your teens will spend several hours sitting while they learn so they should have comfortable chairs. Don't use the card table chairs shown in the picture above. We have proper seating on order from Amazon, and they will be in place well before school starts.
 
 You don't have to provide your kids with the expensive office chairs you see in a lot of workplaces. However, you should definitely invest in something **you** wouldn't mind sitting in for five or six hours a day.
 
@@ -46,21 +46,21 @@ You don't have to provide your kids with the expensive office chairs you see in 
 
 {% include image.html url="/images/light-therapy-lamps.jpg" alt="Light Therapy Lamps" caption="Light Therapy Lamps" %}
 
-I can't stress enough how important lighting is when kids are in a remote learning environment. First, the people on the other side of the video call will be able to clearly see your kids. Second, your kids will be less likely to suffer from eye strain.
+We can't stress enough how important lighting is when kids are in a remote learning environment. First, the people on the other side of the video call will be able to clearly see your kids. Second, your kids will be less likely to suffer from eye strain.
 
-I went further and ordered some light therapy lamps (also called "SAD lights") that provide light and also mimic sunlight to facilitate energy and focus. The learning center area in my house doesn't have windows near it so I wanted to provide a way for my teens to get something close to sunlight while they learn.
+We went further and ordered some light therapy lamps (also called "[Seasonal Affective Disorder [SAD] lights](https://www.mayoclinic.org/tests-procedures/light-therapy/about/pac-20384604)") that provide light and also mimic sunlight to facilitate energy and focus. The learning center area in my house doesn't have windows near it so I wanted to provide a way for my teens to get something close to sunlight while they learn.
 
 ### Invest in Quality Equipment
 
-You'll want to get the best possible equipment for your teens. That includes the computer, keyboard, mouse, monitor, and microphone. I also recommend getting a secondary monitor for each student since that provides one monitor for video calls and another monitor for doing work.
+You'll want to get the best possible equipment for your teens. That includes the computer, keyboard, mouse, monitor, and microphone they'll use ever school day. I also recommend getting a secondary monitor for each student since that provides one monitor for video calls and another monitor for doing work.
 
-It's easy to spend a **lot** of money buying equipment for your kids to use at home. However, compared to even a decade ago, computing power is relatively cheap. It's possible there's old equipment around your house that you can re-purpose and use. You can also buy what your budget allows for now and then upgrade later.
+It's easy to spend a **lot** of money buying equipment for your teens to use at home. However, compared to even a decade ago, computing power is relatively cheap. You may even have old computer equipment around your house that you can re-purpose and use. You can also buy what your budget allows for now and then upgrade later.
 
 ## Minimize Distractions
 
-When school starts for my teens, I'll collect their phones and the power cords of the gaming consoles the night before every school day. That guarantees that my teens won't be tempted to play on their phones or get in a few rounds on a video game when they're supposed to be learning.
+When school starts for my teens, we'll collect their phones and the power cords of the gaming consoles the night before every school day. That guarantees that ours teens won't be tempted to play on their phones or get in a few rounds on a video game when they're supposed to be learning.
 
-I even recommend keeping video game consoles and other distractions out of the room where your teens will be learning. That will reduce the risk of them even thinking about how to finish that new version of *Fortnite* when they should be listening to their teacher.
+We even recommend keeping video game consoles and other distractions out of the room where your teens will be learning. That will reduce the risk of them even thinking about how to finish that new version of *Fortnite* when they should be listening to their teacher.
 
 ## Communication
 
@@ -92,8 +92,6 @@ Encourage your kids to have pen and paper next to their computers and take notes
 
 {% include image.html url="/images/emma-matthews-digital-content-production-8K62atzbulQ-unsplash.jpg" alt="Laptop, calendar, and notepad" caption="Photo by Emma Matthews on Unsplash" %}
 
-
-
 Time management is a critical life skill, and learning from home is a great opportunity for your teens to get better at it!
 
 ### Ease into the Day
@@ -106,7 +104,7 @@ Your teens need to understand that class hours are times for extreme focus. They
 
 ### Lunch
 
-It's important to eat lunch! I also recommend having your kids leave the learning area to consume their meals. This gives them a mental break and reduces the chance that they'll come to see living at home as just an endless day at school. I plan to let them have their phones back during lunch so that they can socialize with their friends. However, I get their phones back when lunch time is over.
+It's important to eat lunch! We also recommend having your kids leave the learning area to consume their meals. This gives them a mental break and reduces the chance that they'll come to see living at home as just an endless day at school. We plan to let them have their phones back during lunch so that they can socialize with their friends. However, we take their phones back when lunch time is over.
 
 ### Take Breaks
 
@@ -118,8 +116,7 @@ Your teens need to get in study groups. This is a great practice that will help 
 
 ### After Action Review
 
-Check-in with your teens at the end of each day. They should let you know the highlights of what happened and also share any issues they need your help to resolve. I make the daily check-in a requirement for getting their phones and game console power cords back. This incentivizes them to come to me for the check-in (instead of me hunting them down).
-
+Check-in with your teens at the end of each day. They should let you know the highlights of what happened and also share any issues they need your help to resolve. We make the daily check-in a requirement for getting their phones and game console power cords back. This incentivizes them to come to us for the check-in (instead of trying to hunt them down).
 
 ## Manage Expectations
 

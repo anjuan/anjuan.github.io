@@ -16,21 +16,21 @@ My wife and I have three teen-agers, and they will start a new experience in a f
 
 I'm an Engineering Coach at [Help Scout](https://www.helpscout.com/) which is a company that was [created from the beginning to be a remote organization](https://www.helpscout.com/remote-management/). I've also worked remotely at other companies so I have a lot of experience thriving in environments where I have to be successful without being in person. I've written a post about [my remote work office setup](https://anjuansimmons.com/blog/my-remote-work-office-setup/) which details the gear I use to work from home.
 
-I've approached setting my kids up to successfully learn online based on what I've learned as a remote worker. This post lays out the setup I've created to help my kids thrive while virtually learning.
+We approached setting our kids up to successfully learn online based on what I've learned as a remote worker. This post lays out the setup we created to help our kids thrive while virtually learning.
 
 ## Environment
 
 The learning environment you create for your kids is a critical part of their ability to navigate this new version of school. You want to maximize their virtual experience while removing any distractions that will make it hard for them to focus.
 
-I'm fortunate to live in a house that has an area called a "learning center" upstairs. When my kids went to school, this part of the house wasn't used very much. Now that they will start learning online every day, I've transformed it into a key part of their education experience.
+We're fortunate to live in a house that has an area called a "learning center" upstairs. When ours kids went to school, this part of the house wasn't used very much. Now that they will start learning online every day,we've transformed it into a key part of their education experience.
 
 ### Internet
 
-My house is filled with security cameras that constantly stream video footage to the internet, and there are a variety of other online devices. I'm on video calls in my office for most of the working day, and my wife also needs the ability to teach her classes online. So, making sure my kids have enough bandwidth for several hours of instruction delivered over the web presented an interesting challenge.
+Our house is filled with security cameras that constantly stream video footage to the internet, and there are a variety of other online devices. I'm on video calls in my office for most of the working day, and my wife also needs the ability to teach her classes online. So, making sure our kids have enough bandwidth for several hours of instruction delivered over the web presented an interesting challenge.
 
-Fortunately, I live in an area with access to high speed internet delivered over fiber. I've tested getting everyone in my family online on a video call while also streaming several ultra high quality movies. My connection handled that load without any problems.
+Fortunately, we live in an area with access to high speed internet delivered over fiber. We tested getting everyone in my family online on a video call while also streaming several ultra high quality movies. Our connection handled that load without any problems.
 
-I recommend doing a similar test and seeing how your internet service performs. You may need to upgrade to a higher tier of service.
+We recommend doing a similar test and seeing how your internet service performs. You may need to upgrade to a higher tier of service.
 
 ### Desk
 

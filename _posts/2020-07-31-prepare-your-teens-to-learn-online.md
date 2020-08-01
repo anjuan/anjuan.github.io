@@ -14,7 +14,7 @@ comments: true
 
 My wife and I have three teen-agers, and they will start a new experience in a few weeks. For the first time ever, they will start a school year while staying at home. Instead of our usual ritual of getting them dressed and out the door for the first day of class, they will meet their new teachers and classmates through an online video conference.
 
-I'm and Engineering Coach at [Help Scout](https://www.helpscout.com/) which is a company that was [created from the beginning to be a remote organization](https://www.helpscout.com/remote-management/). I've also worked remotely at other companies so I have a lot of experience thriving in environments where I have to be successful without being in person. I've written a post about [my remote work office setup](https://anjuansimmons.com/blog/my-remote-work-office-setup/) which details the gear I use to work from home.
+I'm an Engineering Coach at [Help Scout](https://www.helpscout.com/) which is a company that was [created from the beginning to be a remote organization](https://www.helpscout.com/remote-management/). I've also worked remotely at other companies so I have a lot of experience thriving in environments where I have to be successful without being in person. I've written a post about [my remote work office setup](https://anjuansimmons.com/blog/my-remote-work-office-setup/) which details the gear I use to work from home.
 
 I've approached setting my kids up to successfully learn online based on what I've learned as a remote worker. This post lays out the setup I've created to help my kids thrive while virtually learning.
 

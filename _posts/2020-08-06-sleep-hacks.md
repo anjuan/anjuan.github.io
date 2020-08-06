@@ -10,9 +10,9 @@ excerpt: "My wife and I put a lot of value on high quality sleep, and these are 
 comments: true
 ---
 
-{% include image.html url="/images/sleep-hacks-header.jpg" alt="Bedroom" caption="Photo by NeONBRAND on Unsplash - Not OurActual Bedroom" %}
-
 # Sleep Hacks
+
+{% include image.html url="/images/sleep-hacks-header.jpg" alt="Bedroom" caption="Photo by NeONBRAND on Unsplash - Not Our Actual Bedroom" %}
 
 My wife and I have been .arrived for over 18 years, and we've tried a variety of experiments to increase the quality of our sleep. Our sleep practices have evolved over the years, and these are the hacks we're currently using. 
 

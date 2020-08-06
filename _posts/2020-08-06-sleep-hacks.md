@@ -1,4 +1,16 @@
-Abstract: My wife and I put a lot of value on high quality sleep, and these are a few hacks we've put into place to wake up refreshed and energized in the morning. 
+---
+title: 'Sleep Hacks'
+author: anjuan
+layout: post
+date: "2020-08-06"
+permalink: /blog/sleep-hacks/
+categories:
+  - Health
+excerpt: "My wife and I put a lot of value on high quality sleep, and these are a few hacks we've put into place to wake up refreshed and energized in the morning."
+comments: true
+---
+
+{% include image.html url="/images/prepare-your-kids-to-learn-online-header.jpg" alt="Learning Center" caption="The Learning Center" %}
 
 # Sleep Hacks
 

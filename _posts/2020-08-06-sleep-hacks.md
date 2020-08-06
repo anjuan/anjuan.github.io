@@ -14,7 +14,7 @@ comments: true
 
 {% include image.html url="/images/sleep-hacks-header.jpg" alt="Bedroom" caption="Photo by NeONBRAND on Unsplash - Not Our Actual Bedroom" %}
 
-My wife and I have been married for over 18 years, and we've tried a variety of experiments to increase the quality of our sleep. Our sleep practices have evolved over the years, and these are the hacks we're currently using. 
+My wife and I have been married for over 18 years, and we've tried a variety of experiments to increase the quality of our sleep. Our sleep practices have evolved over the years, and these are four of the hacks we're currently using. 
 
 ## A Floor Fan
 

@@ -10,7 +10,7 @@ excerpt: "My wife and I put a lot of value on high quality sleep, and these are 
 comments: true
 ---
 
-{% include image.html url="/images/prepare-your-kids-to-learn-online-header.jpg" alt="Learning Center" caption="The Learning Center" %}
+{% include image.html url="/images/sleep-hacks-header.jpg" alt="Bedroom" caption="Photo by NeONBRAND on Unsplash - Not OurActual Bedroom" %}
 
 # Sleep Hacks
 

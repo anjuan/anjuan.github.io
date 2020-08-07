@@ -18,7 +18,7 @@ My wife and I have been married for over 18 years, and we've tried a variety of 
 
 ## Hack #1 - A Floor Fan
 
-My wife introduced me to the idea of using a floor fan set to the highest level. In addition to cooling the bedroom, the fan produces white noise that helps to drown out any other sounds that may disrupt our sleep. 
+My wife introduced me to the idea of using a floor fan early in our marrigage, and we run it set at the highest level. In addition to cooling the bedroom, the fan produces white noise that helps to drown out any other sounds that may disrupt our sleep. 
 
 We place this fan so that it's pointed slightly away from the bed. We found that having the fan directly pointed at the bed would cause our faces to dry out when we woke up in the morning. We don't use the oscillating feature because we prefer to just have the fan project a steady stream of air. 
 

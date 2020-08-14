@@ -14,138 +14,19 @@ comments: true
 
 I love playing dominoes. There are few games that have simple mechanics yet require nuanced strategy. It's also an easy game to set up and play unlike chess, checkers, backgammon and other classic games that require a board. To play a game of dominoes, you just need the tiles and a flat surface.
 
-For the purpose of this post, I refer to the All Fives version of dominoes.
+For the purpose of this post, I refer to the [All Fives](https://www.thesprucecrafts.com/all-fives-dominoes-rules-410908) version of dominoes where the first double played is the spinner (there can only be one spinner). The goal is to make the table count a multiple of five which adds to that side's score. Winning requires scoring 250 points.
 
-## Read your hand
+Here are the leadership lessons I've learned playing countless games of dominoes.
 
-Description
+## Read your Tiles
 
-### Game Example
-
-### Leadership Lesson
-
-Lead with your strengths. Supplement your weaknesses (upgraded critical weaknesses and delegate others).
-
-## The Power of Diversity (keep a variety of numbers in your hand)
-
-Description
+Every round of dominoes provides a fresh set of tiles that you have to analyze and use to create a strategy. Even before the first hand is played, the wise domino player has already created a plan for their hand.
 
 ### Game Example
 
-### Leadership Lesson
+Consider this set of tiles:
 
-## How to Spot a Force Multiplier (like 6:1)
-
-Description
-
-### Game Example
-
-### Leadership Lesson
-
-## Know when to play defense (Lower the Table Count to Reduce Risk)
-
-Description
-
-### Game Example
-
-### Leadership Lesson
-
-
-
-## Know that you don't control everything (you have to play big six and have no other sixes; use another strategy)
-
-Description
-
-### Game Example
-
-### Leadership Lesson
-
-## Not All Money Is Good Money (strategy over quick wins; have big five and a lot of one suit - instead of taking the ten points, play a double of that suit and see your opponent knock or draw from the boneyard) 
-
-Description
-
-### Game Example
-
-### Leadership Lesson
-
-## Do the Obvious Things (play 6:3 when you see big six. 
-
-Description
-
-### Game Example
-
-### Leadership Lesson
-
-## How to Deal with Double Trouble
-
-Description
-
-### Game Example
-
-### Leadership Lesson
-
-## Know when to go for the kill (play big five even if it's my last five)
-
-Description
-
-### Game Example
-
-### Leadership Lesson
-
-
-*All domino images came from [Clker-Free-Vector-Images](https://pixabay.com/users/Clker-Free-Vector-Images-3736) on Pixabay*
-
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 10%;
-  padding: 1px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-<div class="row">
-  <div class="column">
-    <img src="/images/6-6.png" alt="6-6" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/6-5.jpg" alt="6-5" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/4-6.png" alt="4-6" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/3-6.png" alt="3-6" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/6-2.jpg" alt="6-2" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/6-1.jpg" alt="6-1" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/0-6.png" alt="0-6" style="width:100%">
-  </div>
-</div>
-
-</body>
-</html>
-
-
+<br>
 <html>
 <head>
 <style>
@@ -174,25 +55,107 @@ Description
     <img src="/images/5-5.png" alt="5-5" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/4-5.png" alt="4-5" style="width:100%">
+    <img src="/images/2-5.png" alt="2-5" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/3-5.png" alt="3-5" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/2-5.png" alt="2-5" style="width:100%">
+    <img src="/images/0-5.png" alt="1-5" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/1-5.png" alt="1-5" style="width:100%">
+    <img src="/images/4-1.png" alt="4-1" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/0-5.png" alt="0-5" style="width:100%">
+    <img src="/images/3-6.png" alt="3-6" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/6-1.jpg" alt="6-1" style="width:100%">
   </div>
 </div>
 
 </body>
 </html>
+<br>
 
+This is a respectable hand that presents a range of possibilities. There aren't any missing numbers so you have a play no matter what is played before your turn. If the person before you plays big six (6-6) as the first tile, you can immediately play 3-6 and score 15 points. You're also going to have fun playing all of those fives, aren't you?
+
+![Ice Cube](/images/domino.gif)
+
+Now consider this set of tiles:
+
+<br>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 10%;
+  padding: 1px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <img src="/images/6-6.png" alt="6-6" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/5-5.png" alt="5-5" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/4-4.jpg" alt="4-4" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/0-4.png" alt="0-4" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/2-2.jpg" alt="2-2" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/4-5.png" alt="4-5" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/0-0.jpg" alt="0-0" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
+<br>
+
+You want to throw them back, right? All of those doubles will be hard to play, and you don't have any threes or ones. This isn't going to be a fun round unless you play really well and everyone else plays really bad.
+
+### Leadership Lesson
+
+Few leaders select everyone on their team and even the ones you pick may not meet your expectations. So, it's important to deeply inspect your team and understand each person's strengths and weaknesses. This won't be as obvious as reading a set of domino tiles, but you'll be able to understand what your team can and cannot do if you pay attention.
+
+I've been lucky to lead a lot of teams with high performing individuals, but teams need more than just talented people. Even small teams can have two or more people in conflict, and, as a leader, it's your job to manage that conflict to a conclusion. Also, some teams may have a lot of talent and cohesion, but they engage is wasteful practices that limit what they can do.
+
+As a leader, you also have strengths and weaknesses, and you have to be honest with yourself about them. Lead with your strengths and make exercising them a daily part of your leadership style. Supplement your weaknesses by either getting better (if you have a weakness in a core area) or delegating to people who excel in your areas of weakness.
+
+
+## The Power of Diversity
+
+One key to a successful game of dominoes is always having the ability to make a play. If you can consistently make a play and prevent others from playing, then you'll well on your way to 250.
+
+### Game Example
+
+Here's another example of a strong set of tiles:
+
+<br>
 <html>
 <head>
 <style>
@@ -224,61 +187,58 @@ Description
     <img src="/images/3-4.png" alt="3-4" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/4-2.png" alt="4-2" style="width:100%">
-  </div>
-  <div class="column">
     <img src="/images/4-1.png" alt="4-1" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/0-4.png" alt="0-4" style="width:100%">
   </div>
-</div>
-
-</body>
-</html>
-
-
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 10%;
-  padding: 1px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-<div class="row">
   <div class="column">
-    <img src="/images/3-3.png" alt="3-3" style="width:100%">
+    <img src="/images/4-6.png" alt="4-6" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/3-2.jpg" alt="3-2" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/3-1.png" alt="3-1" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/3-0.png" alt="3-0" style="width:100%">
+    <img src="/images/1-5.png" alt="6-1" style="width:100%">
   </div>
 </div>
 
 </body>
 </html>
+<br>
 
+You have a lot of fours, but you also have one of each number. So, you can attack with your fours and also respond to other plays.
+
+### Leadership Lesson
+
+Diverse teams give you the ability to make plays and also detect problems. If you have a variety of races, genders, personalities, etc., then you have someone who can bring what's need to almost any situation. If you have a team of identical people, then you have a team where most of the people are redundant.
+
+Take a look at your team and see if you're missing any voices or perspectives. While you may not be able to immediately solve this problem, keep diversity in mind when you have the next opportunity to add to your team.
+
+
+## Remember That You Don't Control Everything
+
+Dominoes is almost a perfectly balanced game with a variety of things that are in your control and several things that you can't control. Maximizing the outcomes of the things you can control and mitigating the effects of what you can't control is a big part of the game.
+
+### Game Example
+
+In the version of dominoes that I play, the person with the highest double goes first and starts the game by playing that tile. I hate being that person. While this gives you some control, if that first double is the only tile I have with that number, then I'm very exposed to my opponent playing that number.
+
+### Leadership Lesson
+
+Leaders usually have a lot of control over the people you lead, but you don't control everything. There are things that happen in the personal lives of our team that can impact how they show up to work. Also, we live in a world of constant change, and global events can have a tremendous effect on the people we lead.
+
+It's important to realize that you don't control everything, and you shouldn't make plans that require you  to control everything. Plan enough to guide your team through the next reasonable steps, but always be willing to embrace change.
+
+## Not All Money Is Good Money (strategy over quick wins; have big five and a lot of one suit - instead of taking the ten points, play a double of that suit and see your opponent knock or draw from the boneyard) 
+
+There are often opportunities in the game of dominoes to score quick points, but this can be at the expense of your long term strategy.
+
+### Game Example
+
+Check this out:
+
+<br>
 <html>
 <head>
 <style>
@@ -304,82 +264,44 @@ Description
 
 <div class="row">
   <div class="column">
-    <img src="/images/2-2.jpg" alt="2-2" style="width:100%">
+    <img src="/images/5-5.png" alt="5-5" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/2-1.jpg" alt="2-1" style="width:100%">
+    <img src="/images/4-4.jpg" alt="3-4" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/2-0.jpg" alt="2-0" style="width:100%">
+    <img src="/images/3-4.png" alt="3-4" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/0-4.png" alt="0-4" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/4-1.png" alt="4-1" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/4-6.png" alt="4-6" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/3-2.jpg" alt="3-2" style="width:100%">
   </div>
 </div>
 
 </body>
 </html>
+<br>
 
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
+I've been in this scenario many times. I have big five (5-5) in my hand, but it's the only five I have. I also have a lot of another number (like fours). Do I play big five first and get ten points? No! That would make me unable to play a give for the rest of the game. So, instead of going for the quick money, I play big four (4-4) which sets it as the spinner. More often the not, since I have so may fours, the person going after me won't be able to play.
 
-.column {
-  float: left;
-  width: 10%;
-  padding: 1px;
-}
+### Leadership Lesson
 
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
+As a leader, you'll get a lot of opportunities to change your team. Not every opportunity is a good one. I've had situations over the years where, for a variety of reasons, I can add a person to my team. That person may be talented, but there may be some reason they would be a net negative addition. Perhaps they have a style that doesn't add to the dynamics of my team. Or, my team and I have settled into a nice cadence, and I don't want to change the team's composition. 
 
-<div class="row">
-  <div class="column">
-    <img src="/images/1-1.png" alt="1-1" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/1-0.jpg" alt="1-0" style="width:100%">
-  </div>
-</div>
+It's hard to say no to opportunities, but you'll have to always assess if the inevitable change that will come with the opportunity is aligned with your long term strategy. It's almost always better to adhere to your long term strategy.
 
-</body>
-</html>
+## Summary
 
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
+{% include image.html url="/images/cairo-dominoes.jpg" alt="Dominoes in Cairo" caption="This is me playing dominoes in Cairo, Egypt in the 1990s. I couldn't speak arabic, but my partner and I killed it." %}
 
-.column {
-  float: left;
-  width: 10%;
-  padding: 1px;
-}
+I love playing dominoes, and I've learned a lot about leading teams from the game. Also, if you ever want to play, I usually have a set of tiles not too far away!
 
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-<div class="row">
-  <div class="column">
-    <img src="/images/0-0.jpg" alt="0-0" style="width:100%">
-  </div>
-</div>
-
-</body>
-</html>
+*All domino images came from [Clker-Free-Vector-Images](https://pixabay.com/users/Clker-Free-Vector-Images-3736) on Pixabay*

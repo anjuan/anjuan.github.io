@@ -6,7 +6,8 @@ date: "2020-08-14"
 permalink: /blog/everything-i-need-to-know-about-leadership-i-learned-playing-dominoes/
 categories:
   - Leadership
-excerpt: "I love a good game of dominoes here are the leadership lessons crushing my opponents has taught me over the years."
+excerpt: "I love a good game of dominoes, and here are the leadership lessons I've learned from crushing my opponents over the years.
+"
 comments: true
 ---
 

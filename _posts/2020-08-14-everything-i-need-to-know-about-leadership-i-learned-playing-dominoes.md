@@ -147,7 +147,6 @@ I've been lucky to lead a lot of teams with high performing individuals, but tea
 
 As a leader, you also have strengths and weaknesses, and you have to be honest with yourself about them. Lead with your strengths and make exercising them a daily part of your leadership style. Supplement your weaknesses by either getting better (if you have a weakness in a core area) or delegating those areas to people who excel in them.
 
-
 ## The Power of Diversity
 
 One key to a successful game of dominoes is always having the ability to make a play. If you can consistently make a play and prevent others from playing, then you'll be well on your way to 250.
@@ -291,7 +290,7 @@ Check this out:
 </html>
 <br>
 
-I've been in this scenario many times. I have big five (5-5) in my hand, but it's the only five I have. I also have a lot of another number (like fours). Do I play big five first and get ten points? No! That would make me unable to play a five for the rest of the game. So, instead of going for the quick money, I play big four (4-4) which sets it as the spinner. More often the not, since I have so may fours, the person going after me won't be able to play.
+I've been in this scenario many times. I have big five (5-5) in my hand, but it's the only five I have. I also have a lot of another number (like fours). Do I play big five first and get ten points? No! That would make me unable to play a five for the rest of the game. So, instead of going for the quick money, I play big four (4-4) which sets it as the spinner. More often the not, since I have so many fours, the person going after me won't be able to play.
 
 ### Leadership Lesson
 

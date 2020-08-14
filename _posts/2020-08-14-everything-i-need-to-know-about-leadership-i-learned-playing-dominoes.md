@@ -20,7 +20,7 @@ Here are the leadership lessons I've learned playing countless games of dominoes
 
 ## Read your Tiles
 
-Every round of dominoes provides a fresh set of tiles that you have to analyze and use to create a strategy. Even before the first hand is played, the wise domino player has already created a plan for their hand.
+Every round of dominoes provides a fresh set of tiles that you have to analyze and use to create a strategy. Even before the first hand is played, the wise domino player has already created a plan for the tiles in their hand.
 
 ### Game Example
 
@@ -78,7 +78,7 @@ Consider this set of tiles:
 </html>
 <br>
 
-This is a respectable hand that presents a range of possibilities. There aren't any missing numbers so you have a play no matter what is played before your turn. If the person before you plays big six (6-6) as the first tile, you can immediately play 3-6 and score 15 points. You're also going to have fun playing all of those fives, aren't you?
+This is a good set of tiles that present a range of possibilities. There aren't any missing numbers so you have a play no matter what is played before your turn. If the person before you plays big six (6-6) as the first tile, you can immediately play 3-6 and score 15 points. You're also going to have fun playing all of those fives, aren't you?
 
 ![Ice Cube](/images/domino.gif)
 
@@ -142,14 +142,14 @@ You want to throw them back, right? All of those doubles will be hard to play, a
 
 Few leaders select everyone on their team and even the ones you pick may not meet your expectations. So, it's important to deeply inspect your team and understand each person's strengths and weaknesses. This won't be as obvious as reading a set of domino tiles, but you'll be able to understand what your team can and cannot do if you pay attention.
 
-I've been lucky to lead a lot of teams with high performing individuals, but teams need more than just talented people. Even small teams can have two or more people in conflict, and, as a leader, it's your job to manage that conflict to a conclusion. Also, some teams may have a lot of talent and cohesion, but they engage is wasteful practices that limit what they can do.
+I've been lucky to lead a lot of teams with high performing individuals, but teams need more than just talented people. Even small teams can have two or more people in conflict with each other, and, as a leader, it's your job to guide that conflict to a conclusion. Also, some teams may have a lot of talent and cohesion, but they engage is wasteful practices that limit what they can do.
 
-As a leader, you also have strengths and weaknesses, and you have to be honest with yourself about them. Lead with your strengths and make exercising them a daily part of your leadership style. Supplement your weaknesses by either getting better (if you have a weakness in a core area) or delegating to people who excel in your areas of weakness.
+As a leader, you also have strengths and weaknesses, and you have to be honest with yourself about them. Lead with your strengths and make exercising them a daily part of your leadership style. Supplement your weaknesses by either getting better (if you have a weakness in a core area) or delegating those areas to people who excel in them.
 
 
 ## The Power of Diversity
 
-One key to a successful game of dominoes is always having the ability to make a play. If you can consistently make a play and prevent others from playing, then you'll well on your way to 250.
+One key to a successful game of dominoes is always having the ability to make a play. If you can consistently make a play and prevent others from playing, then you'll be well on your way to 250.
 
 ### Game Example
 
@@ -211,7 +211,7 @@ You have a lot of fours, but you also have one of each number. So, you can attac
 
 ### Leadership Lesson
 
-Diverse teams give you the ability to make plays and also detect problems. If you have a variety of races, genders, personalities, etc., then you have someone who can bring what's need to almost any situation. If you have a team of identical people, then you have a team where most of the people are redundant.
+Diverse teams give you the ability to make plays and also detect problems. If you have a variety of races, genders, personalities, etc., then you have someone who can bring what's needed to almost any situation. If you have a team of identical people, then you have a team where most of the people are redundant.
 
 Take a look at your team and see if you're missing any voices or perspectives. While you may not be able to immediately solve this problem, keep diversity in mind when you have the next opportunity to add to your team.
 
@@ -230,7 +230,7 @@ Leaders usually have a lot of control over the people you lead, but you don't co
 
 It's important to realize that you don't control everything, and you shouldn't make plans that require you  to control everything. Plan enough to guide your team through the next reasonable steps, but always be willing to embrace change.
 
-## Not All Money Is Good Money (strategy over quick wins; have big five and a lot of one suit - instead of taking the ten points, play a double of that suit and see your opponent knock or draw from the boneyard) 
+## Not All Money Is Good Money
 
 There are often opportunities in the game of dominoes to score quick points, but this can be at the expense of your long term strategy.
 
@@ -290,17 +290,17 @@ Check this out:
 </html>
 <br>
 
-I've been in this scenario many times. I have big five (5-5) in my hand, but it's the only five I have. I also have a lot of another number (like fours). Do I play big five first and get ten points? No! That would make me unable to play a give for the rest of the game. So, instead of going for the quick money, I play big four (4-4) which sets it as the spinner. More often the not, since I have so may fours, the person going after me won't be able to play.
+I've been in this scenario many times. I have big five (5-5) in my hand, but it's the only five I have. I also have a lot of another number (like fours). Do I play big five first and get ten points? No! That would make me unable to play a five for the rest of the game. So, instead of going for the quick money, I play big four (4-4) which sets it as the spinner. More often the not, since I have so may fours, the person going after me won't be able to play.
 
 ### Leadership Lesson
 
-As a leader, you'll get a lot of opportunities to change your team. Not every opportunity is a good one. I've had situations over the years where, for a variety of reasons, I can add a person to my team. That person may be talented, but there may be some reason they would be a net negative addition. Perhaps they have a style that doesn't add to the dynamics of my team. Or, my team and I have settled into a nice cadence, and I don't want to change the team's composition. 
+As a leader, you'll get a lot of opportunities to change your team. Not every opportunity is a good one. I've had situations over the years where, for a variety of reasons, I can add a person to my team. That person may be talented, but there may be some reason they would be a net negative addition. Perhaps they have a style that doesn't add to the dynamics of my team. Or, maybe my team and I have settled into a nice cadence, and I don't want to change the team's composition.
 
-It's hard to say no to opportunities, but you'll have to always assess if the inevitable change that will come with the opportunity is aligned with your long term strategy. It's almost always better to adhere to your long term strategy.
+It's hard to say no to opportunities, but you have to determine if the inevitable change that will come with the opportunity is aligned with your long term strategy. It's almost always better to adhere to your long term strategy instead of going for what appears to be a quick win.
 
 ## Summary
 
-{% include image.html url="/images/cairo-dominoes.jpg" alt="Dominoes in Cairo" caption="This is me playing dominoes in Cairo, Egypt in the 1990s. I couldn't speak arabic, but my partner and I killed it." %}
+{% include image.html url="/images/cairo-dominoes.jpg" alt="Dominoes in Cairo" caption="This is me playing dominoes in Cairo, Egypt in the 1990s. I couldn't speak arabic, but my partner and I killed it. Never play against a guy wearing a scarf with that much confidence." %}
 
 I love playing dominoes, and I've learned a lot about leading teams from the game. Also, if you ever want to play, I usually have a set of tiles not too far away!
 

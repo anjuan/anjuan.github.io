@@ -266,7 +266,7 @@ Description
     <img src="/images/3-3.png" alt="3-3" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/3-2.png" alt="3-2" style="width:100%">
+    <img src="/images/3-2.jpg" alt="3-2" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/3-1.png" alt="3-1" style="width:100%">
@@ -345,7 +345,7 @@ Description
     <img src="/images/1-1.png" alt="1-1" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/1-0.png" alt="1-0" style="width:100%">
+    <img src="/images/1-0.jpg" alt="1-0" style="width:100%">
   </div>
 </div>
 
@@ -377,7 +377,7 @@ Description
 
 <div class="row">
   <div class="column">
-    <img src="/images/0-0.png" alt="0-0" style="width:100%">
+    <img src="/images/0-0.jpg" alt="0-0" style="width:100%">
   </div>
 </div>
 

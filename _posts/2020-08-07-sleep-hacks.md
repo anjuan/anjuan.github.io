@@ -2,7 +2,7 @@
 title: 'Sleep Hacks'
 author: anjuan
 layout: post
-date: "2020-08-06"
+date: "2020-08-07"
 permalink: /blog/sleep-hacks/
 categories:
   - Health
@@ -12,7 +12,7 @@ comments: true
 
 {% include image.html url="/images/sleep-hacks-header.jpg" alt="Bedroom" caption="Photo by NeONBRAND on Unsplash - Not Our Actual Bedroom" %}
 
-My wife and I have been married for over 18 years, and we've tried a variety of experiments to increase the quality of our sleep. Our sleep practices have evolved over the years, and these are four of the hacks we're currently using. 
+My wife and I have been married for over 18 years, and we've tried a variety of experiments to increase the quality of our sleep. Our sleep practices have evolved over the years, and these are four of the hacks we're currently using.
 
 ## Hack #1 - A Floor Fan
 

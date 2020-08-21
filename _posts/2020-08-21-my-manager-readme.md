@@ -1,5 +1,5 @@
 ---
-title: 'My Manager README (User Manual)'
+title: 'My Manager README'
 author: anjuan
 layout: post
 date: "2020-08-21"

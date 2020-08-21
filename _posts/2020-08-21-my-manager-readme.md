@@ -12,7 +12,7 @@ comments: true
 
 {% include image.html url="/images/manager-readme-header.jpg" alt="Matrix Code" caption="Image by Comfreak from Pixabay" %}
 
-I wrote this for a company that asked all managers to create a "User Manual" for their teams. This type of document it also known as a manager README. A [README file](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes) in a code repository describes the project and how to use it. So, a manager README is meant to describe how to understand and interact with a manager.
+I wrote this for a company that asked all managers to create a "User Manual" for their teams. This type of document it also known as a manager README. A [README file](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes) in a code repository describes the project and how to use it. So, a [manager README](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b) is meant to describe how to understand and interact with a manager.
 
 Manager READMEs began circulating online a couple of years ago by prominent leaders at tech companies. However, they became controversial since some saw them as self-serving shortcuts to get team members to behave in a certain way instead of doing the hard work of building trust. I understand that skepticism, and I have tried to write this in a way that avoids many of the pitfalls of manager READMEs.
 
@@ -59,32 +59,23 @@ I share this here because there’s ample information available online about how
 
 Personalities don’t fit into neat little boxes, but most people do have tendencies and preferences based on their temperament. Knowing my personality types won’t let you perfectly predict my behavior, but I think this information will help you notice consistent patterns in how I approach work and life.
 
-## **How to Contact Me**
-
-Don't fret over how to contact me if you need to tell me something. Just pick the communication channel that works best for you. However, the fastest way to get a response from me is usually in written form (email, text, Slack message, etc.). Of course, if we're in the same physical location, you can always come up to me and talk! However, I usually work remotely these days, and it's rare that I'm in the same space with my team.
-
-While I prefer written communication, if you send me a “We need to talk” message without any context, I will probably assume the worst (i.e., something is coming to an end).
-
 ## **Values and Expectations**
 
 * **What I value most:** Empathy
 * **What you can expect from me:** Unconditional Support
 * **What I expect from you:** Your best (and a desire to make your best better)
 
+## **How to Contact Me**
+
+Don't fret over how to contact me if you need to tell me something. Just pick the communication channel that works best for you. However, the fastest way to get a response from me is usually in written form (email, text, Slack message, etc.). Of course, if we're in the same physical location, you can always come up to me and talk! However, I usually work remotely these days, and it's rare that I'm in the same space with my team.
+
+While I prefer written communication, if you send me a “We need to talk” message without any context, I will probably assume the worst (i.e., something is coming to an end).
+
 ## **How I Like to Learn**
 
 As a contextual learner, I prefer to understand the big picture and then dig into the details. For example, when I need to learn something new, I like to understand how this information can be applied.
 
 I also prefer to learn through creating something. If I'm learning a new programming language, I don't want to spend a lot of time understanding syntax and structure. I'd rather try to create something to solve a problem and learn the language that way.
-
-## **Here are Some Honest, Unfiltered Things about Me**
-
-* I’m not a fan of small talk, but I have learned to engage in it.
-* I’m not against hugs, but I will very rarely initiate one. However, I will always happily accept one.
-* I need “processing time” to accept new ideas which some may view as rejection.
-* I can think ahead several steps, but I sometimes forget to catch others up to where I’m at in my thought processes.
-* When it comes to projects, I can easily see where one that has started needs improvement and how to overcome obstacles to success. However, I sometimes struggle with starting projects and occasionally need help to know where to begin.
-* Despite being an introvert, if I'm excited about a subject or know a lot about it, I will talk AT LENGTH about it and probably make it difficult for others to  get a word in edgewise. If my wife is present, she will usually walk up to me and put a sympathetic hand on my arm and smile.
 
 ## **Some Things That Bother Me**
 
@@ -117,9 +108,24 @@ As an introvert who prefers concrete thinking over abstract thinking, I prefer t
 * A big part of my role is facilitating meetings, and I have to sometimes end discussions for the sake of achieving the goal of the meeting. I’ll do my best to get back to your point at the end of the meeting (if we have time) or in some other forum.
 * If you and I have a conflict in the presence of others, I will probably seek to end the conversation and resume it when we can talk privately.
 
-## **My Quirks**
+## **Ten Things about Me That May Seem Weird to You**
 
-* I know I’m an introvert so I sometimes over-compensate by being “ON” in social settings. This may come across as me being VERY earnest and excited to be talking with you. I may have also had too much coffee.
-* If you encounter me after I've engaged in a lot of social interaction I will probably be drained and very tired. I'm always happy to chat, but I may struggle due to fatigue.
-* I may . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . pause . . . . . . . . . . . . . . . . . . . . . . . for a very long time before answering your question. I like giving a thoughtful response, and it can take me some time to put one together.
-* (super vulnerable time here, ok, deep breath, ok, I can do it, deep deep breath...) I have a slight stutter that I’ve managed since childhood. It’s (I hope) nearly imperceptible, but I can sometimes stumble over my words or have moments of disfluency. I may also start saying one word, realize I’ll stutter if I say it, and then quickly switch to another word. My desire to not be shackled by my fear of stuttering in front of people is a big reason I became a [public speaker](https://anjuansimmons.com/talks/).
+1. I’m not a fan of small talk, but I have learned to engage in it.
+
+2. I’m not against hugs, but I will very rarely initiate one. However, I will always happily accept one.
+
+3. I need “processing time” to accept new ideas which some may view as rejection.
+
+4. I can think ahead several steps, but I sometimes forget to catch others up to where I’m at in my thought processes.
+
+5. When it comes to projects, I can easily see where one that has started needs improvement and how to overcome obstacles to success. However, I sometimes struggle with starting projects and occasionally need help to know where to begin.
+
+6. Despite being an introvert, if I'm excited about a subject or know a lot about it, I will talk AT LENGTH about it and probably make it difficult for others to  get a word in edgewise. If my wife is present, she will usually walk up to me and put a sympathetic hand on my arm and smile.
+
+7. I know I’m an introvert so I sometimes over-compensate by being “ON” in social settings. This may come across as me being VERY earnest and excited to be talking with you. I may have also had too much coffee.
+
+8. If you encounter me after I've engaged in a lot of social interaction I will probably be drained and very tired. I'm always happy to chat, but I may struggle due to fatigue.
+
+9. I may . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . pause . . . . . . . . . . . . . . . . . . . . . . . for a very long time before answering your question. I like giving a thoughtful response, and it can take me some time to put one together.
+
+10. (super vulnerable time here, ok, deep breath, ok, I can do it, deep deep breath...) I have a slight stutter that I’ve managed since childhood. It’s (I hope) nearly imperceptible, but I can sometimes stumble over my words or have moments of disfluency. I may also start saying one word, realize I’ll stutter if I say it, and then quickly switch to another word. My desire to not be shackled by my fear of stuttering in front of people is a big reason I became a [public speaker](https://anjuansimmons.com/talks/).

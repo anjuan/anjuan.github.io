@@ -14,7 +14,7 @@ comments: true
 
 I wrote this for a company that asked all managers to create a "User Manual" for their teams. This type of document it also known as a manager README. A [README file](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes) in a code repository describes the project and how to use it. So, a [manager README](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b) is meant to describe how to understand and interact with a manager.
 
-Manager READMEs began circulating online a couple of years ago by prominent leaders at tech companies. However, they became controversial since some saw them as self-serving shortcuts to get team members to behave in a certain way instead of doing the hard work of building trust. I understand that skepticism, and I have tried to write this in a way that avoids many of the pitfalls of manager READMEs.
+Manager READMEs began circulating online a couple of years ago by prominent leaders at tech companies. However, they became controversial since some were self-serving shortcuts to get team members to behave in a certain way instead of doing the hard work of building trust. I understand that skepticism, and I have tried to write this in a way that avoids many of the pitfalls of manager READMEs.
 
 ## **tl;dr**
 

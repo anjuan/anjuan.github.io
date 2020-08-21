@@ -19,11 +19,11 @@ For the purpose of this post, I refer to the [All Fives](https://www.thesprucecr
 
 Here are the leadership lessons I've learned playing countless games of dominoes.
 
-## Read your Tiles
+## **Read your Tiles**
 
 Every round of dominoes provides a fresh set of tiles that you have to analyze and use to create a strategy. Even before the first hand is played, the wise domino player has already created a plan for the tiles in their hand.
 
-### Game Example
+### **Game Example**
 
 Consider this set of tiles:
 
@@ -83,6 +83,8 @@ This is a good set of tiles that present a range of possibilities. There aren't 
 
 ![Ice Cube](/images/domino.gif)
 
+<br>
+
 Now consider this set of tiles:
 
 <br>
@@ -139,7 +141,7 @@ Now consider this set of tiles:
 
 You want to throw them back, right? All of those doubles will be hard to play, and you don't have any threes or ones. This isn't going to be a fun round unless you play really well and everyone else plays really bad.
 
-### Leadership Lesson
+### **Leadership Lesson**
 
 Few leaders select everyone on their team and even the ones you pick may not meet your expectations. So, it's important to deeply inspect your team and understand each person's strengths and weaknesses. This won't be as obvious as reading a set of domino tiles, but you'll be able to understand what your team can and cannot do if you pay attention.
 
@@ -147,11 +149,11 @@ I've been lucky to lead a lot of teams with high performing individuals, but tea
 
 As a leader, you also have strengths and weaknesses, and you have to be honest with yourself about them. Lead with your strengths and make exercising them a daily part of your leadership style. Supplement your weaknesses by either getting better (if you have a weakness in a core area) or delegating those areas to people who excel in them.
 
-## The Power of Diversity
+## **The Power of Diversity**
 
 One key to a successful game of dominoes is always having the ability to make a play. If you can consistently make a play and prevent others from playing, then you'll be well on your way to 250.
 
-### Game Example
+### **Game Example**
 
 Here's another example of a strong set of tiles:
 
@@ -209,32 +211,31 @@ Here's another example of a strong set of tiles:
 
 You have a lot of fours, but you also have one of each number. So, you can attack with your fours and also respond to other plays.
 
-### Leadership Lesson
+### **Leadership Lesson**
 
 Diverse teams give you the ability to make plays and also detect problems. If you have a variety of races, genders, personalities, etc., then you have someone who can bring what's needed to almost any situation. If you have a team of identical people, then you have a team where most of the people are redundant.
 
 Take a look at your team and see if you're missing any voices or perspectives. While you may not be able to immediately solve this problem, keep diversity in mind when you have the next opportunity to add to your team.
 
-
-## Remember That You Don't Control Everything
+## **Remember That You Don't Control Everything**
 
 Dominoes is almost a perfectly balanced game with a variety of things that are in your control and several things that you can't control. Maximizing the outcomes of the things you can control and mitigating the effects of what you can't control is a big part of the game.
 
-### Game Example
+### **Game Example**
 
 In the version of dominoes that I play, the person with the highest double goes first and starts the game by playing that tile. I hate being that person. While this gives you some control, if that first double is the only tile I have with that number, then I'm very exposed to my opponent playing that number.
 
-### Leadership Lesson
+### **Leadership Lesson**
 
 Leaders usually have a lot of control over the people you lead, but you don't control everything. There are things that happen in the personal lives of our team that can impact how they show up to work. Also, we live in a world of constant change, and global events can have a tremendous effect on the people we lead.
 
 It's important to realize that you don't control everything, and you shouldn't make plans that require you  to control everything. Plan enough to guide your team through the next reasonable steps, but always be willing to embrace change.
 
-## Not All Money Is Good Money
+## **Not All Money Is Good Money**
 
 There are often opportunities in the game of dominoes to score quick points, but this can be at the expense of your long term strategy.
 
-### Game Example
+### **Game Example**
 
 Check this out:
 
@@ -292,13 +293,13 @@ Check this out:
 
 I've been in this scenario many times. I have big five (5-5) in my hand, but it's the only five I have. I also have a lot of another number (like fours). Do I play big five first and get ten points? No! That would make me unable to play a five for the rest of the game. So, instead of going for the quick money, I play big four (4-4) which sets it as the spinner. More often the not, since I have so many fours, the person going after me won't be able to play.
 
-### Leadership Lesson
+### **Leadership Lesson**
 
 As a leader, you'll get a lot of opportunities to change your team. Not every opportunity is a good one. I've had situations over the years where, for a variety of reasons, I can add a person to my team. That person may be talented, but there may be some reason they would be a net negative addition. Perhaps they have a style that doesn't add to the dynamics of my team. Or, maybe my team and I have settled into a nice cadence, and I don't want to change the team's composition.
 
 It's hard to say no to opportunities, but you have to determine if the inevitable change that will come with the opportunity is aligned with your long term strategy. It's almost always better to adhere to your long term strategy instead of going for what appears to be a quick win.
 
-## Summary
+## **Let's Play!**
 
 {% include image.html url="/images/cairo-dominoes.jpg" alt="Dominoes in Cairo" caption="This is me playing dominoes in Cairo, Egypt in the 1990s. I couldn't speak arabic, but my partner and I killed it. Never play against a guy wearing a scarf with that much confidence." %}
 

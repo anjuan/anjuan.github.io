@@ -40,7 +40,7 @@ If successful, this document will answer your questions about how we can form an
 
 ## **My Personality Profile Matrix**
 
-While not sufficient to fully understand a person, I believe that personality tests (particularly [MBTI and KTS](https://blog.adioma.com/16-personality-types/)) are great tools to bring a little science to understanding how people operate. I don't think any one personality test can explain how someone works, I think seeing the results of several personality tests can be useful. I’ve taken a number of personality tests over time, and here are my results from the major ones:
+While not sufficient to fully understand a person, I believe that personality tests (particularly [MBTI and KTS](https://blog.adioma.com/16-personality-types/)) are great tools to bring a little science to understanding how people operate. I don't think any one personality test can explain how someone works, but I think seeing the results of several personality tests can be useful. I’ve taken a number of personality tests over time, and here are my results from the major ones:
 
 * Myers-Briggs Type Indicator (MBTI): [INTJ](https://personalityjunkie.com/the-intj/)
 * Keirsey Temperament Sorter (MTS): [Rational Mastermind](http://www.advisorteam.com/groups/teamreport/processor_fx.aspx?id=aWQ9RTQsSTYsUzMsTjE2LEY3LFQxMixKMTEsUDkmc291cmNlPTEmY3JlZGl0PSZuYW1lPURvbm9yLCAyOTIyJmluc3RydW1lbnQ9MDEmZGVzY3JpcHRvcj0wNA%3D%3D-2sogNzF6ESU%3D)
@@ -55,7 +55,7 @@ While not sufficient to fully understand a person, I believe that personality te
 * When it comes to making decisions, I prefer to focus on facts instead of emotions.
 * When it comes to work, I prefer a solid detailed plan over making things up as I go along.
 
-I share this here because there’s ample information available online about how to work with my particular personality types (including strengths and weaknesses). I used a lot of that information to answer the questions below, and you can also use it to learn more about areas not covered in this document.
+I share this here because there’s ample information available online about how to work with my particular personality types (including strengths and weaknesses). I used a lot of that information to write this README, and you can also use it to learn more about areas not covered in this document.
 
 Personalities don’t fit into neat little boxes, but most people do have tendencies and preferences based on their temperament. Knowing my personality types won’t let you perfectly predict my behavior, but I think this information will help you notice consistent patterns in how I approach work and life.
 

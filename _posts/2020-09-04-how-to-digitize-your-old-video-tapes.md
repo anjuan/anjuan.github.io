@@ -103,3 +103,5 @@ After digitizing my tapes, I wondered if I needed to keep the originals? After a
 So, I decided to keep the original tapes in case I had access to a better setup for digitizing them in the future. Continuing to keep them in the attic would have hastened the deterioration of the tapes since that area's temperature was unregulated and often had high humidity. I moved the tapes to a closet in one of the upstairs bedrooms. This was a far better environment than the attic since it was temperature controlled and had lower humidity.
 
 I felt much better knowing that the memories preserved on these video tapes were now in a durable format. I'm looking forward to passing them on to my children when they're older. I can now send them a link instead of handing them a dusty box of deteriorating magnetic tapes.
+
+*Note: Some of the links in this post are affiliate links which will send a small commission to me if you use them to make purchases.*

@@ -78,11 +78,15 @@ In general, I found that Sony video cameras were more reliable than those made b
 
 There are a variety of connectors you can use to connect your video players to your computer, but I found the [Elgato Video Capture](https://amzn.to/3bsLgUy) connector to be both reliable and easy to use. It supports composite (RCA) and S-Video outputs which made it compatible with the video players I purchased. The Elgato connects to your computer via USB.
 
-## **Real Time Digitize**
+## **The Joy of Real Time Digitizing**
 
 You're now ready to start digitizing your collection. I recommend using the highest possible video and audio settings in the Elgato video capture software. These tapes are in formats that existed way before high definition video was possible so you want to capture the original recording in the highest possible quality.
 
+I started with oldest tapes in the oldest format (VHS) then did moved on to the newer formats (Video8, then Hi8, and finally MiniDV). I always started with the oldest tapes in each format. My thinking was to start digitizing the videos that were in the most vulnerable states (oldest in technology and oldest in how much time had elapsed since the original recording).
+
 Keep in mind that you have to digitize each tape in real time. So, if you have a tape with four hours of video, you'll have to play the tape for four hours while it's being digitized. I suggest that you do this overnight. The software makes it easy to trim the part of the digital file that you don't need.
+
+I used the label on the physical video tape as the name for each digital file, but I often found that the contents of the video didn't match the label. So, I had to update both the physical label and the filename in these situations.
 
 ## **Move to the Cloud**
 

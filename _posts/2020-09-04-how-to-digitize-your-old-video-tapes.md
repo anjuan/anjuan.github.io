@@ -82,7 +82,7 @@ There are a variety of connectors you can use to connect your video players to y
 
 You're now ready to start digitizing your collection. I recommend using the highest possible video and audio settings in the Elgato video capture software. These tapes are in formats that existed way before high definition video was possible so you want to capture the original recording in the highest possible quality.
 
-I started with oldest tapes in the oldest format (VHS) then did moved on to the newer formats (Video8, then Hi8, and finally MiniDV). I always started with the oldest tapes in each format. My thinking was to start digitizing the videos that were in the most vulnerable states (oldest in technology and oldest in how much time had elapsed since the original recording).
+I started with oldest tapes in the oldest format (VHS) then did moved on to the newer formats (Video8, then Hi8, and finally MiniDV). I always started with the oldest tapes in each format. My thinking was to start digitizing the videos that were in the most vulnerable states (i.e., oldest in technology and oldest in how much time had elapsed since the original recording).
 
 Keep in mind that you have to digitize each tape in real time. So, if you have a tape with four hours of video, you'll have to play the tape for four hours while it's being digitized. I suggest that you do this overnight. The software makes it easy to trim the part of the digital file that you don't need.
 

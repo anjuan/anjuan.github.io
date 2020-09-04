@@ -36,15 +36,15 @@ The VHS format was introduced in the United States in 1977, and it's the format 
 
 ### **Video8**
 
-Video8 came out in 1985, and it was the first 8mm video tape format. 8mm tapes were 3.74 inches long, 2.46 inches wide, and .59 inches thick. Since they were a lot smaller than VHS tapes, the cameras that used 8mm tapes were also much smaller than the VHS cameras. Also, 8mm tapes had better audio quality than VHS tapes. A smaller form factor and superior sound made Video8 cameras very popular with consumers. Video8 tapes were also an analog video format.
+Video8 came out in 1985, and it was the first 8mm video tape format. 8mm tapes are 3.74 inches long, 2.46 inches wide, and .59 inches thick. Since they are a lot smaller than VHS tapes, the cameras that use 8mm tapes are also much smaller than the VHS cameras. Also, 8mm tapes have better audio quality than VHS tapes. A smaller form factor and superior sound made Video8 cameras very popular with consumers. Video8 tapes also use an analog video format.
 
 ### **Hi8**
 
-Hi8 format was an 8mm video tape format that was introduced by Sony in 1989. It was an analog format like Video8, but it had better video quality. The Hi8 and Video8 video cassettes look exactly the same, but a Video8 player cannot play a Hi8 cassette. However, some Hi8 players can play both formats. Most of my collection was in Hi8 format.
+Hi8 format is an 8mm video tape format that was introduced by Sony in 1989. It records in an analog format like Video8, but it has better video quality. The Hi8 and Video8 video cassettes look exactly the same, but a Video8 player cannot play a Hi8 cassette. However, some Hi8 players can play both formats. Most of my collection was in Hi8 format.
 
 ### **DV**
 
-DV was introduced in 1999, and it was a digital format created by multiple video camera manufacturers. It was a digital format that provided better audio and video quality than Hi8. The DV cassettes came in small (known as MiniDV), medium, large, and extra-large sizes. All of my DV tapes were in MiniDV format. A MiniDV player cannot play Hi8 or Video8 tapes. I had very few MiniDV video tapes since they came out at a time when video cameras that recorded to hard drives were starting to become available and affordable.
+DV was introduced in 1999, and it's a digital format created by multiple video camera manufacturers. The DV video format provides better audio and video quality than Hi8. The DV cassettes come in small (known as MiniDV), medium, large, and extra-large sizes. All of my DV tapes were in MiniDV format. A MiniDV player cannot play Hi8 or Video8 tapes. I had very few MiniDV video tapes since they came out at a time when video cameras that recorded to hard drives were starting to become available and affordable.
 
 ## **Gather and Organize the Tapes**
 

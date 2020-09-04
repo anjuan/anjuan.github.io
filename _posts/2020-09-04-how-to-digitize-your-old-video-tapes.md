@@ -44,7 +44,7 @@ Hi8 format was an 8mm video tape format that was introduced by Sony in 1989. It 
 
 ### **DV**
 
-DV was introduced in 1999, and it was a digital format created by multiple video camera manufacturers. It was a digital format that provided better audio and video quality than Hi8. The DV cassettes came in small (known as MiniDV), medium, large, and extra-large sizes. All of my DV tapes were in MiniDV format. A MiniDV player cannot play Hi8 or Video8 tapes. I had very few MiniDV videos since they came out at a time when video cameras that recorded to hard drives were starting to become available.
+DV was introduced in 1999, and it was a digital format created by multiple video camera manufacturers. It was a digital format that provided better audio and video quality than Hi8. The DV cassettes came in small (known as MiniDV), medium, large, and extra-large sizes. All of my DV tapes were in MiniDV format. A MiniDV player cannot play Hi8 or Video8 tapes. I had very few MiniDV video tapes since they came out at a time when video cameras that recorded to hard drives were starting to become available and affordable.
 
 ## **Gather and Organize the Tapes**
 

@@ -56,7 +56,7 @@ I then organized the tapes by date so that the oldest tapes were at the front of
 
 ## **Choose Your Equipment**
 
-{% include image.html url="/images/how-to-digitize-your-old-tapes-formats.jpg" alt="Sony Handycam" caption="Image by Abdelkader Oulad El haj from Pixabay" %}
+{% include image.html url="/images/how-to-digitize-your-old-tapes-equipment.jpg" alt="Sony Handycam" caption="Image by Abdelkader Oulad El haj from Pixabay" %}
 
 Now that your tapes are organized, you'll need a way to play them. You'll also need a way to connect the video players to your computer.
 

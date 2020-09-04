@@ -28,7 +28,7 @@ So, I decided to do the conversion myself. The most expensive piece of equipment
 
 {% include image.html url="/images/how-to-digitize-your-old-tapes-formats.jpg" alt="VCR and Tapes" caption="Image by InspiredImages from Pixabay" %}
 
-The first thing I had to do was understand the different formats in my collection. The time span over which these videos were made included different technologies that were introduced over time. So, I had to understand what I was working with.
+The first thing I had to do was understand the different video tape formats in my collection. The time span over which these videos were made included different technologies that were introduced over time. So, I had to understand what I was working with.
 
 ### **VHS**
 

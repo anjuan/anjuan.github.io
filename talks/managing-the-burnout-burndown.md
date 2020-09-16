@@ -54,6 +54,8 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 {% include googleDrivePlayer.html id=page.driveId2 %}
 <br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZmfwIOiVx8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## What Attendees Have Said
 
 ### LeadDev New York

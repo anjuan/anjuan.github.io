@@ -40,6 +40,10 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nNdUYYmczAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZmfwIOiVx8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
 <iframe src="https://player.acast.com/betterfasterhappier/episodes/5d45e5ce833846051f8618c2" frameBorder="0" width="100%" height="110px" allow="autoplay"></iframe><br>
 
 <iframe src="https://anchor.fm/cohere/embed/episodes/Burnout-with-Aneika-and-Anjuan-Simmons-eddv1l/a-a22i5n0" height="102px" width="400px" frameborder="0" scrolling="no"></iframe><br>
@@ -53,8 +57,6 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 **[DevRelCon London](https://drive.google.com/file/d/1o7lkruTV8P9DaCW9Q8p6VSEZpMxgLpAq/view?usp=sharing)**
 {% include googleDrivePlayer.html id=page.driveId2 %}
 <br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZmfwIOiVx8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What Attendees Have Said
 

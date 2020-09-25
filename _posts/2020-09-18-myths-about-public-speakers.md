@@ -6,7 +6,7 @@ date: "2020-09-25"
 permalink: /blog/myths-about-public-speakers/
 categories:
   - Speaking
-excerpt: "One of the things I love to do as a public speaker is helping people start their journey to becoming a public speaker. This often results in resistance because of the myths that people have about public speakers, and I want to dispel those myths."
+excerpt: "One of the things I love to do as a public speaker is help people start their own journey to becoming a public speaker. This often results in resistance because of the myths that people have about public speakers, and I want to dispel some of those myths."
 comments: true
 ---
 

@@ -50,7 +50,7 @@ The number of talks I give varies per year, but, since I post about my talks on 
 
 I do a lot of things other than gives talks on stage. I have a full time job, a marriage, three kids, hobbies, and a ton of responsibilities. I make time to be a public speaker because I'm a teacher at heart. I also think that what I have to say can help people become the best versions of who they are.
 
-So, you have time to be a speaker. Think about how much time you spend on:
+So, you have time to be a speaker! Think about how much time you spend on:
 
 * Social media
 * Watching television

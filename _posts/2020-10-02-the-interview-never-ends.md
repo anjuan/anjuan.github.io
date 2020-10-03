@@ -18,7 +18,7 @@ You probably didn't detail your flaws during the interview process. After all, o
 
 It's in the interest of companies to remove bad hires as early as possible. Every day you stay at the company makes it harder to get rid of you. Tenure is a growing check against termination because it becomes increasingly harder to answer the question, "If this person is so bad, why have they been here for so long?"
 
-So, you're still being assessed by the company from the day you start. That's way most companies give you access to full benefits after a period of time. While you're in this probationary period, you should also deeply scrutinize the company to verify that it's still worthy of your employment. Here are the things you should look out for.
+So, you're still being assessed by the company from the day you start. That's why most companies give you access to full benefits after a period of time. While you're in this probationary period, you should also deeply scrutinize the company to verify that it's still worthy of your employment. Here are the things you should look out for.
 
 ## **The People Who Hate Each Other**
 

@@ -10,7 +10,7 @@ excerpt: "A colleague who had recently accepted a job offer stated that they wer
 comments: true
 ---
 
- {% include image.html url="/images/the-interview-never-ends-header.jpg" alt="Two empty chairs around a table" caption="Photo by Steve Halama on Unsplash" %}
+{% include image.html url="/images/the-interview-never-ends-header.jpg" alt="Two empty chairs around a table" caption="Photo by Steve Halama on Unsplash" %}
 
 When you accept a job offer, it's natural to think that the interview process is over. You've done the hard work of getting noticed by the company, survived several rounds of interviews, and received an offer of employment.
 

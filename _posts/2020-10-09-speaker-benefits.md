@@ -10,7 +10,7 @@ excerpt: "I've been lucky to develop a successful career as a speaker at tech ev
 comments: true
 ---
 
- {% include image.html url="/images/speaker-benefits-header.jpg" alt="A stack of gift boxes" caption="Image by 3D Animation Production Company from Pixabay" %}
+{% include image.html url="/images/speaker-benefits-header.jpg" alt="A stack of gift boxes" caption="Image by 3D Animation Production Company from Pixabay" %}
 
 I'm approaching my 25th year in software development, and I'm often asked what were the key decisions that guided my career. Some decisions that had a lot of impact were getting my undergraduate degree in electrical engineering, starting at large corporations like Accenture and Deloitte before working at startups, and choosing to pursue a leadership track fairly early in my career. However, deciding to become a speaker at tech events is probably the single decision that has provided the most benefits.
 

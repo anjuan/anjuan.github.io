@@ -10,7 +10,7 @@ excerpt: "One of the things I love to do as a public speaker is help people star
 comments: true
 ---
 
- {% include image.html url="/images/myths-about-public-speakers-header.jpg" alt="Mythical Unipug" caption="Photo by mark glancy from Pexels" %}
+{% include image.html url="/images/myths-about-public-speakers-header.jpg" alt="Mythical Unipug" caption="Photo by mark glancy from Pexels" %}
 
 I've been lucky to have created a successful secondary career as a public speaker. I've given talks from Los Angeles to London and from Boston to Bogotá. I love getting on stage and taking the audience on the journey of my talk.
 

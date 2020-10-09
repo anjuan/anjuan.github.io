@@ -12,7 +12,6 @@ comments: true
 
 {% include image.html url="/images/inclusive-cloud-header.jpg" alt="Cloud Lightning" caption="Photo by Josep Castells on Unsplash" %}
 
-
 Cloud Engineers have to understand a number of cloud systems, their strengths and weaknesses, and the variety of tools they offer. Supporting these solutions is so complex that many of them offer expensive certifications that often take weeks of extensive study to earn. In addition to the technical complexities of the tooling, Cloud Engineers often have to understand the organizational impacts of migrating from an on-premise legacy system to a cloud implementation. I’ve successfully completed dozens of these migrations, and the people and process challenges are often the hardest to solve.
 
 There is another cloud system that Cloud Engineers need to know, and it has no certification program. It's the Inclusive Cloud, and, like other cloud systems, the people and process challenges are often way more difficult than the technology.

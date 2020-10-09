@@ -10,7 +10,7 @@ excerpt: "The last time I changed companies, I scheduled a few weeks of downtime
 comments: true
 ---
 
- {% include image.html url="/images/how-to-digitize-your-old-tapes-header.jpg" alt="VHS tapes" caption="Photo by Josep Castells on Unsplash" %}
+{% include image.html url="/images/how-to-digitize-your-old-tapes-header.jpg" alt="VHS tapes" caption="Photo by Josep Castells on Unsplash" %}
 
 I scheduled a few weeks of downtime when I last changed companies, and I had a number of home projects that needed my attention. The one I tackled first was taking my decades old collection of VHS, Video8, Hi8, and MiniDV tapes and converting them to a digital format.
 

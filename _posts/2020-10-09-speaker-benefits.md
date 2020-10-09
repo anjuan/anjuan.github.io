@@ -6,7 +6,7 @@ date: "2020-10-09"
 permalink: /blog/speaker-benefits/
 categories:
   - Speaking
-excerpt: "I've been lucky to develop a successful career as a speaker at tech events. Here are the benefits I've experienced being a speaker."
+excerpt: "I've been lucky to develop a successful side-career as a speaker at tech events. Here are the benefits I've experienced being a speaker."
 comments: true
 ---
 

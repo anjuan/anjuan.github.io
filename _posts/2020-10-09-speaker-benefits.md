@@ -64,3 +64,4 @@ My travels around the world have given me a greater appreciation for other count
 I put this last because I think that few people should get into speaking to make money. While I've been able to develop a portfolio of talks that people are willing to pay for, I don't think I'll ever quit my day job to be a full time speaker. While I love travel, speaking full time would require way more travel than I'd like to experience.
 
 However, I have been able to pay some bills and do nice things for my family based on income for speaker fees. I've also been able to meet several of my personal financial goals based on the money I've made speaking at conferences and corporate events.
+

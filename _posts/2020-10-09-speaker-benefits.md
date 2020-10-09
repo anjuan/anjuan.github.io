@@ -20,7 +20,6 @@ Developing expertise in delivering technical talks has also helped me to develop
 
 Here are some other benefits to developing a career speaking at tech events.
 
-
 ## **Idea Validation**
 
 A critical skill to develop as a public speaker is the ability to generate strong ideas. After all, you won't get a chance to speak on stage if you don't have anything to say. Also, speaking requires getting your ideas on conference schedules, and that requires submitting them to event organizers.
@@ -31,7 +30,7 @@ As I've honed my sense of what makes a powerful talk, I've found that the talks 
 
 ## **Showcase Your Expertise**
 
-My talks center around three themes: [leadership](https://anjuansimmons.com/talks/technical-leadership-through-the-underground-railroad/), [agile software development](https://anjuansimmons.com/talks/leadership-lessons-from-the-agile-manifesto/), and [inclusion and diversity](https://anjuansimmons.com/talks/lending-privilege/). I intentionally kept my talks around this small set of themes because they are the ideas that align with my passions as well as my strengths. I think too many speakers try to create a wide variety of talks which dilutes the value of what they have to say. 
+My talks center around three themes: [leadership](https://anjuansimmons.com/talks/technical-leadership-through-the-underground-railroad/), [agile software development](https://anjuansimmons.com/talks/leadership-lessons-from-the-agile-manifesto/), and [inclusion and diversity](https://anjuansimmons.com/talks/lending-privilege/). I intentionally kept my talks around this small set of themes because they are the ideas that align with my passions as well as my strengths. I think too many speakers try to create a wide variety of talks which dilutes the value of what they have to say.
 
 By keeping my talks tightly centered around these themes, I've been able to demonstrate my expertise in these areas. Having spoken all over the world, I've come to be seen as an expert in the themes of my talks. Since there are several hours of my talks online, this expertise is on display even when I'm not on stage.
 
@@ -64,4 +63,3 @@ My travels around the world have given me a greater appreciation for other count
 I put this last because I think that few people should get into speaking to make money. While I've been able to develop a portfolio of talks that people are willing to pay for, I don't think I'll ever quit my day job to be a full time speaker. While I love travel, speaking full time would require way more travel than I'd like to experience.
 
 However, I have been able to pay some bills and do nice things for my family based on income for speaker fees. I've also been able to meet several of my personal financial goals based on the money I've made speaking at conferences and corporate events.
-

@@ -28,15 +28,15 @@ I also avoid alcohol. First, drinking alcohol has a negative impact on my sleep 
 
 If at all possible, I try to visit the room where I'll be speaking and get a feel for the layout. I respond to rooms differently based on their size, height of the stage, distance from the audience, and other factors. By checking out the room in advance, I don't have to acclimate while I'm giving a talk.
 
-I also make sure that the dinner I eat the night before I'm scheduled to speak is composed of safe food. What's safe to eat varies by person, but I avoid carbohydrates and sugar since consuming them makes me feel lethargic the next day. So, I stick to salads and high quality protein and drink a lot of water.
+I also make sure that the dinner I eat the night before I'm scheduled to speak is composed of safe food. What's safe to eat varies from person to person, but I avoid carbohydrates and sugar since consuming them makes me feel lethargic the next day. So, I stick to salads and high quality protein and drink a lot of water.
 
 ### **An Hour Before**
 
 I start getting into the zone the hour before my talk, and I first do that by rocking my "Pre-Pump Playlist". This is a closely guarded set of songs that get me hyped up and ready to rock it on stage.
 
-I also make sure that I only drink beverages during this hour, ideally water. However, I definitely don't drink carbonated beverages since that can cause embarrassing issues with intestinal gas on stage. I also avoid caffeine since I should have taken care of that well in advance.
+I also make sure that I avoid food and only drink beverages during this hour, ideally water. However, I definitely don't drink carbonated beverages since that can cause embarrassing issues with intestinal gas while on stage. I also avoid caffeine since I should have taken care of that well in advance.
 
-This hour is also the time when I work with the audio-visual person to get my mic attached and also do one final check to make sure my laptop connects to the projector or screen. I activate do-not-disturb on my laptop, load up my presentation and test the clicker I use to advance my slides. If there's a confidence monitor, I make sure that my speaker notes are properly displayed.
+This hour is also the time when I work with the audio-visual person to get my mic attached and also do one final check to make sure my laptop connects to the screen where the audience will see my slides. I activate do-not-disturb on my laptop, load up my presentation and test the clicker I use to advance my slides. If there's a confidence monitor, I make sure that my speaker notes are properly displayed.
 
 This hour is also when I make final confirmations. I confirm the side of the stage I'm supposed to use for my entrance and if the audio-visual person will handle muting my mic or if I need to do it myself. If there's a timer, I confirm if it will count up or count down, and I also usually arrange someone to give me a five-minute warning hand signal.
 
@@ -44,13 +44,13 @@ I then start making sure my biological functions are in order. I make one last t
 
 ## **On Stage Routines**
 
-The opening lines you speak when you start your presentation is often the hardest. Those are the lines that starts the relationship you're building with the audience so it's extremely important. So, my opening lines are the ones I rehearse the hardest, and I make sure I can deliver them from memory.
+The opening lines you speak when you start your presentation are often the hardest. Those are the lines that start the relationship you're building with the audience so they are extremely important. So, my opening lines are the ones I rehearse the hardest, and I make sure I can deliver them from memory.
 
-Having these opening lines memorized has another tremendous benefit. If you do have any technical issues, you can deliver the lines while you or a technician fixes the problem.
+Having these opening lines memorized has another tremendous benefit. If you do have any technical issues, you can deliver the lines while you or a technician work to fix the problem.
 
-While giving my talk, I make sure that I scan from the left side of the audience to the right side. Every now and then, I make eye contact with a person in each section of the audience (left, center, and right). I strategically speak directly to them during certain parts of my talk. This is just for a few seconds, but it helps me feel more personal with the audience.
+While giving my talk, I make sure that I scan from the left side of the audience to the right side. Every now and then, I make eye contact with a person in each section of the audience (left, center, and right). I strategically speak directly to them during certain parts of my talk. This is just for a few seconds per person, but it helps me feel more connected to the audience.
 
-I almost always walk the stage during most of my talk. This gets me from behind the podium and engage more with the audience. However, it's important to not just randomly pace the stage. I usually walk to a predetermined spot on the stage, pause, and then walk to my next spot.
+I almost always walk the stage during most of my talk. This gets me from behind the podium and more engaged with the audience. However, it's important to not just randomly pace the stage. I usually walk to a predetermined spot on the stage, pause, and then walk to my next spot.
 
 If you're giving a talk to an audience of any size, there's a high probability that one or more people will walk out. Don't let this get to you. People walk out for a variety of reasons:
 

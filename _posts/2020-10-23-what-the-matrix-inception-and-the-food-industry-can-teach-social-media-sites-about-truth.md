@@ -6,7 +6,7 @@ date: "2020-10-23"
 permalink: /blog/what-the-matrix-inception-and-the-food-industry-can-teach-social-media-sites-about-truth/
 categories:
   - Tech
-excerpt: "I submitted this essay as part of the David Carr essay contest during SXSW 2018. It didn't win, but I think it's more timely than ever as social media sites continue to expand their influence across the globe."
+excerpt: "I submitted this essay to the SXSW 2018 David Carr writing contest. It didn't win, but I think it's more timely than ever as social media sites continue to expand their influence across the globe."
 comments: true
 ---
 
@@ -50,7 +50,7 @@ The FDA found that visual presentations (e.g., bar charts and pie charts) of nut
 
 In the lead up to the passage of the NLEA, the Secretary of the U.S. Department of Health and Human Services (HHS) was Dr. Louis W. Sullivan. Secretary Sullivan stated, [“The grocery store has become a Tower of Babel and consumers need to be linguists, scientists and mind readers to understand the many labels they see. Vital information is missing, and frankly some unfounded health claims are being made.”](http://www.nytimes.com/1990/03/08/nyregion/quotation-of-the-day-965390.html)
 
-The Tower of Babel of food labels was torn down, but social media sites now operate in the shadow of a similar edifice. Consumers of social media content need to be investigative journalists, scientists, and policy wonks to understand the many online articles they encounter. Burdening users with the responsibility of parsing the information they see on social media sites as unfair as expecting shoppers to expertly analyze the nutritional value of the food they buy in grocery stores. The Nutrition Facts labels that help consumers navigate the maze of the food aisle can be applied to social media content in the form of a new form of Veracity labels.
+The Tower of Babel of food labels was torn down, but social media sites now operate in the shadow of a similar edifice. Consumers of social media content need to be investigative journalists, scientists, and policy wonks to understand the many online articles they encounter. Burdening users with the responsibility of parsing the information they see on social media sites as unfair as expecting shoppers to expertly analyze the nutritional value of the food they buy in grocery stores. The Nutrition Facts labels that help consumers navigate the maze of the food aisle can be applied to social media content in the form of Veracity labels.
 
 ## **Social Media Veracity Labels**
 

@@ -18,6 +18,8 @@ A similar “tell” exists in another science fiction movie called “Inception
 
 Neither “The Matrix” nor “Inception” explain why the fake worlds at the center of each film included ways for the characters to know whether or not they were in the real world. Were they put there on purpose or were they truly providential technological defects? Regardless, our current world could use similar tools to distinguish between what is real and what is fake. This is especially true for the millions of people who use social media sites.
 
+## **The Growing Danger of Social Media Influence**
+
 There is growing and almost incontrovertible evidence that a hostile foreign nation used propaganda to influence the 2016 presidential election in the United States. This was done using a combination of various tools including widespread propaganda shared on social media sites as well as alleged collusion with the candidate who won the election.
 
 As we continue to live more of our lives on social media platforms while those sites become attack vectors used by foreign nations to influence citizens, social media companies have a growing responsibility to identify the truthfulness of the information presented to their users. Social media sites have to go beyond just optimizing the effective sharing of content. They have to explain the context of that content and provide an assessment of the health of the information.
@@ -25,6 +27,8 @@ As we continue to live more of our lives on social media platforms while those s
 Despite the evidence that social media sites were used to spread foreign propaganda, little can be done to convince the giant technology companies behind these sites to assist in any investigation. They can claim that the vast complexity of their computer systems make it difficult to easily explain how they were compromised. Or, given the multi-billion dollar valuations of most of these companies, they can hire armies of lawyers and lobbyists to defend them when pressed by government officials.
 
 So, it’s possible that social media companies will continue to avoid accountability for the potential harm they can do to their users and to the nation. Ordinary Americans may be left on their own to distinguish real information from false propaganda.
+
+## **Solving Disinformation in the Food Industry**
 
 However, this isn’t the first time that American citizens needed large and powerful companies to protect the interests of the everyday people who use their products. The current presence of nutrition labels on nearly every food product came about because of a similar struggle to reduce confusion in a complex industry controlled by powerful corporations.
 
@@ -36,6 +40,8 @@ A report by the [White House Conference on Food, Nutrition, and Health](https://
 
 Food manufacturers in the 1980s continued to game the labels by adding statements like  “extremely low in saturated fat” as well as other ambiguous claims. They also began to market the health benefits of their products by using newly emerging research that linked the fiber content of their products with the reduction in risk for certain cancers.
 
+## **Nutrition Facts Labels**
+
 {% include image.html url="/images/nutrition-facts.jpg" alt="Chips with Nutrition Facts label showing" caption="Photo by Ryan Quintal on Unsplash" %}
 
 Members of Congress and various federal agencies began to advocate for more accurate information from food manufacturers about their products. These efforts to standardize how manufacturers presented the nutritional value of their packaged goods culminated in the passage of the [Nutrition Labeling and Education Act of 1990](https://www.fda.gov/iceci/inspections/inspectionguides/ucm074948.htm) (NLEA). The FDA was empowered to make nutrition labels mandatory as well as regulate the contents of those labels. Other federal agents that regulated products outside the control of the FDA also supported the efforts the implement nutrition labels. This included the United States Department of Agriculture (USDA) which regulates meat products as well as the Bureau of Alcohol, Tobacco and Firearms (ATF) which regulates alcoholic beverages. Called Nutrition Facts panels, these labels are now so ubiquitous that most Americans don’t remember a time when they didn’t exist on food products.
@@ -45,6 +51,8 @@ The FDA found that visual presentations (e.g., bar charts and pie charts) of nut
 In the lead up to the passage of the NLEA, the Secretary of the U.S. Department of Health and Human Services (HHS) was Dr. Louis W. Sullivan. Secretary Sullivan stated, [“The grocery store has become a Tower of Babel and consumers need to be linguists, scientists and mind readers to understand the many labels they see. Vital information is missing, and frankly some unfounded health claims are being made.”](http://www.nytimes.com/1990/03/08/nyregion/quotation-of-the-day-965390.html)
 
 The Tower of Babel of food labels was torn down, but social media sites now operate in the shadow of a similar edifice. Consumers of social media content need to be investigative journalists, scientists, and policy wonks to understand the many online articles they encounter. Burdening users with the responsibility of parsing the information they see on social media sites as unfair as expecting shoppers to expertly analyze the nutritional value of the food they buy in grocery stores. The Nutrition Facts labels that help consumers navigate the maze of the food aisle can be applied to social media content in the form of a new form of Veracity labels.
+
+## **Social Media Veracity Labels**
 
 Just as food manufacturers tried to game food labels when they were voluntary and unregulated, we can expect the companies behind social media sites to do the same if given the opportunity to freely apply Veracity labels. After all, many of these companies feel little obligation to attest to the truthfulness of the information shared on their systems. They are essentially media companies designed to present content in a manner that draws users and serves advertisers. So, given them free reign to structure how they label the truthfulness of the information on their sites may result in more confusion and could even assist the spread of propaganda.
 

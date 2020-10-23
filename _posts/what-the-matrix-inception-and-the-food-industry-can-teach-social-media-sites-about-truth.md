@@ -1,9 +1,9 @@
 ---
-title: 'What Inception, The Matrix, and the Food Industry Can Teach Social Media Sites about Truth'
+title: 'What The Matrix, Inception, and the Food Industry Can Teach Social Media Sites about Truth'
 author: anjuan
 layout: post
 date: "2020-10-23"
-permalink: /blog/what-inception-the-matrix-and-the-food-industry-can-teach-social-media-sites-about-truth/
+permalink: /blog/what-the-matrix-inception-and-the-food-industry-can-teach-social-media-sites-about-truth/
 categories:
   - Tech
 excerpt: "I submitted this essay as part of the David Carr essay during SXSW 2018. It didn't win, but I think it's more timely than ever as social media sites continue to expand their influence across the globe."
@@ -12,7 +12,7 @@ comments: true
 
 {% include image.html url="/images/time-lapse-north-star.jpg" alt="Time lapse of North Star" caption="Photo by Patrick McManaman on Unsplash" %}
 
-It’s a classic scene from one of the seminal science fiction movies of the late 20th Century. The hero and his party of ragtag soldiers are deep in enemy territory. He sees a black cat walk by a doorway and then, seconds later, another black cat. He makes an exclamation which is noticed by those around him. The hero claims to have experienced déjà vu, but intense questioning reveals that déjà vu is a sign that something has changed in the virtual prison known as “The Matrix”. This glitch is a reminder that the Matrix is a fake world separate from the real world. 
+It’s a classic scene from one of the seminal science fiction movies of the late 20th Century. The hero and his party of ragtag soldiers are deep in enemy territory. He sees a black cat walk by a doorway and then, seconds later, another black cat. He makes an exclamation which is noticed by those around him. The hero claims to have experienced déjà vu, but intense questioning reveals that déjà vu is a sign that something has changed in the virtual prison known as “The Matrix”. This glitch is a reminder that the Matrix is a fake world separate from the real world.
 
 A similar “tell” exists in another science fiction movie called “Inception”. In this movie, multiple people can share a simulated world presented as a dream where it is impossible to know if you’re awake or asleep. However, experienced navigators of the simulation learn to use an item known as a totem to determine if the world they are experiencing is real. The hero’s totem in the movie is a spinning top that rotates forever in the dream world. 
 

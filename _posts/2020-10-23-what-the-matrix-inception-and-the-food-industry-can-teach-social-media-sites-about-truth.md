@@ -6,7 +6,7 @@ date: "2020-10-23"
 permalink: /blog/what-the-matrix-inception-and-the-food-industry-can-teach-social-media-sites-about-truth/
 categories:
   - Tech
-excerpt: "I submitted this essay as part of the David Carr essay during SXSW 2018. It didn't win, but I think it's more timely than ever as social media sites continue to expand their influence across the globe."
+excerpt: "I submitted this essay as part of the David Carr essay contest during SXSW 2018. It didn't win, but I think it's more timely than ever as social media sites continue to expand their influence across the globe."
 comments: true
 ---
 

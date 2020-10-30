@@ -64,7 +64,7 @@ VR will also provide a way to bridge the differences that often divide our socie
 
 Another societal benefit of VR will be the ability to live out your true self. Some people feel that they were born in the wrong body and yearn to experience life in their true form. VR can provide a way for people to virtually reincarnate themselves as an expression of their inner self-image. Whether as a different race, gender, or species, VR can provide a way for individuals to enjoy the psychological benefits of true self-actualization. Therapists will find this aspect of VR to be a fertile proving ground for treating their patients by leveraging the ability to observe their behavior when exposed to realistic, albeit simulated, scenarios. It’s possible that cures for many mental diseases that we struggle to treat today may be discovered through the use of VR.
 
-### **Education*
+### **Education**
 
 The field of education will also be revolutionized by VR. Middle school kids will experience historical recreations of events like the inauguration of past Presidents, speeches made by great orators of the past, and current events around the globe. Subjects like physics, chemistry, and biology will be illustrated by VR models of atoms, molecules, and anatomy. Pre-med students will virtually observe the world’s greatest surgeons no matter where they are in the world. VR will change the learning experience from a one way flow of information from teacher to student into an exciting exploration of topics and concepts.
 

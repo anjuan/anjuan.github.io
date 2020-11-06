@@ -32,13 +32,13 @@ However, these predictions and interpretations almost always fail to align with 
 
 Life is complex, and no forecast is able to capture all of the variables. There are the variables we can see like people, financial resources, calendars, etc. But, there are variables that we can't see or properly interpret.
 
-No poll of the 2016 election could have foreseen James Comey's last minute announcement of the re-opening of an investigation into Hillary Clinton literally days before people would go to the polls. Furthermore, national elections play out across vast land areas, populations, and personal experiences. It's impossible to account for everything.
+For example, no poll of the 2016 election could have foreseen James Comey's last minute announcement of the re-opening of an investigation into Hillary Clinton literally days before people would go to the polls. Furthermore, national elections play out across vast land areas, populations, and personal experiences. It's impossible to account for everything.
 
 ## **Reason #3: Self-Deception**
 
-As humans, we lie to ourselves. Some of this is protective optimism since constantly reminding ourselves of the dangers of the world probably isn't mentally healthy. We also try to present the best version of ourselves. So, when a pollster contacts us to get data, we often say what we think we should say instead of how we feel.
+As humans, we lie to ourselves. Some of this is protective optimism since constantly reminding ourselves of the dangers of the world probably isn't mentally healthy. We also try to present the best version of ourselves. So, when a pollster contacts us to get data, we often say what we think we should say instead of sharing our true opinions.
 
-Software estimators also give in to self-deception and protective optimism. We want to believe that our team can tackle that complicated set of features and quickly get it implemented. We don't want to admit that building software is complicated and even seemingly trivial features can take longer than expected to finish. So, we see the actual time it takes to finish a project several times longer than the estimate predicted.
+Software estimators also give in to self-deception and protective optimism. We want to believe that our team can tackle that complicated set of features and quickly get it implemented. We don't want to admit that building software is complicated and even seemingly trivial features can take longer than expected to finish. So, we see the actual time it takes to finish a project run several times longer than the estimate predicted.
 
 ## **Clarity Over Certainty**
 

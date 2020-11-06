@@ -6,7 +6,7 @@ date: "2020-11-06"
 permalink: /blog/forecast-failure/
 categories:
   - Work
-excerpt: "The presidential contest in the United States is still unclear three days after Election Day. However, one area of clarity is the failure of polls to forecast this outcome. Polls and project estimates suffer from the same fatal flaw: the impossibility of prophecy."
+excerpt: "The presidential contest in the United States is still unclear three days after Election Day. However, one area of clarity is the failure of polls to forecast this outcome. Polls and project estimates suffer from the same fatal flaw: the impossibility of certainty."
 comments: true
 ---
 

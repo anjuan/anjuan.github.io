@@ -14,7 +14,7 @@ comments: true
 
 As a Texan, I cast my ballot weeks before Election Day because I live in a state that allows in-person early voting. I consider myself lucky to have the privilege of early voting because there are several states that make you wait until Election Day to vote in person.
 
-Election Day has come and gone, and, at the time of this writing, there is still no clear winner of the presidential contest. However, despite overwhelming focus on funding, no poll was able to foresee this outcome. [The polling was overwhelmingly wrong](https://slate.com/news-and-politics/2020/11/why-was-2020-polling-so-wrong.html). Furthermore, money was piled into races to help candidates who seemed to have support based on polling, but, in the end, those candidates lost badly.
+Election Day has come and gone, and, at the time of this writing, there is still no clear winner of the presidential contest. However, despite an enormous amount of funding, no poll was able to foresee this outcome. [The polling was overwhelmingly wrong](https://slate.com/news-and-politics/2020/11/why-was-2020-polling-so-wrong.html). Furthermore, money was piled into races to help candidates who seemed to have support based on polling, but, in the end, those candidates lost badly.
 
 Having worked in software development for almost a quarter century, I see a similar level of error when it comes to estimating software projects. These estimates are also overwhelmingly wrong, and the information used to create them often drives what projects get funded.
 

@@ -30,7 +30,7 @@ However, these predictions and interpretations almost always fail to align with 
 
 ## **Reason #2: A Multitude of Variables**
 
-Life is complex, and no forecast is able to capture all of the variables. There's the variables we can see like people, financial resources, calendars, etc. But, there are variables that we can't see or properly interpret.
+Life is complex, and no forecast is able to capture all of the variables. There are the variables we can see like people, financial resources, calendars, etc. But, there are variables that we can't see or properly interpret.
 
 No poll of the 2016 election could have foreseen James Comey's last minute announcement of the re-opening of an investigation into Hillary Clinton literally days before people would go to the polls. Furthermore, national elections play out across vast land areas, populations, and personal experiences. It's impossible to account for everything.
 

@@ -24,7 +24,7 @@ Polling and software project estimates fail for the same reasons.
 
 The human experience is bound by time. That means that we experience time in a linear fashion, and we can't peek into the future to make decisions right now. There are no "respawn" points that we can go back to if things go terribly wrong. So, since we can't undo the consequences of our decisions, we crave certainty in the outcomes.
 
-For all of human existence, many groups have exploited this craving. Priests, prophets, and pollsters have sold a dream product: an exact forecast of what will happen in the future. The rewards were often great. In exchange for reading the entrails of a sacrificed animal, interpreting the dreams of king, creating a work breakdown structure, or [putting a needle on the internet](https://www.nytimes.com/2020/11/02/upshot/new-york-times-needle-election.html), or performing some other obscure ritual, treasures and kingdoms were often given.
+For all of human existence, many groups have exploited this craving. Priests, prophets, and pollsters have sold a dream product: an exact forecast of what will happen in the future. The rewards were often great. In exchange for reading the entrails of a sacrificed animal, interpreting the dreams of king, creating a work breakdown structure, [putting a needle on the internet](https://www.nytimes.com/2020/11/02/upshot/new-york-times-needle-election.html), or performing some other obscure ritual, treasures and kingdoms were often given.
 
 However, these predictions and interpretations almost always fail to align with the reality of the future.
 

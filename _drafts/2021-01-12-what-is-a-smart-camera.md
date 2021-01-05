@@ -12,13 +12,12 @@ comments: true
 
 {% include image.html url="/images/astrology-993127_1920.jpg" alt="Astrological Chart" caption="Image by Mira Cosic from Pixabay" %}
 
-
 This is part of my Smart Home series where I explain the various internet connected devices you can use to get more out of the place you live.
 
 ## **What is a Smart Camera?**
 
 A smart camera is a device that records pictures or videos and makes them available to be viewed over the internet.
 
-## **Where Do I Put a Smart Camera?** 
+## **Where Do I Put a Smart Camera?**
 
 TBD

@@ -18,6 +18,11 @@ This is part of my Smart Home series where I explain the various internet connec
 
 A smart camera is a device that records pictures or videos and makes them available to be viewed over the internet.
 
+## **Use Cases**
+
+* You're away from home, and your partner calls you from home about something happening in front of your house.
+* Someone doing work at your home breaks something but claims they didn't do it or the item was already broken.
+
 ## **Where Do I Put a Smart Camera?**
 
 TBD

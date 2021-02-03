@@ -12,11 +12,13 @@ comments: true
 
 {% include image.html url="/images/astrology-993127_1920.jpg" alt="Astrological Chart" caption="Image by Mira Cosic from Pixabay" %}
 
-Tired of overdraft fees?
+I've been lucky to work in the technology industry which pays quite a bit more than other industries. I've never really worried about money, but I know I haven't managed money as well as I should. Over most of my career, I would have rare but random overdraft fees where I spent more than the amount I had in my checking account simply because I wasn't watching my balance or forgot what day was payday.
 
-Most people don't have an income problem. Most people have a cash flow problem.
+I was like a lot of people in the American middle class. I didn't have an income problem. I had a cash flow problem.
 
-This is a light weight system meant to simplify your spending.
+A few years ago, I applied what I learned from agile software development to come up with a light weight system designed to simplify my spending. I call it lightweight budgeting.
+
+## **The Lightweight Budgeting Values**
 
 Since budget can be a draining term ("I get to work on my budget!" said no one ever), I call it a budget calendar. It's a simple way to control your spending and take control of your personal finance.
 
@@ -39,7 +41,18 @@ Go through your checking account statements and see when your fixed expenses go 
 
 Adding these expenses to your calendar helps you not be surprised by a deduction.
 
-## **Create Buckets of Money**
+## **An Account Centered Approach**
+
+My lightweight budget approach heavily uses multiple accounts. I found that having one or two accounts made it difficult to have enough granularity into my cash flow.
+
+Here are the accounts I use:
+
+* Expenses
+* Spending
+* Target
+* Emergency
+
+
 
 > You can also go with the basic 50/30/20 budget, wherein you’re spending no more than half your income on basic necessities and saving at least 20% of your income, leaving the remaining 30% to spend on the things you and your family enjoy.
 

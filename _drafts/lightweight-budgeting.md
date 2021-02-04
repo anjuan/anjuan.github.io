@@ -10,7 +10,7 @@ excerpt: "I've tried several budget tools, but none of them would stick. This is
 comments: true
 ---
 
-{% include image.html url="/images/astrology-993127_1920.jpg" alt="Astrological Chart" caption="Image by Mira Cosic from Pixabay" %}
+{% include image.html url="/images/stellrweb-djb1whucfBY-unsplash.jpg" alt="Calculator" caption="Photo by StellrWeb on Unsplash" %}
 
 I've been lucky to work in the technology industry which pays quite a bit more than other industries. I've never really worried about money, but I know I haven't managed money as well as I should. Over most of my career, I would have rare but random overdraft fees where I spent more than the amount I had in my checking account simply because I wasn't watching my balance or forgot what day was payday.
 

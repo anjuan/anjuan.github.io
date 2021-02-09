@@ -52,14 +52,12 @@ Here are the accounts I use:
 * Target
 * Emergency
 
-
-
 > You can also go with the basic 50/30/20 budget, wherein you’re spending no more than half your income on basic necessities and saving at least 20% of your income, leaving the remaining 30% to spend on the things you and your family enjoy.
 
 How you allocate your net pay will vary based on your situation, but here's what I use:
 
 * 10% - 401k
-* 10% - Emergency
+* 10% - Emergency (becomes a Target account above a threshold)
 * 30% - Spending
 * 50% - Expenses
 
@@ -70,6 +68,8 @@ If your monthly expenses are more than 50% of your monthly income, then you prob
 You can use additional accounts to get ore specific, like, "Boat" if you're saving for a boat. This is just what I use.
 
 If you have access to a retirement account (e.g., 401k, then I highly recommend having your contributions to that account automatically done before your paycheck hits your bank. This is especially true if your employer offers a match.
+
+One benefit of this approach is helping you think about future spending. If you want to buy something, you know how long it would take you to earn it back (in spending weeks).
 
 This assumes that you don't have any credit card debt. If that's the case, I recommend paying that off.
 

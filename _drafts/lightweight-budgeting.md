@@ -61,7 +61,7 @@ How you allocate your net pay will vary based on your situation, but here's what
 * 30% - Spending
 * 50% - Expenses
 
-Lightweight budgeting means that you focus on the money you need between paychecks which includes the expenses you pay on an annual basis. For example, let's say that I have monthly expenses that total $2,000. However, I have an annual expenese (like a Homeowners Association fee) that's usually $600. To have $600 available when that annual expsense comes due, I'll need to save $50 per month. So, that means I need to account for $2,050 in monthly expenses.
+Lightweight budgeting means that you focus on the money you need between paychecks which includes the expenses you pay on an annual basis. For example, let's say that I have monthly expenses that total $2,000. However, I have an annual expense (like a Homeowners Association fee) that's usually $600. To have $600 available when that annual expense comes due, I'll need to save $50 per month. So, that means I need to account for $2,050 in monthly expenses.
 
 Each account is at the same bank but separate. The Emergency and Expenses accounts have separate debit cards.
 

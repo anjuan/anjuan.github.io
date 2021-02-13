@@ -69,6 +69,8 @@ If your monthly expenses are more than 50% of your monthly income, then you prob
 
 You can use additional accounts to get ore specific, like, "Boat" if you're saving for a boat. This is just what I use.
 
+> Use push notifications to get daily updates on your accounts. Most banks support this feature.
+
 If you have access to a retirement account (e.g., 401k, then I highly recommend having your contributions to that account automatically done before your paycheck hits your bank. This is especially true if your employer offers a match.
 
 One benefit of this approach is helping you think about future spending. If you want to buy something, you know how long it would take you to earn it back (in spending weeks).

@@ -34,22 +34,23 @@ Instead of having to remember to review transactions and determine the exact mea
 
 ### **Rough Approximations over Penny Perfection**
 
-There's no need to track every penny in the Lightweight Budget system.
-
+There's no need to track every penny in the Lightweight Budget system. As long as you have a rough sense of your regular expenses and high level savings goals, the system will work for you.
 
 ## **Assumptions**
+
+Before the Lightweight Budget system can work for you, the following assumptions should be true:
 
 * You don't have any credit card debt. If you do, then you should focus on zeroing that out. However, getting a budget calendar can help you do that.
 * Whatever payroll system the organization that pays you uses allows you to deposit your pay to more than one account
 * Your bank has some form of an online bill pay system that you use to automatically pay your bills. If you don't use this system, I recommend enrolling in it to automatically pay your bills.
 
-One challenge with having a budget is keeping track of the various bills that take things out of your account. Most of your bills are taken out on the same time each month. So, the first step is creating a budget calendar is going through a few months of your checking account and see when each bill is deducted.
+## **Calculate Your Required Monthly Expenses**
 
-Getting a sense of the flow of your cash will help you get into the rhythm of your spending. You'll then be able to set the beat for how you want your money to work for you.
+Before you can enjoy the automation behind the Lightweight Budget system, you need to do one bit of homework. You need to determine your monthly expenses. Go through a few months of account statements to see when money is taken out of your account. You'll see things like your mortgage/rent, car payments, utilities, etc. Remember, these are the things you **need**.  It doesn't include streaming restaurants or recreational expenses.
 
-Go through your checking account statements and see when your fixed expenses go out. These are things like your mortgage/rent, car payment, utilities, etc. Add these to your calendar by putting the name of the vendor and the rough amount of the bill. If the bill isn't paid on the exact same time each month, then use a date range for it.
+You also need include the expenses you pay on an annual basis. For example, let's say you have an annual expense like a Homeowners Association (HOA) fee that's usually $600. To have $600 available when that annual expense comes due, I'll need to save $50 per month. So, that means you'll need to include that $50 in your calculation of your monthly expenses.
 
-Adding these expenses to your calendar helps you not be surprised by a deduction.
+Once you add up your expenses, write that number down. Then, add 10% to it. That gives you some buffer if you missed something or if an expense is unexpectedly high for some reason. Remember, we're going for rough approximations.
 
 ## **An Account Centered Approach**
 
@@ -71,7 +72,7 @@ How you allocate your net pay will vary based on your situation, but here's what
 * 30% - Spending
 * 50% - Expenses
 
-Lightweight budgeting means that you focus on the money you need between paychecks which includes the expenses you pay on an annual basis. For example, let's say that I have monthly expenses that total $2,000. However, I have an annual expense (like a Homeowners Association fee) that's usually $600. To have $600 available when that annual expense comes due, I'll need to save $50 per month. So, that means I need to account for $2,050 in monthly expenses.
+
 
 Each account is at the same bank but separate. The Emergency and Expenses accounts have separate debit cards.
 
@@ -101,7 +102,11 @@ You can simplify this by taking your monthly expenses and adding 10%. This is ho
 
 What's left over after you fund your account for your living expenses is what you can use to spend on non-essential items and also for your emergency fund. Call your spending account SPENDING and the amount per pay period in the name of the account. This is for things like eating out at restaurants, coffee, electronics, etc.  Call your emergency account EMERGENCY and your target amount in the description. Your target amount should be some multiple of your monthly living expenses.
 
+## **The Lightweight Budgeting Cycle**
+
 All of this should automatically be done when your paycheck is deposited. If you get income from different sources, you'll need to determine how to send money to each account.
+
+## **Balancing Accounts on Pay Day**
 
 After my paycheck is deposited according to my preset percentages, I take the amounts in SPENDING and EMERGENCY and round them up to the nearest $100 using the EXPENSES account. So, if I see $749.32 in SPENDING, I transfer $50.68 from EXPENSES to make it $800. I do the same thing for EMERGENCY. This is a little bump to help me feel that I'm taking some action on my accounts. I get a little gift to myself for spending and also one for my emergency savings.
 

@@ -14,9 +14,9 @@ comments: true
 
 I've been lucky to work in the technology industry which pays quite a bit more than other industries. I've never really worried about money, but I know I haven't managed money as well as I should. Over most of my career, I would have rare but random overdraft fees where I spent more than the amount I had in my checking account simply because I wasn't watching my balance or forgot what day was payday.
 
-I was like a lot of people in the American middle class. I didn't have an income problem. I had a cash flow problem.
+Like a lot of people in the American middle class, my problem wasn't income. My problem was cash flow.
 
-A few years ago, I applied what I learned from agile software development to come up with a light weight system designed to simplify my spending. I call it lightweight budgeting.
+A few years ago, I applied what I learned from agile software development to come up with a simple system designed to simplify my spending. I call it Lightweight Budgeting.
 
 ## **The Lightweight Budgeting Values**
 

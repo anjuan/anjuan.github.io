@@ -20,12 +20,22 @@ A few years ago, I applied what I learned from agile software development to com
 
 ## **The Lightweight Budgeting Values**
 
-Since budget can be a draining term ("I get to work on my budget!" said no one ever), I call it a budget calendar. It's a simple way to control your spending and take control of your personal finance.
+Since the term "budget" can me different things, I want to frame my use of the terms around four values:
 
 * Automation over memory and repetition
 * Rough approximations over penny perfection
 * Multiple Accounts over detailed accounting
 * Consistency over everything
+
+
+### **Automation over Memory and Repetition**
+
+Instead of having to remember to review transactions and determine the exact meaning behind every debit and credit, the Lightweight Budgeting system prefers to automate as much as possible. This includes automated savings and the automatic funding of spending accounts.
+
+### **Rough Approximations over Penny Perfection**
+
+There's no need to track every penny in the Lightweight Budget system.
+
 
 ## **Assumptions**
 

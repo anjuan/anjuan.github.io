@@ -20,9 +20,9 @@ I've use [Google Wifi](https://store.google.com/us/product/google_wifi_2nd_gen) 
 
 Before doing anything, I unplugged everything in the patch closet in my home. My patch closet is where all of the cables that carry internet, phone, security, and television signals converge. I wanted to start clean so I unplugged (both signal and power) the modem from my previous ISP as well as my primary Google Wifi router. I also went through my house and unplugged the Google Wifi nodes in my house. I wanted to fully setup the xFi and primary Google Wifi router before re-establishing my mesh network.
 
-I positioned the xFi gateway in my patch closet and screwed in the coax cable that carries the internet signal into my home. I also connected the xFi to power and watched the LED lights on top start flashing. I had already downloaded the [Xfinity](https://play.google.com/store/apps/details?id=com.xfinity.digitalhome) app on my phone so I launched it and logged in using my credentials. The app directed me to scan the QR code on the bottom of the Xfi, and I did so. The LED lights flashed until finally settling on a constant white color.
+I positioned the xFi gateway in my patch closet and screwed in the coax cable that carries the internet signal into my home. I also connected the xFi to power and watched the LED lights on top start flashing. I had already downloaded the [Xfinity](https://play.google.com/store/apps/details?id=com.xfinity.digitalhome) app on my phone so I launched it and logged in using my credentials. The app directed me to scan the QR code on the bottom of the Xfi, and I did so. The LED lights flashed until finally settling on a constant white color showing that it had been activated with Xfinity's service.
 
-I used the app to configure the wifi network being broadcast by the XFi. I knew I wouldn't permanently use this wireless network since I wanted to eventually use Google Wifi. However, I wanted to confirm that I could get online using the Xfinity service before trying to switch over to the
+I used the app to configure the wifi network (name, admin username, and admin password) being broadcast by the XFi. I knew I wouldn't permanently use this wireless network since I wanted to eventually use Google Wifi. However, I wanted to confirm that I could get online using the Xfinity service before trying to switch over to the Google Wifi mesh network. I used my phone to access the xFi's wireless network and confirmed that I could access the websites I commonly used. I also launched a few streaming services to make sure that videos played smoothly. Everything worked just fine!
 
 ## **Put the Xfinity Xfi into Bridge Mode**
 
@@ -46,11 +46,11 @@ I used the Google Home app to inspect my wireless network and verify that I was 
 
 One major reason why I use Google Wifi instead of Google Nest Wifi is the ability to use internet backhaul. The Google Nest nodes don't have any ethernet ports at all so they can only use wireless communication to the router. Every Google Wifi node has two ethernet ports: one for internet into the device and one for internet out of the device. This allows every node to used a wired connection for communicating over the mesh instead of adding overhead to the wireless network.
 
-Since the xFi's ethernet ports in bridge mode are disabled, I had to find another way to add ethernet ports to my setup. So, I purchased a 5-port gigabit ethernet switch which I put between the xFi and the primary Google Wifi router (using port 1 on the switch). I then connected the ethernet cables that led to the other Google Wifi nodes to the other four ports.
+Since the xFi's ethernet ports in bridge mode are disabled, I had to find another way to add ethernet ports to my setup. So, I purchased a [5-port gigabit ethernet switch (affiliate link)](https://amzn.to/3svTWkn) which I put between the xFi and the primary Google Wifi router (using port 1 on the switch). I then connected the ethernet cables that led to the other Google Wifi nodes to the other four ports.
 
 {% include image.html url="/images/google-wifi-app.png" alt="Google Wifi App" caption="My beautiful Google Wifi Mesh Network." width=300 %}
 
-The screenshot shows "Nest Wifi" even though I'm using Google Wifi equipment. 
+By the way, the screenshot above shows "Nest Wifi" even though I'm using Google Wifi equipment. 
 
 I've been happy with the results of my Google Wifi network powered by Xfinity internet.
 

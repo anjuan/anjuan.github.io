@@ -30,7 +30,7 @@ Since the term "budget" can me different things, I want to frame my use of the t
 
 ### **Automation over Memory and Repetition**
 
-Instead of having to remember to review transactions and determine the exact meaning behind every debit and credit, the Lightweight Budgeting system prefers to automate as much as possible. This includes automated savings and the automatic funding of spending accounts.
+Instead of having to remember to review transactions and determine the exact meaning behind every debit and credit, the Lightweight Budgeting system prefers to automate as much as possible. This includes automated savings and the automatic funding of spending accounts. Pay increases are automatically diverted to raise how much you can save as well as how much you can spend.
 
 ### **Rough Approximations over Penny Perfection**
 

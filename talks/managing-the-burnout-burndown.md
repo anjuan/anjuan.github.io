@@ -4,6 +4,7 @@ title: Managing the Burnout Burndown
 permalink: /talks/managing-the-burnout-burndown/
 driveId1: 1L3UYP32oI0dMjouftpH0Um1PPnJrq3qt/preview
 driveId2: 1o7lkruTV8P9DaCW9Q8p6VSEZpMxgLpAq/preview
+youtubeId1: YUEvsk9TzmM
 ---
 
 {% include image.html url="/images/leaddevnewyork2019.jpg" alt="LeadDevNewYork2019" caption="Giving this talk with my wife Aneika at The Lead Developer conference in New York City." %}
@@ -57,6 +58,9 @@ This talk will combine the understanding from the trenches of Anjuan Simmons (wh
 **[DevRelCon London](https://drive.google.com/file/d/1o7lkruTV8P9DaCW9Q8p6VSEZpMxgLpAq/view?usp=sharing)**
 {% include googleDrivePlayer.html id=page.driveId2 %}
 <br>
+
+**[NDC Sydney (virtual)](https://www.youtube.com/watch?v=YUEvsk9TzmM)**
+{% include youtubePlayer.html id=page.youtubeId1 %}
 
 ## What Attendees Have Said
 

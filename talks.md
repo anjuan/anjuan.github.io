@@ -13,6 +13,7 @@ This page serves as a directory of the talks I give at tech events. Each link wi
 * [Leadership Lessons from the Agile Manifesto](/talks/leadership-lessons-from-the-agile-manifesto/)
 * [Technical Leadership Through the Underground Railroad](/talks/technical-leadership-through-the-underground-railroad/)
 * [Managing the Burnout Burndown](/talks/managing-the-burnout-burndown/)
+* [Remotely Operated: Managing Scattered Teams](/talks/remotely-operated-managing-scattered-teams/)
 
 ## Inclusion and Diversity
 

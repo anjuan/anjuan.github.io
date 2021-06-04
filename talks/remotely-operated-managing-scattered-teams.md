@@ -18,7 +18,7 @@ While work environments where employees don't occupy the same physical space are
 
 ## Description
 
-Companies are increasingly recognizing the viability of remote teams, and many managers are finding them tasked with effectively supporting scattered teams. If a company has long embraced the remote model, then this support is done within the context of existing organizational structures and norms. However, if the company adopted the remote model under duress, then managers have to learn how to operate in new ways while learning new competencies. This talk will provide guidance for how managers can support remote teams and help them improve performance.
+Companies are increasingly recognizing the viability of remote teams, and many managers are finding them tasked with effectively supporting scattered teams. If a company has long embraced the remote model, then this support is done within the context of existing organizational structures and norms. However, if the company adopted the remote model under duress, then managers have to learn how to operate in new ways while learning new competencies. Using the analogy of flying a drone, this talk will help managers support remote teams and improve their performance.
 
 ## Outline 
 * Burnout in Tech

@@ -14,7 +14,7 @@ comments: true
 
 ## **What is an Engineering Coach?**
 
-had direct reports
+At Help Scout, we call anyone who manages people a "Coach". Therefore, an "Engineering Coach" is someone who manages people in the Engineering department.
 
 ## **How Does and Engineering Coach Handle Communication?** 
 

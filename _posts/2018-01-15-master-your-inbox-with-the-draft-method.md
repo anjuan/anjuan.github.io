@@ -52,7 +52,7 @@ To clarify **The Two Reply Rule**, here's how it works:
 
 ## Archive
 
-Perhaps you may not be able to delete an email due to its importance, or you can't immediately reply because a reply may not be warranted. Maybe the email is an interesting article that you actually want to read later. You can archive that email so that it's out of your inbox but still available for you to read later. Even if you don't read the article, you may still want it to show up in future search results.
+If you can close out an email thread with a reply, then you can archive it. That removes it from your inbox and reduces the cognitive load of your email system. You can also archive messages that don't warrant a reply. For example, the email may be an interesting article that you actually want to read later. You can archive that email so that it's out of your inbox but still available for you to read later. Even if you don't read the article, you may still want it to show up in future search results.
 
 ## Filter
 

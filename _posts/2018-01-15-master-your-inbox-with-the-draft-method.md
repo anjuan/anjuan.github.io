@@ -46,7 +46,7 @@ To clarify **The Two Reply Rule**, here's how it works:
 > 
 > Person A, again apparently not satisfied with Person B's reply, sends a reply to Person B's reply.
 > 
-> Person B stops this madness and reaches out to Person A via some other channel (phone call, instant message, physical visit, smoke signals, etc.).
+> Person B stops this madness and reaches out to Person A via some other channel (phone call, instant message, video conference, physical visit, smoke signals, etc.).
  
  It's perfectly fine to send a summary email of the discussion, but don't try to have the discussion using email.
 

@@ -32,8 +32,6 @@ However, there are times when it's difficult to avoid a meeting:
 
 ## Planning the Meeting
 
-{% include image.html url="/images/lightweight-meetings-planning.jpg" alt="Empty Office" %}
-
 Meetings succeed or fail during the planning phase. Way before the meeting participants arrive, you need to have a solid plan in place to improve the chance that you’ll meet your meeting objectives. A critical part of a meeting plan is having the correct roles in the meeting.
 
 ### Roles

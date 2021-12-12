@@ -3,13 +3,9 @@
 
 - title: "Talks"
   href: "/talks/"
-  subcategories:
-    - subtitle: "Leadership Lessons from the Agile Manifesto"
-      subhref: "/talks/leadership-lessons-from-the-agile-manifesto/"
-    - subtitle: "Lending Privilege"
-      subhref: "/talks/lending-privilege/"
-    - subtitle: "Hands on Agile Workshop"
-      subhref: "/talks/hands-on-agile-workshop/"
+
+- title: "Workshops"
+  href: "/workshops/"
 
 - title: "Book Me"
   href: "/booking/"

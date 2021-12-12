@@ -4,7 +4,7 @@ title: About
 permalink: /workshops/
 ---
 
-{% include image.html url="/images/family-portrait-cruise-july-2019.jpg" alt="family" caption="My Family" %}
+{% include image.html url="/images/stem-list-EVgsAbL51Rk-unsplash.jpg" alt="workshops" caption="Workshop" %}
 
 Workshops conducted by [Dr. Aneika Simmons](https://aneikasimmons.com/):
 

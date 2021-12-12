@@ -10,9 +10,9 @@ permalink: /workshops/
 
 Workshops conducted by [Dr. Aneika Simmons](https://aneikasimmons.com/):
 
-Decision Making for the Public Employee
+* Decision Making for the Public Employee
 
-Leading with Creativity and Innovation
+* Leading with Creativity and Innovation
 
-Verbal and Nonverbal Communication in the Workplace for Managers.
+* Verbal and Nonverbal Communication in the Workplace for Managers.
 

@@ -8,7 +8,7 @@ permalink: /workshops/
 
 Workshops conducted with [Dr. Aneika Simmons](https://aneikasimmons.com/):
 
-* Burnout
+* Building Burnout Resistant Teams
 
 * Decision Making for the Public Employee
 

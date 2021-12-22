@@ -6,7 +6,9 @@ permalink: /workshops/
 
 {% include image.html url="/images/stem-list-EVgsAbL51Rk-unsplash.jpg" caption="Exciting workshops that enrich and inspire." width="400" align="right" %}
 
-Workshops conducted by [Dr. Aneika Simmons](https://aneikasimmons.com/):
+Workshops conducted with [Dr. Aneika Simmons](https://aneikasimmons.com/):
+
+* Burnout
 
 * Decision Making for the Public Employee
 

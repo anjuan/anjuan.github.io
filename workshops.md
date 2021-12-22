@@ -10,10 +10,10 @@ Workshops conducted with [Dr. Aneika Simmons](https://aneikasimmons.com/):
 
 ## **Building Burnout Resistant Teams**
 
-* Understanding of the concept of burnout will be optained
-* Grasp of how prevelant and counterproductive burnout is
-* Practical ways to reduce burnout as an individual
-* Best practices on reducing burnout in teams and departments
+* Understand the technical and practical definitions of burnout
+* Learn how widespread burnout is across multipe industries
+* Gain tools to build burnout resistance as an individual
+* Understand practices for reducing burnout in teams and departments
 
 ## **Decision Making for the Public Employee**
 

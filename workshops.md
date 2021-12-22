@@ -8,11 +8,20 @@ permalink: /workshops/
 
 Workshops conducted with [Dr. Aneika Simmons](https://aneikasimmons.com/):
 
-* Building Burnout Resistant Teams
+## **Building Burnout Resistant Teams**
 
-* Decision Making for the Public Employee
+TBD
 
-* Leading with Creativity and Innovation
+## **Decision Making for the Public Employee**
 
-* Verbal and Nonverbal Communication in the Workplace for Managers.
+TBD
+
+## **Leading with Creativity and Innovation**
+
+TBD
+
+
+## **Verbal and Nonverbal Communication in the Workplace for Managers**
+
+TBD
 

@@ -46,5 +46,5 @@ Never communicate in absolute terms and always leave a room for plausible deniab
 
 These laws, if followed ruthlessly and without shame, can result in profound success and even high office.
 
-But, this success will be achieved in exchange for profound moral loss.
+But, this success will be achieved in exchange for profound moral loss and a deep inner sense of emptiness.
 

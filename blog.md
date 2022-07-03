@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 ---
 
+**Privilege Notice:** I have a background of privilege that has created the lens through which I see and write about my life experiences. This background provides importnat context for interpreting my writing. Some items in my portfolio of privilege include:
+
+* I was born in the United States of America.
+* I have no physcial or mental disabilities.
+* I was raised in a two parent home by two people who, as of July 2022, have been married for over 50 years.
+* I was raised in a middle class house.
+* I am a straight cis-gendered man.
+* I have a marital partner who provides tremendous domestic, emotional, and financial support.
+
+---
+
 I blog semi-regularly about a variety of topics. Most of my blog posts are about my career in tech, my thoughts on engineering culture, my travels, and other topics that interest me.
 
 Below is a list of my blog posts in chronological order and grouped by year. [Click here to see them grouped by category.](/categories/)

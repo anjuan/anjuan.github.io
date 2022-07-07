@@ -15,6 +15,7 @@ I have a background of privilege that has created the lens through which I see a
 * I was raised in a middle class house.
 * I am a straight cis-gendered man.
 * I have a marital partner who provides tremendous domestic, emotional, and financial support.
+* I have great credit and no criminal record.
 
 I share this in hopes that it helps readers understand the ways in which my posts may or may not apply to their lives.
 

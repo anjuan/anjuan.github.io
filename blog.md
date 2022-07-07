@@ -4,7 +4,10 @@ title: Blog
 permalink: /blog/
 ---
 
-**Privilege Notice:** I have a background of privilege that has created the lens through which I see and write about my life experiences. This background provides importnat context for interpreting my writing. Some items in my portfolio of privilege include:
+<details>
+  <summary><B>Privilege Notice</B></summary>
+  
+I have a background of privilege that has created the lens through which I see and write about my life experiences. This background provides importnat context for interpreting my writing. Some items in my portfolio of privilege include:
 
 * I was born in the United States of America.
 * I have no physcial or mental disabilities.
@@ -13,9 +16,12 @@ permalink: /blog/
 * I am a straight cis-gendered man.
 * I have a marital partner who provides tremendous domestic, emotional, and financial support.
 
-I share this in hopes that it helps readers understand the ways in which my posts can apply to their lives.
+I share this in hopes that it helps readers understand the ways in which my posts may or may not apply to their lives.
 
 ---
+  
+</details>
+
 
 I blog semi-regularly about a variety of topics. Most of my blog posts are about my career in tech, my thoughts on engineering culture, my travels, and other topics that interest me.
 

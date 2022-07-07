@@ -8,7 +8,7 @@ permalink: /blog/
   <summary><B>Privilege Notice</B></summary>
   
 I have a background of privilege that has created the lens through which I see and write about my life experiences. This background provides importnat context for interpreting my writing. Some items in my portfolio of privilege include:
-
+<br>
 <ul>
 <li>I was born in the United States of America.</li>
 <li>I have no physcial or mental disabilities.</li>
@@ -20,7 +20,7 @@ I have a background of privilege that has created the lens through which I see a
 </ul>
 
 I share this in hopes that it helps readers understand the ways in which my posts may or may not apply to their lives.
-
+<br>
 <hr>
 <br>  
 </details>

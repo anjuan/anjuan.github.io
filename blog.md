@@ -22,10 +22,9 @@ I have a background of privilege that has created the lens through which I see a
 I share this in hopes that it helps readers understand the ways in which my posts may or may not apply to their lives.
 
 <hr>
-  
+<br>  
 </details>
-
-
+<br>
 I blog semi-regularly about a variety of topics. Most of my blog posts are about my career in tech, my thoughts on engineering culture, my travels, and other topics that interest me.
 
 Below is a list of my blog posts in chronological order and grouped by year. [Click here to see them grouped by category.](/categories/)

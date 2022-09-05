@@ -55,11 +55,11 @@ The second 1:1 is where I start to get more structured, and start the help my di
 * **Location:** Houston, TX, USA
 * **Hobbies:** Travel, Reading, Writing
 
-I also usually share Julia Evans excellent writeup on a [brag documents](https://jvns.ca/blog/brag-documents/) because I think it's an excellent way to self-manage your career.
+I also usually share Julia Evans excellent writeup on writing a [brag document](https://jvns.ca/blog/brag-documents/) because I think it's an excellent way to self-manage your career.
 
 ### **Performance 1:1s**
 
-I use the first 1:1 of a new month as a "performance 1:1". We talk about the career expectations of the direct, and I usually pull up the career ladder and have the direct walk me through how they think they are doing. I do this whether the direct wants to get promoted at the next possible promotion period or if they don't feel any urgency about getting promoted. I think it's crucial to make performance management an ongoing conversation because, at the very least, the impact the direct is having will drive whatever rewards they receive from the company. Those rewards can include a promotion, but they will more frequently be increases to their base pay or, if offered by the organization,  a bonus or stock award.
+I use the first 1:1 of a new month as a "performance 1:1". We talk about the career expectations of the direct, and I usually pull up the career ladder and have the direct walk me through how they think they are doing. I do this whether the direct wants to get promoted at the next possible promotion period or if they don't feel any urgency about getting promoted. I think it's crucial to make performance management an ongoing conversation because, at the very least, the impact the direct is having will drive whatever rewards they receive from the company. Those rewards can include a promotion, but they will more frequently be base pay increases, if offered by the organization, a bonus or stock award.
 
 If one of my directs is surprised by a promotion outcome or their rewards, then I've failed them as a manager. The monthly Performance 1:1s are ways for me to give the direct a data point about how I think they're doing. It's also an opportunity for me to discuss opportunities to discuss ways for them to improve their performance or find new areas to demonstrate impact.
 

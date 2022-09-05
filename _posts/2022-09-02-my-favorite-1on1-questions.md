@@ -38,7 +38,7 @@ There are a few tools that have been purpose built for 1:1s, but I usually just 
 
 I know that a direct has brought into the 1:1 concept when they add items to the agenda. That's a sign that they see the importance of our 1:1 meeting and want to contribute to it.
 
-### My Favorite 1:1 Questions
+## My Favorite 1:1 Questions
 
 Now that we've covered the basics, here are my favorite 1:1 questions. Keep in mind that I often have to discuss topics like company events, share observations about the team or my direct, provide context, etc., during my 1:1s so I rarely get a chance to just ask these questions during the meeting. However, I usually try to insert at least one question into the agenda.
 
@@ -150,18 +150,14 @@ At this point, my directs have formed their initial impressions of me. However, 
 
 ### **After Six Months**
 
+At this point, the direct has a sense of my management style and probably also has confirmed what they like and don't like about. These questions provides an opportunity for the direct to give me vital feedback that I can use how I tailor their management experience to better align with how they want to be managed. However, some people like being managed I'm ways that don't match their weaknesses so I also get a chance to coach them. 
+
+If the direct doesn't offer clear responses to these questions or responds with something like "everything is fine.", then I know that I need to continue focusing on building trust with this individual. 
+
 * **Are there any changes you want to make to the duration or frequency of our 1:1s?**
-
-This helps me see the logistics of the 1:1 are working for the direct. 
-
 * **Is there anything you like in particular about my management style?**
 * **What would you want me to start doing as your manager?**
 * **What would you want me to stop doing as your manager?**
-
-At this point, the direct has a sense of my management style and probably also has confirmed what they like and don't like about. These questions provides an opportunity for the direct to give me vital feedback that I can use how I tailor their management experience to better align with how they want to be managed. However, some people like being managed I'm ways that don't match their weaknesses so I also get a chance to coach them. 
-
-If the direct doesn't respond to these questions or responds with something like "Nothing.", then I know that I need to focus on building trust with this individual. 
-
 * **What work routine helps you stay productive at work?**
 * **Are you able to share any kind of feedback with me openly?**
 * **What aspects of your work would you like me to direct you more in?**
@@ -177,9 +173,9 @@ If the direct doesn't respond to these questions or responds with something like
 * **What do you think about our team’s relationship with other teams?**
 * **What is something about our company culture that impresses you the most at work every day?**
 
-### **After First Year**
+### **After the First Year**
 
-Ideally, after the first year, we've built a strong sense of shared trust. 
+Ideally, after the first year, we've built a strong sense of shared trust. We can start to get into challenging topics and, hopefully, find ways to navigte them. These 1:1 questioins are meant to solicit open and honest responses from the direct, but you'll only get meaningful answers if you've built a solid relationship first.
 
 * **Have any of your future career goals changed since the last time we spoke about them?**
 * **What can I do to build our team's reputation in the company?**
@@ -188,7 +184,7 @@ Ideally, after the first year, we've built a strong sense of shared trust.
 * **What’s stopping you from achieving your long term goals?**
 * **How can the training programs you've attended be made better?**
 * **How would you rate the level of loyalty our company shows to its employees?**
-* How aligned are the members of the top leadership team with each other?**
+* **How aligned are the members of the top leadership team with each other?**
 * **Do you have clarity about the company level goals set by top leadership?**
 * **What, according to you, is our company's biggest problem?**
 * **What is one thing that we should definitely do to enhance our product?**
@@ -196,6 +192,6 @@ Ideally, after the first year, we've built a strong sense of shared trust.
 * **What changes would you bring in if you were given the reins of this company?**
 
 
-## 1:1s Should be a Perk
+## Your Directs Should See 1:1s as a Perk
 
 I've found that the way I structure my 1:1s resonates with the people I'm tasked with supporting and helping them make progress on their career journeys. Your directs should see 1:1s with you as a perk of the job and nearly as valuable as retirement plans, health insurance, and vacation time. If that's not the case, then these questions and the conversations they spark will upgrade the value your directs derive from spending weekly time with you.

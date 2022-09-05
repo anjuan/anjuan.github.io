@@ -40,7 +40,7 @@ There are a few tools that have been purpose built for 1:1s, but I usually just 
 
 Now that we've covered the basics, here are my favorite 1:1 questions. Keep in mind that I often have to discuss topics like company events, share observations about the team or my direct, etc., during my 1:1s so I rarely get a chance to just ask these questions during the meeting. However, I usually try to insert at least one question into the agenda for each 1:1.
 
-The first weeks of working with a new direct are comprised of "establishing 1:1s" where I'm setting context, cadence, and starting to build trust. I also have two special "types" of 1:1s that I do each month: performance and relationship building. As weeks and months pass while working with my direct, I'll change the tone of the 1:1 questions from general in nature to specific queries I use to get to know the individual I'm managing. Ideally, I continually build trust with my directs as time goes on, and I can ask more intimate and impactful questions the longer we work together.
+The first weeks of working with a new direct are comprised of "establishing 1:1s" where I'm setting context, cadence, and starting to build trust. I also have two special "types" of 1:1s that I do each month: performance 1:1s and relationship building 1:1s. As weeks and months pass while working with my direct, I'll change the tone of the 1:1 questions from general in nature to specific queries I use to get to know the individual I'm managing. Ideally, I continually build trust with my directs as time goes on, and I can ask more intimate and impactful questions the longer we work together.
 
 ### **First 1:1**
 
@@ -122,7 +122,7 @@ I've sourced most of these questions (in this section and also this entire post)
 * **What's something most people don't know about you?**
 * **What have you gotten away with that you shouldn't have?**
 
-### **First Three Months**
+### **Afer Three Months**
 
 At this point, my directs have formed their initial impressions of me. However, those impressions may have been formed based on incomplete information or perhaps not during my best moments. These questions help me reset and recalibrate their perceptions and, ideally, understand where I need to do a better job showing up for them.
 

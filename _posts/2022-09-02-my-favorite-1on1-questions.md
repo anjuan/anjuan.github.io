@@ -16,11 +16,11 @@ I've led software engineering teams since the 1990s having spent more than a dec
 
 ## Basics
 
-### What is a 1:1?
+### **What is a 1:1?**
 
 A 1:1 is a regular meeting between a direct report ("direct") and their manager. As you may be able to tell from the name, it's meant to be one person (the direct report) engaging with one other person (the manager) in a synchronous meeting. The purpose of a 1:1 is to provide time for both people to share their perspectives, concerns, goals, and expectations.
 
-### How Often Should I have a 1:1?
+### **How Often Should I have a 1:1?**
 
 I'm a firm believer that 1:1s should be weekly. I think every other week, monthly, or longer periods between 1:1s dilutes the value of the context, clarity, correction, and other information the manager needs to provide. Also, weekly 1:1s let your directs know that they have dedicated time with you that is usually a few days away.
 
@@ -28,11 +28,11 @@ In addition to being a regularly scheduled weekly meeting, I also think that 1:1
 
 I never cancel 1:1s unless it conflicts with scheduled vacation time, one or both parties are ill, or there's truly an emergency happening either at work or in someone's personal life.
 
-### How Long Should a 1:1 Be?
+### **How Long Should a 1:1 Be?**
 
 I typically schedule my 1:1s for 30 minutes, but I'm always willing to have a follow up meeting if necessary. While I am not against hour long 1:1s, I've found that it's difficult to schedule 1:1s of that length unless I have a small number of directs.  
 
-### What 1:1 Tools Should I Use?
+### **What 1:1 Tools Should I Use?**
 
 There are a few tools that have been purpose built for 1:1s, but I usually just create a document, share it with my direct, and then add new agenda items to the top. This document becomes a living artifact of my relationship with each person I manage which I think is pretty cool.
 
@@ -122,7 +122,7 @@ I've sourced most of these questions (in this section and also this entire post)
 * **What's something most people don't know about you?**
 * **What have you gotten away with that you shouldn't have?**
 
-### **Afer Three Months**
+### **After Three Months**
 
 At this point, my directs have formed their initial impressions of me. However, those impressions may have been formed based on incomplete information or perhaps not during my best moments. These questions help me reset and recalibrate their perceptions and, ideally, understand where I need to do a better job showing up for them.
 

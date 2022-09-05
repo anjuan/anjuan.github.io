@@ -22,7 +22,7 @@ A 1:1 is a regular meeting between a direct report ("direct") and their manager.
 
 ### How Often Should I have a 1:1?
 
-I'm a firm believer that 1:1s should be weekly. I think every other week, montly, or longer periods between 1:1s dilutes the value of the context, clarity, correction, and other information the maanger needs to provide. Also, weekly 1:1s let your directs know that they have dedicated time with you that is usually a few days away.
+I'm a firm believer that 1:1s should be weekly. I think every other week, monthly, or longer periods between 1:1s dilutes the value of the context, clarity, correction, and other information the manager needs to provide. Also, weekly 1:1s let your directs know that they have dedicated time with you that is usually a few days away.
 
 In addition to being a regularly scheduled weekly meeting, I also think that 1:1s should be at the same time each week. I usually try to have all of my 1:1s on the same day because that helps me deliver information to my directs at roughly the same time. I also find that the people I talk to earlier in the day often help me refine the message for those later in the day. I don't think this refinement would happen if my 1:1s were spread across two or more days.
 
@@ -40,7 +40,7 @@ There are a few tools that have been purpose built for 1:1s, but I usually just 
 
 Now that we've covered the basics, here are my favorite 1:1 questions. Keep in mind that I often have to discuss topics like company events, share observations about the team or my direct, etc., during my 1:1s so I rarely get a chance to just ask these questions during the meeting. However, I usually try to insert at least one question into the agenda for each 1:1.
 
-The first weeks of working with a new direct are comprised of "establishing 1:1s" where I'm setting context, cadence, and starting to build trust. I also have two special "types" of 1:1s that I do each month: performance and relationship building. As weeks and months pass while working with my direct, I'll change the tone of the 1:1 questions from genneral in nature to specfic queries I use to get to know the indivdual I'm nanaging. Ideally, I continually build trust with my directs as time goes on, and I can ask more intimate and impactful questions the longer we work together.
+The first weeks of working with a new direct are comprised of "establishing 1:1s" where I'm setting context, cadence, and starting to build trust. I also have two special "types" of 1:1s that I do each month: performance and relationship building. As weeks and months pass while working with my direct, I'll change the tone of the 1:1 questions from general in nature to specific queries I use to get to know the individual I'm managing. Ideally, I continually build trust with my directs as time goes on, and I can ask more intimate and impactful questions the longer we work together.
 
 ### **First 1:1**
 
@@ -148,7 +148,7 @@ At this point, my directs have formed their initial impressions of me. However, 
 
 ### **After Six Months**
 
-At this point, my directs have a sense of my management style and probably also has confirmed what they like and don't like about it. These questions provide opportunties for my directs to give me vital feedback that I can use to refine how we work together. I also use these questions to identify the hours where my directs will benefit from more direction and coaching from me.
+At this point, my directs have a sense of my management style and probably also has confirmed what they like and don't like about it. These questions provide opportunities for my directs to give me vital feedback that I can use to refine how we work together. I also use these questions to identify the hours where my directs will benefit from more direction and coaching from me.
 
 If my directs don't offer clear responses to these questions or respond with something like "everything is fine.", then I know that I need to invest more in building trust with them. 
 
@@ -173,7 +173,7 @@ If my directs don't offer clear responses to these questions or respond with som
 
 ### **After the First Year**
 
-Ideally, after the first year, we've built a strong sense of shared trust. We can start to get into challenging topics and, hopefully, find ways to navigte them together. These 1:1 questioins are meant to solicit open and honest responses from the direct, but you'll only get meaningful answers if you've built a solid relationship first.
+Ideally, after the first year, we've built a strong sense of shared trust. We can start to get into challenging topics and, hopefully, find ways to navigate them together. These 1:1 questions are meant to solicit open and honest responses from the direct, but you'll only get meaningful answers if you've built a solid relationship first.
 
 * **Have any of your future career goals changed since the last time we spoke about them?**
 * **What can I do to build our team's reputation in the company?**
@@ -191,6 +191,6 @@ Ideally, after the first year, we've built a strong sense of shared trust. We ca
 
 ## Your Directs Should See 1:1s as a Perk
 
-When done well, directs will view 1:1s with their manager as important as other perks offerred by the organization like retirement plans, vacation time, and health insurance. Two things I look for to see if I've elevated the value of my 1:1s to that level are engagement and frequency. If my directs indepdently add to the 1:1 agenda that shows they are seeing the discussion as a valuable way to discuss important topics, share concerns, and solve problems. Similarly, if my directs keep the 1:1 on a weekly cadence, then that signals they see them as valuable. You wouldn't ask your organization to pay you less frequently, would you? That's because you see the value of your paycheck. It's the same way with 1:1s.
+When done well, directs will view 1:1s with their manager as important as other perks offered by the organization like retirement plans, vacation time, and health insurance. Two things I look for to see if I've elevated the value of my 1:1s to that level are engagement and frequency. If my directs independently add to the 1:1 agenda that shows they are seeing the discussion as a valuable way to discuss important topics, share concerns, and solve problems. Similarly, if my directs keep the 1:1 on a weekly cadence, then that signals they see them as valuable. You wouldn't ask your organization to pay you less frequently, would you? That's because you see the value of your paycheck. It's the same way with 1:1s.
 
 If your directs aren't contributing to the agenda for 1:1s or if they ask for them to be held less frequently, then I think these questions can be powerful ways to help them see the value of spending mutually interactive weekly time with you. You'll have conversations that will help them see where you can guide them, and you'll also get vital feedback that will make you a better manager.

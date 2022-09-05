@@ -8,7 +8,7 @@ permalink: /workshops/
 
 Workshops conducted with [Dr. Aneika Simmons](https://aneikasimmons.com/):
 
-## **Building Burnout Resistant Individuals and Teams**
+## **The Burnout Resistance Workshop**
 
 * Comprehend the technical and practical definitions of burnout
 * Learn how widespread burnout is across multipe industries

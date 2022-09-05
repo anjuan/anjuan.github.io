@@ -12,13 +12,13 @@ comments: true
 
 {% include image.html url="/images/my-favorite-1on1-questions-banner.jpg" alt="Two people sitting across from each other working on laptops." caption="Photocourtesy wocintechchat.com" %}
 
-I've led software engineering teams since the 1990s starting with more than a decade at Accenture, then at Deloitte, I did a few bids at various startups, and now as a Staff Engineering Manager at GitHub. There are many practices I use as a manager, but one of my favorites is the 1:1.  This post includes my favorite 1:1 questions and techniques. But, first, let's start with the basics.
+I've led software engineering teams since the 1990s starting with more than a decade at Accenture, then a stint at Deloitte, a few bids at various startups, and now as a Staff Engineering Manager at GitHub. There are many practices I use as a manager, but one of my favorites is the 1:1 (also called a "1-on-1", "one one one", or "one to one"). This post includes my favorite 1:1 questions and techniques. But, first, let's start with the basics.
 
 ## Basics
 
 ### What is a 1:1?
 
-A 1:1 (also called a "1-on-1", "one one one", or "one to one") is a regular meeting between a direct report ("direct") and their manager. As you may be able to tell from the name, it's meant to be one person (the direct report) engaging with one other person (the manager). The purpose of a 1:1 is to provide time for both people to share their perspectives, concerns, goals, and expectations.
+A 1:1 is a regular meeting between a direct report ("direct") and their manager. As you may be able to tell from the name, it's meant to be one person (the direct report) engaging with one other person (the manager) in a synchronous meeting. The purpose of a 1:1 is to provide time for both people to share their perspectives, concerns, goals, and expectations.
 
 
 ### How Often Should I have a 1:1?
@@ -194,4 +194,7 @@ Ideally, after the first year, we've built a strong sense of shared trust. We ca
 
 ## Your Directs Should See 1:1s as a Perk
 
-I've found that the way I structure my 1:1s resonates with the people I'm tasked with supporting and helping them make progress on their career journeys. Your directs should see 1:1s with you as a perk of the job and nearly as valuable as retirement plans, health insurance, and vacation time. If that's not the case, then these questions and the conversations they spark will upgrade the value your directs derive from spending weekly time with you.
+When done well, directs will view 1:1s with their manager as important as other perks offerred by the organization like retirement plans, vacation time, and health insurance. Two things I look for to see if I've elevated the value of my 1:1s to that level are engagement and frequency. If my directs indepdently add to the 1:1 agenda that shows they are seeing the discussion as a valuable way to discuss important topics, share concerns, and solve problems. Similarly, if my directs keep the 1:1 on a weekly cadence, then that signals they see them as valuable. You wouldn't ask your organization to pay you less frequently, would you? That's because you see the value of your paycheck. It's the same way with 1:1s.
+
+
+If that's not the case, then these questions and the conversations they spark will upgrade the value your directs derive from spending weekly time with you.

@@ -12,7 +12,7 @@ comments: true
 
 {% include image.html url="/images/my-favorite-1on1-questions-banner.jpg" alt="Two people sitting across from each other working on laptops." caption="Photocourtesy wocintechchat.com" %}
 
-I've led software engineering teams since the 1990s starting with more than a decade at Accenture, the at Deloitte, a few bids at various startups, and now as a Staff Engineering Manager at GitHub. There are many practices I use as a manager, but one of my favorites is the 1:1.  This post includes my favorite 1:1 questions and techniques. But, first, let's start with the basics.
+I've led software engineering teams since the 1990s starting with more than a decade at Accenture, then at Deloitte, I did a few bids at various startups, and now as a Staff Engineering Manager at GitHub. There are many practices I use as a manager, but one of my favorites is the 1:1.  This post includes my favorite 1:1 questions and techniques. But, first, let's start with the basics.
 
 ## Basics
 

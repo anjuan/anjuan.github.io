@@ -23,26 +23,25 @@ A 1:1 is a regular meeting between a direct report ("direct") and their manager.
 
 ### How Often Should I have a 1:1?
 
-I'm a firm believer that 1:1s should be weekly. I think any other cadence is too long of a period between touchpoints. Weekly 1:1s let your directs know that they have dedicated time with you that is usually a few days away.
+I'm a firm believer that 1:1s should be weekly. I think every other week, montly, or longer periods between 1:1s dilutes the value of the context, clarity, correction, and other information the maanger needs to provide. Also, weekly 1:1s let your directs know that they have dedicated time with you that is usually a few days away.
 
 In addition to being a regularly scheduled weekly meeting, I also think that 1:1s should be at the same time each week. I usually try to have all of my 1:1s on the same day because that helps me deliver information to my directs at roughly the same time. I also find that the people I talk to earlier in the day often help me refine the message for those later in the day. I don't think this refinement would happen if my 1:1s were spread across two or more days.
 
+I never cancel 1:1s unless it conflicts with scheduled vacation time, one or both parties are ill, or there's truly an emergency happening either at work or in someone's personal life.
 
 ### How Long Should a 1:1 Be?
 
-I typically schedule my 1:1s for 30 minutes, but I'm always willing to have a follow up meeting if necessary. While I am not against hour long 1:1s, I've found that difficult to schedule unless the number of directs is less than five  
+I typically schedule my 1:1s for 30 minutes, but I'm always willing to have a follow up meeting if necessary. While I am not against hour long 1:1s, I've found that it's difficult to schedule 1:1s of that length unless I have a small number of directs.  
 
 ### What 1:1 Tools Should I Use?
 
-There are a few tools that have been purpose built for 1:1s, but I usually just create a document, share it with my direct, and then add new entires to the top. This document becomes a living artifact of my relationship with each person I manage which I think is pretty cool.
-
-I know that a direct has brought into the 1:1 concept when they add items to the agenda. That's a sign that they see the importance of our 1:1 meeting and want to contribute to it.
+There are a few tools that have been purpose built for 1:1s, but I usually just create a document, share it with my direct, and then add new agenda items to the top. This document becomes a living artifact of my relationship with each person I manage which I think is pretty cool.
 
 ## My Favorite 1:1 Questions
 
-Now that we've covered the basics, here are my favorite 1:1 questions. Keep in mind that I often have to discuss topics like company events, share observations about the team or my direct, provide context, etc., during my 1:1s so I rarely get a chance to just ask these questions during the meeting. However, I usually try to insert at least one question into the agenda.
+Now that we've covered the basics, here are my favorite 1:1 questions. Keep in mind that I often have to discuss topics like company events, share observations about the team or my direct, etc., during my 1:1s so I rarely get a chance to just ask these questions during the meeting. However, I usually try to insert at least one question into the agenda for each 1:1.
 
-The first weeks of working with a new direct are comprised of "establishing 1:1s" where I'm setting context, cadence, and starting to build trust. These are the first and second 1:1s and then two special "types" of 1:1s that I do each month: performance and relationship building. I then list the 1:1s in rough groupings based on the duration of the time I've spent with each direct. Ideally, trust builds as time goes on, and I can ask more intimate and impactful questions. Of course, these groups are rough approximations, and I ask the questions in whatever order aligns with the needs of the direct.
+The first weeks of working with a new direct are comprised of "establishing 1:1s" where I'm setting context, cadence, and starting to build trust. I also have two special "types" of 1:1s that I do each month: performance and relationship building. As weeks and months pass while working with my direct, I'll change the tone of the 1:1 questions from genneral in nature to specfic queries I use to get to know the indivdual I'm nanaging. Ideally, I continually build trust with my directs as time goes on, and I can ask more intimate and impactful questions the longer we work together.
 
 ### **First 1:1**
 

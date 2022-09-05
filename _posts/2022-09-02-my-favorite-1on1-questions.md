@@ -125,7 +125,7 @@ I've sourced most of these questions (in this section and also this entire post)
 
 ### **First Three Months**
 
-At this point, my directs have formed their initial impressions of me. However, those impressions may have been formed based on incomplete information or perhaps not during my best moments. These questions help me reset and recalibrate their perceptions and, ideally, know where I need to do a better job showing up for them. 
+At this point, my directs have formed their initial impressions of me. However, those impressions may have been formed based on incomplete information or perhaps not during my best moments. These questions help me reset and recalibrate their perceptions and, ideally, understand where I need to do a better job showing up for them.
 
 * **What tools and resources would hurt the most if you suddenly couldn't use or access them?**
 * **What were your big or small wins in the past month?**
@@ -149,9 +149,9 @@ At this point, my directs have formed their initial impressions of me. However, 
 
 ### **After Six Months**
 
-At this point, the direct has a sense of my management style and probably also has confirmed what they like and don't like about. These questions provides an opportunity for the direct to give me vital feedback that I can use how I tailor their management experience to better align with how they want to be managed. However, some people like being managed I'm ways that don't match their weaknesses so I also get a chance to coach them. 
+At this point, my directs have a sense of my management style and probably also has confirmed what they like and don't like about it. These questions provide opportunties for my directs to give me vital feedback that I can use to refine how we work together. I also use these questions to identify the hours where my directs will benefit from more direction and coaching from me.
 
-If the direct doesn't offer clear responses to these questions or responds with something like "everything is fine.", then I know that I need to continue focusing on building trust with this individual. 
+If my directs don't offer clear responses to these questions or respond with something like "everything is fine.", then I know that I need to invest more in building trust with them. 
 
 * **Are there any changes you want to make to the duration or frequency of our 1:1s?**
 * **Is there anything you like in particular about my management style?**
@@ -174,7 +174,7 @@ If the direct doesn't offer clear responses to these questions or responds with 
 
 ### **After the First Year**
 
-Ideally, after the first year, we've built a strong sense of shared trust. We can start to get into challenging topics and, hopefully, find ways to navigte them. These 1:1 questioins are meant to solicit open and honest responses from the direct, but you'll only get meaningful answers if you've built a solid relationship first.
+Ideally, after the first year, we've built a strong sense of shared trust. We can start to get into challenging topics and, hopefully, find ways to navigte them together. These 1:1 questioins are meant to solicit open and honest responses from the direct, but you'll only get meaningful answers if you've built a solid relationship first.
 
 * **Have any of your future career goals changed since the last time we spoke about them?**
 * **What can I do to build our team's reputation in the company?**
@@ -195,5 +195,4 @@ Ideally, after the first year, we've built a strong sense of shared trust. We ca
 
 When done well, directs will view 1:1s with their manager as important as other perks offerred by the organization like retirement plans, vacation time, and health insurance. Two things I look for to see if I've elevated the value of my 1:1s to that level are engagement and frequency. If my directs indepdently add to the 1:1 agenda that shows they are seeing the discussion as a valuable way to discuss important topics, share concerns, and solve problems. Similarly, if my directs keep the 1:1 on a weekly cadence, then that signals they see them as valuable. You wouldn't ask your organization to pay you less frequently, would you? That's because you see the value of your paycheck. It's the same way with 1:1s.
 
-
-If that's not the case, then these questions and the conversations they spark will upgrade the value your directs derive from spending weekly time with you.
+If your directs aren't contributing to the agenda for 1:1s or ask for them to be held less frequently, then I think these questions can be powerful ways to help them see the value of spending weekly time with you. You'll have coonversations that will help them see where you can guide them, and you'll also get vital feedback that will make you a better manager.

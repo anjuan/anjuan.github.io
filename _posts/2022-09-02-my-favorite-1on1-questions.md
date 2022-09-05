@@ -10,7 +10,7 @@ excerpt: "Effective 1:1 meetings have been a vitally important of my management 
 comments: true
 ---
 
-{% include image.html url="/images/my-favorite-1on1-questions-banner.jpg" alt="Two people sitting across from each other working on laptops." caption="Photocourtesy wocintechchat.com" %}
+{% include image.html url="/images/my-favorite-1on1-questions-banner.jpg" alt="Two people sitting across from each other working on laptops." caption="Photo courtesy of wocintechchat.com" %}
 
 I've led software engineering teams since the 1990s having spent more than a decade at Accenture, followed by a stint at Deloitte, then I experienced the startup life at a few ventures, and now I'm a Staff Engineering Manager at GitHub. There are many practices I use as a manager, but one of my favorites is the 1:1 (also called a "1-on-1", "one one one", or "one to one"). This post includes my favorite 1:1 questions and techniques. But, first, let's start with the basics.
 

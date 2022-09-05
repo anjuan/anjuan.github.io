@@ -1,5 +1,5 @@
 ---
-title: 'My Favorite 1:1 Questions'
+title: 'My Favorite 1 on 1 Questions'
 author: anjuan
 layout: post
 date: "2020-08-25"

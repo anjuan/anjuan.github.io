@@ -6,7 +6,7 @@ date: "2022-09-02"
 permalink: /my-favorite-1on1-questions/
 categories:
   - Work
-excerpt: "Effective 1:1 meetings have been a vitally important of my management style for years. Here are my favorite questions to ask my directs during our 1:1s. I also include some of the techniques I use to make 1:1s effective relationship and career building experiences."
+excerpt: "Effective 1:1 meetings have been a vitally important of my management style for years. Here are my favorite 1:1 questions, and I also include some of the techniques I use to make 1:1s effective relationship and career building experiences."
 comments: true
 ---
 

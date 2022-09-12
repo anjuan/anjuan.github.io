@@ -10,11 +10,9 @@ excerpt: "Companies often manage their interview questions as closely guarded se
 comments: true
 ---
 
-{% include image.html url="/images/pawel-czerwinski-_9dSF0Hwitw-unsplash.jpg" alt="A large billboard" caption="Photo by Pawel Czerwinski Unsplash" %}
+{% include image.html url="/images/pawel-czerwinski-_9dSF0Hwitw-unsplash.jpg" alt="A large billboard" caption="Photo by <a href="https://unsplash.com/@towfiqu999999?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/s/photos/questions?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>" %}
 
 *Disclaimer: This post covers a controversial topic, and the vast majority of the companies I have worked for in the past would not open source their interview questions. This article represents my personal opinion and does not reflect the perspective of any of my past, present, or future employers.*
-
-Photo by <a href="https://unsplash.com/@towfiqu999999?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/s/photos/questions?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Most of us have experienced what I call "post interview clarity". It's when we walk out of an interview and realize we had a much better answer to a question asked by the interviewer than the one we gave. Perhaps we didn't really understand the question, or we simply came up with a better example after having some more time to think about it. Maybe the stress of sitting in front of someone who is actively assessing you caused anxiety that made it difficult for us to construct our best responses. Regardless, we really wish we could rewind time and provide our better answer.
 
@@ -36,7 +34,7 @@ If candidates know the questions in advance, then they can tailor their backgrou
 
 ### **Level the Playing Field**
 
-I already mentioned that candidates can find company interview questions by searching repositories or talking to people who have been through the process. They can also hire interviewing coaches or consultants who can provide company interivew questions and how to answer them. However, these methods are often easier to employ by candidates who have a lot of privilege. A single parent who works a job without a lot of flexibly probably won't have time to do extensive searches through online interview question banks. Also, knowing people who have been through the interview process is usually a function of being in the same demographic group as the people who already work at the company.
+I already mentioned that candidates can find company interview questions by searching repositories or talking to people who have been through the process. They can also hire interviewing coaches or consultants who can provide company interview questions and how to answer them. However, these methods are often easier to employ by candidates who have a lot of privilege. A single parent who works a job without a lot of flexibly probably won't have time to do extensive searches through online interview question banks. Also, knowing people who have been through the interview process is usually a function of being in the same demographic group as the people who already work at the company.
 
 Some people don't like providing off-the-cuff answers so they may struggle when a question is posed to them. They may think "I don't know the answer" and, therefore, not give one instead of sharing what they know. Women are often socialized to not feel qualified if they don't know all of the answers, and this results in fewer women making it through interview processes.
 

@@ -56,7 +56,7 @@ You interview questions are a reflection of your values. If you only ask enginee
 
 ### **Get Better Interview Questions**
 
-If you make your interview questions public, then you have the opportunity to get feedback on your questions or hear ideas about better questions that you're not asking. Interviewing can be a time and resource heavy process, and companies often don't have the bandwidth to assess the quality, effectiveness, and completeness of their questions. Publicizing your questions can be a great force function for making them better.
+If you make your interview questions public, then you have the opportunity to get feedback on your questions or get proposals for better questions than the ones currently on your list. Interviewing can be a time and resource heavy process, and companies often don't have the bandwidth to regularly assess the quality, effectiveness, and completeness of their questions. Publicizing your questions can be a great force function for making them better.
 
 ## **How to Make Your Open Source Your Interview Questions**
 
@@ -107,7 +107,7 @@ tr:nth-child(even) {background: #CCC}
 |[18F](https://18f.gsa.gov/)                     | [18F Engineering Hiring Guide](https://eng-hiring.18f.gov/)             |
 |[The Guardian](https://www.theguardian.com/us)  | [Coding Exercises](https://github.com/guardian/coding-exercises)        |
 |[Help Scout](https://www.helpscout.com/)        | [Interview Questions](https://github.com/helpscout/interview-questions) |
-
+<br>
 
 ## **Arguments Against Making Your Interview Questions Public**
 

@@ -6,7 +6,7 @@ date: "2022-09-11"
 permalink: /blog/open-source-interview-questions/
 categories:
   - Work
-excerpt: "Companies often manage their interview questions as closely guarded secrets, but open sourcing them can make hiring processes more accessible, inclusive, and fair ."
+excerpt: "Companies often manage their interview questions as closely guarded secrets, but open sourcing them can make hiring processes more accessible, inclusive, and fair."
 comments: true
 ---
 
@@ -98,11 +98,11 @@ tr:nth-child(even) {background: #CCC}
 </body>
 </html>
 
-| Company | Homepage | Interview Questions
-|---------------|----------------------------------------|-------------------------------------------|
-|18F                   | https://18f.gsa.gov/                        | https://eng-hiring.18f.gov/   |
-| The Guardian | https://www.theguardian.com/us | https://github.com/guardian/coding-exercises |
-| Help Scout     | https://www.helpscout.com/          | https://github.com/helpscout/interview-questions
+| Company                                        | Interview Questions                                                     |
+|------------------------------------------------|-------------------------------------------------------------------------|
+|[18F](https://18f.gsa.gov/)                     | [18F Engineering Hiring Guide](https://eng-hiring.18f.gov/)             |
+|[The Guardian](https://www.theguardian.com/us)  | [Coding Exercises](https://github.com/guardian/coding-exercises)        |
+|[Help Scout](https://www.helpscout.com/)        | [Interview Questions](https://github.com/helpscout/interview-questions) |
 
 ## **Arguments Against Making Your Interview Questions Public**
 

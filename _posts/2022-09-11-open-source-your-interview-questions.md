@@ -18,9 +18,9 @@ Most of us have experienced what I call "post interview clarity". It's when we w
 
 Being interviewed is hard. Often, we are being asked complicated questions by strangers who often already have a "right answer" hidden in the unseen recesses of their minds. Contrary to the real world where we would have time to do research and find solutions, interviewing requires us to come up with answers on the spot. However, that means interviewing is often a test to determine if a candidate will be successful in a way that is divorced from how most people find success.
 
-Most companies conduct interviews to select the best people to fill their open roles. Since hiring processes are expensive and can have long cycles, it makes sense to reduce as much friction as possible. I believe that making your interview questions public through open source can add significant effectiveness and efficiency to your hiring processes.
+Most companies conduct interviews to select the best people to fill their open roles. Since hiring processes are expensive and can have long cycles, it makes sense to reduce as much friction as possible. I believe that making your interview questions public can add significant effectiveness and efficiency to your hiring processes. More importantly, I think that your hiring process will become more accessible, inclusive and fair.
 
-I've worked in the software development industry for my entire career (almost 25 years), and I'm very familiar with the types of interviews in that industry. This includes the initial pre-screen (usually done by HR), a "person" screen, and technical test that's either done in person or as a take home exercise. Manager roles usually have questions around people management and Product and Design roles usually have a case study presentation. I think all of these types of questions can be made public through open source.
+I've worked in the software development industry for my entire career (almost 25 years), and I'm very familiar with the types of interviews in that industry. This includes the initial pre-screen (usually done by HR), a "person" screen, and technical test that's either done in person or as a take home exercise. Manager roles usually have questions around people management and Product and Design roles usually have a case study presentation. I think all of these types of questions can be made public.
 
 ## **Reasons to Make Your Interview Questions Public**
 
@@ -54,9 +54,13 @@ I prefer to ask questions that see how the candidate thinks about problems. Thes
 
 You interview questions are a reflection of your values. If you only ask engineers questions about writing code and not about how they work in teams, then that tells candidates a lot about your priorities. Making your interview questions public is a great way to let the market know what's really important to your organization.
 
+### **Get Better Interview Questions**
+
+If you make your interview questions public, then you have the opportunity to get feedback on your questions or hear ideas about better questions that you're not asking. Interviewing can be a time and resource heavy process, and companies often don't have the bandwidth to assess the quality, effectiveness, and completeness of their questions. Publicizing your questions can be a great force function for making them better.
+
 ## **How to Make Your Open Source Your Interview Questions**
 
-Open sourcing your interview questions is fairly straightforward.
+Open sourcing your interview questions is fairly straightforward:
 
 ### **Choose a Location for Your Question Bank**
 

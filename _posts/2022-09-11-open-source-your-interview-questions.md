@@ -104,9 +104,10 @@ tr:nth-child(even) {background: #CCC}
 |[The Guardian](https://www.theguardian.com/us)  | [Coding Exercises](https://github.com/guardian/coding-exercises)        |
 |[Help Scout](https://www.helpscout.com/)        | [Interview Questions](https://github.com/helpscout/interview-questions) |
 
+
 ## **Arguments Against Making Your Interview Questions Public**
 
-I want to end by stating that I understand why companies often refuse to make their interview questions public.
+I want to end by stating that I understand why companies often refuse to make their interview questions public. Here are the arguments I usually encounter and why I think they aren't very strong.
 
 ### **Candidates Will Rehearse Their Answers**
 

@@ -3,7 +3,7 @@ title: 'Open Source Your Interview Questions'
 author: anjuan
 layout: post
 date: "2022-09-11"
-permalink: /blog/open-source-interview-questions/
+permalink: /blog/open-source-your-interview-questions/
 categories:
   - Work
 excerpt: "Companies often manage their interview questions as closely guarded secrets, but open sourcing them can make hiring processes more accessible, inclusive, and fair."
@@ -28,9 +28,9 @@ Here are the reasons to open source your interview questions that I find the mos
 
 ### **Better Prepared Candidates**
 
-When candidates prepare for interviews without knowledge of the questions, they have to guess what questions they'll be asked. Sure, they can search unofficial repositories of the questions or ask people who have been interviewed before, but that's more a test of the candidate's amount of free time and social network rather than fitness for the job.
+When candidates prepare for interviews without foreknowledge of the questions, they have to guess what questions they'll be asked. Sure, they can search unofficial online question repositories or ask people who have previously interviewed with the company, but that's more a test of the candidate's amount of free time and strength of social connections rather than an assessment of their fitness for the job.
 
-If candidates know the questions in advance, then they can tailor their background, experiences, and skillsets to the actual things the interview wants to know about them. Of course, this doesn't preclude interviewers from taking deep dives into the prepared answers of the candidate or asking follow-up questions.
+If candidates know the questions in advance, then they can tailor their background, experiences, and skillsets to the actual things the interviewer wants to know about them. Of course, this doesn't preclude interviewers from taking deep dives into the prepared answers of the candidate or asking follow-up questions.
 
 ### **Level the Playing Field**
 
@@ -117,4 +117,4 @@ This is the most common response I get to the idea of open sourcing your intervi
 I find it ironic that "we'll have to make the process harder" is often the response to efforts to make the process more fair and inclusive. While I do think that candidates who don't take advantage of publicly accessible interview questions should be judged on their preparation skills, I don't think that the process should become harder for everyone.
 
 
-A lot of my thinking on this topic came from this [Twitter thread](https://twitter.com/anjuan/status/1395827520755351555?s=21&t=gqFwHtFPHKh5FbLTuw8JLg) I started on May 21st, 2021.
+*A lot of my thinking on this topic came from this [Twitter thread](https://twitter.com/anjuan/status/1395827520755351555?s=21&t=gqFwHtFPHKh5FbLTuw8JLg) I started on May 21st, 2021.*

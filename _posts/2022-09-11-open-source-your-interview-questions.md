@@ -9,9 +9,8 @@ categories:
 excerpt: "Companies often manage their interview questions as closely guarded secrets, but open sourcing them can make hiring processes more accessible, inclusive, and fair ."
 comments: true
 ---
-![towfiqu-barbhuiya-oZuBNC-6E2s-unsplash](https://user-images.githubusercontent.com/3968994/186996727-b1131708-656d-45df-bb83-c8f01c4953f3.jpg)
 
-{% include image.html url="/images/pawel-czerwinski-_9dSF0Hwitw-unsplash.jpg" alt="A large billboard" caption="Photo by [Pawel Czerwinski](https://unsplash.com/es/@pawel_czerwinski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/billboard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)" %}
+{% include image.html url="/images/pawel-czerwinski-_9dSF0Hwitw-unsplash.jpg" alt="A large billboard" caption="Photo by Pawel Czerwinski Unsplash" %}
 
 *Disclaimer: This post covers a controversial topic, and the vast majority of the companies I have worked for in the past would not open source their interview questions. This article represents my personal opinion and does not reflect the perspective of any of my past, present, or future employers.*
 

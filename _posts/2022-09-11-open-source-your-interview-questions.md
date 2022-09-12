@@ -10,7 +10,7 @@ excerpt: "Companies often manage their interview questions as closely guarded se
 comments: true
 ---
 
-{% include image.html url="/images/pawel-czerwinski-_9dSF0Hwitw-unsplash.jpg" alt="A large billboard" caption="Photo by <a href="https://unsplash.com/@towfiqu999999?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/s/photos/questions?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>" %}
+{% include image.html url="/images/pawel-czerwinski-_9dSF0Hwitw-unsplash.jpg" alt="A large billboard" caption="Photo by Pawel Czerwinski on Unsplash" %}
 
 *Disclaimer: This post covers a controversial topic, and the vast majority of the companies I have worked for in the past would not open source their interview questions. This article represents my personal opinion and does not reflect the perspective of any of my past, present, or future employers.*
 

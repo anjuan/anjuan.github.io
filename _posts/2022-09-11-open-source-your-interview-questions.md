@@ -42,7 +42,7 @@ If you want to create a hiring process that doesn't further privilege the privil
 
 ### **Better Support Neurodiversity**
 
-Some candidates my be neurodiverse meaning that they have ways of thinking that are often diagnosed as autism, dyslexia, attention deficit hyperactivity disorder (ADHD), Tourette Syndrome, etc. These candidates can have difficulty focusing or may struggle to articulate complex concepts in 
+Some candidates my be neurodiverse meaning that they have ways of thinking that are often diagnosed as autism, dyslexia, attention deficit hyperactivity disorder (ADHD), Tourette Syndrome, etc. These candidates can have difficulty focusing or may struggle to articulate complex concepts in new environments. Providing the interview questions in advance can help these candidates demonstrate their alignment with your needs.
 
 ### **Go Beyond "Right" and "Wrong" Answers**
 
@@ -52,7 +52,7 @@ I prefer to ask questions that see how the candidate thinks about problems. Thes
 
 ### **Broadcast Your Values**
 
-You interview questions are a reflection of your values. If you only ask engineers questions about writing code and not about how they work in teams, then that tells candidates a lot about your priorities. Making your interview questions public is a great way to let the market know about what's really important to your organization.
+You interview questions are a reflection of your values. If you only ask engineers questions about writing code and not about how they work in teams, then that tells candidates a lot about your priorities. Making your interview questions public is a great way to let the market know what's really important to your organization.
 
 ## **How to Make Your Open Source Your Interview Questions**
 

@@ -22,7 +22,7 @@ A 1:1 is a regular meeting between a direct report ("direct") and their manager.
 
 ### **How Often Should I have a 1:1?**
 
-I'm a firm believer that 1:1s should be weekly. I think every other week, monthly, or longer periods between 1:1s dilutes the value of the context, clarity, correction, and other information the manager needs to provide. Also, weekly 1:1s let your directs know that they have dedicated time with you that is usually a few days away.
+I'm a firm believer that 1:1s should be weekly. I think every other week, monthly, or longer periods between 1:1s dilutes the value of the context, clarity, correction, and other information the manager needs to provide. Also, weekly 1:1s let your directs know that they have dedicated time with you that is usually just a few days away at any given point during the week.
 
 In addition to being a regularly scheduled weekly meeting, I also think that 1:1s should be at the same time each week. I usually try to have all of my 1:1s on the same day because that helps me deliver information to my directs at roughly the same time. I also find that the people I talk to earlier in the day often help me refine the message for those later in the day. I don't think this refinement would happen if my 1:1s were spread across two or more days.
 
@@ -54,7 +54,7 @@ The second 1:1 is where I start to get more structured, and start the help my di
 * **Location:** Houston, TX, USA
 * **Hobbies:** Travel, Reading, Writing
 
-I also usually share Julia Evans excellent writeup on writing a [brag document](https://jvns.ca/blog/brag-documents/) because I think it's an excellent way to self-manage your career.
+I also usually share Julia Evans' excellent writeup on writing a [brag document](https://jvns.ca/blog/brag-documents/) because I think it's an excellent way to self-manage your career.
 
 ### **Performance 1:1s**
 

@@ -17,7 +17,7 @@ youtubeId1: YUEvsk9TzmM
 
 ## Abstract
 
-In addition to managing backlogs and burn down charts, technology leaders have to follow an ever-changing software landscape, manage team dynamics, and navigate office politics. It’s no surprise that this leads to burnout. This talk will provide tools to help get stress into managed state.
+In addition to managing backlogs and burn down charts, technology leaders have to follow an ever-changing software landscape, manage team dynamics, and navigate office politics. It’s no surprise that this leads to burnout. This talk will provide tools to help get stress into a managed state.
 
 ## Description
 

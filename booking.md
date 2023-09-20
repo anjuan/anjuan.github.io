@@ -14,7 +14,7 @@ The first duty of a speaker is to provide a high quality experience for the audi
 
 ## What I Offer
 
-I provide professionalism, preparedness, promptness, and a pleasant attitude. When I arrive at your event, my goal is to serve your attendees, help anywhere I can, and provide a hassle-free experience for organizers and volunteers. Just let me know what you need me to do. 
+I provide professionalism, preparedness, promptness, and a pleasant attitude. When I arrive at your event, my goal is to serve your attendees, help anywhere I can, and provide a hassle-free experience for organizers and volunteers. Just let me know what you need me to do, and I'll take care of the rest.
 
 If you need me to cover a slot because of a last minute cancellation by another speaker, I'll be happy to do so. I always have a spare talk ready.
 

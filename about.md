@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/family-portrait-cruise-july-2019.jpg" alt="family" caption="My Family" %}
+{% include image.html url="/images/sin titulo013_4039.jpg" alt="family" caption="My Family" %}
 
 Hello! Most of the content on this site is about my career in technology, but, if you really want to know what I care about, look no further than my family. No matter whatever level of success I achieve, nothing will be more meaningful or significant to me than my family.
 

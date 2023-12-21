@@ -2,7 +2,7 @@
 title: 'Open Source Your Interview Questions'
 author: anjuan
 layout: post
-date: "2022-09-11"
+date: "2023-09-11"
 permalink: /blog/open-source-your-interview-questions/
 categories:
   - Work

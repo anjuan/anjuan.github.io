@@ -10,11 +10,6 @@ youtubeId3: EqYb5hJJBvU
 
 {% include image.html url="/images/QCon-2020.JPG" alt="QCon London 2020" caption="Giving my Technical Leadership Through the Underground Railroad keynote at QCon London." %}
 
-## Video
-
-**[QCon London Keynote](https://www.infoq.com/presentations/leadership-conductors-underground-railroad/)**
-{% include googleDrivePlayer.html id=page.driveId1 %}
-
 ## Abstract
 
 Technical leaders are often tasked with guiding teams through difficult times. The Underground Railroad provides insights into how to navigate challenging conditions and find success. The principles that Conductors on the Underground Railroad followed can be directly applied to the work of software engineering leadership.

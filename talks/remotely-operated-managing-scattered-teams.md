@@ -4,6 +4,12 @@ title: Remotely Operated - Managing Scattered Teams
 permalink: /talks/remotely-operated-managing-scattered-teams/
 ---
 
+
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n2FeCZ26pQk?si=XNMpRFQTl1myNPeV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Abstract
 
 While work environments where employees don't occupy the same physical space are commonly called "remote" or "distributed", these terms don't adequately describe the stress of doing your job seperated from your colleagues. A more accurate terms is "scattered", and this talk will provide guidelines for managing scattered teams.

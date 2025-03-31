@@ -11,8 +11,7 @@ youtubeId1: YUEvsk9TzmM
 
 ## Video
 
-**[LeadDev New York](https://drive.google.com/file/d/1L3UYP32oI0dMjouftpH0Um1PPnJrq3qt/view?usp=sharing)**
-{% include googleDrivePlayer.html id=page.driveId1 %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BDnWcZobdrA?si=4CQe4NDINZUiYkAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 
 ## Description

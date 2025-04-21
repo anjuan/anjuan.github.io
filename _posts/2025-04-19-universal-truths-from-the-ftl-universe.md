@@ -83,4 +83,4 @@ The game teaches us to make the best decision we can with limited information, a
 
 FTL puts us in the captain's chair of a starship, but it's really putting us in the captain's chair of our own lives. It reminds us that resources are limited, failure is educational, adaptation is crucial, and sometimes there are no perfect answers.
 
-The next time your ship explodes in the cold vacuum of space, remember that each failed run makes you wiser for the next attempt—in the game and in life. After all, the universe is vast, unpredictable, and full of danger, but with enough attempts and sufficient learning, even the most challenging journeys become possible.
+The next time your ship explodes in the cold vacuum of space, remember that each failed run makes you wiser for the next attempt—in the game and in life. After all, the universe is vast, unpredictable, and full of danger, but with enough attempts and sufficient learning, even the most challenging journeys can help you grow and evolve. No clone bay required.

@@ -1,5 +1,5 @@
 ---
-title: 'A Time Machine to 1947: What My Mother's Birth Year Teaches Us About Progress'
+title: 'A Time Machine to 1947: What the Birth Year of My Mother Teaches Us About Progress'
 author: anjuan
 layout: post
 date: "2025-06-23"

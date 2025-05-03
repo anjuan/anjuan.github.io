@@ -1,5 +1,5 @@
 ---
-title: 'Writing Your Next Chapter: Life Lessons from a Tech Leader's Commencement Speech'
+title: 'Writing Your Next Chapter: Life Lessons from a Tech Commencement Speech'
 author: anjuan
 layout: post
 date: "2025-05-12"

@@ -1,5 +1,5 @@
 ---
-title: 'The Cultural Corollary to Conway's Law: How Society Shapes Tech'
+title: 'The Cultural Corollary to Conway: How Society Shapes Tech'
 author: anjuan
 layout: post
 date: "2025-05-26"

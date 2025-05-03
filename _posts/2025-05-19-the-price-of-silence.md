@@ -1,5 +1,5 @@
 ---
-title: 'The Price of Silence: A Tech Leader's Perspective on Moral Choices'
+title: 'The Price of Silence: A Tech Leader Perspective on Moral Choices'
 author: anjuan
 layout: post
 date: "2025-05-19"

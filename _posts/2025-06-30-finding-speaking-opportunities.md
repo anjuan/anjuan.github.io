@@ -1,5 +1,5 @@
 ---
-title: 'The Tech Speaker's Guide to Finding Your Stage'
+title: 'The Tech Speaker Guide to Finding Your Stage'
 author: anjuan
 layout: post
 date: "2025-06-30"

@@ -108,6 +108,4 @@ Most importantly, it means remembering that the most dangerous APIs are often th
 
 It's essential for building the kind of systems and organizations we actually want to work in.
 
----
-
-*The Saruman API reminds us that charisma without integrity is just manipulation with better documentation. The real measure of a leadership interface isn't how elegant it sounds—it's whether the systems we lead become more capable and autonomous as a result of integrating with us. In a field where technical expertise can easily translate into unearned administrative privileges in other domains, that's a lesson worth remembering.*
+The Saruman API reminds us that charisma without integrity is just manipulation with better documentation. The real measure of a leadership interface isn't how elegant it sounds. It's whether the systems we lead become more capable and autonomous as a result of integrating with us. In a field where technical expertise can easily translate into unearned administrative privileges in other domains, that's a lesson worth remembering.

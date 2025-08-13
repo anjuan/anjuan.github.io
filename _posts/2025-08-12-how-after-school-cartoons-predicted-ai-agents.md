@@ -2,7 +2,7 @@
 title: 'How After School Cartoons Predicted AI Agents'
 author: anjuan
 layout: post
-date: "2025-08-15"
+date: "2025-08-12"
 permalink: /blog/how-after-school-cartoons-predicted-ai-agents/
 categories:
   - Software

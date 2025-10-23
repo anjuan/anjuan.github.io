@@ -26,7 +26,7 @@ I tried several methods and tools over the years ranging from day planners to no
 
 My earliest journals were thin paper calendar organizers that I used in my years as an undergraduate electrical engineering student at The University of Texas at Austin. I used these calendars to organize my class schedule and also capture my thoughts about the people, places, and events in my life. I have to admit that it's nice to revisit the things that seemed important to me during those years.
 
-After I graduated and started my career, I started using to thicker paper notebooks that had dedicated pages for journaling. I have a stack of these notebooks in my office and up in the attic. While some of these journals contain work notes like minutes from meetings, I would often write down my thoughts about those years, too.
+After I graduated and started my career, I started using thicker paper notebooks that had dedicated pages for journaling. I have a stack of these notebooks in my office and up in the attic. While some of these journals contain work notes like minutes from meetings, I would often write down my thoughts about those years, too.
 
 I loved the physicality of paper notebooks and writing in them with a pen. I've found that typing in a word processor didn't have the psychological weight of writing. I have dozens of electronic journals in cloud storage, but they aren't as meaningful to me as my stack of paper journals.
 

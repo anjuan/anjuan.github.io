@@ -16,7 +16,7 @@ I routinely hear performance reviews from my fellow managers that sound somethin
 
 My response is usually, "Yes, but what are you doing to manage their performance to a higher level?"
 
-Managers have to be investors by making positive contributions to the performance of their team. However, far too many manager prefer to be reporters instead of investors. Rather than improving the future performance of a team member, they simply report their current performance.
+Managers have to be investors by making positive contributions to the performance of their team. However, far too many managers prefer to be reporters instead of investors. Rather than improving the future performance of a team member, they simply report their current performance.
 
 Let's use the analogy of a car. Let's say you think you have a flat tire. You use a tire pressure gauge to check the inflation level of the wheel and determine that the tire is indeed perilously low in pressure. Does that fix the tire? No, you simply used a tool to report the state of the tire. If you took the car to a tire shop, you wouldn't think much of a mechanic who simply agreed with you that the tire pressure was low. You already knew that. You don't need information about the tire. You need the tire to be fixed. However, despite operating like ineffective mechanics, we continue to let managers think they are doing a great job by simply reporting what most people already know. Effective managers go beyond reporting their team's problems and actively work to resolve those problems over time.
 

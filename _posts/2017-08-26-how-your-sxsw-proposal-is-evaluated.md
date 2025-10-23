@@ -6,7 +6,7 @@ date: "2017-08-26"
 permalink: /blog/how-to-get-your-sxsw-proposal-accepted/
 categories:
   - Speaking
-excerpt: "I've been a member of the SXSW Advisory Board (AB) for several years. As a member of the AB, I've reviewed hundreds of proposals submitted throug hthe PanelPicker interface. Here is my approach to deciding if I should vote for a proposal to be a part of SXSW."
+excerpt: "I've been a member of the SXSW Advisory Board (AB) for several years. As a member of the AB, I've reviewed hundreds of proposals submitted through the PanelPicker interface. Here is my approach to deciding if I should vote for a proposal to be a part of SXSW."
 comments: true
 ---
 
@@ -14,7 +14,7 @@ comments: true
 
 I've had the honor of serving on the [South by Southwest (SXSW)](https://www.sxsw.com/) Interactive Advisory Board (AB) for several years. While I can't discuss the details of any proposal, I can share with you what increases the odds of your proposal getting my vote.
 
-Keep in mind, the the AB approaches votes by looking at what each *individual board member* would want to see at SXSW. So, this guide can only help you with AB members who share my interests. Other AB members probably have different tastes and approaches to the evaluation process.
+Keep in mind, the AB approaches votes by looking at what each *individual board member* would want to see at SXSW. So, this guide can only help you with AB members who share my interests. Other AB members probably have different tastes and approaches to the evaluation process.
 
 ## The Selection Process
 

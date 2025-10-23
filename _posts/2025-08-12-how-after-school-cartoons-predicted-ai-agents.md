@@ -6,7 +6,7 @@ date: "2025-08-12"
 permalink: /blog/how-after-school-cartoons-predicted-ai-agents/
 categories:
   - Software
-excerpt: "After school cartoons provide entertainment to kids are a day full of learning, but they can also teach lessons about artificial intelligence coding agents."
+excerpt: "After school cartoons provide entertainment to kids after a day full of learning, but they can also teach lessons about artificial intelligence coding agents."
 comments: false
 ---
 
@@ -28,7 +28,7 @@ This wasn't just automated execution. It was genuine collaboration. The Tweakers
 
 The parallels to today's AI coding agents are striking. Just as Doc's Tweakers specialized in different functions, we now have AI agents optimized for specific development tasks. GitHub Copilot's new autonomous coding agent can be assigned entire GitHub issues, planning and executing solutions end-to-end. Cursor AI's specialized modes handle predictive editing, codebase understanding, and multi-file coordination. Like Doc's neural interface, these tools increasingly understand developer intent through natural language and context rather than explicit programming.
 
-Consider how Doc's Computer Diagnostic Unit (CDU) provided real-time system analysis and troubleshooting, exactly what modern AI debugging agents do. When AI tools resolve production bugs in a matter of minutes without human intervention, it's essentially functioning as a real-world Tweaker**, autonomously diagnosing problems, generating solutions, testing fixes, and deploying corrections.
+Consider how Doc's Computer Diagnostic Unit (CDU) provided real-time system analysis and troubleshooting, exactly what modern AI debugging agents do. When AI tools resolve production bugs in a matter of minutes without human intervention, it's essentially functioning as a real-world Tweaker, autonomously diagnosing problems, generating solutions, testing fixes, and deploying corrections.
 
 Doc's ability to interface with alien computer systems in episodes like [Progress](https://galaxyrangers.fandom.com/wiki/%22Progress%22) anticipated how today's AI agents can adapt to unfamiliar codebases and technologies. Current AI tools can understand million-line repositories, learn project-specific conventions, and work across dozens of programming languages, just as Doc's brain implant allowed universal system compatibility.
 

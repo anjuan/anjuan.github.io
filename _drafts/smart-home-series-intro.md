@@ -12,7 +12,7 @@ comments: true
 
 {% include image.html url="/images/astrology-993127_1920.jpg" alt="Astrological Chart" caption="Image by Mira Cosic from Pixabay" %}
 
-I've been interested in smart home tech for a long time, and we're way past the days when bulky equipment that used propriety communication methods were state of the art. Smart home products today are sleek and use standards like wifi and bluetooth.
+I've been interested in smart home tech for a long time, and we're way past the days when bulky equipment that used proprietary communication methods were state of the art. Smart home products today are sleek and use standards like Wi-Fi and Bluetooth.
 
 However, that doesn't mean that smart home tech is easy to understand and use. This series will detail the smart home tech I use in my house, but, more importantly, it will cover the things you need to think about when you want to add some IQ points to your house.
 

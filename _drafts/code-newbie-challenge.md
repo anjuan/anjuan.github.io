@@ -10,7 +10,7 @@ excerpt: "I joined the CodeNewbie Challenge (#CNC2018), and I chose the Blog Mor
 comments: true
 ---
 
-{% include image.html url="/images/cnc2018-series-p1-pre-mission-header.png" alt="code newbie challenge" caption="I took the CodeNewbie Challenge and selected the Blog More challenge. This is the first part of my series on #CNC2018. (CodeNewbie)" width=400 align="right" %}
+{% include image.html url="/images/cnc2018-series-p1-pre-mission-header.png" alt="code newbie challenge" caption="I took the CodeNewbie Challenge and selected the Blog More challenge. This is the first part of my series on #CNC2018. (CodeNewbie)" width="400" align="right" %}
 
 One of my goals for 2018 was to blog more, and I was happy to hear that [CodeNewbie](https://www.codenewbie.org/) created a project that included blogging as one of the challenges. If you don't know what CodeNewbie is, it's a supportive community of people learning to code. I highly recommend that you join the community by following [CodeNewbies on Twitter](http://twitter.com/codenewbies) and subscribing to the [CodeNewbie mailing list](http://codenewbie.us8.list-manage.com/subscribe?u=0a92a565e5b5037722c845fdb&id=880252aaa9).
 

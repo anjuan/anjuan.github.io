@@ -16,9 +16,9 @@ comments: true
 
 At Help Scout, we call anyone who manages people a "Coach". Therefore, an "Engineering Coach" is someone who manages people in the Engineering department.
 
-## **How Does and Engineering Coach Handle Communication?** 
+## **How Does an Engineering Coach Handle Communication?** 
 
-I'm an Engineering Coach at Help Scout, and I often get a number of questions about my role. The Engineering Coach role is similar to what most organizations call and Engineering Manager, but there are differences.
+I'm an Engineering Coach at Help Scout, and I often get many questions about my role. The Engineering Coach role is similar to what most organizations call an Engineering Manager, but there are differences.
 
 First of all, how much of your time would you say you spend communicating in real time with other team members, versus independent work and asynchronous communication? 
 

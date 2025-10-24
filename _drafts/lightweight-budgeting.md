@@ -46,7 +46,7 @@ Before the Lightweight Budget system can work for you, the following assumptions
 
 ## **Calculate Your Required Monthly Expenses**
 
-Before you can enjoy the automation behind the Lightweight Budget system, you need to do one bit of homework. You need to determine your monthly expenses. Go through a few months of account statements to see when money is taken out of your account. You'll see things like your mortgage/rent, car payments, utilities, etc. Remember, these are the things you **need**.  It doesn't include streaming restaurants or recreational expenses.
+Before you can enjoy the automation behind the Lightweight Budget system, you need to do one bit of homework. You need to determine your monthly expenses. Go through a few months of account statements to see when money is taken out of your account. You'll see things like your mortgage/rent, car payments, utilities, etc. Remember, these are the things you **need**.  It doesn't include streaming services or restaurants.
 
 You also need include the expenses you pay on an annual basis. For example, let's say you have an annual expense like a Homeowners Association (HOA) fee that's usually $600. To have $600 available when that annual expense comes due, I'll need to save $50 per month. So, that means you'll need to include that $50 in your calculation of your monthly expenses.
 
@@ -78,7 +78,7 @@ Each account is at the same bank but separate. The Emergency and Expenses accoun
 
 If your monthly expenses are more than 50% of your monthly income, then you probably need to find ways to ways to save money.
 
-You can use additional accounts to get ore specific, like, "Boat" if you're saving for a boat. This is just what I use.
+You can use additional accounts to get more specific, like, "Boat" if you're saving for a boat. This is just what I use.
 
 > Use push notifications to get daily updates on your accounts. Most banks support this feature.
 

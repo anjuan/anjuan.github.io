@@ -11,7 +11,7 @@ comments: true
 ---
 
 
-*I've been reflecting on a leadership style that seems tremendously effective, but is unsuitable people with a conscious.*
+*I've been reflecting on a leadership style that seems tremendously effective, but is unsuitable for people with a conscience.*
 
 *This leadership style revolves around six laws. While I've seen people use these laws to achieve power, they are actually anti-patterns that can be used to  identify weak leaders despite their lofty titles.*
 

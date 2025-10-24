@@ -34,7 +34,7 @@ Start growing your personal and professional networks immediately. It's impossib
 
 **In your book [Minority Tech](https://amzn.to/2WuyLC6) you recount your personal experience navigating the tech world. What’s the most problematic professional hurdle you’ve experienced or observed as an underrepresented ethnic minority in tech?**
 
-Not being given the benefit of the doubt. When a White male walks in to to meet a group for the first time, I feel there is an automatic assumption of competence. If you are a woman or a Black person, you don’t have that. In fact, I’ve found that there is often the assumption that you are incompetent – that you are hired to fill a quota or so the company doesn’t get sued.
+Not being given the benefit of the doubt. When a White male walks in to meet a group for the first time, I feel there is an automatic assumption of competence. If you are a woman or a Black person, you don’t have that. In fact, I’ve found that there is often the assumption that you are incompetent – that you are hired to fill a quota or so the company doesn’t get sued.
 
 I’ve been in situations where I’m the team lead, and the client will say, “Let’s wait until the team lead gets here.” People assume minorities are part of the security team or janitorial staff. To combat that, I work on being super prepared and making sure any deliverable I’m responsible for is top-notch.
 

@@ -35,7 +35,7 @@ As I reviewed proposal after proposal, I began to see a pattern for what made a 
 
 # Subject
 
-While large conferences seek a variety of topics, most events have a fixed set of subjects they want to explore. After all, if a conference provides a rich table of subjects that attendees would find interesting, then more people will buy tickets which contributes to the bottom line of the conference budget. A sign that a conference that will lose money is seeing several speakers in rooms with just a handful of attendees. One way to avoid this is to select proposals on subjects that people who read through the conference website will find relevant to their work.
+While large conferences seek a variety of topics, most events have a fixed set of subjects they want to explore. After all, if a conference provides a rich table of subjects that attendees would find interesting, then more people will buy tickets which contributes to the bottom line of the conference budget. A sign of a conference that will lose money is seeing several speakers in rooms with just a handful of attendees. One way to avoid this is to select proposals on subjects that people who read through the conference website will find relevant to their work.
 
 I consider the subject criterion based on whether a proposal meets the spirit and theme of the conference. For tightly focused conferences, this is easy. A proposal called, "Extreme Data Analytics in Python" would not be a subject that many attendees at a Docker conference would find interesting. However, "Becoming a Container Polygot: Docker, Kubernetes, Mesos, and CoreOS" would seem much more compelling.
 

@@ -33,7 +33,7 @@ If successful, this document will answer your questions about how we can form an
 
 ### **What This README Is Not**
 
-* A permanent document of who I am and what its like to work with me (there will be regular patches and critical hot fixes deployed over time as I grow and change)
+* A permanent document of who I am and what it's like to work with me (there will be regular patches and critical hot fixes deployed over time as I grow and change)
 * An excuse for me not showing up every day and being the best person I can be despite my flaws and areas for improvement
 * A replacement for individually interacting with you and learning how we can work together in real time
 * A replacement for me working every day to earn the one thing necessary for a truly effective working relationship: your trust

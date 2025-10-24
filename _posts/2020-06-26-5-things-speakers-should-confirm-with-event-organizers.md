@@ -3,15 +3,14 @@ title: '5 Things Speakers Should Confirm with Event Organizers'
 author: anjuan
 layout: post
 date: "2020-06-26"
-permalink: /blog/5-things-speakers-should-confirm-with-event-organizes/
+permalink: /blog/5-things-speakers-should-confirm-with-event-organizers/
 categories:
   - Speaking
 excerpt: "As a speaker, it's critical to get on the same page with event organizers when planning how you'll participate in their program."
 comments: true
 ---
 
-{% include image.html url="/images/things-speakers-should-confirm-with-event-organizes.jpg" alt="Man Leaping" caption="Photo by Lennart Wittstock from Pexels
-" %}
+{% include image.html url="/images/things-speakers-should-confirm-with-event-organizers.jpg" alt="Man Leaping" caption="Photo by Lennart Wittstock from Pexels" %}
 
 I've been fortunate to build a fairly successful career as a public speaker. I've given talks all over the world, and I've had amazing adventures meeting incredible people. I've done all of this while maintaining a full time job as an engineering manager. So, I speak about software development based on my actual experience instead of just spouting theories from the stage.
 

@@ -13,3 +13,4 @@ HIDEME
 
 # don't ignore the .gitignore file
 !.gitignore
+vendor/bundle

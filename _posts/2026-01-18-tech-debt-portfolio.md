@@ -10,7 +10,7 @@ excerpt: "Managing your career like you manage code can help you achieve what re
 comments: false
 ---
 
-{% include image.html url="/images/tech-debt-portfolio.png" alt="A cinematic software engineer sitting at a glowing laptop in a dimly lit office, holographic code floating around them with visible 'TODO' comments and red error warnings, dramatic lighting from the screen illuminating their contemplative face, technical diagrams and connection nodes floating in the background representing career paths, professional photography style, depth of field, corporate tech atmosphere, warm orange and blue color palette, 8k, highly detailed" %}
+{% include image.html url="/images/tech-debt-portfolio.png" alt="A senior software engineer sitting at a glowing laptop in a dimly lit office." %}
 
 
 Every senior engineer understands technical debt. We take shortcuts to ship faster, knowing we'll pay interest later. But here's what most of us miss: our careers accumulate debt too, and unlike code, we can't refactor our past selves.
@@ -36,7 +36,7 @@ Start with your skills debt. Pick one area that terrifies you and timebox learni
 
 For relationship debt, implement relationship-driven development. Schedule coffee chats like you schedule sprint planning. Thank one person per week who helped you. Mentor one person who's where you were five years ago. These aren't distractions from your work; they're investments in your career's long-term stability.
 
-For brand debt, start documenting in public. Write one blog post about something you learned. Give one internal tech talk. Open source one tool you built. You don't need to become a thought leader overnight—you just need to move from `private` to `public` access.
+For brand debt, start documenting in public. Write one blog post about something you learned. Give one internal tech talk. Open source one tool you built. You don't need to become a thought leader overnight; you just need to move from `private` to `public` access.
 
 ## The Retirement Package Nobody Tells You About
 

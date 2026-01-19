@@ -10,7 +10,7 @@ excerpt: "Managing your career like you manage code can help you achieve what re
 comments: false
 ---
 
-{% include image.html url="/images/tech-debt-portfolio.png" alt="An image of two pairs of hands with one pair holding a Computer Diagnostic Unit and another holding a T-Sphere." %}
+{% include image.html url="/images/tech-debt-portfolio.png" alt="A cinematic software engineer sitting at a glowing laptop in a dimly lit office, holographic code floating around them with visible 'TODO' comments and red error warnings, dramatic lighting from the screen illuminating their contemplative face, technical diagrams and connection nodes floating in the background representing career paths, professional photography style, depth of field, corporate tech atmosphere, warm orange and blue color palette, 8k, highly detailed" %}
 
 
 Every senior engineer understands technical debt. We take shortcuts to ship faster, knowing we'll pay interest later. But here's what most of us miss: our careers accumulate debt too, and unlike code, we can't refactor our past selves.

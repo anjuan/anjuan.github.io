@@ -17,10 +17,13 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
+    font-weight: $fw-regular;        // 400 instead of 300 — readable with Inter
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;        // crisper text on macOS
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
 }
 
 
@@ -81,10 +84,41 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 200;
+    font-family: $font-sans;
+    font-weight: $fw-bold;            // 700 — was 200
+    line-height: $lh-tight;
+    letter-spacing: -0.02em;          // tightens slightly at large sizes
+    color: $text-color;
 }
 
+h1 { font-size: $fs-3xl; }            // 36px
+h2 { font-size: $fs-2xl; }            // 30px
+h3 { font-size: $fs-xl; }             // 24px
+h4 { font-size: $fs-lg; }             // 20px
+h5, h6 { font-size: $fs-base; }       // 18px
 
+/**
+ * Blog post body — switch to serif for long-form reading
+ */
+.post-content {
+    font-family: $font-serif;
+    font-size: $fs-lg;        // 20px — comfortable reading size
+    line-height: $lh-base;
+
+    p {
+        margin-bottom: 1.25em;
+    }
+
+    // Headings inside posts stay sans-serif for contrast
+    h1, h2, h3, h4, h5, h6 {
+        font-family: $font-sans;
+    }
+
+    // Inline code and pre blocks
+    code, pre {
+        font-family: $font-mono;
+    }
+}
 
 /**
  * Links
@@ -130,10 +164,28 @@ blockquote {
  */
 pre,
 code {
-    font-size: 14px;
+    font-family: $font-mono;
+    font-size: 0.92em;                          // relative to surrounding text
     border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+    border-radius: 6px;
+    background-color: #f6f8fa;                  // GitHub-style neutral grey
+}
+
+code {
+    padding: 2px 6px;
+}
+
+pre {
+    padding: 16px 20px;                          // more breathing room
+    overflow-x: auto;                            // scroll instead of "scroll" forced
+    line-height: 1.5;
+
+    > code {
+        border: 0;
+        padding: 0;
+        background: transparent;
+        font-size: inherit;
+    }
 }
 
 code {

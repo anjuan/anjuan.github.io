@@ -5,11 +5,48 @@
 
 
 
-// Our variables
-$base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-$base-font-size:   .95em;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+// =====================================================================
+// Typography system
+// =====================================================================
+
+// Font stacks
+// system-ui = whatever the OS prefers (San Francisco on macOS, Segoe on
+// Windows). It renders instantly while the custom font loads, so the
+// fallback feels native rather than like Times New Roman.
+$font-sans: 'Inter', system-ui, -apple-system, BlinkMacSystemFont,
+            'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+
+$font-serif: 'Source Serif 4', Charter, 'Iowan Old Style', 'Apple Garamond',
+             Baskerville, 'Times New Roman', Georgia, serif;
+
+$font-mono: 'JetBrains Mono', 'SF Mono', Menlo, Consolas,
+            'Liberation Mono', monospace;
+
+// Type scale anchored at 18px body. Each step is roughly 1.2x the previous.
+$fs-xs:    0.75rem;   // 12px - captions, fine print
+$fs-sm:    0.875rem;  // 14px - metadata (dates, categories)
+$fs-base:  1.125rem;  // 18px - body copy (was 15px)
+$fs-lg:    1.25rem;   // 20px - lead paragraphs, blog post body
+$fs-xl:    1.5rem;    // 24px - h3
+$fs-2xl:   1.875rem;  // 30px - h2
+$fs-3xl:   2.25rem;   // 36px - h1
+
+// Line heights
+$lh-tight: 1.2;       // headings
+$lh-base:  1.65;      // body — the "novel" line-height
+
+// Font weights
+$fw-regular:  400;
+$fw-medium:   500;
+$fw-semibold: 600;
+$fw-bold:     700;
+
+// Backwards-compatible aliases for existing partials that reference
+// the old variable names. Lets us migrate without breaking anything.
+$base-font-family: $font-sans;
+$base-font-size:   $fs-base;
+$small-font-size:  $fs-sm;
+$base-line-height: $lh-base;
 
 $spacing-unit:     30px;
 

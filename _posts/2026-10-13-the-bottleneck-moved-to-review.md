@@ -11,9 +11,6 @@ excerpt: "Agents made writing code faster, so the bottleneck moved to review, an
 comments: false
 ---
 
-{% include image.html url="/images/the-bottleneck-moved-to-review.png" alt="Graphic novel illustration of a man at a restaurant pass checking plates as dishes pile up under heat lamps." %}
-
-
 In July 2026, DX's quarterly study of more than 500 organizations reported that AI wrote 52% of their code in the second quarter, up from 34% in the first. The same report found that the median pull request had nearly doubled in size. Then, in October 2026, the Stack Overflow developer survey found that 66% of developers who use AI now work with coding agents.
 
 So, more code, in bigger chunks, arriving faster. That sounds like a win until you ask where it all goes next.
@@ -21,6 +18,8 @@ So, more code, in bigger chunks, arriving faster. That sounds like a win until y
 It goes to review. And review is still mostly done by people, at roughly the speed people have always read code.
 
 Restaurant kitchens have lived with this problem forever. Most busy kitchens have someone at the pass, the counter between the cooks and the dining room, who checks every plate before it goes out. If the owner hires three more line cooks and leaves one person at the pass, the restaurant serves the same number of customers, with a growing stack of plates under the heat lamps. The cooks feel productive. The diners still wait. (And the person at the pass starts updating their resume.)
+
+{% include image.html url="/images/the-bottleneck-moved-to-review.png" alt="Graphic novel illustration of a man at a restaurant pass checking plates as dishes pile up under heat lamps." %}
 
 A faster machine upstream of a slow one just builds inventory. Agents made the cooks faster, and most teams haven't added anyone at the pass.
 

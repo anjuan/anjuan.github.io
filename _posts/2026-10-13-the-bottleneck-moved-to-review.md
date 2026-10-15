@@ -23,7 +23,7 @@ Restaurant kitchens have lived with this problem forever. Most busy kitchens hav
 
 A faster machine upstream of a slow one just builds inventory. Agents made the cooks faster, and most teams haven't added anyone at the pass.
 
-I've seen a smaller version of this long before agents. Around 2016, I was the agile project manager at a small startup, and in one retrospective I wrote, "We carry potentially done work for several days because it is locked in a large user story... We need to get better at slicing stories." The code was written. It just couldn't move, because it was tied up with work that wasn't finished. Big stories hid finished work. Big pull requests do the same thing, except an agent can now produce one in an afternoon.
+I've seen a smaller version of this long before agents. About ten years ago, I was the agile project manager at a small startup, and in one retrospective I wrote, "We carry potentially done work for several days because it is locked in a large user story... We need to get better at slicing stories." The code was written. It just couldn't move, because it was tied up with work that wasn't finished. Big stories hid finished work. Big pull requests do the same thing, except an agent can now produce one in an afternoon.
 
 On that same team, when I wrote the release plan for the months after our platform went generally available, I reserved the back half of each release's last sprint for a final acceptance test pass. I thought of that time as the plan admitting that checking work takes real capacity, and capacity has to be scheduled like anything else.
 
@@ -33,7 +33,7 @@ Start by looking. How long do pull requests wait for a first review, and how big
 
 Then plan sprints around review capacity instead of coding capacity. If an agent can draft three tickets overnight, the useful question in sprint planning becomes how much the team can carefully read, test, and own.
 
-Keep the batches small. DORA has recommended small batches as a way to reduce the delivery instability that comes with AI-assisted work, and that advice is older than any agent. Ask for smaller pull requests even when the agent could happily write a bigger one. Thin slices were good advice in 2016. They're better advice now.
+Keep the batches small. DORA has recommended small batches as a way to reduce the delivery instability that comes with AI-assisted work, and that advice is older than any agent. Ask for smaller pull requests even when the agent could happily write a bigger one. Thin slices were good advice ten years ago. They're better advice now.
 
 Finally, protect your reviewers. The people who review the most code tend to be your senior engineers, and they're also the ones you need for design work and incidents. If review has become the main job, say so out loud, and give it the time and credit it deserves.
 

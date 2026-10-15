@@ -29,11 +29,11 @@ On that same team, when I wrote the release plan for the months after our platfo
 
 That's the shift I'd ask delivery leaders to make. Stop managing the keyboard and start managing the review queue.
 
-Start by looking. How long do pull requests wait for a first review, and how big are they when they get there? Most teams can pull that data in an hour. When LeadDev surveyed about 600 engineering leaders for its 2026 engineering leadership report, only 21% said they track time spent reviewing AI-generated code. If you're in the other 79%, that's your first project.
+Start by looking. How long do pull requests wait for a first review, and how big are they when they get there? Most teams can pull that data in an hour. When LeadDev surveyed about 600 engineering leaders for its [2026 engineering leadership report](https://leaddev.com/the-engineering-leadership-report-2026), only 21% said they track time spent reviewing AI-generated code. If you're in the other 79%, that's your first project.
 
 Then plan sprints around review capacity instead of coding capacity. If an agent can draft three tickets overnight, the useful question in sprint planning becomes how much the team can carefully read, test, and own.
 
-Keep the batches small. DORA has recommended small batches as a way to reduce the delivery instability that comes with AI-assisted work, and that advice is older than any agent. Ask for smaller pull requests even when the agent could happily write a bigger one. Thin slices were good advice ten years ago. They're better advice now.
+Keep the batches small. [DORA has recommended small batches](https://dora.dev/capabilities/working-in-small-batches/) as a way to reduce the delivery instability that comes with AI-assisted work, and that advice is older than any agent. Ask for smaller pull requests even when the agent could happily write a bigger one. Thin slices were good advice ten years ago. They're better advice now.
 
 Finally, protect your reviewers. The people who review the most code tend to be your senior engineers, and they're also the ones you need for design work and incidents. If review has become the main job, say so out loud, and give it the time and credit it deserves.
 

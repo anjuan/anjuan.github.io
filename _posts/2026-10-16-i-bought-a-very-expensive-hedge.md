@@ -44,4 +44,4 @@ None of this means you should go buy the same hardware. That's the expensive end
 
 Here's a thought experiment I recommend you run. If your work AI access vanished tomorrow morning, write down what you couldn't do anymore. Then find the cheapest way to replace the most valuable things yourself. 
 
-I still enroll in the stock plan every window. I just don't want it to be my only investment vehicle.
+I still enroll in the employee stock purchase plan every time I get a chance. However, the majority of my investments are driven through other vehicles.

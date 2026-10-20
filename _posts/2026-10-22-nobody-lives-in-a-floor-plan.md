@@ -2,7 +2,7 @@
 title: 'Nobody Lives in a Floor Plan'
 author: anjuan
 layout: post
-date: "2026-10-15"
+date: "2026-10-19"
 permalink: /blog/nobody-lives-in-a-floor-plan/
 categories:
   - Agile

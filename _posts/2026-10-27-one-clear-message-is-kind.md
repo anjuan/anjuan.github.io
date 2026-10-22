@@ -12,10 +12,9 @@ comments: false
 
 {% include image.html url="/images/one-clear-message-is-kind.png" alt="Graphic novel illustration of a man and two colleagues pointing together at a cliff edge as a hiker turns." %}
 
+Several years ago, I had to tell an engineer that their performance was unacceptable. This is a conversation I've had several times over my career as a manager, and it's never an easy conversation. However, this one was harder than most, and it took me a while to understand why.
 
-I once had to tell an engineer that their performance was unacceptable. It's never an easy conversation. However, this one was harder than most, and it took me a while to understand why.
-
-I had inherited the engineer when I joined a remote-first software company. Their work had real problems, and senior leadership had lost confidence in them. I could see that part right away. What I didn't see at first was that the formal signals this engineer had received for years were positive. The reviews had been fine. The concerns everyone above me seemed to share had never made it into those signals.
+I inherited the engineer when I joined the company. Their work had real problems, and senior leadership had lost confidence in them. I could see that part right away. What I didn't see at first was that for the last few years, this engineer received "exceeds expectations" on their performance reviews. They were also often publicly praised for their work in front of the entire company. So, the formal signals this engineer had received for years were positive. The concerns everyone above me seemed to share had never made it into those signals.
 
 So, from the engineer's side, the story made no sense. A new manager shows up and says your work is unacceptable, while people more senior than that manager still seem to think you're doing fine. Who would you believe?
 
@@ -25,9 +24,9 @@ That was the engineer's situation. They believed they still had leadership's con
 
 So, I did three things.
 
-First, I told the engineer directly and plainly where things stood. I didn't soften the message until it disappeared.
+First, I told the engineer directly and plainly where things stood. I didn't soften the message and said it clearly with no ambiguity.
 
-Second, I went to my own leaders and made the case that they needed to give the same feedback directly, and that they needed to stop acting as a separate source of career direction for this person. This was the uncomfortable part. Nobody enjoys hearing that their kindness is causing harm. However, mixed messages let someone keep walking toward a cliff because everyone is too polite to point at it.
+Second, I went to the senior leadership team and made the case that they needed to give the same feedback directly, and that they needed to stop acting as a separate source of career direction for this person. This was the uncomfortable part. Nobody enjoys hearing that their kindness is causing harm. However, mixed messages let someone keep walking toward a cliff because everyone is too polite to point at it.
 
 Third, I put an improvement plan in place, with a contingency plan ready if it didn't work. Both plans matter. The improvement plan tells the person you believe they can turn it around. The contingency plan keeps you honest with yourself and the business if they can't. Having only the first one is hope. Having only the second one is paperwork for an exit.
 

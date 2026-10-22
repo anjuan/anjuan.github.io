@@ -2,7 +2,7 @@
 title: 'One Clear Message Is Kind'
 author: anjuan
 layout: post
-date: "2026-10-27"
+date: "2026-10-21"
 permalink: /blog/one-clear-message-is-kind/
 categories:
   - Leadership

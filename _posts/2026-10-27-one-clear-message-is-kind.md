@@ -18,7 +18,7 @@ I inherited the engineer when I joined the company. Their work had real problems
 
 So, from the engineer's side, the story made no sense. A new manager shows up and says your work is unacceptable, while people more senior than that manager still seem to think you're doing fine. Who would you believe?
 
-Picture a visit to the doctor. Your doctor tells you your blood pressure is dangerously high and you need to change some things today. Then, on the way out, a nurse you've known for years pats you on the shoulder and says you look great. Which message do you carry home? Most of us carry home the comfortable one. We aren't being foolish. It's simply what we wanted to hear, and someone credible said it.
+Picture a visit to a new doctor. Your doctor tells you your blood pressure is dangerously high and you need to change some things today. Then, on the way out, a nurse you've known for years pats you on the shoulder and says you look great. Which message do you carry home? Most of us carry home the comfortable one. We aren't being foolish. It's simply what we wanted to hear, and someone credible said it.
 
 That was the engineer's situation. They believed they still had leadership's confidence, and as long as they believed that, my feedback was one opinion against several.
 

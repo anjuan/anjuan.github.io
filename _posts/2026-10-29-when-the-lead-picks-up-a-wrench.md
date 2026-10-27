@@ -21,7 +21,7 @@ Not long after that, I received my annual performance review. It had plenty of p
 
 That stung. In my head, I was saving the day and the team each time. However, the review pointed out that, in those instances, I had wandered away from core aspects of my job as a manager. 
 
-A NASCAR pit crew is the best picture I have for this. During a pit stop, the crew chief isn't the one changing tires. The crew chief is watching the whole car: the fuel, the clock, the traffic coming down pit road, the driver's voice on the radio. If the crew chief grabs an air wrench because the tire changer is a half second slow, maybe that tire goes on a little faster. But now nobody is checking whether the fuel can is still attached when the car pulls away.
+A NASCAR pit crew is the best picture I have for this. During a pit stop, the crew chief isn't the one changing tires. The crew chief is watching the entire environment: the fuel, the clock, the traffic coming down pit road, the driver's voice on the radio. If the crew chief grabs an air wrench because the tire changer is a half second slow, maybe that tire goes on a little faster. But now nobody is checking whether the fuel can is still attached when the car pulls away.
 
 That's what happened on my team. While I had the wrench, nobody was watching the defect queue closely. Outages weren't getting the attention a lead should give them. The same review asked whether the offshore part of the team was producing at the same rate as the onshore part, which is exactly the question I should have been asking instead of writing code.
 

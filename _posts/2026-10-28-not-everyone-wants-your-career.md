@@ -2,7 +2,7 @@
 title: 'Not Everyone Wants Your Career'
 author: anjuan
 layout: post
-date: "2026-11-19"
+date: "2026-10-28"
 permalink: /blog/not-everyone-wants-your-career/
 categories:
   - Career

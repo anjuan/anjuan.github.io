@@ -2,7 +2,7 @@
 title: 'AI Amplifies Whatever Road You''re On'
 author: anjuan
 layout: post
-date: "2027-10-05"
+date: "2026-11-02"
 permalink: /blog/ai-amplifies-whatever-road-youre-on/
 categories:
   - Tech

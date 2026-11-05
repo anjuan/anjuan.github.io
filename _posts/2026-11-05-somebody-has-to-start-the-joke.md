@@ -13,7 +13,7 @@ comments: false
 {% include image.html url="/images/somebody-has-to-start-the-joke.png" alt="Graphic novel illustration of a man dancing alone on an empty wedding dance floor as guests begin to join." %}
 
 
-Within weeks of joining a small startup over a decade ago, I posted a message in our team chat: "Hey, I think we should have a place to store quotes from our team!" I set up a board for it, and the next day I added 17 teammates.
+Within weeks of joining a small startup over a decade ago, I posted a message in our team chat: "Hey, I think we should have a place to store quotes and jokes from our team!" I set up a board for it, and the next day I added 17 teammates.
 
 I was the agile project manager. I was the one introducing planning poker, a definition of ready and done, and retrospectives with surveys every sprint. Some of my new teammates were already tired of meetings and a little resistant to Scrum. So, you might reasonably ask why the new manager's early contribution was a place to save jokes.
 

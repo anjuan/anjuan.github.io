@@ -8,6 +8,7 @@ categories:
   - Agile
 excerpt: "People react to working screens, not diagrams, so show something real early and say the realistic date out loud before the deadline does."
 comments: false
+image: "/images/nobody-lives-in-a-floor-plan.png"
 ---
 
 {% include image.html url="/images/nobody-lives-in-a-floor-plan.png" alt="Graphic novel illustration of a man holding open a model home door for clients while blueprints lie ignored outside." %}

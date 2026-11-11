@@ -8,6 +8,7 @@ categories:
   - Speaking
 excerpt: "If you're struggling to convert your in-person event to an online experience, then you'll find a lot to learn from LeadDev Live."
 comments: true
+image: "/images/lead-dev-live.jpg"
 ---
 
 {% include image.html url="/images/lead-dev-live.jpg" alt="LeadDev Live on Screen" caption="A LeadDev Live attendee tweeted this picture showing the live feed and the conversation in Slack." %}

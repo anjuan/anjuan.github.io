@@ -8,6 +8,7 @@ categories:
   - Work
 excerpt: "Negotiating your salary is just a conversation. By being prepared, you can have the conversation calmly and with confidence."
 comments: true
+image: "/images/5-tips-for-negotiating-your-salary-header.jpg"
 ---
 
 {% include image.html url="/images/5-tips-for-negotiating-your-salary-header.jpg" alt="Man Leaping" caption="Image by Reimund Bertrams from Pixabay" %}

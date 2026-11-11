@@ -9,6 +9,7 @@ categories:
   - Leadership
 excerpt: "Agents made writing code faster, so the bottleneck moved to review, and leaders should plan around review capacity instead of coding capacity."
 comments: false
+image: "/images/the-bottleneck-moved-to-review.png"
 ---
 
 {% include image.html url="/images/the-bottleneck-moved-to-review.png" alt="Graphic novel illustration of a man at a restaurant pass checking plates as dishes pile up under heat lamps." %}

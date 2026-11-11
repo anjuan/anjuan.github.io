@@ -8,6 +8,7 @@ categories:
   - Leadership
 excerpt: "This is my reflection of the term 'benefit of the doubt' and how I use the concept to lead my teams."
 comments: true
+image: "/images/benefit-of-the-doubt-header.jpg"
 ---
 
 {% include image.html url="/images/benefit-of-the-doubt-header.jpg" alt="Open sign"  caption="Photo by Richard Balog on Unsplash" %}

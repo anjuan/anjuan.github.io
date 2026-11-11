@@ -8,6 +8,7 @@ categories:
   - Inclusion and Diversity
 excerpt: "Earlier this week, I posted a series of tweets explaining my experience as a Black leader in tech. It resonated with a lot of the people who saw it resulting in thousands of likes. I'm republishing the tweet thread here on my blog."
 comments: true
+image: "/images/cloaked-bird-of-prey.jpg"
 ---
 
 {% include image.html url="/images/cloaked-bird-of-prey.jpg" alt="Cloaked Klingon Bird of Prey" caption="Photo courtesy Memory Alpha" %}

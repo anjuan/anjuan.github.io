@@ -8,6 +8,7 @@ categories:
   - Remote Work
 excerpt: "Werewolf is a fun social game that can be enjoyed even by a distributed group using the Zoom remote meeting software application."
 comments: true
+image: "/images/samuele-giglio-wL4knvbQphI-unsplash.jpg"
 ---
 
 {% include image.html url="/images/samuele-giglio-wL4knvbQphI-unsplash.jpg" alt="Werewolf on Stage" caption="Photo by Samuele Giglio on Unsplash" %}

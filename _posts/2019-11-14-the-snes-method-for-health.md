@@ -8,6 +8,7 @@ categories:
   - Health
 excerpt: "I've developed a simple system for thinking about maintaining my health."
 comments: true
+image: "/images/snes-header.jpg"
 ---
 
 {% include image.html url="/images/snes-header.jpg" alt="Header" caption="Photo by Marcelo Leal on Unsplash" %}

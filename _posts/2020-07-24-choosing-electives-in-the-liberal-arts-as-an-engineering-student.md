@@ -8,6 +8,7 @@ categories:
   - Leadership
 excerpt: "My undergraduate degree in electrical engineering provided a few electives that I could use for any field of study. I chose liberal arts classes that have contributed more to my management style than any of my technical courses."
 comments: true
+image: "/images/choosing-electives-in-the-liberal-arts-as-an-engineering-student.jpg"
 ---
 
 {% include image.html url="/images/choosing-electives-in-the-liberal-arts-as-an-engineering-student.jpg" alt="Steve Jobs on Stage" caption="Photo by ArtBizTech" %}

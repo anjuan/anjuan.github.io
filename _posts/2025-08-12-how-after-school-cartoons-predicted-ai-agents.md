@@ -8,6 +8,7 @@ categories:
   - Software
 excerpt: "After school cartoons provide entertainment to kids after a day full of learning, but they can also teach lessons about artificial intelligence coding agents."
 comments: false
+image: "/images/doc-terrific.png"
 ---
 
 {% include image.html url="/images/doc-terrific.png" alt="An image of two pairs of hands with one pair holding a Computer Diagnostic Unit and another holding a T-Sphere." %}

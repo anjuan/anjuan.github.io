@@ -8,6 +8,7 @@ categories:
   - Work
 excerpt: "This is my answer to a question that was asked through the Know Your Team service that my company uses to help us know each other better."
 comments: true
+image: "/images/acting-art-color-189449.jpg"
 ---
 
 {% include image.html url="/images/acting-art-color-189449.jpg" alt="two red masks" caption="Photo by Mike from Pexels" width=400 align="right" %}

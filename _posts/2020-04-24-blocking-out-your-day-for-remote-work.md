@@ -8,6 +8,7 @@ categories:
   - Remote Work
 excerpt: "By organizing your day into dedicated blocks of time, you can make the most of working remotely."
 comments: true
+image: "/images/markus-spiske-C0koz3G1I4I-unsplash.jpg"
 ---
 
 {% include image.html url="/images/markus-spiske-C0koz3G1I4I-unsplash.jpg" alt="Legos" caption="Photo by Markus Spiske on Unsplash" %}

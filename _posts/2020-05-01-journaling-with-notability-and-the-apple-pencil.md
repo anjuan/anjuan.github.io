@@ -8,6 +8,7 @@ categories:
   - Tech
 excerpt: "I started the practice of journaling last year, and I've found that the Notability app and the Apple Pencil are the perfect set of tools for recording my thoughts."
 comments: true
+image: "/images/ipad-and-apple-pencil.jpg"
 ---
 
 {% include image.html url="/images/ipad-and-apple-pencil.jpg" alt="iPad and Apple Pencil" caption="Notability and Apple Pencil: The Ultimate Journaling Toolset" %}

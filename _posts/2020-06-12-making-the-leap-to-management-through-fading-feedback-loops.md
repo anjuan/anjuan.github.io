@@ -8,6 +8,7 @@ categories:
   - Leadership
 excerpt: "A colleague who had moved from an individual contributor to management recently asked how to feel accomplished when so much of what a manager does is so intangible. The feedback loops are so long compared to writing code. This was my response."
 comments: true
+image: "/images/making-the-leap-to-management-through-fading-feedback-loops-header.jpg"
 ---
 
 {% include image.html url="/images/making-the-leap-to-management-through-fading-feedback-loops-header.jpg" alt="Man Leaping" caption="Photo by Lennart Wittstock from Pexels" %}

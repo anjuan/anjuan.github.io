@@ -8,6 +8,7 @@ categories:
   - Health
 excerpt: "My wife and I put a lot of value on high quality sleep, and these are a few hacks we've put into place to wake up refreshed and energized in the morning."
 comments: true
+image: "/images/sleep-hacks-header.jpg"
 ---
 
 {% include image.html url="/images/sleep-hacks-header.jpg" alt="Bedroom" caption="Photo by NeONBRAND on Unsplash - Not Our Actual Bedroom" %}

@@ -8,6 +8,7 @@ categories:
   - Tech
 excerpt: "The paths we trust most get audited least, so leaders should design systems that stay safe even when a trusted person or pipeline is compromised."
 comments: false
+image: "/images/audit-the-trusted-path.png"
 ---
 
 {% include image.html url="/images/audit-the-trusted-path.png" alt="Graphic novel illustration of a man with a flashlight inspecting a glowing service corridor behind a vault door." %}

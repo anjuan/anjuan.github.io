@@ -8,6 +8,7 @@ categories:
   - Agile
 excerpt: "In my role of ScrumMaster, I've helped several teams learn how to use Planning Poker to size user stories. This post distills the lessons I've shared over the years."
 comments: true
+image: "/images/the-ten-planning-poker-commandments-header.jpg"
 ---
 
 {% include image.html url="/images/the-ten-planning-poker-commandments-header.jpg" alt="poker cards" caption="Planning poker is an effective way for Agile teams to get to a shared understanding with Product Owners. (Unsplash)" width=400 align="right" %}

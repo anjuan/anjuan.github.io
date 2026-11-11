@@ -323,6 +323,119 @@ article ul#archive > li:before {
 }
 
 
+/*------ blog list: header image to the left of each post ------ */
+
+ul#archive li.archiveposturl {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+  padding: .75em 0 .75em .5em;
+}
+
+.archive-thumb {
+  display: block;
+  flex: 0 0 180px;
+}
+
+.archive-thumb img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 4px;
+  background: $grey-color-light;
+}
+
+// The default image is a portrait, so keep the top of it (the face) in frame.
+.archive-thumb--default img {
+  object-position: 50% 0;
+}
+
+.archive-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+@include media-query($on-palm) {
+  ul#archive li.archiveposturl {
+    flex-direction: column;
+    gap: .5em;
+    padding-right: .5em;
+  }
+
+  .archive-thumb {
+    flex-basis: auto;
+    width: 100%;
+  }
+}
+
+
+/*------ blog list: pagination ------ */
+
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: .75em;
+  margin: 1.5em 0;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.pagination a {
+  color: $clemson-purple;
+  text-decoration: none;
+}
+
+.pagination a:hover {
+  text-decoration: underline;
+}
+
+.pagination-step.is-disabled {
+  color: $grey-color;
+}
+
+.pagination-pages {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .25em;
+}
+
+.pagination-pages a,
+.pagination-current,
+.pagination-gap {
+  display: inline-block;
+  min-width: 2em;
+  padding: .2em .5em;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.pagination-current {
+  background: $clemson-purple;
+  color: #fff;
+}
+
+@include media-query($on-palm) {
+  .pagination {
+    justify-content: center;
+  }
+
+  .pagination-pages {
+    order: -1;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .pagination-pages a,
+  .pagination-current,
+  .pagination-gap {
+    min-width: 1.6em;
+    padding: .2em .3em;
+  }
+}
+
+
 /* ul#archive li span {
        color: #000;
        font-size: 85%;

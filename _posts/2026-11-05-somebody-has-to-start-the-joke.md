@@ -8,6 +8,7 @@ categories:
   - Work
 excerpt: "Humor is a team ritual that someone has to start, and you can be the one who does it."
 comments: false
+image: "/images/somebody-has-to-start-the-joke.png"
 ---
 
 {% include image.html url="/images/somebody-has-to-start-the-joke.png" alt="Graphic novel illustration of a man dancing alone on an empty wedding dance floor as guests begin to join." %}

@@ -8,6 +8,7 @@ categories:
   - Speaking
 excerpt: "Writing talks is a craft, and I use three guidelines to help direct my process. I make my talks factual, friendly, and funny."
 comments: true
+image: "/images/make-it-factual-friendly-funny-header.jpg"
 ---
 
 {% include image.html url="/images/make-it-factual-friendly-funny-header.jpg" alt="poker cards" caption="Photo by Fleur Treurniet on Unsplash" width=400 align="right" %}

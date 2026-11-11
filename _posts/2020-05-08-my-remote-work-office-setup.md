@@ -8,6 +8,7 @@ categories:
   - Remote Work
 excerpt: "Here's the lowdown on my remote office setup.."
 comments: true
+image: "/images/remote-office-header.jpg"
 ---
 
 {% include image.html url="/images/remote-office-header.jpg" alt="Anjuan on Zoom" caption="My remote office setup helps me do my best work no matter where the other members of my team are located." %}

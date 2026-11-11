@@ -8,6 +8,7 @@ categories:
   - Leadership
 excerpt: "Mixed messages to a struggling engineer are cruel, so align leaders before the hard conversation and plan for both success and failure."
 comments: false
+image: "/images/one-clear-message-is-kind.png"
 ---
 
 {% include image.html url="/images/one-clear-message-is-kind.png" alt="Graphic novel illustration of a man and two colleagues pointing together at a cliff edge as a hiker turns." %}

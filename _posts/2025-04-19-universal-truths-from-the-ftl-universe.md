@@ -8,6 +8,7 @@ categories:
   - Life
 excerpt: "FTL: Faster Than Light isn't just a game about managing spaceships—it's a masterclass in resource management, adaptation, and learning from failure that offers profound wisdom for navigating our own unpredictable journeys through life's vast, challenging universe."
 comments: true
+image: "/images/ftl-image.png"
 ---
 
 {% include image.html url="/images/ftl-image.png" alt="Three people on the bridge of an FTL ship" caption="My sons and I are always ready for the next jump!" %}

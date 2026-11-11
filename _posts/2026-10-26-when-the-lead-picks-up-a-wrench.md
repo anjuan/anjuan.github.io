@@ -8,6 +8,7 @@ categories:
   - Leadership
 excerpt: "When a lead grabs the wrench, nobody watches the whole machine, so hands-on work should stay off the critical path for leaders."
 comments: false
+image: "/images/when-the-lead-picks-up-a-wrench.png"
 ---
 
 {% include image.html url="/images/when-the-lead-picks-up-a-wrench.png" alt="Graphic novel illustration of a man in a headset on a pit wall watching a race car pit stop." %}

@@ -8,6 +8,7 @@ categories:
   - Work
 excerpt: "The presidential contest in the United States is still unclear three days after Election Day. However, one area of clarity is the failure of polls to forecast this outcome. Polls and project estimates suffer from the same fatal flaw: the impossibility of certainty."
 comments: true
+image: "/images/astrology-993127_1920.jpg"
 ---
 
 {% include image.html url="/images/astrology-993127_1920.jpg" alt="Astrological Chart" caption="Image by Mira Cosic from Pixabay" %}

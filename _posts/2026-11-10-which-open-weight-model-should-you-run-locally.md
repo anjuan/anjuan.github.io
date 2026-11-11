@@ -8,6 +8,7 @@ categories:
   - Tech
 excerpt: "On your own hardware, memory replaces token cost as the constraint, so start on a mid-size open weight model that fits your machine, then move down for volume and up for hard work."
 comments: false
+image: "/images/which-open-weight-model-should-you-run-locally.png"
 ---
 
 {% include image.html url="/images/which-open-weight-model-should-you-run-locally.png" alt="Graphic novel illustration of a man at a desk in his home office, smiling at a monitor while a desktop computer runs local AI models beside him." %}

@@ -8,6 +8,7 @@ categories:
   - Tech
 excerpt: "Relationships are critical to any career, and this is doubly true for Black Technologists. This is a list of Slack groups for Blacks who work in the Technology Industry."
 comments: true
+image: "/images/black-slack.png"
 ---
 
 {% include image.html url="/images/black-slack.png" alt="Slack" caption="Black Slack" width=400 align="right" %}

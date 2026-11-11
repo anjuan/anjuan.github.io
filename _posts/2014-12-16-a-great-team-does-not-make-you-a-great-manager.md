@@ -8,6 +8,7 @@ categories:
   - Work
 excerpt: "Great teams are built by raising the performance output of everyone on the team. The glass isn't half full or half empty. It simply needs to be raised to the right level."
 comments: true
+image: "/images/todd-kent-onnJOfF-okU-unsplash.jpg"
 ---
 
 {% include image.html url="/images/todd-kent-onnJOfF-okU-unsplash.jpg" alt="Auto Repair Shop" caption="Photo by todd kent on Unsplash" %}

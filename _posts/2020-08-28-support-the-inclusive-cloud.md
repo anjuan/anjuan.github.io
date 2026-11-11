@@ -8,6 +8,7 @@ categories:
   - Inclusion and Diversity
 excerpt: "Cloud engineers need to support a variety of cloud providers and tools, but now, more than ever, they also need to support the inclusive cloud."
 comments: true
+image: "/images/inclusive-cloud-header.jpg"
 ---
 
 {% include image.html url="/images/inclusive-cloud-header.jpg" alt="Cloud Lightning" caption="Photo by Josep Castells on Unsplash" %}

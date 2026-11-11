@@ -8,6 +8,7 @@ categories:
   - Work
 excerpt: "When you're looking for a job, making progress through the interview process can be exciting. However, don't let it blind you to clues that the company may be a toxic workplace."
 comments: true
+image: "/images/how-to-spot-workplace-toxicity.jpeg"
 ---
 
 {% include image.html url="/images/how-to-spot-workplace-toxicity.jpeg" alt="Bottle of poison" caption="Workplace toxicity won't be labelled during the job interview process, but you can learn how to spot it. (Pexels)" width=400 align="right" %}

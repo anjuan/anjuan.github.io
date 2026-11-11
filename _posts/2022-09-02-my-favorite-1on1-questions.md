@@ -8,6 +8,7 @@ categories:
   - Work
 excerpt: "Effective 1:1 meetings have been a vitally important of my management style for years. Here are my favorite 1:1 questions, and I also include some of the techniques I use to make 1:1s effective relationship and career building experiences."
 comments: true
+image: "/images/my-favorite-1on1-questions-banner.jpg"
 ---
 
 {% include image.html url="/images/my-favorite-1on1-questions-banner.jpg" alt="Two people sitting across from each other working on laptops." caption="Photo courtesy of wocintechchat.com" %}

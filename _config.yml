@@ -37,6 +37,13 @@ markdown: kramdown
 permalink: blog/:year/:month/:title/
 excerpt_separator: "<!--more-->"
 
+# Blog list pagination (blog/index.html). Page 1 is /blog/, then /blog/page2/, etc.
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# Image shown in the blog list for posts without an `image:` front matter line.
+default_post_image: "/images/Anjuan-May-2020-FINAL.jpg"
+
 # Google Analytics
 google_analytics: UA-112266652-1
 
@@ -45,6 +52,7 @@ google_author: "https://plus.google.com/u/0/+AnjuanSimmons"
 
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate
   - html-proofer
 
 

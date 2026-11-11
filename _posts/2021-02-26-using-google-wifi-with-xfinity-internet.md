@@ -8,6 +8,7 @@ categories:
   - Tech
 excerpt: "I recently had to switch my ISP to Xfinity Internet. Here's how I got it to work with my Google Wifi mesh network."
 comments: true
+image: "/images/google-wifi-xfinity.png"
 ---
 
 {% include image.html url="/images/google-wifi-xfinity.png" alt="Google Wifi Points and Xfinity logo" caption="Google Wifi and Xfinity make a great home internet combination." %}

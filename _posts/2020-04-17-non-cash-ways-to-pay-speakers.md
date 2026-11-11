@@ -8,6 +8,7 @@ categories:
   - Speaking
 excerpt: "Event organizers have a wide variety of ways compensate speakers for their time without making direct cash payments."
 comments: true
+image: "/images/ekaterina-shevchenko-ZLTlHeKbh04-unsplash.jpg"
 ---
 
 {% include image.html url="/images/ekaterina-shevchenko-ZLTlHeKbh04-unsplash.jpg" alt="Gift" caption="Photo by Ekaterina Shevchenko on Unsplash" %}

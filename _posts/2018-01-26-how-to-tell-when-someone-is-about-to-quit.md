@@ -8,6 +8,7 @@ categories:
   - Work
 excerpt: "I'm rarely surprised when someone tenders their resignation because I've learned to recognize the signs that someone is exploring other opportunities."
 comments: true
+image: "/images/how-to-tell-when-someone-is-about-to-quit.jpg"
 ---
 
 {% include image.html url="/images/how-to-tell-when-someone-is-about-to-quit.jpg" alt="broken exit sign" caption="It's a fact of life that employees leave companies, but a trained eye can see the signs that an exit is on the horizon (Pixabay)" width=400 align="right" %}

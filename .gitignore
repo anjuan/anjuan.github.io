@@ -13,4 +13,7 @@ HIDEME
 
 # don't ignore the .gitignore file
 !.gitignore
+
+# don't ignore GitHub settings and Actions workflows
+!.github/
 /vendor/bundle

@@ -6,20 +6,20 @@ date: "2026-11-10"
 permalink: /blog/which-open-weight-model-should-you-run-locally/
 categories:
   - Tech
-excerpt: "On your own hardware, memory replaces price as the budget, so start on a mid-size open weight model that fits your machine, then move down for volume and up for hard work."
+excerpt: "On your own hardware, memory replaces token cost as the constraint, so start on a mid-size open weight model that fits your machine, then move down for volume and up for hard work."
 comments: false
 ---
 
-{% include image.html url="/images/which-open-weight-model-should-you-run-locally.png" alt="Graphic novel illustration of a man in a home workshop at night fitting glowing cubes of different sizes into a laptop, a workstation, and a small server rack while a distant data center glows on the horizon." %}
+{% include image.html url="/images/which-open-weight-model-should-you-run-locally.png" alt="Graphic novel illustration of a man at a desk in his home office, smiling at a monitor while a desktop computer runs local AI models beside him." %}
 
 
 This week, Anthropic published [Which Claude model should you build with?](https://claude.dev/blog/which-claude-model-should-you-build-with/), a playbook for choosing among its models based on what each task needs and what it costs. It's a good read. It also assumes you're renting your models by the token.
 
-I run open weight models at home on a Mac Studio, so I wanted the same playbook for models you download and run yourself. Here it is. The short version is that on your own hardware, memory replaces price as the budget. Most people should start on a mid-size model that fits their memory, then move down for volume and up for hard work.
+I run open weight models at home on a Mac Studio, so I wanted the same playbook for models you download and run yourself. Here it is. The short version is that on your own hardware, memory replaces token cost as the constraint. Most people should start on a mid-size model that fits their memory, then move down for volume and up for hard work.
 
 An open weight model is one whose trained weights you can download, run, and fine-tune yourself. The training data and code usually stay private, so "open weight" is more accurate than "open source." The license, not the download button, decides what you can build with it.
 
-Everything here assumes hardware you own: a laptop, a desktop workstation, or a small server in an office closet. That rules out the largest open models. DeepSeek V4 Pro has 1.6 trillion parameters, Qwen's open flagship has 2.4 trillion, and Mistral Large 4 has about 1 trillion, so all three need data center hardware. The models one or two tiers down now handle most daily work, and that's where this guide lives.
+Everything here assumes hardware you own: a laptop, a desktop workstation, or a small server in a closet. That rules out the largest open models. DeepSeek V4 Pro has 1.6 trillion parameters, Qwen's open flagship has 2.4 trillion, and Mistral Large 4 has about 1 trillion, so all three need data center hardware. The models one or two tiers down now handle most daily work, and that's where this guide lives.
 
 I'll follow three people throughout: a software engineer, a university student, and the owner of a 40-person business.
 

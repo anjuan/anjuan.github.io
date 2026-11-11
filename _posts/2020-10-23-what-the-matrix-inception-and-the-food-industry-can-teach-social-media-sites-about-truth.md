@@ -8,6 +8,7 @@ categories:
   - Tech
 excerpt: "I submitted this essay to the SXSW 2018 David Carr writing contest. It didn't win, but I think it's more timely than ever as social media sites continue to expand their influence across the globe."
 comments: true
+image: "/images/time-lapse-north-star.jpg"
 ---
 
 {% include image.html url="/images/time-lapse-north-star.jpg" alt="Time lapse of North Star" caption="Photo by Patrick McManaman on Unsplash" %}

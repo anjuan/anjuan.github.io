@@ -8,6 +8,7 @@ categories:
   - Inclusion
 excerpt: "I've been asked by several organizations to help them understand the maturity of their inclusion efforts. I've found that the Althea Test is a good place to start. The reason is tied to the RMS Titanic."
 comments: true
+image: "/images/the-althea-test-for-measuring-inclusion-maturity-header.jpg"
 ---
 
 {% include image.html url="/images/the-althea-test-for-measuring-inclusion-maturity-header.jpg" alt="Black people in conference room" caption="Photo by Christina @ wocintechchat.com on Unsplash" %}

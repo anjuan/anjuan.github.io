@@ -8,6 +8,7 @@ categories:
   - Work
 excerpt: "Companies often manage their interview questions as closely guarded secrets, but open sourcing them can make hiring processes more accessible, inclusive, and fair."
 comments: true
+image: "/images/pawel-czerwinski-_9dSF0Hwitw-unsplash.jpg"
 ---
 
 {% include image.html url="/images/pawel-czerwinski-_9dSF0Hwitw-unsplash.jpg" alt="A large billboard" caption="Photo by Pawel Czerwinski on Unsplash" %}

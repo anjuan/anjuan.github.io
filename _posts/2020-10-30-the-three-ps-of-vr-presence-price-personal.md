@@ -8,6 +8,7 @@ categories:
   - Tech
 excerpt: "This is another essay I submitted to the David Carr writing contest, but this was for SXSW 2016. It contains my thoughts about the future of virtual reality (VR)."
 comments: true
+image: "/images/pexels-fauxels-3183164.jpg"
 ---
 
 {% include image.html url="/images/pexels-fauxels-3183164.jpg" alt="Woman wearing VR headset" caption="Photo by fauxels from Pexels" %}

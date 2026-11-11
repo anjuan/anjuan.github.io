@@ -8,6 +8,7 @@ categories:
   - Leadership
 excerpt: "Manager READMEs made the rounds a few years ago, and I know that some find them controversial. This is my version, and it's not a substitute for me doing the hard work of gaining my team's trust. It's just a snapshot of my management style at this point in time."
 comments: true
+image: "/images/manager-readme-header.jpg"
 ---
 
 {% include image.html url="/images/manager-readme-header.jpg" alt="Matrix Code" caption="Image by Comfreak from Pixabay" %}

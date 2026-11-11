@@ -8,6 +8,7 @@ categories:
   - Inclusion and Diversity
 excerpt: "As the Anti-Racist movement grows, it's important to clarify that it's not an Anti-White movement."
 comments: true
+image: "/images/anti-racist-does-not-mean-anti-white-header.jpg"
 ---
 
 {% include image.html url="/images/anti-racist-does-not-mean-anti-white-header.jpg" alt="Cityscape" caption="Photo by Jessica Furtney on Unsplash" %}

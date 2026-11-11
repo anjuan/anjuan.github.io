@@ -8,6 +8,7 @@ categories:
   - Inclusion and Diversity
 excerpt: "Being an inclusive leader means that we welcome talent no matter how it's packaged. That includes team members whose brains work in different ways."
 comments: true
+image: "/images/managing-for-neurodiversity.jpg"
 ---
 
 {% include image.html url="/images/managing-for-neurodiversity.jpg" alt="Rubix Cube" caption="Photo by Imran Bangash on Unsplash" %}

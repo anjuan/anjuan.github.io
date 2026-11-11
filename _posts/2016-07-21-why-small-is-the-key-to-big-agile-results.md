@@ -8,6 +8,7 @@ categories:
   - Agile
 excerpt: "Software development efforts often try to quickly scale resources in order to speed the pace of development. However, taking a small approach can often yield better results."
 comments: true
+image: "/images/post-small-key-big-agile.jpeg"
 ---
 
 {% include image.html url="/images/post-small-key-big-agile.jpeg" alt="Hummingbird" caption="Big results can come from small things. (Pexels)" width=400 align="right" %}

@@ -8,6 +8,7 @@ categories:
   - Speaking
 excerpt: "I've been lucky to develop a successful side-career as a speaker at tech events. Here are the benefits I've experienced being a speaker."
 comments: true
+image: "/images/speaker-benefits-header.jpg"
 ---
 
 {% include image.html url="/images/speaker-benefits-header.jpg" alt="A stack of gift boxes" caption="Image by 3D Animation Production Company from Pixabay" %}

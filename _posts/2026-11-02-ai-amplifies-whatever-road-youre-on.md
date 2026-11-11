@@ -8,6 +8,7 @@ categories:
   - Tech
 excerpt: "AI amplifies whatever foundation it lands on, so fund platform work like flags, rollouts, and health scores before chasing AI speed."
 comments: false
+image: "/images/ai-amplifies-whatever-road-youre-on.png"
 ---
 
 {% include image.html url="/images/ai-amplifies-whatever-road-youre-on.png" alt="Graphic novel illustration of a man in a safety vest directing a steamroller paving a dirt road" %}

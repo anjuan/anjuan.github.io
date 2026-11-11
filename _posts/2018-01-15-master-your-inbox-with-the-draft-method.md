@@ -8,6 +8,7 @@ categories:
   - Work
 excerpt: "Are overflowing email inboxes getting you down? The D.R.A.F.T. Method will help you master your messages and bring your email under control."
 comments: true
+image: "/images/master-your-inbox-with-the-draft-method.jpg"
 ---
 
 {% include image.html url="/images/master-your-inbox-with-the-draft-method.jpg" alt="mail slot" caption="You can get a handle on your inbox using the D.R.A.F.T. method. (Unsplash)" width=400 align="right" %}

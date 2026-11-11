@@ -8,6 +8,7 @@ categories:
   - Career
 excerpt: "Managing your career like you manage code can help you achieve what really matters."
 comments: false
+image: "/images/tech-debt-portfolio.png"
 ---
 
 {% include image.html url="/images/tech-debt-portfolio.png" alt="A senior software engineer sitting at a glowing laptop in a dimly lit office." %}

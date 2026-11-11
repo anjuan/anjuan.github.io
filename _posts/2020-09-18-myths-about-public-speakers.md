@@ -8,6 +8,7 @@ categories:
   - Speaking
 excerpt: "One of the things I love to do as a public speaker is help people start their own journey to becoming a public speaker. This often results in resistance because of the myths that people have about public speakers, and I want to dispel some of those myths."
 comments: true
+image: "/images/myths-about-public-speakers-header.jpg"
 ---
 
 {% include image.html url="/images/myths-about-public-speakers-header.jpg" alt="Mythical Unipug" caption="Photo by mark glancy from Pexels" %}

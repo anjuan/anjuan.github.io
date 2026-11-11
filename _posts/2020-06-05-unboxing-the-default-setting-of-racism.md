@@ -8,6 +8,7 @@ categories:
   - Inclusion and Diversity
 excerpt: "The murder of George Floyd (while unarmed and in custody) by a white police officer has sparked protests and another round of national conversations on race. An often forgotten part of these conversations is the reality that racism, specifically against Blacks, is the default setting in the operating system of America."
 comments: true
+image: "/images/unboxing-the-default-settings-of-racism.jpg"
 ---
 
 {% include image.html url="/images/unboxing-the-default-settings-of-racism.jpg" alt="Woman Opening a Box" caption="Photo by La Miko from Pexels" %}

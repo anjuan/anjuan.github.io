@@ -8,6 +8,7 @@ categories:
   - Tech
 excerpt: "My home network wasn't meeting my needs. I was blowing through my ISP's data cap every month, and I had dead spots in various corners where the WiFi completely died. This is the story of how I fought to revive my home network with AT&T's fiber service and AmpliFi HD."
 comments: true
+image: "/images/amplifi-the-dark-fiber-saga-header.jpeg"
 ---
 
 {% include image.html url="/images/amplifi-the-dark-fiber-saga-header.jpeg" alt="networking equipment" caption="Resolving my home network issues required new service, new equipment, and a lot of troubleshooting. (Pexels)" width=400 align="right" %}

@@ -1,0 +1,130 @@
+---
+layout: page
+title: Blog
+---
+{% comment %}
+  This page is paginated by jekyll-paginate (see paginate and paginate_path in
+  _config.yml). The paginator only works from a file named index.html, and this
+  page must not set a permalink, or every page would be written to /blog/.
+{% endcomment %}
+
+{% if paginator.page == 1 %}
+<details>
+  <summary><b>Privilege Notice</b></summary>
+
+<p>I have a background of privilege that has created the lens through which I see and write about my life experiences. This background provides importnat context for interpreting my writing. Some items in my portfolio of privilege include:</p>
+<ul>
+<li>I was born in the United States of America.</li>
+<li>I have no physcial or mental disabilities.</li>
+<li>I was raised in a two parent home by two people who, as of July 2022, have been married for over 50 years.</li>
+<li>I was raised in a middle class house.</li>
+<li>I am a straight cis-gendered man.</li>
+<li>I have a marital partner who provides tremendous domestic, emotional, and financial support.</li>
+<li>I have great credit and no criminal record.</li>
+</ul>
+
+<p>I share this in hopes that it helps readers understand the ways in which my posts may or may not apply to their lives.</p>
+<hr>
+</details>
+<br>
+<p>I blog semi-regularly about a variety of topics. Most of my blog posts are about my career in tech, my thoughts on engineering culture, my travels, and other topics that interest me.</p>
+
+<p>Below is a list of my blog posts in chronological order and grouped by year. <a href="/categories/">Click here to see them grouped by category.</a></p>
+
+<p>You can also search my blog using the box below. You’ll get a list of links to any posts that contain the text you enter.</p>
+{% endif %}
+
+<!---
+Create the search box and search button. Search covers every post, not just this page.
+-->
+
+<form action="get" id="site_search">
+<left>
+  <input style="font-size:20px;" type="text" id="search_box" aria-label="Search the blog">
+  <input style="font-size:20px;" type="submit" value="Search">
+</left>
+</form>
+<br>
+
+<ul id="search_results"></ul>
+
+<script src="/js/lunr.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/js/search.js"></script>
+
+<!---
+List this page's blog posts grouped by year, each with its header image on the left.
+The image comes from the post's `image:` front matter (or default_post_image in
+_config.yml). If /images/thumbs/<name>.jpg exists, that small copy is used instead
+of the full-size file. Run `python3 script/post_images.py` after adding a post.
+-->
+
+<ul id="archive">
+{% for post in paginator.posts %}
+  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
+  {% if year != y %}
+    {% assign year = y %}
+    <h2 class="blogyear">{{ y }}</h2>
+  {% endif %}
+  {% assign post_image = post.image | default: site.default_post_image %}
+  {% assign image_file = post_image | split: "/" | last %}
+  {% assign ext_length = image_file | split: "." | last | size | plus: 1 %}
+  {% assign stem_length = image_file | size | minus: ext_length %}
+  {% assign thumb_path = image_file | slice: 0, stem_length | prepend: "/images/thumbs/" | append: ".jpg" %}
+  {% assign thumb_file = site.static_files | where: "path", thumb_path | first %}
+  {% if thumb_file %}{% assign list_image = thumb_path %}{% else %}{% assign list_image = post_image %}{% endif %}
+<li class="archiveposturl">
+<a class="archive-thumb{% unless post.image %} archive-thumb--default{% endunless %}" href="{{ site.url }}{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ list_image | prepend: site.baseurl }}" alt="" loading="lazy" decoding="async"></a>
+<div class="archive-body">
+<span><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span><br/> {{ post.excerpt }} <br/>
+<span class = "postlower">
+<strong>Category:</strong>  {% if post.categories %}
+
+  {% for cat in post.categories %}
+  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  {% endfor %}
+
+{% endif %}
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">{{ post.date | date: '%d %b %Y' }}</strong>
+</span>
+</div>
+</li>
+{% endfor %}
+</ul>
+
+{% if paginator.total_pages > 1 %}
+<nav class="pagination" aria-label="Blog pages">
+  {% if paginator.previous_page %}
+    <a class="pagination-step" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" rel="prev">&larr; Newer posts</a>
+  {% else %}
+    <span class="pagination-step is-disabled">&larr; Newer posts</span>
+  {% endif %}
+
+  {% comment %} Show the first page, the last page, and the pages next to this one, with … for the rest. {% endcomment %}
+  <span class="pagination-pages">
+  {% assign gap_shown = false %}
+  {% for n in (1..paginator.total_pages) %}
+    {% assign distance = n | minus: paginator.page | abs %}
+    {% if n == 1 or n == paginator.total_pages or distance <= 1 %}
+      {% assign gap_shown = false %}
+      {% if n == paginator.page %}
+        <span class="pagination-current" aria-current="page">{{ n }}</span>
+      {% elsif n == 1 %}
+        <a href="{{ '/blog/' | prepend: site.baseurl }}" aria-label="Page 1">1</a>
+      {% else %}
+        <a href="{{ site.paginate_path | replace: ':num', n | prepend: site.baseurl }}" aria-label="Page {{ n }}">{{ n }}</a>
+      {% endif %}
+    {% elsif gap_shown == false %}
+      {% assign gap_shown = true %}
+      <span class="pagination-gap" aria-hidden="true">&hellip;</span>
+    {% endif %}
+  {% endfor %}
+  </span>
+
+  {% if paginator.next_page %}
+    <a class="pagination-step" href="{{ paginator.next_page_path | prepend: site.baseurl }}" rel="next">Older posts &rarr;</a>
+  {% else %}
+    <span class="pagination-step is-disabled">Older posts &rarr;</span>
+  {% endif %}
+</nav>
+{% endif %}

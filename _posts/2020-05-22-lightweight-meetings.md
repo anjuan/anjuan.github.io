@@ -8,6 +8,7 @@ categories:
   - Work
 excerpt: "My team asked me to give a presentation on effective meetings, and this is the article version of my slides."
 comments: true
+image: "/images/lightweight-meetings-header.jpg"
 ---
 
 {% include image.html url="/images/lightweight-meetings-header.jpg" alt="Empty Office"  %}

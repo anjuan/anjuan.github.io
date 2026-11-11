@@ -8,6 +8,7 @@ categories:
   - Speaking
 excerpt: "When you boil it down, speakers have to get on stage, perform on stage, and then get off the stage. Here are my routines for handling all of these stages."
 comments: true
+image: "/images/stage-routines-for-public-speakers-header.JPG"
 ---
 
 {% include image.html url="/images/stage-routines-for-public-speakers-header.JPG" alt="Anjuan on stage" caption="Image by Anjuan Simmons" %}

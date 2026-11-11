@@ -8,6 +8,7 @@ categories:
   - Tech
 excerpt: "The last time I changed companies, I scheduled a few weeks of downtime before I started my new role. I took the opportunity to digitize my decades old collection of VHS, Video8, Hi8, and MiniDV tapes. Here's how I preserved these irreplaceable memories."
 comments: true
+image: "/images/how-to-digitize-your-old-tapes-header.jpg"
 ---
 
 {% include image.html url="/images/how-to-digitize-your-old-tapes-header.jpg" alt="VHS tapes" caption="Photo by Josep Castells on Unsplash" %}

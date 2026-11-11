@@ -9,6 +9,7 @@ categories:
 excerpt: "I love a good game of dominoes, and here are the leadership lessons I've learned from crushing my opponents over the years.
 "
 comments: true
+image: "/images/dominoes-header.jpg"
 ---
 
 {% include image.html url="/images/dominoes-header.jpg" alt="Dominoes" caption="Photo by Craig Adderley from Pexels" %}

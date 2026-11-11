@@ -8,6 +8,7 @@ categories:
   - Career
 excerpt: "A colleague who had recently accepted a job offer stated that they were glad the interview process was over. I reminded them that the interview never ends for the company or for the employee."
 comments: true
+image: "/images/the-interview-never-ends-header.jpg"
 ---
 
 {% include image.html url="/images/the-interview-never-ends-header.jpg" alt="Two empty chairs around a table" caption="Photo by Steve Halama on Unsplash" %}

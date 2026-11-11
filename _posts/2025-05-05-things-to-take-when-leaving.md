@@ -8,6 +8,7 @@ categories:
   - Career
 excerpt: "We meticulously curate our digital workspaces like master chefs organizing their kitchens, but when it's time to leave a company, we often walk away leaving our best tools behind. Here's how to pack your professional bags without taking what isn't yours."
 comments: true
+image: "/images/moving-boxes.jpg"
 ---
 
 {% include image.html url="/images/moving-boxes.jpg" alt="A developer moving out of the office" caption="Moving to a new company? Don't forget your digital belongings" %}

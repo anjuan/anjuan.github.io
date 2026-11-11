@@ -8,6 +8,7 @@ categories:
   - Tech
 excerpt: "In a few weeks, my three teen-aged children will start a school year with online learning for the first time. Here's what my wife and I are doing to get them ready to learn from home."
 comments: true
+image: "/images/prepare-your-kids-to-learn-online-header.jpg"
 ---
 
 {% include image.html url="/images/prepare-your-kids-to-learn-online-header.jpg" alt="Learning Center" caption="The Learning Center" %}

@@ -8,6 +8,7 @@ categories:
   - Leadership
 excerpt: "In software, we trust APIs to deliver what they promise, but what happens when that trust is betrayed? Saruman's manipulative voice in The Lord of the Rings serves as the perfect metaphor for charismatic leaders whose elegant interfaces hide malicious implementation."
 comments: false
+image: "/images/the-saruman-api.png"
 ---
 
 {% include image.html url="/images/the-saruman-api.png" alt="A wizard in white robes at the top of a tower" caption="Saruman the White atop the tower of Orthanc" %}

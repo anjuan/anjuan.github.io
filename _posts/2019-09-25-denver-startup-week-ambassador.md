@@ -8,6 +8,7 @@ categories:
   - Tech
 excerpt: "I had the honor of serving as an Ambassador for Denver Startup Week 2019. This is what I experienced during the program."
 comments: true
+image: "/images/dsw-logo.jpg"
 ---
 
 {% include image.html url="/images/dsw-logo.jpg" alt="DSW" caption="Denver Startup Week" width=200 align="right" %}

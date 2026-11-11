@@ -1,0 +1,11 @@
+{
+  "name": "Anjuan Simmons",
+  "short_name": "Anjuan",
+  "icons": [
+    { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#500000",
+  "background_color": "#fdfdfd",
+  "display": "browser"
+}

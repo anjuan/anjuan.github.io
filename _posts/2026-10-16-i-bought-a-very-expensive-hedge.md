@@ -8,7 +8,7 @@ categories:
   - Tech
   - Career
 excerpt: "Relying on one company for both your paycheck and your AI access is concentration risk, so I bought hardware that runs models I control."
-comments: false
+comments: true
 image: "/images/i-bought-a-very-expensive-hedge.png"
 ---
 

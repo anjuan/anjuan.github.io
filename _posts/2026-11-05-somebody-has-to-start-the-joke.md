@@ -7,7 +7,7 @@ permalink: /blog/somebody-has-to-start-the-joke/
 categories:
   - Work
 excerpt: "Humor is a team ritual that someone has to start, and you can be the one who does it."
-comments: false
+comments: true
 image: "/images/somebody-has-to-start-the-joke.png"
 ---
 

@@ -7,7 +7,7 @@ permalink: /blog/how-after-school-cartoons-predicted-ai-agents/
 categories:
   - Software
 excerpt: "After school cartoons provide entertainment to kids after a day full of learning, but they can also teach lessons about artificial intelligence coding agents."
-comments: false
+comments: true
 image: "/images/doc-terrific.png"
 ---
 

@@ -7,7 +7,7 @@ permalink: /blog/ai-amplifies-whatever-road-youre-on/
 categories:
   - Tech
 excerpt: "AI amplifies whatever foundation it lands on, so fund platform work like flags, rollouts, and health scores before chasing AI speed."
-comments: false
+comments: true
 image: "/images/ai-amplifies-whatever-road-youre-on.png"
 ---
 

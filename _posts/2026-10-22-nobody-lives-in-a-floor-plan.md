@@ -7,7 +7,7 @@ permalink: /blog/nobody-lives-in-a-floor-plan/
 categories:
   - Agile
 excerpt: "People react to working screens, not diagrams, so show something real early and say the realistic date out loud before the deadline does."
-comments: false
+comments: true
 image: "/images/nobody-lives-in-a-floor-plan.png"
 ---
 

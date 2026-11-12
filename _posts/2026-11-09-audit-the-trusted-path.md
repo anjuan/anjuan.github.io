@@ -7,7 +7,7 @@ permalink: /blog/audit-the-trusted-path/
 categories:
   - Tech
 excerpt: "The paths we trust most get audited least, so leaders should design systems that stay safe even when a trusted person or pipeline is compromised."
-comments: false
+comments: true
 image: "/images/audit-the-trusted-path.png"
 ---
 

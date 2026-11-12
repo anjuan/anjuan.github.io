@@ -7,7 +7,7 @@ permalink: /blog/when-the-lead-picks-up-a-wrench/
 categories:
   - Leadership
 excerpt: "When a lead grabs the wrench, nobody watches the whole machine, so hands-on work should stay off the critical path for leaders."
-comments: false
+comments: true
 image: "/images/when-the-lead-picks-up-a-wrench.png"
 ---
 

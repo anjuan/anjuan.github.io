@@ -7,7 +7,7 @@ permalink: /blog/which-open-weight-model-should-you-run-locally/
 categories:
   - Tech
 excerpt: "On your own hardware, memory replaces token cost as the constraint, so start on a mid-size open weight model that fits your machine, then move down for volume and up for hard work."
-comments: false
+comments: true
 image: "/images/which-open-weight-model-should-you-run-locally.png"
 ---
 

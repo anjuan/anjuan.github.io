@@ -8,7 +8,7 @@ categories:
   - Tech
   - Leadership
 excerpt: "Agents made writing code faster, so the bottleneck moved to review, and leaders should plan around review capacity instead of coding capacity."
-comments: false
+comments: true
 image: "/images/the-bottleneck-moved-to-review.png"
 ---
 

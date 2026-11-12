@@ -7,7 +7,7 @@ permalink: /blog/tech-debt-portfolio/
 categories:
   - Career
 excerpt: "Managing your career like you manage code can help you achieve what really matters."
-comments: false
+comments: true
 image: "/images/tech-debt-portfolio.png"
 ---
 

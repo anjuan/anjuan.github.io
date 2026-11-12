@@ -8,7 +8,7 @@ categories:
   - Career
   - Leadership
 excerpt: "Help people find the career path that fits them, and bring back information about real options instead of only offering advice."
-comments: false
+comments: true
 image: "/images/not-everyone-wants-your-career.png"
 ---
 

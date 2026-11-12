@@ -7,7 +7,7 @@ permalink: /blog/the-saruman-api/
 categories:
   - Leadership
 excerpt: "In software, we trust APIs to deliver what they promise, but what happens when that trust is betrayed? Saruman's manipulative voice in The Lord of the Rings serves as the perfect metaphor for charismatic leaders whose elegant interfaces hide malicious implementation."
-comments: false
+comments: true
 image: "/images/the-saruman-api.png"
 ---
 

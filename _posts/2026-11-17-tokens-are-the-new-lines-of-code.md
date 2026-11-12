@@ -8,7 +8,7 @@ categories:
   - Tech
   - Leadership
 excerpt: "Rewarding AI token consumption repeats the lines-of-code mistake, so reviews should judge impact and outcomes rather than usage."
-comments: false
+comments: true
 image: "/images/tokens-are-the-new-lines-of-code.png"
 ---
 

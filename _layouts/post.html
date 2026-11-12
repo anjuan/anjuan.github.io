@@ -20,8 +20,8 @@ layout: default
     {{ content }}
   </article>
 
-{% if site.disqus.shortname %}
-  {% include disqus_comments.html %}
+{% if site.giscus.repo_id and page.comments != false %}
+  {% include giscus_comments.html %}
 {% endif %}
 
 </div>

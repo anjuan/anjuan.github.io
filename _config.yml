@@ -25,11 +25,21 @@ twitter_username: anjuan
 bluesky_handle: anjuansimmons.com
 github_username:  anjuan
 
-# Disqus Comments
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: 
+# Comments (giscus, backed by GitHub Discussions on this repo)
+# Comments appear on every post. Turn them off for one post by adding
+# `comments: false` to its front matter. Leave repo_id blank to turn them off
+# site-wide. IDs come from https://giscus.app (or the GitHub API).
+giscus:
+    repo: "anjuan/anjuan.github.io"
+    repo_id: "MDEwOlJlcG9zaXRvcnkxMDA5OTcwNTk="
+    category: "Announcements"
+    category_id: "DIC_kwDOBgUXw84COtq_"
+    mapping: "pathname"       # one discussion per post URL
+    strict: "1"
+    reactions_enabled: "1"
+    input_position: "bottom"
+    theme: "light"            # the site has no dark mode
+    lang: "en"
 
 # Build settings
 markdown: kramdown

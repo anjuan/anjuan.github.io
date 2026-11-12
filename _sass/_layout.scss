@@ -452,3 +452,12 @@ ul#archive li.archiveposturl {
 ul#archive li span a:hover {
        border-bottom: #bdbdbd 1px solid;
 } */
+
+/**
+ * Comments (giscus)
+ */
+.post-comments {
+    margin-top: 2 * $spacing-unit;
+    padding-top: $spacing-unit;
+    border-top: 1px solid $grey-color-light;
+}

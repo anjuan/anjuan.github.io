@@ -2,7 +2,7 @@
 title: 'The AI Bill Comes Due'
 author: anjuan
 layout: post
-date: "2027-01-05"
+date: "2027-11-17"
 permalink: /blog/the-ai-bill-comes-due/
 categories:
   - Tech

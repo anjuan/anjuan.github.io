@@ -32,7 +32,7 @@ Also, I had someone absorbing shocks for me. That firm gave its consultants a fo
 
 So, here's what I encourage leaders to do as we head into the holidays.
 
-First, who is having one-on-ones with your managers? Are they effective and supportive? If the answer is "not really" start there. 
+First, who is having one-on-ones with your managers? Are they effective and supportive? If the answer is "not really", start there. 
 
 Second, look at the span of control for each manager. If a manager's team has doubled, something in their job has to come off the plate. Otherwise you've just added potholes.
 

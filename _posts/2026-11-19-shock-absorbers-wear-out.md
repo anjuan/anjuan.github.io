@@ -6,7 +6,7 @@ date: "2026-11-19"
 permalink: /blog/shock-absorbers-wear-out/
 categories:
   - Leadership
-excerpt: "Managers absorb an organization's shocks and wear out, so support them deliberately, starting with their own (1:1s) one-on-ones and specific thanks."
+excerpt: "Managers absorb an organization's shocks and wear out, so support them deliberately, starting with their own one-on-ones (1:1s) and specific support."
 comments: false
 image: "/images/shock-absorbers-wear-out.png"
 ---

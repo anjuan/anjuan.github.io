@@ -461,3 +461,20 @@ ul#archive li span a:hover {
     padding-top: $spacing-unit;
     border-top: 1px solid $grey-color-light;
 }
+
+
+/*------ post: back to blog link ------ */
+
+.back-to-blog {
+  margin: 2em 0 1.5em;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.back-to-blog a {
+  color: $clemson-purple;
+  text-decoration: none;
+}
+
+.back-to-blog a:hover {
+  text-decoration: underline;
+}

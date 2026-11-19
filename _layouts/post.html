@@ -20,6 +20,8 @@ layout: default
     {{ content }}
   </article>
 
+  <p class="back-to-blog"><a href="{{ '/blog/' | relative_url }}">&larr; Back to blog</a></p>
+
 {% if site.giscus.repo_id and page.comments != false %}
   {% include giscus_comments.html %}
 {% endif %}

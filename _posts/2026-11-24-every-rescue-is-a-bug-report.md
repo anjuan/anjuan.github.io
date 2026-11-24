@@ -2,7 +2,7 @@
 title: 'Every Rescue Is a Bug Report'
 author: anjuan
 layout: post
-date: "2027-09-23"
+date: "2026-11-24"
 permalink: /blog/every-rescue-is-a-bug-report/
 categories:
   - Tech
